@@ -1,9 +1,9 @@
 Driver,Class,Team,Total Scored,Drop Adjusted
-Mickaël Buchet,Gold,Hexago,385,385
 Rob S Taylor,Gold,STR Tech St Oswald's,366,366
+Mickaël Buchet,Gold,Hexago,365,365
 Philipp Schwörke,Gold,TLR Paulaner,360,360
-Simon Ball,Gold,TLR Pathological Lagers,324,324
 Dan Babic,Gold,Project 88,307,307
+Simon Ball,Gold,TLR Pathological Lagers,284,284
 Pedro Lima,Gold,Privateer,280,280
 Cyril Blanco,Gold,LSR Paul Ricard,275,275
 Daniel Slater,Silver,Driving Ms Daisy,241,241
@@ -15,10 +15,10 @@ Daniel Justou,Silver,Gentlemen-Racers.org,205,205
 Alain Day,Silver,SimAbility Racing,198,198
 Jukka A Aho,Gold,goldFinGer,188,188
 Patrick Vandenberg,Silver,United Sim Team,180,180
-Zachary Hanke,Bronze,MAD Sim Racing Yellow,176,176
 Justin Barrera,Gold,Privateer,162,162
 Lia van Stevelen,Silver,PandaPink eSports,159,159
 David Narbonne,Silver,Smurf Racing Team,158,158
+Zachary Hanke,Bronze,MAD Sim Racing Yellow,156,156
 Paul Kerry,Gold,STR Tech St Oswald's,156,156
 Jörn Dobratz,Bronze,Privateer,156,156
 Marc Mathis,Silver,Gentlemen-Racers.org,150,150
@@ -28,13 +28,13 @@ Kenneth Maanum,Silver,Uphill Racing,140,140
 Kari Fox,Bronze,PandaPink eSports,137,137
 Ola Särnkvist,Bronze,STR Tech Ablestoke,126,126
 Stephen Kennedy,Gold,TGC Racing,123,123
-Matevz Bas,Gold,TLR Pathological Lagers,121,121
 Ryan G Walker,Gold,Privateer,121,121
 Stuart P Taylor,Bronze,TGC Racing,102,102
-Sophie Aeronwen,Bronze,United Sim Team - VOOM,98,98
-Max Schulz,Bronze,TLR Oettinger,96,96
+Matevz Bas,Gold,TLR Pathological Lagers,101,101
 Mat Monestier,Gold,LSR Paul Ricard,90,90
 Petr Vecerek,Bronze,goldFinGer,79,79
+Sophie Aeronwen,Bronze,United Sim Team - VOOM,78,78
+Max Schulz,Bronze,TLR Oettinger,76,76
 Jeff Sanders,Bronze,Driving Ms Daisy,73,73
 Nathaniel Ivanusa,Gold,Privateer,70,70
 Damon A Brierley,Silver,TLR Paulaner,70,70
@@ -70,6 +70,7 @@ Tim De Hondt,Silver,Privateer,0,0
 Craig Brickwood,Bronze,Privateer,0,0
 Alejandro Torrealba,Silver,Privateer,0,0
 Byron DeBelleau,Bronze,Privateer,0,0
+Jean Alezi,Bronze,Privateer,0,0
 Jason Finch,Bronze,Privateer,-2,-2
 Jørgen Grøndal,Gold,Uphill Racing,-20,-20
 David Buitelaar,Gold,Privateer,-20,-20
