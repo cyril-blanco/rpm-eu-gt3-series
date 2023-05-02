@@ -60,7 +60,11 @@
           "dnf": [
             "e43947086"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e43688371",
+            "e44470912"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 66,
           "total_laps": 411,
           "points": 568,
@@ -99,7 +103,10 @@
             "e44470912"
           ],
           "dnf": [],
-          "best_finish": 1,
+          "best_finish": [
+            "e44083551"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 49,
           "total_laps": 448,
           "points": 600,
@@ -148,7 +155,14 @@
           ],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 1,
+          "best_finish": [
+            "e43818425",
+            "e43947086",
+            "e44209414",
+            "e44596633",
+            "e44718269"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 54,
           "total_laps": 388,
           "points": 655,
@@ -189,7 +203,10 @@
             "e44083551",
             "e44718269"
           ],
-          "best_finish": 3,
+          "best_finish": [
+            "e43818425"
+          ],
+          "best_finish_position": 3,
           "total_incidents": 38,
           "total_laps": 362,
           "points": 445,
@@ -220,7 +237,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 2,
+          "best_finish": [
+            "e44596633"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 59,
           "total_laps": 399,
           "points": 438,
@@ -241,7 +261,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 6,
+          "best_finish": [
+            "e43688371"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 14,
           "total_laps": 60,
           "points": 65,
@@ -278,7 +301,10 @@
           "dnf": [
             "e44718269"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e43818425"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 62,
           "total_laps": 410,
           "points": 452,
@@ -312,7 +338,10 @@
             "e44337306"
           ],
           "dnf": [],
-          "best_finish": 2,
+          "best_finish": [
+            "e44083551"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 48,
           "total_laps": 403,
           "points": 415,
@@ -345,7 +374,11 @@
           "dnf": [
             "e44470912"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e43818425",
+            "e43947086"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 38,
           "total_laps": 375,
           "points": 398,
@@ -378,7 +411,10 @@
           "dnf": [
             "e44470912"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e44209414"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 74,
           "total_laps": 379,
           "points": 445,
@@ -400,7 +436,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 6,
+          "best_finish": [
+            "e43818425"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 7,
           "total_laps": 121,
           "points": 115,
@@ -430,7 +469,10 @@
           "dnf": [
             "e44596633"
           ],
-          "best_finish": 6,
+          "best_finish": [
+            "e43947086"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 112,
           "total_laps": 356,
           "points": 268,
@@ -463,7 +505,10 @@
             "e44470912",
             "e44718269"
           ],
-          "best_finish": 12,
+          "best_finish": [
+            "e43818425"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 36,
           "total_laps": 328,
           "points": 270,
@@ -492,7 +537,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 7,
+          "best_finish": [
+            "e44596633"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 90,
           "total_laps": 450,
           "points": 370,
@@ -520,7 +568,10 @@
             "e44083551",
             "e44209414"
           ],
-          "best_finish": 15,
+          "best_finish": [
+            "e43688371"
+          ],
+          "best_finish_position": 15,
           "total_incidents": 32,
           "total_laps": 83,
           "points": 2,
@@ -548,7 +599,11 @@
           "dnf": [
             "e44470912"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e44209414",
+            "e44718269"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 69,
           "total_laps": 252,
           "points": 218,
@@ -578,7 +633,10 @@
             "e44470912",
             "e44596633"
           ],
-          "best_finish": 17,
+          "best_finish": [
+            "e43688371"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 50,
           "total_laps": 195,
           "points": 98,
@@ -609,7 +667,10 @@
             "e44209414",
             "e44470912"
           ],
-          "best_finish": 9,
+          "best_finish": [
+            "e44718269"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 75,
           "total_laps": 340,
           "points": 264,
@@ -640,7 +701,10 @@
           "dnf": [
             "e44718269"
           ],
-          "best_finish": 6,
+          "best_finish": [
+            "e44470912"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 81,
           "total_laps": 417,
           "points": 292,
@@ -672,7 +736,10 @@
             "e44470912",
             "e44718269"
           ],
-          "best_finish": 12,
+          "best_finish": [
+            "e44337306"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 68,
           "total_laps": 271,
           "points": 124,
@@ -702,7 +769,10 @@
             "e44083551",
             "e44209414"
           ],
-          "best_finish": 21,
+          "best_finish": [
+            "e43688371"
+          ],
+          "best_finish_position": 21,
           "total_incidents": 63,
           "total_laps": 92,
           "points": -10,
@@ -731,7 +801,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 8,
+          "best_finish": [
+            "e44470912"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 81,
           "total_laps": 449,
           "points": 289,
@@ -764,7 +837,10 @@
           "dnf": [
             "e44718269"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e44470912"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 74,
           "total_laps": 424,
           "points": 257,
@@ -793,7 +869,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 16,
+          "best_finish": [
+            "e44470912"
+          ],
+          "best_finish_position": 16,
           "total_incidents": 93,
           "total_laps": 428,
           "points": 198,
@@ -824,7 +903,11 @@
           "dnf": [
             "e44470912"
           ],
-          "best_finish": 18,
+          "best_finish": [
+            "e44209414",
+            "e44718269"
+          ],
+          "best_finish_position": 18,
           "total_incidents": 65,
           "total_laps": 337,
           "points": 193,
@@ -855,7 +938,10 @@
             "e43818425",
             "e44209414"
           ],
-          "best_finish": 12,
+          "best_finish": [
+            "e44470912"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 66,
           "total_laps": 323,
           "points": 165,
@@ -877,7 +963,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 27,
+          "best_finish": [
+            "e43688371"
+          ],
+          "best_finish_position": 27,
           "total_incidents": 29,
           "total_laps": 115,
           "points": 46,
@@ -908,7 +997,10 @@
           "dnf": [
             "e44337306"
           ],
-          "best_finish": 14,
+          "best_finish": [
+            "e44470912"
+          ],
+          "best_finish_position": 14,
           "total_incidents": 52,
           "total_laps": 426,
           "points": 210,
@@ -941,7 +1033,10 @@
             "e44470912",
             "e44596633"
           ],
-          "best_finish": 25,
+          "best_finish": [
+            "e43947086"
+          ],
+          "best_finish_position": 25,
           "total_incidents": 40,
           "total_laps": 144,
           "points": 28,
@@ -972,7 +1067,10 @@
             "e44337306",
             "e44470912"
           ],
-          "best_finish": 22,
+          "best_finish": [
+            "e44083551"
+          ],
+          "best_finish_position": 22,
           "total_incidents": 40,
           "total_laps": 221,
           "points": 97,
@@ -998,7 +1096,10 @@
           "dnf": [
             "e44209414"
           ],
-          "best_finish": 21,
+          "best_finish": [
+            "e43818425"
+          ],
+          "best_finish_position": 21,
           "total_incidents": 55,
           "total_laps": 163,
           "points": 78,
@@ -1019,7 +1120,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 32,
+          "best_finish": [
+            "e43688371"
+          ],
+          "best_finish_position": 32,
           "total_incidents": 17,
           "total_laps": 56,
           "points": 19,
@@ -1052,7 +1156,10 @@
             "e44596633",
             "e44718269"
           ],
-          "best_finish": 10,
+          "best_finish": [
+            "e44470912"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 79,
           "total_laps": 258,
           "points": 145,
@@ -1082,7 +1189,10 @@
             "e44083551",
             "e44470912"
           ],
-          "best_finish": 22,
+          "best_finish": [
+            "e44596633"
+          ],
+          "best_finish_position": 22,
           "total_incidents": 100,
           "total_laps": 252,
           "points": 126,
@@ -1112,7 +1222,10 @@
             "e44470912",
             "e44596633"
           ],
-          "best_finish": 13,
+          "best_finish": [
+            "e43818425"
+          ],
+          "best_finish_position": 13,
           "total_incidents": 70,
           "total_laps": 213,
           "points": 119,
@@ -1144,7 +1257,10 @@
             "e43688371",
             "e44209414"
           ],
-          "best_finish": 6,
+          "best_finish": [
+            "e44596633"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 81,
           "total_laps": 377,
           "points": 307,
@@ -1176,7 +1292,10 @@
             "e44337306",
             "e44718269"
           ],
-          "best_finish": 7,
+          "best_finish": [
+            "e44470912"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 67,
           "total_laps": 295,
           "points": 167,
@@ -1210,7 +1329,10 @@
             "e44337306",
             "e44596633"
           ],
-          "best_finish": 25,
+          "best_finish": [
+            "e43818425"
+          ],
+          "best_finish_position": 25,
           "total_incidents": 45,
           "total_laps": 97,
           "points": 26,
@@ -1240,7 +1362,10 @@
             "e43818425",
             "e44337306"
           ],
-          "best_finish": 10,
+          "best_finish": [
+            "e43947086"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 55,
           "total_laps": 175,
           "points": 131,
@@ -1263,7 +1388,10 @@
           "dnf": [
             "e43688371"
           ],
-          "best_finish": 40,
+          "best_finish": [
+            "e43688371"
+          ],
+          "best_finish_position": 40,
           "total_incidents": 11,
           "total_laps": 12,
           "points": 0,
@@ -1286,7 +1414,10 @@
           "dnf": [
             "e43688371"
           ],
-          "best_finish": 41,
+          "best_finish": [
+            "e43688371"
+          ],
+          "best_finish_position": 41,
           "total_incidents": 4,
           "total_laps": 10,
           "points": 0,
@@ -1317,7 +1448,10 @@
           "dnf": [
             "e44470912"
           ],
-          "best_finish": 8,
+          "best_finish": [
+            "e44596633"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 55,
           "total_laps": 335,
           "points": 255,
@@ -1342,7 +1476,10 @@
           "dnf": [
             "e43947086"
           ],
-          "best_finish": 22,
+          "best_finish": [
+            "e44718269"
+          ],
+          "best_finish_position": 22,
           "total_incidents": 34,
           "total_laps": 121,
           "points": 57,
@@ -1372,7 +1509,10 @@
           "dnf": [
             "e44337306"
           ],
-          "best_finish": 3,
+          "best_finish": [
+            "e44209414"
+          ],
+          "best_finish_position": 3,
           "total_incidents": 58,
           "total_laps": 241,
           "points": 183,
@@ -1407,7 +1547,11 @@
             "e44209414",
             "e44470912"
           ],
-          "best_finish": 4,
+          "best_finish": [
+            "e44337306",
+            "e44596633"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 62,
           "total_laps": 312,
           "points": 321,
@@ -1438,7 +1582,10 @@
             "e44337306"
           ],
           "dnf": [],
-          "best_finish": 10,
+          "best_finish": [
+            "e44337306"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 46,
           "total_laps": 377,
           "points": 242,
@@ -1459,7 +1606,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 18,
+          "best_finish": [
+            "e43947086"
+          ],
+          "best_finish_position": 18,
           "total_incidents": 19,
           "total_laps": 44,
           "points": 16,
@@ -1485,7 +1635,10 @@
           "dnf": [
             "e44470912"
           ],
-          "best_finish": 21,
+          "best_finish": [
+            "e44718269"
+          ],
+          "best_finish_position": 21,
           "total_incidents": 46,
           "total_laps": 147,
           "points": 80,
@@ -1522,7 +1675,10 @@
             "e44470912",
             "e44596633"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e44337306"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 49,
           "total_laps": 193,
           "points": 205,
@@ -1546,7 +1702,10 @@
           "dnf": [
             "e44083551"
           ],
-          "best_finish": 10,
+          "best_finish": [
+            "e44209414"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 23,
           "total_laps": 46,
           "points": -40,
@@ -1569,7 +1728,10 @@
           "dnf": [
             "e44209414"
           ],
-          "best_finish": 32,
+          "best_finish": [
+            "e44209414"
+          ],
+          "best_finish_position": 32,
           "total_incidents": 15,
           "total_laps": 28,
           "points": -60,
@@ -1591,7 +1753,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 5,
+          "best_finish": [
+            "e44337306"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 19,
           "total_laps": 111,
           "points": 94,
@@ -1615,7 +1780,10 @@
           "dnf": [
             "e44470912"
           ],
-          "best_finish": 22,
+          "best_finish": [
+            "e44337306"
+          ],
+          "best_finish_position": 22,
           "total_incidents": 8,
           "total_laps": 56,
           "points": 9,
@@ -1639,7 +1807,10 @@
           "dnf": [
             "e44596633"
           ],
-          "best_finish": 24,
+          "best_finish": [
+            "e44337306"
+          ],
+          "best_finish_position": 24,
           "total_incidents": 24,
           "total_laps": 66,
           "points": 0,
@@ -1666,7 +1837,10 @@
             "e44337306",
             "e44718269"
           ],
-          "best_finish": 9,
+          "best_finish": [
+            "e44596633"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 35,
           "total_laps": 128,
           "points": 74,
@@ -1688,7 +1862,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 20,
+          "best_finish": [
+            "e44470912"
+          ],
+          "best_finish_position": 20,
           "total_incidents": 18,
           "total_laps": 89,
           "points": 57,
@@ -1715,7 +1892,10 @@
             "e44596633",
             "e44718269"
           ],
-          "best_finish": 32,
+          "best_finish": [
+            "e44470912"
+          ],
+          "best_finish_position": 32,
           "total_incidents": 22,
           "total_laps": 31,
           "points": 0,
@@ -1736,7 +1916,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 10,
+          "best_finish": [
+            "e44718269"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 2,
           "total_laps": 49,
           "points": 53,
@@ -1757,7 +1940,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 12,
+          "best_finish": [
+            "e44718269"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 14,
           "total_laps": 49,
           "points": 48,
@@ -1780,7 +1966,10 @@
           ],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 14,
+          "best_finish": [
+            "e44718269"
+          ],
+          "best_finish_position": 14,
           "total_incidents": 15,
           "total_laps": 49,
           "points": 44,
@@ -1801,7 +1990,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 16,
+          "best_finish": [
+            "e44718269"
+          ],
+          "best_finish_position": 16,
           "total_incidents": 6,
           "total_laps": 49,
           "points": 40,
@@ -1864,7 +2056,11 @@
           "dnf": [
             "e45537036"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e45043469",
+            "e45166697"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 70,
           "total_laps": 307,
           "points": 226,
@@ -1919,7 +2115,13 @@
           "dnf": [
             "e46025634"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e45289872",
+            "e45783826",
+            "e45904709",
+            "e46276900"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 70,
           "total_laps": 519,
           "points": 810,
@@ -1953,7 +2155,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 2,
+          "best_finish": [
+            "e45661734"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 76,
           "total_laps": 501,
           "points": 576,
@@ -1985,7 +2190,11 @@
           ],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 3,
+          "best_finish": [
+            "e46152832",
+            "e46276900"
+          ],
+          "best_finish_position": 3,
           "total_incidents": 47,
           "total_laps": 353,
           "points": 330,
@@ -2013,7 +2222,10 @@
             "e45166697",
             "e45661734"
           ],
-          "best_finish": 4,
+          "best_finish": [
+            "e45289872"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 49,
           "total_laps": 197,
           "points": 187,
@@ -2051,7 +2263,10 @@
           "dnf": [
             "e45412594"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e46276900"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 48,
           "total_laps": 494,
           "points": 562,
@@ -2087,7 +2302,10 @@
             "e45412594",
             "e45661734"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e45289872"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 77,
           "total_laps": 365,
           "points": 402,
@@ -2126,7 +2344,11 @@
             "e45661734",
             "e46276900"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e45904709",
+            "e46025634"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 42,
           "total_laps": 241,
           "points": 231,
@@ -2153,7 +2375,10 @@
             "e45289872",
             "e45661734"
           ],
-          "best_finish": 6,
+          "best_finish": [
+            "e45537036"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 37,
           "total_laps": 145,
           "points": 86,
@@ -2179,7 +2404,10 @@
           "dnf": [
             "e45289872"
           ],
-          "best_finish": 10,
+          "best_finish": [
+            "e45043469"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 4,
           "total_laps": 45,
           "points": 53,
@@ -2216,7 +2444,10 @@
             "e45904709",
             "e46025634"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e45537036"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 62,
           "total_laps": 335,
           "points": 367,
@@ -2252,7 +2483,10 @@
             "e45661734",
             "e46025634"
           ],
-          "best_finish": 4,
+          "best_finish": [
+            "e45783826"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 105,
           "total_laps": 462,
           "points": 437,
@@ -2275,7 +2509,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 5,
+          "best_finish": [
+            "e45166697"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 9,
           "total_laps": 158,
           "points": 166,
@@ -2313,7 +2550,10 @@
             "e45661734",
             "e45904709"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e46152832"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 102,
           "total_laps": 511,
           "points": 451,
@@ -2344,7 +2584,10 @@
           "dnf": [
             "e45289872"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e45537036"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 51,
           "total_laps": 333,
           "points": 269,
@@ -2375,7 +2618,10 @@
             "e45412594",
             "e45661734"
           ],
-          "best_finish": 4,
+          "best_finish": [
+            "e45904709"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 54,
           "total_laps": 354,
           "points": 260,
@@ -2403,7 +2649,10 @@
             "e45537036",
             "e46025634"
           ],
-          "best_finish": 17,
+          "best_finish": [
+            "e45043469"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 29,
           "total_laps": 61,
           "points": -2,
@@ -2430,7 +2679,10 @@
           "dnf": [
             "e45412594"
           ],
-          "best_finish": 8,
+          "best_finish": [
+            "e45661734"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 40,
           "total_laps": 202,
           "points": 123,
@@ -2461,7 +2713,10 @@
             "e45166697",
             "e45412594"
           ],
-          "best_finish": 12,
+          "best_finish": [
+            "e45537036"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 48,
           "total_laps": 205,
           "points": 148,
@@ -2487,7 +2742,10 @@
             "e45166697",
             "e45412594"
           ],
-          "best_finish": 20,
+          "best_finish": [
+            "e45043469"
+          ],
+          "best_finish_position": 20,
           "total_incidents": 32,
           "total_laps": 52,
           "points": 12,
@@ -2523,7 +2781,10 @@
           "dnf": [
             "e45537036"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e45412594"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 55,
           "total_laps": 467,
           "points": 405,
@@ -2553,7 +2814,10 @@
             "e45661734"
           ],
           "dnf": [],
-          "best_finish": 7,
+          "best_finish": [
+            "e45412594"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 32,
           "total_laps": 324,
           "points": 283,
@@ -2584,7 +2848,10 @@
             "e45537036",
             "e46276900"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e46025634"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 40,
           "total_laps": 193,
           "points": 199,
@@ -2610,7 +2877,10 @@
           "dnf": [
             "e45412594"
           ],
-          "best_finish": 15,
+          "best_finish": [
+            "e45289872"
+          ],
+          "best_finish_position": 15,
           "total_incidents": 41,
           "total_laps": 159,
           "points": 97,
@@ -2634,7 +2904,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 10,
+          "best_finish": [
+            "e45412594"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 31,
           "total_laps": 155,
           "points": 145,
@@ -2664,7 +2937,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 9,
+          "best_finish": [
+            "e46025634"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 81,
           "total_laps": 484,
           "points": 378,
@@ -2698,7 +2974,11 @@
             "e45166697",
             "e45904709"
           ],
-          "best_finish": 12,
+          "best_finish": [
+            "e45412594",
+            "e46025634"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 54,
           "total_laps": 382,
           "points": 278,
@@ -2730,7 +3010,11 @@
           "dnf": [
             "e45661734"
           ],
-          "best_finish": 11,
+          "best_finish": [
+            "e46152832",
+            "e46276900"
+          ],
+          "best_finish_position": 11,
           "total_incidents": 47,
           "total_laps": 456,
           "points": 381,
@@ -2754,7 +3038,10 @@
           "dnf": [
             "e45289872"
           ],
-          "best_finish": 29,
+          "best_finish": [
+            "e45043469"
+          ],
+          "best_finish_position": 29,
           "total_incidents": 12,
           "total_laps": 45,
           "points": 22,
@@ -2787,7 +3074,10 @@
           "dnf": [
             "e45537036"
           ],
-          "best_finish": 9,
+          "best_finish": [
+            "e46276900"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 72,
           "total_laps": 549,
           "points": 394,
@@ -2812,7 +3102,10 @@
           "dnf": [
             "e45412594"
           ],
-          "best_finish": 7,
+          "best_finish": [
+            "e45289872"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 33,
           "total_laps": 96,
           "points": 82,
@@ -2840,7 +3133,10 @@
           "dnf": [
             "e45904709"
           ],
-          "best_finish": 16,
+          "best_finish": [
+            "e46025634"
+          ],
+          "best_finish_position": 16,
           "total_incidents": 59,
           "total_laps": 293,
           "points": 128,
@@ -2866,7 +3162,10 @@
           "dnf": [
             "e46025634"
           ],
-          "best_finish": 15,
+          "best_finish": [
+            "e45904709"
+          ],
+          "best_finish_position": 15,
           "total_incidents": 26,
           "total_laps": 160,
           "points": 92,
@@ -2894,7 +3193,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 11,
+          "best_finish": [
+            "e45412594"
+          ],
+          "best_finish_position": 11,
           "total_incidents": 104,
           "total_laps": 378,
           "points": 291,
@@ -2921,7 +3223,10 @@
             "e45289872",
             "e46025634"
           ],
-          "best_finish": 20,
+          "best_finish": [
+            "e45537036"
+          ],
+          "best_finish_position": 20,
           "total_incidents": 74,
           "total_laps": 102,
           "points": 48,
@@ -2950,7 +3255,10 @@
           "dnf": [
             "e45537036"
           ],
-          "best_finish": 15,
+          "best_finish": [
+            "e45661734"
+          ],
+          "best_finish_position": 15,
           "total_incidents": 105,
           "total_laps": 347,
           "points": 172,
@@ -2974,7 +3282,10 @@
           "dnf": [
             "e45043469"
           ],
-          "best_finish": 6,
+          "best_finish": [
+            "e45289872"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 17,
           "total_laps": 84,
           "points": 65,
@@ -3012,7 +3323,10 @@
             "e45043469",
             "e45289872"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e46025634"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 89,
           "total_laps": 251,
           "points": 245,
@@ -3039,7 +3353,10 @@
           "dnf": [
             "e45043469"
           ],
-          "best_finish": 14,
+          "best_finish": [
+            "e46276900"
+          ],
+          "best_finish_position": 14,
           "total_incidents": 75,
           "total_laps": 246,
           "points": 146,
@@ -3073,7 +3390,10 @@
             "e45043469",
             "e46276900"
           ],
-          "best_finish": 10,
+          "best_finish": [
+            "e45783826"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 100,
           "total_laps": 392,
           "points": 216,
@@ -3105,7 +3425,11 @@
           "dnf": [
             "e45043469"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e45412594",
+            "e45661734"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 129,
           "total_laps": 475,
           "points": 444,
@@ -3142,7 +3466,10 @@
             "e45661734",
             "e46025634"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e46152832"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 72,
           "total_laps": 208,
           "points": 275,
@@ -3168,7 +3495,10 @@
             "e45043469",
             "e45289872"
           ],
-          "best_finish": 12,
+          "best_finish": [
+            "e45166697"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 38,
           "total_laps": 94,
           "points": 8,
@@ -3197,7 +3527,10 @@
             "e45289872",
             "e45661734"
           ],
-          "best_finish": 9,
+          "best_finish": [
+            "e45412594"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 107,
           "total_laps": 120,
           "points": 50,
@@ -3230,7 +3563,11 @@
             "e45289872",
             "e45412594"
           ],
-          "best_finish": 7,
+          "best_finish": [
+            "e45661734",
+            "e45904709"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 63,
           "total_laps": 275,
           "points": 242,
@@ -3255,7 +3592,10 @@
             "e45043469",
             "e45166697"
           ],
-          "best_finish": 30,
+          "best_finish": [
+            "e45166697"
+          ],
+          "best_finish_position": 30,
           "total_incidents": 12,
           "total_laps": 26,
           "points": -20,
@@ -3278,7 +3618,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 2,
+          "best_finish": [
+            "e45166697"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 10,
           "total_laps": 61,
           "points": 90,
@@ -3314,7 +3657,10 @@
           "dnf": [
             "e45412594"
           ],
-          "best_finish": 3,
+          "best_finish": [
+            "e45537036"
+          ],
+          "best_finish_position": 3,
           "total_incidents": 102,
           "total_laps": 519,
           "points": 494,
@@ -3338,7 +3684,10 @@
           "dnf": [
             "e45166697"
           ],
-          "best_finish": 6,
+          "best_finish": [
+            "e45412594"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 25,
           "total_laps": 28,
           "points": 65,
@@ -3373,7 +3722,11 @@
             "e45412594"
           ],
           "dnf": [],
-          "best_finish": 1,
+          "best_finish": [
+            "e45412594",
+            "e45661734"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 1,
           "total_laps": 55,
           "points": 200,
@@ -3404,7 +3757,12 @@
             "e46276900"
           ],
           "dnf": [],
-          "best_finish": 13,
+          "best_finish": [
+            "e45412594",
+            "e45904709",
+            "e46276900"
+          ],
+          "best_finish_position": 13,
           "total_incidents": 35,
           "total_laps": 407,
           "points": 306,
@@ -3427,7 +3785,10 @@
           "dnf": [
             "e45412594"
           ],
-          "best_finish": 23,
+          "best_finish": [
+            "e45412594"
+          ],
+          "best_finish_position": 23,
           "total_incidents": 5,
           "total_laps": 4,
           "points": 0,
@@ -3454,7 +3815,10 @@
             "e45412594",
             "e46025634"
           ],
-          "best_finish": 8,
+          "best_finish": [
+            "e45537036"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 54,
           "total_laps": 150,
           "points": 59,
@@ -3478,7 +3842,10 @@
           "dnf": [
             "e45904709"
           ],
-          "best_finish": 10,
+          "best_finish": [
+            "e46152832"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 28,
           "total_laps": 80,
           "points": 33,
@@ -3501,7 +3868,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 11,
+          "best_finish": [
+            "e46025634"
+          ],
+          "best_finish_position": 11,
           "total_incidents": 48,
           "total_laps": 159,
           "points": 114,
@@ -3523,7 +3893,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 15,
+          "best_finish": [
+            "e46276900"
+          ],
+          "best_finish_position": 15,
           "total_incidents": 32,
           "total_laps": 102,
           "points": 69,
@@ -3540,7 +3913,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -3601,7 +3975,10 @@
             "e46743168",
             "e50745008"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e46612842"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 101,
           "total_laps": 398,
           "points": 372,
@@ -3645,7 +4022,11 @@
             "e49726308",
             "e50745008"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e47616905",
+            "e49999455"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 51,
           "total_laps": 301,
           "points": 450,
@@ -3680,7 +4061,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 1,
+          "best_finish": [
+            "e50745008"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 83,
           "total_laps": 455,
           "points": 548,
@@ -3719,7 +4103,11 @@
           "dnf": [
             "e47616905"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e49999455",
+            "e50119527"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 42,
           "total_laps": 597,
           "points": 663,
@@ -3747,7 +4135,10 @@
             "e49726308",
             "e49999455"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e46612842"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 47,
           "total_laps": 198,
           "points": 123,
@@ -3786,7 +4177,10 @@
             "e50745008"
           ],
           "dnf": [],
-          "best_finish": 2,
+          "best_finish": [
+            "e46743168"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 56,
           "total_laps": 617,
           "points": 592,
@@ -3816,7 +4210,10 @@
           "dnf": [
             "e49726308"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e50312264"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 89,
           "total_laps": 381,
           "points": 335,
@@ -3853,7 +4250,10 @@
             "e46743168"
           ],
           "dnf": [],
-          "best_finish": 2,
+          "best_finish": [
+            "e49726308"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 100,
           "total_laps": 607,
           "points": 613,
@@ -3884,7 +4284,11 @@
           "dnf": [
             "e47616905"
           ],
-          "best_finish": 6,
+          "best_finish": [
+            "e49726308",
+            "e49999455"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 56,
           "total_laps": 473,
           "points": 424,
@@ -3914,7 +4318,11 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 4,
+          "best_finish": [
+            "e49726308",
+            "e50745008"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 84,
           "total_laps": 536,
           "points": 551,
@@ -3940,7 +4348,12 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 4,
+          "best_finish": [
+            "e47616905",
+            "e49855570",
+            "e49999455"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 57,
           "total_laps": 311,
           "points": 378,
@@ -3962,7 +4375,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 12,
+          "best_finish": [
+            "e46612842"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 6,
           "total_laps": 111,
           "points": 94,
@@ -3993,7 +4409,10 @@
           "dnf": [
             "e49999455"
           ],
-          "best_finish": 4,
+          "best_finish": [
+            "e50119527"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 115,
           "total_laps": 499,
           "points": 274,
@@ -4022,7 +4441,10 @@
           "dnf": [
             "e49999455"
           ],
-          "best_finish": 13,
+          "best_finish": [
+            "e46743168"
+          ],
+          "best_finish_position": 13,
           "total_incidents": 60,
           "total_laps": 336,
           "points": 225,
@@ -4054,7 +4476,11 @@
             "e49726308",
             "e50745008"
           ],
-          "best_finish": 14,
+          "best_finish": [
+            "e47616905",
+            "e50119527"
+          ],
+          "best_finish_position": 14,
           "total_incidents": 57,
           "total_laps": 334,
           "points": 142,
@@ -4084,7 +4510,10 @@
             "e47616905",
             "e50312264"
           ],
-          "best_finish": 11,
+          "best_finish": [
+            "e46743168"
+          ],
+          "best_finish_position": 11,
           "total_incidents": 91,
           "total_laps": 366,
           "points": 182,
@@ -4116,7 +4545,10 @@
           "dnf": [
             "e46743168"
           ],
-          "best_finish": 17,
+          "best_finish": [
+            "e46612842"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 55,
           "total_laps": 402,
           "points": 167,
@@ -4149,7 +4581,10 @@
             "e49726308"
           ],
           "dnf": [],
-          "best_finish": 11,
+          "best_finish": [
+            "e50745008"
+          ],
+          "best_finish_position": 11,
           "total_incidents": 96,
           "total_laps": 597,
           "points": 282,
@@ -4170,7 +4605,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 19,
+          "best_finish": [
+            "e46612842"
+          ],
+          "best_finish_position": 19,
           "total_incidents": 8,
           "total_laps": 55,
           "points": 34,
@@ -4206,7 +4644,10 @@
             "e50492800",
             "e50622510"
           ],
-          "best_finish": 7,
+          "best_finish": [
+            "e49726308"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 51,
           "total_laps": 265,
           "points": 202,
@@ -4234,7 +4675,10 @@
             "e46743168",
             "e50492800"
           ],
-          "best_finish": 17,
+          "best_finish": [
+            "e49726308"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 64,
           "total_laps": 199,
           "points": 69,
@@ -4265,7 +4709,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 6,
+          "best_finish": [
+            "e46743168"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 60,
           "total_laps": 610,
           "points": 357,
@@ -4299,7 +4746,12 @@
             "e50119527",
             "e50622510"
           ],
-          "best_finish": 23,
+          "best_finish": [
+            "e46612842",
+            "e47616905",
+            "e49726308"
+          ],
+          "best_finish_position": 23,
           "total_incidents": 109,
           "total_laps": 472,
           "points": 155,
@@ -4337,7 +4789,10 @@
             "e49999455",
             "e50745008"
           ],
-          "best_finish": 15,
+          "best_finish": [
+            "e50622510"
+          ],
+          "best_finish_position": 15,
           "total_incidents": 87,
           "total_laps": 331,
           "points": 94,
@@ -4369,7 +4824,10 @@
           "dnf": [
             "e50492800"
           ],
-          "best_finish": 18,
+          "best_finish": [
+            "e47616905"
+          ],
+          "best_finish_position": 18,
           "total_incidents": 98,
           "total_laps": 495,
           "points": 189,
@@ -4397,7 +4855,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 16,
+          "best_finish": [
+            "e50312264"
+          ],
+          "best_finish_position": 16,
           "total_incidents": 57,
           "total_laps": 415,
           "points": 228,
@@ -4426,7 +4887,10 @@
           "dnf": [
             "e50492800"
           ],
-          "best_finish": 10,
+          "best_finish": [
+            "e47616905"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 110,
           "total_laps": 295,
           "points": 183,
@@ -4455,7 +4919,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 7,
+          "best_finish": [
+            "e49999455"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 119,
           "total_laps": 470,
           "points": 223,
@@ -4492,7 +4959,10 @@
             "e50622510",
             "e50745008"
           ],
-          "best_finish": 25,
+          "best_finish": [
+            "e50119527"
+          ],
+          "best_finish_position": 25,
           "total_incidents": 100,
           "total_laps": 305,
           "points": 83,
@@ -4525,7 +4995,10 @@
             "e49726308",
             "e49999455"
           ],
-          "best_finish": 17,
+          "best_finish": [
+            "e50745008"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 114,
           "total_laps": 497,
           "points": 231,
@@ -4561,7 +5034,11 @@
             "e49726308",
             "e49999455"
           ],
-          "best_finish": 3,
+          "best_finish": [
+            "e50622510",
+            "e50745008"
+          ],
+          "best_finish_position": 3,
           "total_incidents": 134,
           "total_laps": 500,
           "points": 288,
@@ -4592,7 +5069,10 @@
           "dnf": [
             "e50745008"
           ],
-          "best_finish": 9,
+          "best_finish": [
+            "e50119527"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 99,
           "total_laps": 441,
           "points": 341,
@@ -4615,7 +5095,10 @@
           "dnf": [
             "e46612842"
           ],
-          "best_finish": 33,
+          "best_finish": [
+            "e46612842"
+          ],
+          "best_finish_position": 33,
           "total_incidents": 17,
           "total_laps": 42,
           "points": 0,
@@ -4646,7 +5129,10 @@
           "dnf": [
             "e46612842"
           ],
-          "best_finish": 12,
+          "best_finish": [
+            "e50745008"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 45,
           "total_laps": 360,
           "points": 189,
@@ -4674,7 +5160,11 @@
             "e46612842",
             "e50312264"
           ],
-          "best_finish": 10,
+          "best_finish": [
+            "e46743168",
+            "e49999455"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 61,
           "total_laps": 247,
           "points": 92,
@@ -4715,7 +5205,10 @@
             "e49999455",
             "e50312264"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e46743168"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 60,
           "total_laps": 369,
           "points": 228,
@@ -4750,7 +5243,10 @@
             "e46743168",
             "e49999455"
           ],
-          "best_finish": 7,
+          "best_finish": [
+            "e49855570"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 139,
           "total_laps": 519,
           "points": 196,
@@ -4779,7 +5275,10 @@
             "e49726308",
             "e49999455"
           ],
-          "best_finish": 22,
+          "best_finish": [
+            "e46743168"
+          ],
+          "best_finish_position": 22,
           "total_incidents": 65,
           "total_laps": 206,
           "points": 35,
@@ -4815,7 +5314,10 @@
             "e49855570",
             "e50622510"
           ],
-          "best_finish": 16,
+          "best_finish": [
+            "e50119527"
+          ],
+          "best_finish_position": 16,
           "total_incidents": 170,
           "total_laps": 471,
           "points": 110,
@@ -4844,7 +5346,10 @@
             "e50312264",
             "e50492800"
           ],
-          "best_finish": 35,
+          "best_finish": [
+            "e50312264"
+          ],
+          "best_finish_position": 35,
           "total_incidents": 57,
           "total_laps": 91,
           "points": -40,
@@ -4877,7 +5382,10 @@
             "e49999455",
             "e50492800"
           ],
-          "best_finish": 13,
+          "best_finish": [
+            "e50622510"
+          ],
+          "best_finish_position": 13,
           "total_incidents": 90,
           "total_laps": 276,
           "points": 154,
@@ -4900,7 +5408,10 @@
           "dnf": [
             "e46612842"
           ],
-          "best_finish": 42,
+          "best_finish": [
+            "e46612842"
+          ],
+          "best_finish_position": 42,
           "total_incidents": 14,
           "total_laps": 15,
           "points": 0,
@@ -4931,7 +5442,10 @@
           "dnf": [
             "e46612842"
           ],
-          "best_finish": 21,
+          "best_finish": [
+            "e50745008"
+          ],
+          "best_finish_position": 21,
           "total_incidents": 71,
           "total_laps": 450,
           "points": 182,
@@ -4966,7 +5480,10 @@
           "dnf": [
             "e46612842"
           ],
-          "best_finish": 17,
+          "best_finish": [
+            "e46743168"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 31,
           "total_laps": 484,
           "points": 258,
@@ -4993,7 +5510,10 @@
             "e49726308",
             "e49999455"
           ],
-          "best_finish": 43,
+          "best_finish": [
+            "e49999455"
+          ],
+          "best_finish_position": 43,
           "total_incidents": 27,
           "total_laps": 24,
           "points": -20,
@@ -5026,7 +5546,10 @@
             "e49726308",
             "e50745008"
           ],
-          "best_finish": 19,
+          "best_finish": [
+            "e49999455"
+          ],
+          "best_finish_position": 19,
           "total_incidents": 84,
           "total_laps": 242,
           "points": 78,
@@ -5061,7 +5584,10 @@
             "e46612842",
             "e46743168"
           ],
-          "best_finish": 7,
+          "best_finish": [
+            "e47616905"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 90,
           "total_laps": 425,
           "points": 279,
@@ -5094,7 +5620,10 @@
             "e46743168",
             "e47616905"
           ],
-          "best_finish": 9,
+          "best_finish": [
+            "e50745008"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 76,
           "total_laps": 245,
           "points": 92,
@@ -5137,7 +5666,11 @@
             "e50119527"
           ],
           "dnf": [],
-          "best_finish": 1,
+          "best_finish": [
+            "e46743168",
+            "e50119527"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 52,
           "total_laps": 503,
           "points": 686,
@@ -5165,7 +5698,10 @@
             "e47616905",
             "e50312264"
           ],
-          "best_finish": 8,
+          "best_finish": [
+            "e46743168"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 64,
           "total_laps": 178,
           "points": 63,
@@ -5197,7 +5733,10 @@
             "e49855570"
           ],
           "dnf": [],
-          "best_finish": 17,
+          "best_finish": [
+            "e50119527"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 101,
           "total_laps": 539,
           "points": 195,
@@ -5222,7 +5761,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 26,
+          "best_finish": [
+            "e49999455"
+          ],
+          "best_finish_position": 26,
           "total_incidents": 86,
           "total_laps": 246,
           "points": 114,
@@ -5253,7 +5795,10 @@
             "e49855570",
             "e50312264"
           ],
-          "best_finish": 26,
+          "best_finish": [
+            "e50119527"
+          ],
+          "best_finish_position": 26,
           "total_incidents": 99,
           "total_laps": 288,
           "points": 26,
@@ -5284,7 +5829,10 @@
             "e49855570",
             "e50622510"
           ],
-          "best_finish": 10,
+          "best_finish": [
+            "e50745008"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 148,
           "total_laps": 298,
           "points": 23,
@@ -5315,7 +5863,10 @@
             "e49999455",
             "e50745008"
           ],
-          "best_finish": 16,
+          "best_finish": [
+            "e47616905"
+          ],
+          "best_finish_position": 16,
           "total_incidents": 86,
           "total_laps": 245,
           "points": 66,
@@ -5376,7 +5927,14 @@
             "e49855570"
           ],
           "dnf": [],
-          "best_finish": 1,
+          "best_finish": [
+            "e49726308",
+            "e49855570",
+            "e50312264",
+            "e50492800",
+            "e50622510"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 50,
           "total_laps": 438,
           "points": 740,
@@ -5397,7 +5955,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 12,
+          "best_finish": [
+            "e49726308"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 6,
           "total_laps": 51,
           "points": 48,
@@ -5424,7 +5985,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 15,
+          "best_finish": [
+            "e50745008"
+          ],
+          "best_finish_position": 15,
           "total_incidents": 74,
           "total_laps": 378,
           "points": 188,
@@ -5451,7 +6015,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 8,
+          "best_finish": [
+            "e50119527"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 80,
           "total_laps": 374,
           "points": 230,
@@ -5473,7 +6040,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 12,
+          "best_finish": [
+            "e49999455"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 25,
           "total_laps": 94,
           "points": 70,
@@ -5503,7 +6073,10 @@
             "e50492800",
             "e50622510"
           ],
-          "best_finish": 24,
+          "best_finish": [
+            "e49999455"
+          ],
+          "best_finish_position": 24,
           "total_incidents": 41,
           "total_laps": 70,
           "points": 27,
@@ -5526,7 +6099,10 @@
           "dnf": [
             "e49999455"
           ],
-          "best_finish": 40,
+          "best_finish": [
+            "e49999455"
+          ],
+          "best_finish_position": 40,
           "total_incidents": 10,
           "total_laps": 25,
           "points": 0,
@@ -5549,7 +6125,10 @@
           "dnf": [
             "e49999455"
           ],
-          "best_finish": 47,
+          "best_finish": [
+            "e49999455"
+          ],
+          "best_finish_position": 47,
           "total_incidents": 8,
           "total_laps": 2,
           "points": -20,
@@ -5572,7 +6151,10 @@
           "dnf": [
             "e49999455"
           ],
-          "best_finish": 51,
+          "best_finish": [
+            "e49999455"
+          ],
+          "best_finish_position": 51,
           "total_incidents": 4,
           "total_laps": 1,
           "points": 0,
@@ -5597,7 +6179,10 @@
           "dnf": [
             "e50622510"
           ],
-          "best_finish": 12,
+          "best_finish": [
+            "e50312264"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 29,
           "total_laps": 115,
           "points": 92,
@@ -5619,7 +6204,11 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 33,
+          "best_finish": [
+            "e50312264",
+            "e50492800"
+          ],
+          "best_finish_position": 33,
           "total_incidents": 38,
           "total_laps": 82,
           "points": 38,
@@ -5644,7 +6233,10 @@
           "dnf": [
             "e50745008"
           ],
-          "best_finish": 8,
+          "best_finish": [
+            "e50622510"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 23,
           "total_laps": 112,
           "points": 59,
@@ -5669,7 +6261,10 @@
           "dnf": [
             "e50492800"
           ],
-          "best_finish": 43,
+          "best_finish": [
+            "e50492800"
+          ],
+          "best_finish_position": 43,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -5691,7 +6286,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 14,
+          "best_finish": [
+            "e50745008"
+          ],
+          "best_finish_position": 14,
           "total_incidents": 28,
           "total_laps": 111,
           "points": 76,
@@ -5715,7 +6313,10 @@
           "dnf": [
             "e50745008"
           ],
-          "best_finish": 26,
+          "best_finish": [
+            "e50622510"
+          ],
+          "best_finish_position": 26,
           "total_incidents": 27,
           "total_laps": 94,
           "points": 0,
@@ -5732,7 +6333,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -5748,7 +6350,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -5810,7 +6413,10 @@
           "dnf": [
             "e51402819"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e51124814"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 72,
           "total_laps": 405,
           "points": 565,
@@ -5840,7 +6446,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 2,
+          "best_finish": [
+            "e51124814"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 79,
           "total_laps": 381,
           "points": 370,
@@ -5876,7 +6485,10 @@
             "e52079920",
             "e52328647"
           ],
-          "best_finish": 3,
+          "best_finish": [
+            "e51124814"
+          ],
+          "best_finish_position": 3,
           "total_incidents": 40,
           "total_laps": 342,
           "points": 321,
@@ -5903,7 +6515,10 @@
           "dnf": [
             "e51402819"
           ],
-          "best_finish": 4,
+          "best_finish": [
+            "e51124814"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 7,
           "total_laps": 134,
           "points": 137,
@@ -5928,7 +6543,10 @@
           "dnf": [
             "e51282742"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e51124814"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 50,
           "total_laps": 113,
           "points": 51,
@@ -5964,7 +6582,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 1,
+          "best_finish": [
+            "e55362836"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 102,
           "total_laps": 617,
           "points": 674,
@@ -5998,7 +6619,10 @@
           "dnf": [
             "e52328647"
           ],
-          "best_finish": 3,
+          "best_finish": [
+            "e52079920"
+          ],
+          "best_finish_position": 3,
           "total_incidents": 67,
           "total_laps": 523,
           "points": 526,
@@ -6028,7 +6652,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 4,
+          "best_finish": [
+            "e52202612"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 82,
           "total_laps": 529,
           "points": 417,
@@ -6056,7 +6683,10 @@
           "dnf": [
             "e51798636"
           ],
-          "best_finish": 3,
+          "best_finish": [
+            "e51402819"
+          ],
+          "best_finish_position": 3,
           "total_incidents": 45,
           "total_laps": 192,
           "points": 116,
@@ -6103,7 +6733,12 @@
           ],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 1,
+          "best_finish": [
+            "e51798636",
+            "e52079920",
+            "e52328647"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 132,
           "total_laps": 552,
           "points": 698,
@@ -6137,7 +6772,10 @@
             "e52328647",
             "e52457960"
           ],
-          "best_finish": 8,
+          "best_finish": [
+            "e55362836"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 72,
           "total_laps": 341,
           "points": 241,
@@ -6171,7 +6809,10 @@
           "dnf": [
             "e52328647"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e55362836"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 58,
           "total_laps": 508,
           "points": 513,
@@ -6205,7 +6846,11 @@
             "e51521319",
             "e52328647"
           ],
-          "best_finish": 7,
+          "best_finish": [
+            "e52079920",
+            "e52457960"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 89,
           "total_laps": 518,
           "points": 436,
@@ -6241,7 +6886,10 @@
             "e51798636",
             "e52079920"
           ],
-          "best_finish": 7,
+          "best_finish": [
+            "e55362836"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 54,
           "total_laps": 250,
           "points": 68,
@@ -6277,7 +6925,10 @@
             "e51667188",
             "e52457960"
           ],
-          "best_finish": 9,
+          "best_finish": [
+            "e52328647"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 124,
           "total_laps": 394,
           "points": 252,
@@ -6304,7 +6955,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 10,
+          "best_finish": [
+            "e52328647"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 77,
           "total_laps": 354,
           "points": 138,
@@ -6332,7 +6986,10 @@
             "e51521319",
             "e51798636"
           ],
-          "best_finish": 17,
+          "best_finish": [
+            "e51124814"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 43,
           "total_laps": 86,
           "points": 38,
@@ -6360,7 +7017,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 4,
+          "best_finish": [
+            "e52328647"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 94,
           "total_laps": 437,
           "points": 430,
@@ -6394,7 +7054,10 @@
           "dnf": [
             "e55362836"
           ],
-          "best_finish": 12,
+          "best_finish": [
+            "e51402819"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 58,
           "total_laps": 521,
           "points": 296,
@@ -6428,7 +7091,10 @@
           "dnf": [
             "e51402819"
           ],
-          "best_finish": 11,
+          "best_finish": [
+            "e52457960"
+          ],
+          "best_finish_position": 11,
           "total_incidents": 57,
           "total_laps": 531,
           "points": 332,
@@ -6453,7 +7119,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 8,
+          "best_finish": [
+            "e52457960"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 41,
           "total_laps": 278,
           "points": 219,
@@ -6484,7 +7153,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 15,
+          "best_finish": [
+            "e51798636"
+          ],
+          "best_finish_position": 15,
           "total_incidents": 111,
           "total_laps": 594,
           "points": 242,
@@ -6514,7 +7186,10 @@
           "dnf": [
             "e52328647"
           ],
-          "best_finish": 17,
+          "best_finish": [
+            "e51402819"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 62,
           "total_laps": 286,
           "points": 152,
@@ -6547,7 +7222,10 @@
             "e52328647",
             "e52457960"
           ],
-          "best_finish": 14,
+          "best_finish": [
+            "e51521319"
+          ],
+          "best_finish_position": 14,
           "total_incidents": 23,
           "total_laps": 322,
           "points": 202,
@@ -6581,7 +7259,10 @@
             "e51798636",
             "e52457960"
           ],
-          "best_finish": 11,
+          "best_finish": [
+            "e51402819"
+          ],
+          "best_finish_position": 11,
           "total_incidents": 102,
           "total_laps": 580,
           "points": 299,
@@ -6616,7 +7297,10 @@
             "e52328647",
             "e52457960"
           ],
-          "best_finish": 26,
+          "best_finish": [
+            "e51124814"
+          ],
+          "best_finish_position": 26,
           "total_incidents": 74,
           "total_laps": 222,
           "points": 49,
@@ -6644,7 +7328,10 @@
             "e51521319",
             "e52328647"
           ],
-          "best_finish": 27,
+          "best_finish": [
+            "e51124814"
+          ],
+          "best_finish_position": 27,
           "total_incidents": 43,
           "total_laps": 77,
           "points": 24,
@@ -6675,7 +7362,10 @@
             "e51798636",
             "e52079920"
           ],
-          "best_finish": 23,
+          "best_finish": [
+            "e51667188"
+          ],
+          "best_finish_position": 23,
           "total_incidents": 40,
           "total_laps": 119,
           "points": 31,
@@ -6708,7 +7398,10 @@
             "e51402819",
             "e52328647"
           ],
-          "best_finish": 15,
+          "best_finish": [
+            "e52079920"
+          ],
+          "best_finish_position": 15,
           "total_incidents": 107,
           "total_laps": 457,
           "points": 190,
@@ -6735,7 +7428,10 @@
           "dnf": [
             "e51667188"
           ],
-          "best_finish": 24,
+          "best_finish": [
+            "e51521319"
+          ],
+          "best_finish_position": 24,
           "total_incidents": 78,
           "total_laps": 242,
           "points": 50,
@@ -6762,7 +7458,10 @@
             "e51282742",
             "e55362836"
           ],
-          "best_finish": 18,
+          "best_finish": [
+            "e51798636"
+          ],
+          "best_finish_position": 18,
           "total_incidents": 30,
           "total_laps": 105,
           "points": 16,
@@ -6794,7 +7493,10 @@
             "e51402819",
             "e52328647"
           ],
-          "best_finish": 21,
+          "best_finish": [
+            "e52079920"
+          ],
+          "best_finish_position": 21,
           "total_incidents": 61,
           "total_laps": 420,
           "points": 198,
@@ -6830,7 +7532,10 @@
             "e51667188",
             "e55362836"
           ],
-          "best_finish": 21,
+          "best_finish": [
+            "e51521319"
+          ],
+          "best_finish_position": 21,
           "total_incidents": 155,
           "total_laps": 503,
           "points": 223,
@@ -6860,7 +7565,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 17,
+          "best_finish": [
+            "e52328647"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 132,
           "total_laps": 533,
           "points": 256,
@@ -6891,7 +7599,11 @@
           "dnf": [
             "e51402819"
           ],
-          "best_finish": 14,
+          "best_finish": [
+            "e52202612",
+            "e52457960"
+          ],
+          "best_finish_position": 14,
           "total_incidents": 123,
           "total_laps": 470,
           "points": 201,
@@ -6917,7 +7629,10 @@
             "e51402819",
             "e51521319"
           ],
-          "best_finish": 34,
+          "best_finish": [
+            "e51521319"
+          ],
+          "best_finish_position": 34,
           "total_incidents": 31,
           "total_laps": 98,
           "points": -20,
@@ -6949,7 +7664,12 @@
             "e52202612",
             "e52457960"
           ],
-          "best_finish": 14,
+          "best_finish": [
+            "e51667188",
+            "e51798636",
+            "e52328647"
+          ],
+          "best_finish_position": 14,
           "total_incidents": 96,
           "total_laps": 292,
           "points": 127,
@@ -6984,7 +7704,11 @@
             "e51798636",
             "e52457960"
           ],
-          "best_finish": 19,
+          "best_finish": [
+            "e51402819",
+            "e52328647"
+          ],
+          "best_finish_position": 19,
           "total_incidents": 150,
           "total_laps": 512,
           "points": 173,
@@ -7013,7 +7737,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 7,
+          "best_finish": [
+            "e51402819"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 61,
           "total_laps": 500,
           "points": 359,
@@ -7080,7 +7807,15 @@
           "dnf": [
             "e51124814"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e51282742",
+            "e51402819",
+            "e51521319",
+            "e51667188",
+            "e52202612",
+            "e52457960"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 139,
           "total_laps": 602,
           "points": 816,
@@ -7110,7 +7845,10 @@
             "e51402819",
             "e51798636"
           ],
-          "best_finish": 25,
+          "best_finish": [
+            "e51282742"
+          ],
+          "best_finish_position": 25,
           "total_incidents": 73,
           "total_laps": 208,
           "points": 53,
@@ -7142,7 +7880,10 @@
           "dnf": [
             "e51124814"
           ],
-          "best_finish": 16,
+          "best_finish": [
+            "e51521319"
+          ],
+          "best_finish_position": 16,
           "total_incidents": 117,
           "total_laps": 508,
           "points": 192,
@@ -7177,7 +7918,10 @@
           "dnf": [
             "e51124814"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e52457960"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 142,
           "total_laps": 593,
           "points": 351,
@@ -7207,7 +7951,10 @@
           "dnf": [
             "e51124814"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e52079920"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 36,
           "total_laps": 268,
           "points": 247,
@@ -7243,7 +7990,10 @@
           "dnf": [
             "e51124814"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e51282742"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 86,
           "total_laps": 516,
           "points": 541,
@@ -7270,7 +8020,10 @@
             "e51282742",
             "e51521319"
           ],
-          "best_finish": 39,
+          "best_finish": [
+            "e51521319"
+          ],
+          "best_finish_position": 39,
           "total_incidents": 18,
           "total_laps": 14,
           "points": 0,
@@ -7293,7 +8046,10 @@
           "dnf": [
             "e51124814"
           ],
-          "best_finish": 47,
+          "best_finish": [
+            "e51124814"
+          ],
+          "best_finish_position": 47,
           "total_incidents": 8,
           "total_laps": 10,
           "points": 0,
@@ -7321,7 +8077,10 @@
             "e51282742",
             "e51521319"
           ],
-          "best_finish": 25,
+          "best_finish": [
+            "e52328647"
+          ],
+          "best_finish_position": 25,
           "total_incidents": 74,
           "total_laps": 114,
           "points": 6,
@@ -7358,7 +8117,11 @@
           "dnf": [
             "e52457960"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e51402819",
+            "e51798636"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 101,
           "total_laps": 445,
           "points": 487,
@@ -7383,7 +8146,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 5,
+          "best_finish": [
+            "e52328647"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 71,
           "total_laps": 278,
           "points": 159,
@@ -7409,7 +8175,10 @@
             "e51402819",
             "e51521319"
           ],
-          "best_finish": 15,
+          "best_finish": [
+            "e51282742"
+          ],
+          "best_finish_position": 15,
           "total_incidents": 47,
           "total_laps": 94,
           "points": 42,
@@ -7437,7 +8206,11 @@
           "dnf": [
             "e52328647"
           ],
-          "best_finish": 9,
+          "best_finish": [
+            "e51521319",
+            "e52202612"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 43,
           "total_laps": 308,
           "points": 253,
@@ -7461,7 +8234,10 @@
           "dnf": [
             "e51282742"
           ],
-          "best_finish": 9,
+          "best_finish": [
+            "e52079920"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 21,
           "total_laps": 92,
           "points": 56,
@@ -7484,7 +8260,10 @@
           "dnf": [
             "e51282742"
           ],
-          "best_finish": 42,
+          "best_finish": [
+            "e51282742"
+          ],
+          "best_finish_position": 42,
           "total_incidents": 8,
           "total_laps": 10,
           "points": 0,
@@ -7505,7 +8284,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 24,
+          "best_finish": [
+            "e51402819"
+          ],
+          "best_finish_position": 24,
           "total_incidents": 10,
           "total_laps": 66,
           "points": 28,
@@ -7533,7 +8315,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 21,
+          "best_finish": [
+            "e51667188"
+          ],
+          "best_finish_position": 21,
           "total_incidents": 91,
           "total_laps": 440,
           "points": 205,
@@ -7556,7 +8341,10 @@
           "dnf": [
             "e51402819"
           ],
-          "best_finish": 39,
+          "best_finish": [
+            "e51402819"
+          ],
+          "best_finish_position": 39,
           "total_incidents": 4,
           "total_laps": 10,
           "points": 0,
@@ -7579,7 +8367,10 @@
           "dnf": [
             "e51402819"
           ],
-          "best_finish": 42,
+          "best_finish": [
+            "e51402819"
+          ],
+          "best_finish_position": 42,
           "total_incidents": 8,
           "total_laps": 9,
           "points": 0,
@@ -7606,7 +8397,10 @@
             "e51402819",
             "e51667188"
           ],
-          "best_finish": 35,
+          "best_finish": [
+            "e51667188"
+          ],
+          "best_finish_position": 35,
           "total_incidents": 2,
           "total_laps": 1,
           "points": 0,
@@ -7630,7 +8424,10 @@
           "dnf": [
             "e51798636"
           ],
-          "best_finish": 19,
+          "best_finish": [
+            "e51521319"
+          ],
+          "best_finish_position": 19,
           "total_incidents": 29,
           "total_laps": 102,
           "points": -6,
@@ -7653,7 +8450,10 @@
           "dnf": [
             "e51521319"
           ],
-          "best_finish": 36,
+          "best_finish": [
+            "e51521319"
+          ],
+          "best_finish_position": 36,
           "total_incidents": 15,
           "total_laps": 16,
           "points": -20,
@@ -7680,7 +8480,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 9,
+          "best_finish": [
+            "e52457960"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 42,
           "total_laps": 381,
           "points": 273,
@@ -7705,7 +8508,10 @@
             "e51667188",
             "e52328647"
           ],
-          "best_finish": 31,
+          "best_finish": [
+            "e51667188"
+          ],
+          "best_finish_position": 31,
           "total_incidents": 36,
           "total_laps": 28,
           "points": -20,
@@ -7733,7 +8539,11 @@
           "dnf": [
             "e55362836"
           ],
-          "best_finish": 18,
+          "best_finish": [
+            "e52079920",
+            "e52328647"
+          ],
+          "best_finish_position": 18,
           "total_incidents": 68,
           "total_laps": 270,
           "points": 130,
@@ -7755,7 +8565,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 31,
+          "best_finish": [
+            "e52202612"
+          ],
+          "best_finish_position": 31,
           "total_incidents": 42,
           "total_laps": 89,
           "points": 39,
@@ -7782,7 +8595,10 @@
             "e52079920",
             "e52328647"
           ],
-          "best_finish": 20,
+          "best_finish": [
+            "e52457960"
+          ],
+          "best_finish_position": 20,
           "total_incidents": 46,
           "total_laps": 173,
           "points": 32,
@@ -7803,7 +8619,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 8,
+          "best_finish": [
+            "e52328647"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 9,
           "total_laps": 46,
           "points": 59,
@@ -7824,7 +8643,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 12,
+          "best_finish": [
+            "e52328647"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 8,
           "total_laps": 46,
           "points": 28,
@@ -7845,7 +8667,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 28,
+          "best_finish": [
+            "e52328647"
+          ],
+          "best_finish_position": 28,
           "total_incidents": 3,
           "total_laps": 39,
           "points": 24,
@@ -7862,7 +8687,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -7878,7 +8704,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -7894,7 +8721,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -7910,7 +8738,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -7926,7 +8755,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -7942,7 +8772,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -7958,7 +8789,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -7974,7 +8806,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -7990,7 +8823,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -8006,7 +8840,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -8066,7 +8901,13 @@
           ],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 1,
+          "best_finish": [
+            "e58735229",
+            "e58943064",
+            "e59600210",
+            "e60174844"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 44,
           "total_laps": 368,
           "points": 635,
@@ -8106,7 +8947,10 @@
           "dnf": [
             "e59920833"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e59079197"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 62,
           "total_laps": 346,
           "points": 505,
@@ -8131,7 +8975,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 3,
+          "best_finish": [
+            "e58735229"
+          ],
+          "best_finish_position": 3,
           "total_incidents": 34,
           "total_laps": 150,
           "points": 184,
@@ -8166,7 +9013,10 @@
           "dnf": [
             "e59920833"
           ],
-          "best_finish": 3,
+          "best_finish": [
+            "e60174844"
+          ],
+          "best_finish_position": 3,
           "total_incidents": 54,
           "total_laps": 391,
           "points": 325,
@@ -8221,7 +9071,12 @@
             "e59600210",
             "e60174844"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e59359422",
+            "e59793230",
+            "e60047867"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 117,
           "total_laps": 392,
           "points": 462,
@@ -8249,7 +9104,10 @@
             "e60174844"
           ],
           "dnf": [],
-          "best_finish": 6,
+          "best_finish": [
+            "e58735229"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 32,
           "total_laps": 239,
           "points": 193,
@@ -8283,7 +9141,13 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 2,
+          "best_finish": [
+            "e59079197",
+            "e59359422",
+            "e59920833",
+            "e60047867"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 44,
           "total_laps": 418,
           "points": 572,
@@ -8315,7 +9179,10 @@
             "e59079197",
             "e59920833"
           ],
-          "best_finish": 4,
+          "best_finish": [
+            "e60174844"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 52,
           "total_laps": 273,
           "points": 243,
@@ -8351,7 +9218,10 @@
           "dnf": [
             "e60047867"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e60174844"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 86,
           "total_laps": 373,
           "points": 309,
@@ -8382,7 +9252,10 @@
             "e59359422",
             "e60047867"
           ],
-          "best_finish": 10,
+          "best_finish": [
+            "e58735229"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 96,
           "total_laps": 363,
           "points": 153,
@@ -8406,7 +9279,11 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 11,
+          "best_finish": [
+            "e58735229",
+            "e59359422"
+          ],
+          "best_finish_position": 11,
           "total_incidents": 43,
           "total_laps": 201,
           "points": 138,
@@ -8436,7 +9313,10 @@
           "dnf": [
             "e59793230"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e59359422"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 61,
           "total_laps": 390,
           "points": 304,
@@ -8460,7 +9340,10 @@
           "dnf": [
             "e59079197"
           ],
-          "best_finish": 13,
+          "best_finish": [
+            "e58735229"
+          ],
+          "best_finish_position": 13,
           "total_incidents": 22,
           "total_laps": 49,
           "points": 46,
@@ -8493,7 +9376,10 @@
           "dnf": [
             "e60047867"
           ],
-          "best_finish": 10,
+          "best_finish": [
+            "e59793230"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 56,
           "total_laps": 419,
           "points": 249,
@@ -8518,7 +9404,10 @@
           "dnf": [
             "e59079197"
           ],
-          "best_finish": 15,
+          "best_finish": [
+            "e58735229"
+          ],
+          "best_finish_position": 15,
           "total_incidents": 42,
           "total_laps": 117,
           "points": 36,
@@ -8548,7 +9437,11 @@
           "dnf": [
             "e60047867"
           ],
-          "best_finish": 16,
+          "best_finish": [
+            "e58735229",
+            "e59359422"
+          ],
+          "best_finish_position": 16,
           "total_incidents": 110,
           "total_laps": 359,
           "points": 171,
@@ -8581,7 +9474,10 @@
             "e59079197",
             "e59793230"
           ],
-          "best_finish": 6,
+          "best_finish": [
+            "e60174844"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 66,
           "total_laps": 322,
           "points": 239,
@@ -8612,7 +9508,11 @@
             "e60174844"
           ],
           "dnf": [],
-          "best_finish": 12,
+          "best_finish": [
+            "e59793230",
+            "e59920833"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 26,
           "total_laps": 419,
           "points": 314,
@@ -8639,7 +9539,10 @@
           "dnf": [
             "e59359422"
           ],
-          "best_finish": 19,
+          "best_finish": [
+            "e58735229"
+          ],
+          "best_finish_position": 19,
           "total_incidents": 49,
           "total_laps": 190,
           "points": 69,
@@ -8669,7 +9572,10 @@
           "dnf": [
             "e59359422"
           ],
-          "best_finish": 7,
+          "best_finish": [
+            "e59793230"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 80,
           "total_laps": 390,
           "points": 286,
@@ -8695,7 +9601,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 6,
+          "best_finish": [
+            "e59920833"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 103,
           "total_laps": 279,
           "points": 145,
@@ -8728,7 +9637,10 @@
           "dnf": [
             "e59079197"
           ],
-          "best_finish": 3,
+          "best_finish": [
+            "e59920833"
+          ],
+          "best_finish_position": 3,
           "total_incidents": 67,
           "total_laps": 431,
           "points": 429,
@@ -8752,7 +9664,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 10,
+          "best_finish": [
+            "e59079197"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 63,
           "total_laps": 198,
           "points": 77,
@@ -8781,7 +9696,10 @@
             "e59920833"
           ],
           "dnf": [],
-          "best_finish": 19,
+          "best_finish": [
+            "e59920833"
+          ],
+          "best_finish_position": 19,
           "total_incidents": 38,
           "total_laps": 342,
           "points": 156,
@@ -8808,7 +9726,11 @@
             "e58943064",
             "e59079197"
           ],
-          "best_finish": 25,
+          "best_finish": [
+            "e58735229",
+            "e59359422"
+          ],
+          "best_finish_position": 25,
           "total_incidents": 47,
           "total_laps": 154,
           "points": 52,
@@ -8830,7 +9752,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 26,
+          "best_finish": [
+            "e58735229"
+          ],
+          "best_finish_position": 26,
           "total_incidents": 20,
           "total_laps": 87,
           "points": 44,
@@ -8861,7 +9786,11 @@
             "e60174844"
           ],
           "dnf": [],
-          "best_finish": 17,
+          "best_finish": [
+            "e59920833",
+            "e60174844"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 55,
           "total_laps": 470,
           "points": 237,
@@ -8890,7 +9819,10 @@
           "dnf": [
             "e60174844"
           ],
-          "best_finish": 22,
+          "best_finish": [
+            "e59793230"
+          ],
+          "best_finish_position": 22,
           "total_incidents": 73,
           "total_laps": 330,
           "points": 122,
@@ -8918,7 +9850,12 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 19,
+          "best_finish": [
+            "e58943064",
+            "e59359422",
+            "e60047867"
+          ],
+          "best_finish_position": 19,
           "total_incidents": 52,
           "total_laps": 414,
           "points": 198,
@@ -8948,7 +9885,10 @@
           "dnf": [
             "e59920833"
           ],
-          "best_finish": 28,
+          "best_finish": [
+            "e59359422"
+          ],
+          "best_finish_position": 28,
           "total_incidents": 61,
           "total_laps": 254,
           "points": 103,
@@ -8977,7 +9917,10 @@
             "e59359422",
             "e59793230"
           ],
-          "best_finish": 13,
+          "best_finish": [
+            "e59079197"
+          ],
+          "best_finish_position": 13,
           "total_incidents": 68,
           "total_laps": 222,
           "points": 87,
@@ -9003,7 +9946,10 @@
             "e59793230",
             "e59920833"
           ],
-          "best_finish": 32,
+          "best_finish": [
+            "e58735229"
+          ],
+          "best_finish_position": 32,
           "total_incidents": 28,
           "total_laps": 74,
           "points": 0,
@@ -9034,7 +9980,10 @@
             "e60174844"
           ],
           "dnf": [],
-          "best_finish": 17,
+          "best_finish": [
+            "e59793230"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 76,
           "total_laps": 457,
           "points": 205,
@@ -9065,7 +10014,10 @@
           "dnf": [
             "e59359422"
           ],
-          "best_finish": 8,
+          "best_finish": [
+            "e60174844"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 80,
           "total_laps": 283,
           "points": 122,
@@ -9098,7 +10050,10 @@
             "e60174844"
           ],
           "dnf": [],
-          "best_finish": 4,
+          "best_finish": [
+            "e59600210"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 29,
           "total_laps": 470,
           "points": 410,
@@ -9129,7 +10084,10 @@
             "e58735229",
             "e60047867"
           ],
-          "best_finish": 9,
+          "best_finish": [
+            "e59079197"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 105,
           "total_laps": 342,
           "points": 104,
@@ -9171,7 +10129,10 @@
           "dnf": [
             "e58735229"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e59920833"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 65,
           "total_laps": 399,
           "points": 468,
@@ -9199,7 +10160,10 @@
             "e58735229",
             "e59600210"
           ],
-          "best_finish": 31,
+          "best_finish": [
+            "e58943064"
+          ],
+          "best_finish_position": 31,
           "total_incidents": 37,
           "total_laps": 64,
           "points": 0,
@@ -9232,7 +10196,10 @@
           "dnf": [
             "e58735229"
           ],
-          "best_finish": 5,
+          "best_finish": [
+            "e60174844"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 96,
           "total_laps": 444,
           "points": 268,
@@ -9255,7 +10222,10 @@
           "dnf": [
             "e58735229"
           ],
-          "best_finish": 40,
+          "best_finish": [
+            "e58735229"
+          ],
+          "best_finish_position": 40,
           "total_incidents": 8,
           "total_laps": 4,
           "points": 0,
@@ -9283,7 +10253,10 @@
           "dnf": [
             "e58735229"
           ],
-          "best_finish": 8,
+          "best_finish": [
+            "e59920833"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 43,
           "total_laps": 271,
           "points": 150,
@@ -9312,7 +10285,10 @@
             "e59920833",
             "e60174844"
           ],
-          "best_finish": 32,
+          "best_finish": [
+            "e60174844"
+          ],
+          "best_finish_position": 32,
           "total_incidents": 49,
           "total_laps": 101,
           "points": 2,
@@ -9343,7 +10319,10 @@
             "e59793230",
             "e59920833"
           ],
-          "best_finish": 22,
+          "best_finish": [
+            "e59079197"
+          ],
+          "best_finish_position": 22,
           "total_incidents": 45,
           "total_laps": 156,
           "points": -5,
@@ -9374,7 +10353,10 @@
           "dnf": [
             "e58735229"
           ],
-          "best_finish": 4,
+          "best_finish": [
+            "e59920833"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 45,
           "total_laps": 314,
           "points": 310,
@@ -9404,7 +10386,10 @@
             "e59600210",
             "e59920833"
           ],
-          "best_finish": 21,
+          "best_finish": [
+            "e60174844"
+          ],
+          "best_finish_position": 21,
           "total_incidents": 92,
           "total_laps": 200,
           "points": 75,
@@ -9434,7 +10419,10 @@
             "e58735229",
             "e59079197"
           ],
-          "best_finish": 3,
+          "best_finish": [
+            "e58943064"
+          ],
+          "best_finish_position": 3,
           "total_incidents": 30,
           "total_laps": 165,
           "points": 134,
@@ -9461,7 +10449,11 @@
           "dnf": [
             "e58735229"
           ],
-          "best_finish": 13,
+          "best_finish": [
+            "e59600210",
+            "e59920833"
+          ],
+          "best_finish_position": 13,
           "total_incidents": 36,
           "total_laps": 189,
           "points": 29,
@@ -9484,7 +10476,10 @@
           "dnf": [
             "e58735229"
           ],
-          "best_finish": 48,
+          "best_finish": [
+            "e58735229"
+          ],
+          "best_finish_position": 48,
           "total_incidents": 7,
           "total_laps": 1,
           "points": -20,
@@ -9509,7 +10504,10 @@
             "e58735229",
             "e59079197"
           ],
-          "best_finish": 37,
+          "best_finish": [
+            "e59079197"
+          ],
+          "best_finish_position": 37,
           "total_incidents": 19,
           "total_laps": 39,
           "points": 0,
@@ -9534,7 +10532,10 @@
           "dnf": [
             "e58735229"
           ],
-          "best_finish": 50,
+          "best_finish": [
+            "e58735229"
+          ],
+          "best_finish_position": 50,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -9560,7 +10561,11 @@
             "e59920833"
           ],
           "dnf": [],
-          "best_finish": 6,
+          "best_finish": [
+            "e59600210",
+            "e60047867"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 18,
           "total_laps": 204,
           "points": 242,
@@ -9589,7 +10594,11 @@
             "e59359422",
             "e59920833"
           ],
-          "best_finish": 17,
+          "best_finish": [
+            "e58943064",
+            "e59079197"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 77,
           "total_laps": 225,
           "points": 64,
@@ -9613,7 +10622,11 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 18,
+          "best_finish": [
+            "e58943064",
+            "e59359422"
+          ],
+          "best_finish_position": 18,
           "total_incidents": 16,
           "total_laps": 214,
           "points": 116,
@@ -9641,7 +10654,10 @@
             "e59359422",
             "e59600210"
           ],
-          "best_finish": 20,
+          "best_finish": [
+            "e59793230"
+          ],
+          "best_finish_position": 20,
           "total_incidents": 66,
           "total_laps": 187,
           "points": 40,
@@ -9662,7 +10678,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 24,
+          "best_finish": [
+            "e58943064"
+          ],
+          "best_finish_position": 24,
           "total_incidents": 6,
           "total_laps": 44,
           "points": 27,
@@ -9690,7 +10709,11 @@
           "dnf": [
             "e59920833"
           ],
-          "best_finish": 26,
+          "best_finish": [
+            "e59359422",
+            "e60174844"
+          ],
+          "best_finish_position": 26,
           "total_incidents": 88,
           "total_laps": 290,
           "points": 48,
@@ -9718,7 +10741,10 @@
             "e59600210",
             "e60047867"
           ],
-          "best_finish": 20,
+          "best_finish": [
+            "e59920833"
+          ],
+          "best_finish_position": 20,
           "total_incidents": 47,
           "total_laps": 212,
           "points": 35,
@@ -9741,7 +10767,10 @@
           "dnf": [
             "e58943064"
           ],
-          "best_finish": 46,
+          "best_finish": [
+            "e58943064"
+          ],
+          "best_finish_position": 46,
           "total_incidents": 21,
           "total_laps": 29,
           "points": 0,
@@ -9764,7 +10793,10 @@
           "dnf": [
             "e58943064"
           ],
-          "best_finish": 48,
+          "best_finish": [
+            "e58943064"
+          ],
+          "best_finish_position": 48,
           "total_incidents": 2,
           "total_laps": 1,
           "points": 0,
@@ -9791,7 +10823,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 5,
+          "best_finish": [
+            "e59920833"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 26,
           "total_laps": 393,
           "points": 377,
@@ -9819,7 +10854,10 @@
             "e60174844"
           ],
           "dnf": [],
-          "best_finish": 9,
+          "best_finish": [
+            "e59600210"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 20,
           "total_laps": 342,
           "points": 293,
@@ -9842,7 +10880,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 22,
+          "best_finish": [
+            "e59920833"
+          ],
+          "best_finish_position": 22,
           "total_incidents": 37,
           "total_laps": 160,
           "points": 19,
@@ -9865,7 +10906,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 10,
+          "best_finish": [
+            "e59920833"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 25,
           "total_laps": 157,
           "points": 82,
@@ -9892,7 +10936,10 @@
             "e59920833"
           ],
           "dnf": [],
-          "best_finish": 9,
+          "best_finish": [
+            "e59920833"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 24,
           "total_laps": 266,
           "points": 164,
@@ -9917,7 +10964,10 @@
           "dnf": [
             "e60174844"
           ],
-          "best_finish": 21,
+          "best_finish": [
+            "e60047867"
+          ],
+          "best_finish_position": 21,
           "total_incidents": 44,
           "total_laps": 154,
           "points": 14,
@@ -9939,7 +10989,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 27,
+          "best_finish": [
+            "e60174844"
+          ],
+          "best_finish_position": 27,
           "total_incidents": 16,
           "total_laps": 114,
           "points": 47,
@@ -9963,7 +11016,10 @@
           "dnf": [
             "e59920833"
           ],
-          "best_finish": 15,
+          "best_finish": [
+            "e60047867"
+          ],
+          "best_finish_position": 15,
           "total_incidents": 19,
           "total_laps": 85,
           "points": 22,
@@ -9980,7 +11036,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -9996,7 +11053,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -10012,7 +11070,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -10028,7 +11087,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -10044,7 +11104,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -10060,7 +11121,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -10124,7 +11186,12 @@
             "e60907958",
             "e61049274"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e60520637",
+            "e60648996",
+            "e60777032"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 54,
           "total_laps": 213,
           "points": 360,
@@ -10158,7 +11225,10 @@
           "dnf": [
             "e61178890"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e60520637"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 55,
           "total_laps": 275,
           "points": 284,
@@ -10186,7 +11256,10 @@
           "dnf": [
             "e61049274"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e60777032"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 25,
           "total_laps": 147,
           "points": 90,
@@ -10219,7 +11292,11 @@
           "dnf": [
             "e61178890"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e60648996",
+            "e60907958"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 51,
           "total_laps": 283,
           "points": 365,
@@ -10240,7 +11317,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 5,
+          "best_finish": [
+            "e60520637"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 13,
           "total_laps": 45,
           "points": 70,
@@ -10269,7 +11349,10 @@
             "e61178890"
           ],
           "dnf": [],
-          "best_finish": 2,
+          "best_finish": [
+            "e61049274"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 8,
           "total_laps": 117,
           "points": 230,
@@ -10299,7 +11382,10 @@
             "e61049274",
             "e61178890"
           ],
-          "best_finish": 7,
+          "best_finish": [
+            "e60520637"
+          ],
+          "best_finish_position": 7,
           "total_incidents": 45,
           "total_laps": 242,
           "points": 123,
@@ -10325,7 +11411,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 4,
+          "best_finish": [
+            "e60648996"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 31,
           "total_laps": 285,
           "points": 223,
@@ -10350,7 +11439,10 @@
             "e60520637"
           ],
           "dnf": [],
-          "best_finish": 5,
+          "best_finish": [
+            "e60648996"
+          ],
+          "best_finish_position": 5,
           "total_incidents": 11,
           "total_laps": 159,
           "points": 188,
@@ -10381,7 +11473,10 @@
           "dnf": [
             "e61178890"
           ],
-          "best_finish": 10,
+          "best_finish": [
+            "e60520637"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 37,
           "total_laps": 273,
           "points": 212,
@@ -10413,7 +11508,11 @@
             "e60777032",
             "e61049274"
           ],
-          "best_finish": 8,
+          "best_finish": [
+            "e60648996",
+            "e61178890"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 35,
           "total_laps": 174,
           "points": 198,
@@ -10442,7 +11541,11 @@
             "e61178890"
           ],
           "dnf": [],
-          "best_finish": 6,
+          "best_finish": [
+            "e60907958",
+            "e61178890"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 28,
           "total_laps": 290,
           "points": 307,
@@ -10470,7 +11573,10 @@
             "e60520637"
           ],
           "dnf": [],
-          "best_finish": 10,
+          "best_finish": [
+            "e60648996"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 46,
           "total_laps": 275,
           "points": 207,
@@ -10496,7 +11602,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 4,
+          "best_finish": [
+            "e60907958"
+          ],
+          "best_finish_position": 4,
           "total_incidents": 45,
           "total_laps": 291,
           "points": 366,
@@ -10523,7 +11632,10 @@
           "dnf": [
             "e61178890"
           ],
-          "best_finish": 9,
+          "best_finish": [
+            "e60777032"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 26,
           "total_laps": 228,
           "points": 205,
@@ -10548,7 +11660,10 @@
           "dnf": [
             "e61049274"
           ],
-          "best_finish": 16,
+          "best_finish": [
+            "e60520637"
+          ],
+          "best_finish_position": 16,
           "total_incidents": 18,
           "total_laps": 98,
           "points": 41,
@@ -10577,7 +11692,10 @@
             "e60777032",
             "e61178890"
           ],
-          "best_finish": 17,
+          "best_finish": [
+            "e60520637"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 29,
           "total_laps": 224,
           "points": 126,
@@ -10604,7 +11722,10 @@
           "dnf": [
             "e61178890"
           ],
-          "best_finish": 14,
+          "best_finish": [
+            "e60648996"
+          ],
+          "best_finish_position": 14,
           "total_incidents": 33,
           "total_laps": 221,
           "points": 140,
@@ -10633,7 +11754,10 @@
           "dnf": [
             "e60648996"
           ],
-          "best_finish": 17,
+          "best_finish": [
+            "e61178890"
+          ],
+          "best_finish_position": 17,
           "total_incidents": 78,
           "total_laps": 207,
           "points": 102,
@@ -10663,7 +11787,10 @@
           "dnf": [
             "e61178890"
           ],
-          "best_finish": 8,
+          "best_finish": [
+            "e60777032"
+          ],
+          "best_finish_position": 8,
           "total_incidents": 49,
           "total_laps": 288,
           "points": 241,
@@ -10691,7 +11818,10 @@
           "dnf": [
             "e61178890"
           ],
-          "best_finish": 11,
+          "best_finish": [
+            "e60777032"
+          ],
+          "best_finish_position": 11,
           "total_incidents": 61,
           "total_laps": 281,
           "points": 156,
@@ -10719,7 +11849,10 @@
             "e60648996",
             "e61178890"
           ],
-          "best_finish": 14,
+          "best_finish": [
+            "e61049274"
+          ],
+          "best_finish_position": 14,
           "total_incidents": 39,
           "total_laps": 179,
           "points": 73,
@@ -10749,7 +11882,10 @@
             "e60907958",
             "e61049274"
           ],
-          "best_finish": 22,
+          "best_finish": [
+            "e61178890"
+          ],
+          "best_finish_position": 22,
           "total_incidents": 87,
           "total_laps": 196,
           "points": 44,
@@ -10774,7 +11910,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 20,
+          "best_finish": [
+            "e61178890"
+          ],
+          "best_finish_position": 20,
           "total_incidents": 54,
           "total_laps": 218,
           "points": 137,
@@ -10800,7 +11939,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 14,
+          "best_finish": [
+            "e60777032"
+          ],
+          "best_finish_position": 14,
           "total_incidents": 68,
           "total_laps": 287,
           "points": 146,
@@ -10829,7 +11971,10 @@
             "e61049274",
             "e61178890"
           ],
-          "best_finish": 26,
+          "best_finish": [
+            "e60520637"
+          ],
+          "best_finish_position": 26,
           "total_incidents": 46,
           "total_laps": 115,
           "points": 8,
@@ -10856,7 +12001,11 @@
             "e61049274"
           ],
           "dnf": [],
-          "best_finish": 13,
+          "best_finish": [
+            "e60777032",
+            "e61049274"
+          ],
+          "best_finish_position": 13,
           "total_incidents": 66,
           "total_laps": 277,
           "points": 158,
@@ -10886,7 +12035,10 @@
             "e60907958",
             "e61178890"
           ],
-          "best_finish": 20,
+          "best_finish": [
+            "e61049274"
+          ],
+          "best_finish_position": 20,
           "total_incidents": 83,
           "total_laps": 252,
           "points": 78,
@@ -10914,7 +12066,10 @@
           "dnf": [
             "e60648996"
           ],
-          "best_finish": 12,
+          "best_finish": [
+            "e61178890"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 57,
           "total_laps": 249,
           "points": 156,
@@ -10940,7 +12095,10 @@
           "dnf": [
             "e60907958"
           ],
-          "best_finish": 25,
+          "best_finish": [
+            "e60777032"
+          ],
+          "best_finish_position": 25,
           "total_incidents": 61,
           "total_laps": 196,
           "points": 70,
@@ -10968,7 +12126,10 @@
             "e60777032",
             "e61049274"
           ],
-          "best_finish": 19,
+          "best_finish": [
+            "e60907958"
+          ],
+          "best_finish_position": 19,
           "total_incidents": 52,
           "total_laps": 166,
           "points": 66,
@@ -10997,7 +12158,10 @@
             "e60648996",
             "e61178890"
           ],
-          "best_finish": 6,
+          "best_finish": [
+            "e60777032"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 77,
           "total_laps": 240,
           "points": 159,
@@ -11024,7 +12188,10 @@
             "e60777032",
             "e61178890"
           ],
-          "best_finish": 32,
+          "best_finish": [
+            "e60648996"
+          ],
+          "best_finish_position": 32,
           "total_incidents": 41,
           "total_laps": 93,
           "points": -2,
@@ -11051,7 +12218,10 @@
             "e60648996",
             "e60907958"
           ],
-          "best_finish": 32,
+          "best_finish": [
+            "e61049274"
+          ],
+          "best_finish_position": 32,
           "total_incidents": 38,
           "total_laps": 127,
           "points": 17,
@@ -11079,7 +12249,11 @@
             "e60648996",
             "e61178890"
           ],
-          "best_finish": 26,
+          "best_finish": [
+            "e60907958",
+            "e61049274"
+          ],
+          "best_finish_position": 26,
           "total_incidents": 50,
           "total_laps": 205,
           "points": 66,
@@ -11103,7 +12277,10 @@
           "dnf": [
             "e60777032"
           ],
-          "best_finish": 36,
+          "best_finish": [
+            "e60520637"
+          ],
+          "best_finish_position": 36,
           "total_incidents": 27,
           "total_laps": 59,
           "points": 15,
@@ -11133,7 +12310,10 @@
           "dnf": [
             "e60520637"
           ],
-          "best_finish": 3,
+          "best_finish": [
+            "e61049274"
+          ],
+          "best_finish_position": 3,
           "total_incidents": 70,
           "total_laps": 249,
           "points": 101,
@@ -11159,7 +12339,10 @@
             "e60520637",
             "e60777032"
           ],
-          "best_finish": 12,
+          "best_finish": [
+            "e60648996"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 29,
           "total_laps": 78,
           "points": 8,
@@ -11188,7 +12371,10 @@
             "e60777032",
             "e60907958"
           ],
-          "best_finish": 38,
+          "best_finish": [
+            "e60907958"
+          ],
+          "best_finish_position": 38,
           "total_incidents": 65,
           "total_laps": 102,
           "points": 0,
@@ -11219,7 +12405,10 @@
             "e60777032",
             "e60907958"
           ],
-          "best_finish": 21,
+          "best_finish": [
+            "e61178890"
+          ],
+          "best_finish_position": 21,
           "total_incidents": 92,
           "total_laps": 191,
           "points": 33,
@@ -11248,7 +12437,10 @@
             "e60520637",
             "e60907958"
           ],
-          "best_finish": 15,
+          "best_finish": [
+            "e61178890"
+          ],
+          "best_finish_position": 15,
           "total_incidents": 38,
           "total_laps": 120,
           "points": 70,
@@ -11276,7 +12468,10 @@
             "e60520637",
             "e61049274"
           ],
-          "best_finish": 26,
+          "best_finish": [
+            "e60648996"
+          ],
+          "best_finish_position": 26,
           "total_incidents": 66,
           "total_laps": 212,
           "points": 46,
@@ -11299,7 +12494,10 @@
           "dnf": [
             "e60520637"
           ],
-          "best_finish": 43,
+          "best_finish": [
+            "e60520637"
+          ],
+          "best_finish_position": 43,
           "total_incidents": 6,
           "total_laps": 9,
           "points": 0,
@@ -11325,7 +12523,10 @@
             "e60520637",
             "e60777032"
           ],
-          "best_finish": 33,
+          "best_finish": [
+            "e60648996"
+          ],
+          "best_finish_position": 33,
           "total_incidents": 31,
           "total_laps": 57,
           "points": -21,
@@ -11352,7 +12553,10 @@
             "e60907958",
             "e61049274"
           ],
-          "best_finish": 42,
+          "best_finish": [
+            "e61049274"
+          ],
+          "best_finish_position": 42,
           "total_incidents": 19,
           "total_laps": 20,
           "points": -20,
@@ -11381,7 +12585,10 @@
             "e60520637",
             "e61178890"
           ],
-          "best_finish": 9,
+          "best_finish": [
+            "e61049274"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 55,
           "total_laps": 238,
           "points": 156,
@@ -11406,7 +12613,10 @@
           "dnf": [
             "e60520637"
           ],
-          "best_finish": 47,
+          "best_finish": [
+            "e60520637"
+          ],
+          "best_finish_position": 47,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -11435,7 +12645,10 @@
           "dnf": [
             "e60777032"
           ],
-          "best_finish": 2,
+          "best_finish": [
+            "e61178890"
+          ],
+          "best_finish_position": 2,
           "total_incidents": 36,
           "total_laps": 189,
           "points": 275,
@@ -11457,7 +12670,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 9,
+          "best_finish": [
+            "e60648996"
+          ],
+          "best_finish_position": 9,
           "total_incidents": 24,
           "total_laps": 111,
           "points": 52,
@@ -11481,7 +12697,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 11,
+          "best_finish": [
+            "e61178890"
+          ],
+          "best_finish_position": 11,
           "total_incidents": 22,
           "total_laps": 184,
           "points": 150,
@@ -11506,7 +12725,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 10,
+          "best_finish": [
+            "e61178890"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 37,
           "total_laps": 241,
           "points": 180,
@@ -11533,7 +12755,10 @@
             "e61178890"
           ],
           "dnf": [],
-          "best_finish": 16,
+          "best_finish": [
+            "e61178890"
+          ],
+          "best_finish_position": 16,
           "total_incidents": 28,
           "total_laps": 231,
           "points": 142,
@@ -11558,7 +12783,10 @@
           "dnf": [
             "e61178890"
           ],
-          "best_finish": 12,
+          "best_finish": [
+            "e60777032"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 43,
           "total_laps": 119,
           "points": 56,
@@ -11582,7 +12810,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 24,
+          "best_finish": [
+            "e61049274"
+          ],
+          "best_finish_position": 24,
           "total_incidents": 36,
           "total_laps": 229,
           "points": 56,
@@ -11608,7 +12839,10 @@
             "e60907958"
           ],
           "dnf": [],
-          "best_finish": 18,
+          "best_finish": [
+            "e61178890"
+          ],
+          "best_finish_position": 18,
           "total_incidents": 37,
           "total_laps": 175,
           "points": 79,
@@ -11636,7 +12870,10 @@
             "e60907958",
             "e61049274"
           ],
-          "best_finish": 31,
+          "best_finish": [
+            "e60777032"
+          ],
+          "best_finish_position": 31,
           "total_incidents": 36,
           "total_laps": 101,
           "points": 20,
@@ -11667,7 +12904,11 @@
             "e60777032",
             "e61178890"
           ],
-          "best_finish": 12,
+          "best_finish": [
+            "e60907958",
+            "e61049274"
+          ],
+          "best_finish_position": 12,
           "total_incidents": 48,
           "total_laps": 156,
           "points": 76,
@@ -11706,7 +12947,11 @@
           "dnf": [
             "e61049274"
           ],
-          "best_finish": 1,
+          "best_finish": [
+            "e60907958",
+            "e61178890"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 38,
           "total_laps": 179,
           "points": 280,
@@ -11731,7 +12976,10 @@
           "dnf": [
             "e60777032"
           ],
-          "best_finish": 10,
+          "best_finish": [
+            "e60907958"
+          ],
+          "best_finish_position": 10,
           "total_incidents": 28,
           "total_laps": 148,
           "points": 53,
@@ -11754,7 +13002,10 @@
           "dnf": [
             "e60777032"
           ],
-          "best_finish": 45,
+          "best_finish": [
+            "e60777032"
+          ],
+          "best_finish_position": 45,
           "total_incidents": 4,
           "total_laps": 3,
           "points": -20,
@@ -11775,7 +13026,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 34,
+          "best_finish": [
+            "e60907958"
+          ],
+          "best_finish_position": 34,
           "total_incidents": 13,
           "total_laps": 60,
           "points": 17,
@@ -11801,7 +13055,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 1,
+          "best_finish": [
+            "e61049274"
+          ],
+          "best_finish_position": 1,
           "total_incidents": 7,
           "total_laps": 72,
           "points": 162,
@@ -11825,7 +13082,10 @@
             "e61049274"
           ],
           "dnf": [],
-          "best_finish": 6,
+          "best_finish": [
+            "e61049274"
+          ],
+          "best_finish_position": 6,
           "total_incidents": 3,
           "total_laps": 72,
           "points": 121,
@@ -11846,7 +13106,10 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 13,
+          "best_finish": [
+            "e61178890"
+          ],
+          "best_finish_position": 13,
           "total_incidents": 9,
           "total_laps": 11,
           "points": 46,
@@ -11869,7 +13132,10 @@
           "dnf": [
             "e61178890"
           ],
-          "best_finish": 35,
+          "best_finish": [
+            "e61178890"
+          ],
+          "best_finish_position": 35,
           "total_incidents": 5,
           "total_laps": 4,
           "points": 0,
@@ -11886,7 +13152,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -11902,7 +13169,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -11918,7 +13186,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -11934,7 +13203,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -11950,7 +13220,8 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [],
-          "best_finish": 0,
+          "best_finish": [],
+          "best_finish_position": 0,
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
@@ -12055,7 +13326,15 @@
         "e46025634",
         "e61178890"
       ],
-      "best_finish": 1,
+      "best_finish": [
+        "e43688371",
+        "e44470912",
+        "e45289872",
+        "e45783826",
+        "e45904709",
+        "e46276900"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 244,
       "total_laps": 1524,
       "points": 2121,
@@ -12157,7 +13436,10 @@
         "e52457960",
         "e59079197"
       ],
-      "best_finish": 1,
+      "best_finish": [
+        "e44083551"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 396,
       "total_laps": 2393,
       "points": 2491,
@@ -12261,7 +13543,20 @@
         "e45537036",
         "e61049274"
       ],
-      "best_finish": 1,
+      "best_finish": [
+        "e43818425",
+        "e43947086",
+        "e44209414",
+        "e44596633",
+        "e44718269",
+        "e45043469",
+        "e45166697",
+        "e58735229",
+        "e58943064",
+        "e59600210",
+        "e60174844"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 272,
       "total_laps": 1591,
       "points": 1976,
@@ -12303,7 +13598,10 @@
         "e44083551",
         "e44718269"
       ],
-      "best_finish": 3,
+      "best_finish": [
+        "e43818425"
+      ],
+      "best_finish_position": 3,
       "total_incidents": 38,
       "total_laps": 362,
       "points": 445,
@@ -12417,7 +13715,14 @@
         "e60047867",
         "e61178890"
       ],
-      "best_finish": 1,
+      "best_finish": [
+        "e46025634",
+        "e50745008",
+        "e51798636",
+        "e52079920",
+        "e52328647"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 504,
       "total_laps": 2305,
       "points": 2522,
@@ -12439,7 +13744,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 6,
+      "best_finish": [
+        "e43688371"
+      ],
+      "best_finish_position": 6,
       "total_incidents": 14,
       "total_laps": 60,
       "points": 65,
@@ -12549,7 +13857,11 @@
         "e44718269",
         "e51124814"
       ],
-      "best_finish": 1,
+      "best_finish": [
+        "e46743168",
+        "e50119527"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 328,
       "total_laps": 2465,
       "points": 3057,
@@ -12653,7 +13965,12 @@
         "e60520637",
         "e61178890"
       ],
-      "best_finish": 2,
+      "best_finish": [
+        "e44083551",
+        "e46276900",
+        "e46743168"
+      ],
+      "best_finish_position": 2,
       "total_incidents": 331,
       "total_laps": 2582,
       "points": 2477,
@@ -12715,7 +14032,10 @@
         "e51124814",
         "e59920833"
       ],
-      "best_finish": 3,
+      "best_finish": [
+        "e60174844"
+      ],
+      "best_finish_position": 3,
       "total_incidents": 139,
       "total_laps": 1193,
       "points": 1158,
@@ -12768,7 +14088,10 @@
         "e46025634",
         "e49999455"
       ],
-      "best_finish": 1,
+      "best_finish": [
+        "e45537036"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 146,
       "total_laps": 739,
       "points": 812,
@@ -12791,7 +14114,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 6,
+      "best_finish": [
+        "e43818425"
+      ],
+      "best_finish_position": 6,
       "total_incidents": 7,
       "total_laps": 121,
       "points": 115,
@@ -12885,7 +14211,12 @@
         "e59920833",
         "e61178890"
       ],
-      "best_finish": 4,
+      "best_finish": [
+        "e45783826",
+        "e50119527",
+        "e60174844"
+      ],
+      "best_finish_position": 4,
       "total_incidents": 510,
       "total_laps": 2381,
       "points": 1870,
@@ -12919,7 +14250,10 @@
         "e44470912",
         "e44718269"
       ],
-      "best_finish": 12,
+      "best_finish": [
+        "e43818425"
+      ],
+      "best_finish_position": 12,
       "total_incidents": 36,
       "total_laps": 328,
       "points": 270,
@@ -13007,7 +14341,11 @@
         "e59359422",
         "e60047867"
       ],
-      "best_finish": 5,
+      "best_finish": [
+        "e45412594",
+        "e45661734"
+      ],
+      "best_finish_position": 5,
       "total_incidents": 604,
       "total_laps": 2400,
       "points": 1718,
@@ -13036,7 +14374,10 @@
         "e44083551",
         "e44209414"
       ],
-      "best_finish": 15,
+      "best_finish": [
+        "e43688371"
+      ],
+      "best_finish_position": 15,
       "total_incidents": 32,
       "total_laps": 83,
       "points": 2,
@@ -13065,7 +14406,11 @@
       "dnf": [
         "e44470912"
       ],
-      "best_finish": 5,
+      "best_finish": [
+        "e44209414",
+        "e44718269"
+      ],
+      "best_finish_position": 5,
       "total_incidents": 69,
       "total_laps": 252,
       "points": 218,
@@ -13096,7 +14441,10 @@
         "e44470912",
         "e44596633"
       ],
-      "best_finish": 17,
+      "best_finish": [
+        "e43688371"
+      ],
+      "best_finish_position": 17,
       "total_incidents": 50,
       "total_laps": 195,
       "points": 98,
@@ -13143,7 +14491,10 @@
         "e44470912",
         "e47616905"
       ],
-      "best_finish": 5,
+      "best_finish": [
+        "e45166697"
+      ],
+      "best_finish_position": 5,
       "total_incidents": 140,
       "total_laps": 971,
       "points": 854,
@@ -13237,7 +14588,10 @@
         "e59359422",
         "e61178890"
       ],
-      "best_finish": 1,
+      "best_finish": [
+        "e55362836"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 547,
       "total_laps": 2581,
       "points": 1998,
@@ -13291,7 +14645,10 @@
         "e58943064",
         "e59079197"
       ],
-      "best_finish": 7,
+      "best_finish": [
+        "e45289872"
+      ],
+      "best_finish_position": 7,
       "total_incidents": 200,
       "total_laps": 745,
       "points": 338,
@@ -13322,7 +14679,10 @@
         "e44083551",
         "e44209414"
       ],
-      "best_finish": 21,
+      "best_finish": [
+        "e43688371"
+      ],
+      "best_finish_position": 21,
       "total_incidents": 63,
       "total_laps": 92,
       "points": -10,
@@ -13388,7 +14748,10 @@
         "e58735229",
         "e59600210"
       ],
-      "best_finish": 4,
+      "best_finish": [
+        "e45904709"
+      ],
+      "best_finish_position": 4,
       "total_incidents": 285,
       "total_laps": 1435,
       "points": 833,
@@ -13457,7 +14820,10 @@
         "e45661734",
         "e45904709"
       ],
-      "best_finish": 2,
+      "best_finish": [
+        "e46152832"
+      ],
+      "best_finish_position": 2,
       "total_incidents": 372,
       "total_laps": 1759,
       "points": 1069,
@@ -13515,7 +14881,10 @@
         "e51667188",
         "e58943064"
       ],
-      "best_finish": 11,
+      "best_finish": [
+        "e45412594"
+      ],
+      "best_finish_position": 11,
       "total_incidents": 360,
       "total_laps": 1276,
       "points": 608,
@@ -13605,7 +14974,10 @@
         "e60648996",
         "e61178890"
       ],
-      "best_finish": 9,
+      "best_finish": [
+        "e46276900"
+      ],
+      "best_finish_position": 9,
       "total_incidents": 445,
       "total_laps": 2589,
       "points": 1383,
@@ -13694,7 +15066,10 @@
         "e46743168",
         "e61178890"
       ],
-      "best_finish": 7,
+      "best_finish": [
+        "e47616905"
+      ],
+      "best_finish_position": 7,
       "total_incidents": 485,
       "total_laps": 2564,
       "points": 1425,
@@ -13717,7 +15092,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 27,
+      "best_finish": [
+        "e43688371"
+      ],
+      "best_finish_position": 27,
       "total_incidents": 29,
       "total_laps": 115,
       "points": 46,
@@ -13786,7 +15164,14 @@
         "e52457960",
         "e60777032"
       ],
-      "best_finish": 11,
+      "best_finish": [
+        "e46152832",
+        "e46276900",
+        "e51402819",
+        "e58735229",
+        "e59359422"
+      ],
+      "best_finish_position": 11,
       "total_incidents": 279,
       "total_laps": 1777,
       "points": 1077,
@@ -13864,7 +15249,10 @@
         "e60520637",
         "e61049274"
       ],
-      "best_finish": 15,
+      "best_finish": [
+        "e45904709"
+      ],
+      "best_finish_position": 15,
       "total_incidents": 355,
       "total_laps": 1660,
       "points": 656,
@@ -13934,7 +15322,10 @@
         "e55362836",
         "e59359422"
       ],
-      "best_finish": 10,
+      "best_finish": [
+        "e45783826"
+      ],
+      "best_finish_position": 10,
       "total_incidents": 305,
       "total_laps": 1153,
       "points": 464,
@@ -13961,7 +15352,10 @@
       "dnf": [
         "e44209414"
       ],
-      "best_finish": 21,
+      "best_finish": [
+        "e43818425"
+      ],
+      "best_finish_position": 21,
       "total_incidents": 55,
       "total_laps": 163,
       "points": 78,
@@ -14018,7 +15412,10 @@
         "e60648996",
         "e60907958"
       ],
-      "best_finish": 20,
+      "best_finish": [
+        "e45537036"
+      ],
+      "best_finish_position": 20,
       "total_incidents": 277,
       "total_laps": 674,
       "points": 112,
@@ -14052,7 +15449,10 @@
         "e44596633",
         "e44718269"
       ],
-      "best_finish": 10,
+      "best_finish": [
+        "e44470912"
+      ],
+      "best_finish_position": 10,
       "total_incidents": 79,
       "total_laps": 258,
       "points": 145,
@@ -14128,7 +15528,10 @@
         "e60777032",
         "e60907958"
       ],
-      "best_finish": 10,
+      "best_finish": [
+        "e47616905"
+      ],
+      "best_finish_position": 10,
       "total_incidents": 515,
       "total_laps": 1282,
       "points": 594,
@@ -14164,7 +15567,10 @@
         "e44596633",
         "e45412594"
       ],
-      "best_finish": 13,
+      "best_finish": [
+        "e43818425"
+      ],
+      "best_finish_position": 13,
       "total_incidents": 85,
       "total_laps": 283,
       "points": 147,
@@ -14238,7 +15644,12 @@
         "e46276900",
         "e58735229"
       ],
-      "best_finish": 4,
+      "best_finish": [
+        "e49726308",
+        "e50745008",
+        "e59920833"
+      ],
+      "best_finish_position": 4,
       "total_incidents": 278,
       "total_laps": 1710,
       "points": 1674,
@@ -14278,7 +15689,10 @@
         "e44718269",
         "e45412594"
       ],
-      "best_finish": 7,
+      "best_finish": [
+        "e44470912"
+      ],
+      "best_finish_position": 7,
       "total_incidents": 107,
       "total_laps": 497,
       "points": 290,
@@ -14313,7 +15727,10 @@
         "e44337306",
         "e44596633"
       ],
-      "best_finish": 25,
+      "best_finish": [
+        "e43818425"
+      ],
+      "best_finish_position": 25,
       "total_incidents": 45,
       "total_laps": 97,
       "points": 26,
@@ -14352,7 +15769,10 @@
         "e45166697",
         "e45661734"
       ],
-      "best_finish": 4,
+      "best_finish": [
+        "e45289872"
+      ],
+      "best_finish_position": 4,
       "total_incidents": 104,
       "total_laps": 372,
       "points": 318,
@@ -14376,7 +15796,10 @@
       "dnf": [
         "e43688371"
       ],
-      "best_finish": 40,
+      "best_finish": [
+        "e43688371"
+      ],
+      "best_finish_position": 40,
       "total_incidents": 11,
       "total_laps": 12,
       "points": 0,
@@ -14400,7 +15823,10 @@
       "dnf": [
         "e43688371"
       ],
-      "best_finish": 41,
+      "best_finish": [
+        "e43688371"
+      ],
+      "best_finish_position": 41,
       "total_incidents": 4,
       "total_laps": 10,
       "points": 0,
@@ -14438,7 +15864,10 @@
         "e45166697",
         "e45412594"
       ],
-      "best_finish": 8,
+      "best_finish": [
+        "e44596633"
+      ],
+      "best_finish_position": 8,
       "total_incidents": 87,
       "total_laps": 387,
       "points": 267,
@@ -14480,7 +15909,10 @@
         "e43947086",
         "e45043469"
       ],
-      "best_finish": 14,
+      "best_finish": [
+        "e46276900"
+      ],
+      "best_finish_position": 14,
       "total_incidents": 237,
       "total_laps": 702,
       "points": 356,
@@ -14511,7 +15943,10 @@
       "dnf": [
         "e44337306"
       ],
-      "best_finish": 3,
+      "best_finish": [
+        "e44209414"
+      ],
+      "best_finish_position": 3,
       "total_incidents": 58,
       "total_laps": 241,
       "points": 183,
@@ -14593,7 +16028,12 @@
         "e51282742",
         "e60777032"
       ],
-      "best_finish": 2,
+      "best_finish": [
+        "e45904709",
+        "e46025634",
+        "e61178890"
+      ],
+      "best_finish_position": 2,
       "total_incidents": 265,
       "total_laps": 1150,
       "points": 1080,
@@ -14684,7 +16124,10 @@
         "e60777032",
         "e61178890"
       ],
-      "best_finish": 2,
+      "best_finish": [
+        "e45412594"
+      ],
+      "best_finish_position": 2,
       "total_incidents": 264,
       "total_laps": 1723,
       "points": 1156,
@@ -14706,7 +16149,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 18,
+      "best_finish": [
+        "e43947086"
+      ],
+      "best_finish_position": 18,
       "total_incidents": 19,
       "total_laps": 44,
       "points": 16,
@@ -14733,7 +16179,10 @@
       "dnf": [
         "e44470912"
       ],
-      "best_finish": 21,
+      "best_finish": [
+        "e44718269"
+      ],
+      "best_finish_position": 21,
       "total_incidents": 46,
       "total_laps": 147,
       "points": 80,
@@ -14776,7 +16225,10 @@
         "e45043469",
         "e45166697"
       ],
-      "best_finish": 1,
+      "best_finish": [
+        "e44337306"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 61,
       "total_laps": 219,
       "points": 185,
@@ -14801,7 +16253,10 @@
       "dnf": [
         "e44083551"
       ],
-      "best_finish": 10,
+      "best_finish": [
+        "e44209414"
+      ],
+      "best_finish_position": 10,
       "total_incidents": 23,
       "total_laps": 46,
       "points": -40,
@@ -14825,7 +16280,10 @@
       "dnf": [
         "e44209414"
       ],
-      "best_finish": 32,
+      "best_finish": [
+        "e44209414"
+      ],
+      "best_finish_position": 32,
       "total_incidents": 15,
       "total_laps": 28,
       "points": -60,
@@ -14890,7 +16348,11 @@
         "e50745008",
         "e51798636"
       ],
-      "best_finish": 1,
+      "best_finish": [
+        "e46152832",
+        "e46612842"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 237,
       "total_laps": 909,
       "points": 857,
@@ -14931,7 +16393,10 @@
         "e45412594",
         "e45661734"
       ],
-      "best_finish": 2,
+      "best_finish": [
+        "e45289872"
+      ],
+      "best_finish_position": 2,
       "total_incidents": 85,
       "total_laps": 421,
       "points": 411,
@@ -14956,7 +16421,10 @@
       "dnf": [
         "e44596633"
       ],
-      "best_finish": 24,
+      "best_finish": [
+        "e44337306"
+      ],
+      "best_finish_position": 24,
       "total_incidents": 24,
       "total_laps": 66,
       "points": 0,
@@ -14990,7 +16458,10 @@
         "e44718269",
         "e45412594"
       ],
-      "best_finish": 9,
+      "best_finish": [
+        "e44596633"
+      ],
+      "best_finish_position": 9,
       "total_incidents": 76,
       "total_laps": 287,
       "points": 171,
@@ -15028,7 +16499,10 @@
         "e50119527",
         "e50622510"
       ],
-      "best_finish": 20,
+      "best_finish": [
+        "e44470912"
+      ],
+      "best_finish_position": 20,
       "total_incidents": 127,
       "total_laps": 561,
       "points": 212,
@@ -15062,7 +16536,10 @@
         "e45043469",
         "e45289872"
       ],
-      "best_finish": 12,
+      "best_finish": [
+        "e45166697"
+      ],
+      "best_finish_position": 12,
       "total_incidents": 60,
       "total_laps": 125,
       "points": 8,
@@ -15136,7 +16613,10 @@
         "e52328647",
         "e52457960"
       ],
-      "best_finish": 7,
+      "best_finish": [
+        "e45412594"
+      ],
+      "best_finish_position": 7,
       "total_incidents": 189,
       "total_laps": 1725,
       "points": 1284,
@@ -15165,7 +16645,10 @@
       "dnf": [
         "e45289872"
       ],
-      "best_finish": 10,
+      "best_finish": [
+        "e45043469"
+      ],
+      "best_finish_position": 10,
       "total_incidents": 18,
       "total_laps": 94,
       "points": 101,
@@ -15197,7 +16680,10 @@
         "e45289872",
         "e45661734"
       ],
-      "best_finish": 6,
+      "best_finish": [
+        "e45537036"
+      ],
+      "best_finish_position": 6,
       "total_incidents": 52,
       "total_laps": 194,
       "points": 130,
@@ -15256,7 +16742,10 @@
       "dnf": [
         "e46743168"
       ],
-      "best_finish": 9,
+      "best_finish": [
+        "e52457960"
+      ],
+      "best_finish_position": 9,
       "total_incidents": 187,
       "total_laps": 1376,
       "points": 820,
@@ -15339,7 +16828,11 @@
       "dnf": [
         "e47616905"
       ],
-      "best_finish": 2,
+      "best_finish": [
+        "e49999455",
+        "e50119527"
+      ],
+      "best_finish_position": 2,
       "total_incidents": 231,
       "total_laps": 2234,
       "points": 2043,
@@ -15390,7 +16883,10 @@
         "e51402819",
         "e58735229"
       ],
-      "best_finish": 4,
+      "best_finish": [
+        "e51124814"
+      ],
+      "best_finish_position": 4,
       "total_incidents": 155,
       "total_laps": 852,
       "points": 741,
@@ -15419,7 +16915,10 @@
         "e45537036",
         "e46025634"
       ],
-      "best_finish": 17,
+      "best_finish": [
+        "e45043469"
+      ],
+      "best_finish_position": 17,
       "total_incidents": 29,
       "total_laps": 61,
       "points": -2,
@@ -15461,7 +16960,10 @@
         "e47616905",
         "e50312264"
       ],
-      "best_finish": 11,
+      "best_finish": [
+        "e46743168"
+      ],
+      "best_finish_position": 11,
       "total_incidents": 139,
       "total_laps": 571,
       "points": 330,
@@ -15538,7 +17040,10 @@
         "e45904709",
         "e55362836"
       ],
-      "best_finish": 6,
+      "best_finish": [
+        "e46743168"
+      ],
+      "best_finish_position": 6,
       "total_incidents": 264,
       "total_laps": 2224,
       "points": 1348,
@@ -15563,7 +17068,10 @@
       "dnf": [
         "e45289872"
       ],
-      "best_finish": 29,
+      "best_finish": [
+        "e45043469"
+      ],
+      "best_finish_position": 29,
       "total_incidents": 12,
       "total_laps": 45,
       "points": 22,
@@ -15618,7 +17126,10 @@
         "e51402819",
         "e52328647"
       ],
-      "best_finish": 16,
+      "best_finish": [
+        "e46025634"
+      ],
+      "best_finish_position": 16,
       "total_incidents": 224,
       "total_laps": 1252,
       "points": 542,
@@ -15649,7 +17160,10 @@
         "e49999455",
         "e51402819"
       ],
-      "best_finish": 6,
+      "best_finish": [
+        "e45289872"
+      ],
+      "best_finish_position": 6,
       "total_incidents": 25,
       "total_laps": 95,
       "points": 65,
@@ -15687,7 +17201,10 @@
         "e49726308",
         "e49999455"
       ],
-      "best_finish": 5,
+      "best_finish": [
+        "e46612842"
+      ],
+      "best_finish_position": 5,
       "total_incidents": 154,
       "total_laps": 318,
       "points": 173,
@@ -15711,7 +17228,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 2,
+      "best_finish": [
+        "e45166697"
+      ],
+      "best_finish_position": 2,
       "total_incidents": 10,
       "total_laps": 61,
       "points": 90,
@@ -15736,7 +17256,10 @@
       "dnf": [
         "e45166697"
       ],
-      "best_finish": 6,
+      "best_finish": [
+        "e45412594"
+      ],
+      "best_finish_position": 6,
       "total_incidents": 25,
       "total_laps": 28,
       "points": 65,
@@ -15772,7 +17295,11 @@
         "e45412594"
       ],
       "dnf": [],
-      "best_finish": 1,
+      "best_finish": [
+        "e45412594",
+        "e45661734"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 1,
       "total_laps": 55,
       "points": 200,
@@ -15819,7 +17346,12 @@
       "dnf": [
         "e46612842"
       ],
-      "best_finish": 13,
+      "best_finish": [
+        "e45412594",
+        "e45904709",
+        "e46276900"
+      ],
+      "best_finish_position": 13,
       "total_incidents": 66,
       "total_laps": 891,
       "points": 564,
@@ -15847,7 +17379,10 @@
         "e45412594",
         "e46025634"
       ],
-      "best_finish": 8,
+      "best_finish": [
+        "e45537036"
+      ],
+      "best_finish_position": 8,
       "total_incidents": 54,
       "total_laps": 150,
       "points": 59,
@@ -15875,7 +17410,10 @@
         "e45904709",
         "e51124814"
       ],
-      "best_finish": 10,
+      "best_finish": [
+        "e46152832"
+      ],
+      "best_finish_position": 10,
       "total_incidents": 36,
       "total_laps": 90,
       "points": 33,
@@ -15932,7 +17470,10 @@
         "e51667188",
         "e55362836"
       ],
-      "best_finish": 11,
+      "best_finish": [
+        "e46025634"
+      ],
+      "best_finish_position": 11,
       "total_incidents": 373,
       "total_laps": 1133,
       "points": 447,
@@ -15975,7 +17516,10 @@
         "e51402819",
         "e51521319"
       ],
-      "best_finish": 15,
+      "best_finish": [
+        "e46276900"
+      ],
+      "best_finish_position": 15,
       "total_incidents": 147,
       "total_laps": 442,
       "points": 127,
@@ -16057,7 +17601,13 @@
         "e51402819",
         "e59920833"
       ],
-      "best_finish": 1,
+      "best_finish": [
+        "e47616905",
+        "e49999455",
+        "e51124814",
+        "e59079197"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 198,
       "total_laps": 1097,
       "points": 1590,
@@ -16119,7 +17669,10 @@
         "e59793230",
         "e61049274"
       ],
-      "best_finish": 7,
+      "best_finish": [
+        "e55362836"
+      ],
+      "best_finish_position": 7,
       "total_incidents": 197,
       "total_laps": 904,
       "points": 338,
@@ -16190,7 +17743,10 @@
         "e60777032",
         "e61178890"
       ],
-      "best_finish": 8,
+      "best_finish": [
+        "e60174844"
+      ],
+      "best_finish_position": 8,
       "total_incidents": 311,
       "total_laps": 1062,
       "points": 419,
@@ -16233,7 +17789,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 16,
+      "best_finish": [
+        "e50312264"
+      ],
+      "best_finish_position": 16,
       "total_incidents": 145,
       "total_laps": 1058,
       "points": 482,
@@ -16284,7 +17843,10 @@
         "e60907958",
         "e61049274"
       ],
-      "best_finish": 22,
+      "best_finish": [
+        "e61178890"
+      ],
+      "best_finish_position": 22,
       "total_incidents": 189,
       "total_laps": 502,
       "points": 127,
@@ -16338,7 +17900,10 @@
         "e49999455",
         "e51124814"
       ],
-      "best_finish": 5,
+      "best_finish": [
+        "e52457960"
+      ],
+      "best_finish_position": 5,
       "total_incidents": 319,
       "total_laps": 1288,
       "points": 659,
@@ -16419,7 +17984,10 @@
         "e58735229",
         "e60520637"
       ],
-      "best_finish": 1,
+      "best_finish": [
+        "e59920833"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 309,
       "total_laps": 1490,
       "points": 1178,
@@ -16443,7 +18011,10 @@
       "dnf": [
         "e46612842"
       ],
-      "best_finish": 33,
+      "best_finish": [
+        "e46612842"
+      ],
+      "best_finish_position": 33,
       "total_incidents": 17,
       "total_laps": 42,
       "points": 0,
@@ -16493,7 +18064,10 @@
         "e51402819",
         "e59079197"
       ],
-      "best_finish": 11,
+      "best_finish": [
+        "e52457960"
+      ],
+      "best_finish_position": 11,
       "total_incidents": 144,
       "total_laps": 1008,
       "points": 557,
@@ -16533,7 +18107,10 @@
         "e60520637",
         "e60777032"
       ],
-      "best_finish": 8,
+      "best_finish": [
+        "e52328647"
+      ],
+      "best_finish_position": 8,
       "total_incidents": 121,
       "total_laps": 437,
       "points": 174,
@@ -16582,7 +18159,10 @@
         "e51282742",
         "e51521319"
       ],
-      "best_finish": 5,
+      "best_finish": [
+        "e46743168"
+      ],
+      "best_finish_position": 5,
       "total_incidents": 78,
       "total_laps": 383,
       "points": 228,
@@ -16612,7 +18192,10 @@
         "e49726308",
         "e49999455"
       ],
-      "best_finish": 22,
+      "best_finish": [
+        "e46743168"
+      ],
+      "best_finish_position": 22,
       "total_incidents": 65,
       "total_laps": 206,
       "points": 35,
@@ -16661,7 +18244,10 @@
         "e49999455",
         "e50492800"
       ],
-      "best_finish": 3,
+      "best_finish": [
+        "e58735229"
+      ],
+      "best_finish_position": 3,
       "total_incidents": 218,
       "total_laps": 863,
       "points": 768,
@@ -16685,7 +18271,10 @@
       "dnf": [
         "e46612842"
       ],
-      "best_finish": 42,
+      "best_finish": [
+        "e46612842"
+      ],
+      "best_finish_position": 42,
       "total_incidents": 14,
       "total_laps": 15,
       "points": 0,
@@ -16713,7 +18302,10 @@
         "e49726308",
         "e49999455"
       ],
-      "best_finish": 43,
+      "best_finish": [
+        "e49999455"
+      ],
+      "best_finish_position": 43,
       "total_incidents": 27,
       "total_laps": 24,
       "points": -20,
@@ -16757,7 +18349,10 @@
         "e47616905",
         "e59079197"
       ],
-      "best_finish": 8,
+      "best_finish": [
+        "e52457960"
+      ],
+      "best_finish_position": 8,
       "total_incidents": 139,
       "total_laps": 572,
       "points": 357,
@@ -16794,7 +18389,10 @@
         "e51521319",
         "e52328647"
       ],
-      "best_finish": 8,
+      "best_finish": [
+        "e46743168"
+      ],
+      "best_finish_position": 8,
       "total_incidents": 107,
       "total_laps": 255,
       "points": 87,
@@ -16827,7 +18425,10 @@
         "e49855570"
       ],
       "dnf": [],
-      "best_finish": 17,
+      "best_finish": [
+        "e50119527"
+      ],
+      "best_finish_position": 17,
       "total_incidents": 101,
       "total_laps": 539,
       "points": 195,
@@ -16867,7 +18468,10 @@
         "e51282742",
         "e51521319"
       ],
-      "best_finish": 10,
+      "best_finish": [
+        "e50745008"
+      ],
+      "best_finish_position": 10,
       "total_incidents": 222,
       "total_laps": 412,
       "points": 29,
@@ -17027,7 +18631,26 @@
         "e60907958",
         "e61049274"
       ],
-      "best_finish": 1,
+      "best_finish": [
+        "e49726308",
+        "e49855570",
+        "e50312264",
+        "e50492800",
+        "e50622510",
+        "e51282742",
+        "e51402819",
+        "e51521319",
+        "e51667188",
+        "e52202612",
+        "e52457960",
+        "e59359422",
+        "e59793230",
+        "e60047867",
+        "e60520637",
+        "e60648996",
+        "e60777032"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 360,
       "total_laps": 1645,
       "points": 2378,
@@ -17089,7 +18712,10 @@
         "e58735229",
         "e61178890"
       ],
-      "best_finish": 5,
+      "best_finish": [
+        "e60174844"
+      ],
+      "best_finish_position": 5,
       "total_incidents": 351,
       "total_laps": 1643,
       "points": 953,
@@ -17140,7 +18766,10 @@
         "e58735229",
         "e60047867"
       ],
-      "best_finish": 8,
+      "best_finish": [
+        "e50119527"
+      ],
+      "best_finish_position": 8,
       "total_incidents": 308,
       "total_laps": 1186,
       "points": 535,
@@ -17163,7 +18792,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 12,
+      "best_finish": [
+        "e49999455"
+      ],
+      "best_finish_position": 12,
       "total_incidents": 25,
       "total_laps": 94,
       "points": 70,
@@ -17194,7 +18826,10 @@
         "e50492800",
         "e50622510"
       ],
-      "best_finish": 24,
+      "best_finish": [
+        "e49999455"
+      ],
+      "best_finish_position": 24,
       "total_incidents": 41,
       "total_laps": 70,
       "points": 27,
@@ -17218,7 +18853,10 @@
       "dnf": [
         "e49999455"
       ],
-      "best_finish": 47,
+      "best_finish": [
+        "e49999455"
+      ],
+      "best_finish_position": 47,
       "total_incidents": 8,
       "total_laps": 2,
       "points": -20,
@@ -17270,7 +18908,10 @@
         "e60520637",
         "e60777032"
       ],
-      "best_finish": 5,
+      "best_finish": [
+        "e59359422"
+      ],
+      "best_finish_position": 5,
       "total_incidents": 180,
       "total_laps": 1083,
       "points": 763,
@@ -17313,7 +18954,10 @@
         "e51798636",
         "e60648996"
       ],
-      "best_finish": 17,
+      "best_finish": [
+        "e61178890"
+      ],
+      "best_finish_position": 17,
       "total_incidents": 189,
       "total_laps": 497,
       "points": 193,
@@ -17360,7 +19004,10 @@
         "e52328647",
         "e58735229"
       ],
-      "best_finish": 3,
+      "best_finish": [
+        "e52079920"
+      ],
+      "best_finish_position": 3,
       "total_incidents": 126,
       "total_laps": 824,
       "points": 614,
@@ -17386,7 +19033,10 @@
       "dnf": [
         "e50492800"
       ],
-      "best_finish": 43,
+      "best_finish": [
+        "e50492800"
+      ],
+      "best_finish_position": 43,
       "total_incidents": 0,
       "total_laps": 0,
       "points": 0,
@@ -17409,7 +19059,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 14,
+      "best_finish": [
+        "e50745008"
+      ],
+      "best_finish_position": 14,
       "total_incidents": 28,
       "total_laps": 111,
       "points": 76,
@@ -17465,7 +19118,10 @@
         "e60907958",
         "e61049274"
       ],
-      "best_finish": 20,
+      "best_finish": [
+        "e59920833"
+      ],
+      "best_finish_position": 20,
       "total_incidents": 184,
       "total_laps": 629,
       "points": 104,
@@ -17501,7 +19157,10 @@
         "e58735229",
         "e59079197"
       ],
-      "best_finish": 17,
+      "best_finish": [
+        "e51402819"
+      ],
+      "best_finish_position": 17,
       "total_incidents": 81,
       "total_laps": 325,
       "points": 152,
@@ -17556,7 +19215,11 @@
         "e60777032",
         "e60907958"
       ],
-      "best_finish": 19,
+      "best_finish": [
+        "e51402819",
+        "e52328647"
+      ],
+      "best_finish_position": 19,
       "total_incidents": 330,
       "total_laps": 993,
       "points": 254,
@@ -17613,7 +19276,11 @@
         "e61049274",
         "e61178890"
       ],
-      "best_finish": 2,
+      "best_finish": [
+        "e51402819",
+        "e51798636"
+      ],
+      "best_finish_position": 2,
       "total_incidents": 176,
       "total_laps": 852,
       "points": 744,
@@ -17650,7 +19317,10 @@
       "dnf": [
         "e60047867"
       ],
-      "best_finish": 5,
+      "best_finish": [
+        "e52328647"
+      ],
+      "best_finish_position": 5,
       "total_incidents": 181,
       "total_laps": 637,
       "points": 330,
@@ -17677,7 +19347,10 @@
         "e51402819",
         "e51521319"
       ],
-      "best_finish": 15,
+      "best_finish": [
+        "e51282742"
+      ],
+      "best_finish_position": 15,
       "total_incidents": 47,
       "total_laps": 94,
       "points": 42,
@@ -17722,7 +19395,10 @@
         "e52328647",
         "e61178890"
       ],
-      "best_finish": 6,
+      "best_finish": [
+        "e58735229"
+      ],
+      "best_finish_position": 6,
       "total_incidents": 101,
       "total_laps": 775,
       "points": 651,
@@ -17747,7 +19423,10 @@
       "dnf": [
         "e51282742"
       ],
-      "best_finish": 9,
+      "best_finish": [
+        "e52079920"
+      ],
+      "best_finish_position": 9,
       "total_incidents": 21,
       "total_laps": 92,
       "points": 56,
@@ -17771,7 +19450,10 @@
       "dnf": [
         "e51282742"
       ],
-      "best_finish": 42,
+      "best_finish": [
+        "e51282742"
+      ],
+      "best_finish_position": 42,
       "total_incidents": 8,
       "total_laps": 10,
       "points": 0,
@@ -17795,7 +19477,10 @@
       "dnf": [
         "e51402819"
       ],
-      "best_finish": 42,
+      "best_finish": [
+        "e51402819"
+      ],
+      "best_finish_position": 42,
       "total_incidents": 8,
       "total_laps": 9,
       "points": 0,
@@ -17823,7 +19508,10 @@
         "e51402819",
         "e51667188"
       ],
-      "best_finish": 35,
+      "best_finish": [
+        "e51667188"
+      ],
+      "best_finish_position": 35,
       "total_incidents": 2,
       "total_laps": 1,
       "points": 0,
@@ -17848,7 +19536,10 @@
       "dnf": [
         "e51798636"
       ],
-      "best_finish": 19,
+      "best_finish": [
+        "e51521319"
+      ],
+      "best_finish_position": 19,
       "total_incidents": 29,
       "total_laps": 102,
       "points": -6,
@@ -17872,7 +19563,10 @@
       "dnf": [
         "e51521319"
       ],
-      "best_finish": 36,
+      "best_finish": [
+        "e51521319"
+      ],
+      "best_finish_position": 36,
       "total_incidents": 15,
       "total_laps": 16,
       "points": -20,
@@ -17916,7 +19610,10 @@
         "e60648996",
         "e61178890"
       ],
-      "best_finish": 6,
+      "best_finish": [
+        "e60777032"
+      ],
+      "best_finish_position": 6,
       "total_incidents": 190,
       "total_laps": 493,
       "points": 203,
@@ -17964,7 +19661,10 @@
         "e59920833",
         "e60648996"
       ],
-      "best_finish": 12,
+      "best_finish": [
+        "e61178890"
+      ],
+      "best_finish_position": 12,
       "total_incidents": 170,
       "total_laps": 675,
       "points": 281,
@@ -17991,7 +19691,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 11,
+      "best_finish": [
+        "e61178890"
+      ],
+      "best_finish_position": 11,
       "total_incidents": 30,
       "total_laps": 230,
       "points": 178,
@@ -18030,7 +19733,10 @@
         "e61178890"
       ],
       "dnf": [],
-      "best_finish": 16,
+      "best_finish": [
+        "e61178890"
+      ],
+      "best_finish_position": 16,
       "total_incidents": 69,
       "total_laps": 612,
       "points": 322,
@@ -18068,7 +19774,10 @@
         "e60907958",
         "e61178890"
       ],
-      "best_finish": 6,
+      "best_finish": [
+        "e59920833"
+      ],
+      "best_finish_position": 6,
       "total_incidents": 186,
       "total_laps": 531,
       "points": 223,
@@ -18107,7 +19816,10 @@
         "e60520637",
         "e60907958"
       ],
-      "best_finish": 15,
+      "best_finish": [
+        "e61178890"
+      ],
+      "best_finish_position": 15,
       "total_incidents": 111,
       "total_laps": 450,
       "points": 192,
@@ -18134,7 +19846,10 @@
         "e59793230",
         "e59920833"
       ],
-      "best_finish": 32,
+      "best_finish": [
+        "e58735229"
+      ],
+      "best_finish_position": 32,
       "total_incidents": 28,
       "total_laps": 74,
       "points": 0,
@@ -18158,7 +19873,10 @@
       "dnf": [
         "e58735229"
       ],
-      "best_finish": 48,
+      "best_finish": [
+        "e58735229"
+      ],
+      "best_finish_position": 48,
       "total_incidents": 7,
       "total_laps": 1,
       "points": -20,
@@ -18184,7 +19902,10 @@
       "dnf": [
         "e58735229"
       ],
-      "best_finish": 50,
+      "best_finish": [
+        "e58735229"
+      ],
+      "best_finish_position": 50,
       "total_incidents": 0,
       "total_laps": 0,
       "points": 0,
@@ -18222,7 +19943,10 @@
         "e61049274",
         "e61178890"
       ],
-      "best_finish": 20,
+      "best_finish": [
+        "e59793230"
+      ],
+      "best_finish_position": 20,
       "total_incidents": 112,
       "total_laps": 302,
       "points": 48,
@@ -18258,7 +19982,10 @@
         "e60907958",
         "e61049274"
       ],
-      "best_finish": 5,
+      "best_finish": [
+        "e59920833"
+      ],
+      "best_finish_position": 5,
       "total_incidents": 45,
       "total_laps": 413,
       "points": 357,
@@ -18295,7 +20022,10 @@
       "dnf": [
         "e61178890"
       ],
-      "best_finish": 9,
+      "best_finish": [
+        "e59600210"
+      ],
+      "best_finish_position": 9,
       "total_incidents": 53,
       "total_laps": 563,
       "points": 433,
@@ -18325,7 +20055,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 20,
+      "best_finish": [
+        "e61178890"
+      ],
+      "best_finish_position": 20,
       "total_incidents": 91,
       "total_laps": 378,
       "points": 156,
@@ -18351,7 +20084,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 10,
+      "best_finish": [
+        "e59920833"
+      ],
+      "best_finish_position": 10,
       "total_incidents": 34,
       "total_laps": 168,
       "points": 128,
@@ -18391,7 +20127,11 @@
         "e60777032",
         "e61049274"
       ],
-      "best_finish": 8,
+      "best_finish": [
+        "e60648996",
+        "e61178890"
+      ],
+      "best_finish_position": 8,
       "total_incidents": 59,
       "total_laps": 440,
       "points": 362,
@@ -18420,7 +20160,10 @@
         "e60174844",
         "e61178890"
       ],
-      "best_finish": 21,
+      "best_finish": [
+        "e60047867"
+      ],
+      "best_finish_position": 21,
       "total_incidents": 49,
       "total_laps": 158,
       "points": 14,
@@ -18452,7 +20195,11 @@
         "e60648996",
         "e61178890"
       ],
-      "best_finish": 26,
+      "best_finish": [
+        "e60907958",
+        "e61049274"
+      ],
+      "best_finish_position": 26,
       "total_incidents": 66,
       "total_laps": 319,
       "points": 113,
@@ -18480,7 +20227,10 @@
         "e59920833",
         "e60520637"
       ],
-      "best_finish": 15,
+      "best_finish": [
+        "e60047867"
+      ],
+      "best_finish_position": 15,
       "total_incidents": 25,
       "total_laps": 94,
       "points": 22,
@@ -18507,7 +20257,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 14,
+      "best_finish": [
+        "e60777032"
+      ],
+      "best_finish_position": 14,
       "total_incidents": 68,
       "total_laps": 287,
       "points": 146,
@@ -18534,7 +20287,10 @@
       "dnf": [
         "e60907958"
       ],
-      "best_finish": 25,
+      "best_finish": [
+        "e60777032"
+      ],
+      "best_finish_position": 25,
       "total_incidents": 61,
       "total_laps": 196,
       "points": 70,
@@ -18563,7 +20319,10 @@
         "e60777032",
         "e61049274"
       ],
-      "best_finish": 19,
+      "best_finish": [
+        "e60907958"
+      ],
+      "best_finish_position": 19,
       "total_incidents": 52,
       "total_laps": 166,
       "points": 66,
@@ -18591,7 +20350,10 @@
         "e60777032",
         "e61178890"
       ],
-      "best_finish": 32,
+      "best_finish": [
+        "e60648996"
+      ],
+      "best_finish_position": 32,
       "total_incidents": 41,
       "total_laps": 93,
       "points": -2,
@@ -18617,7 +20379,10 @@
       "dnf": [
         "e60520637"
       ],
-      "best_finish": 47,
+      "best_finish": [
+        "e60520637"
+      ],
+      "best_finish_position": 47,
       "total_incidents": 0,
       "total_laps": 0,
       "points": 0,
@@ -18640,7 +20405,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 9,
+      "best_finish": [
+        "e60648996"
+      ],
+      "best_finish_position": 9,
       "total_incidents": 24,
       "total_laps": 111,
       "points": 52,
@@ -18680,7 +20448,11 @@
       "dnf": [
         "e61049274"
       ],
-      "best_finish": 1,
+      "best_finish": [
+        "e60907958",
+        "e61178890"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 38,
       "total_laps": 179,
       "points": 280,
@@ -18706,7 +20478,10 @@
       "dnf": [
         "e60777032"
       ],
-      "best_finish": 10,
+      "best_finish": [
+        "e60907958"
+      ],
+      "best_finish_position": 10,
       "total_incidents": 28,
       "total_laps": 148,
       "points": 53,
@@ -18730,7 +20505,10 @@
       "dnf": [
         "e60777032"
       ],
-      "best_finish": 45,
+      "best_finish": [
+        "e60777032"
+      ],
+      "best_finish_position": 45,
       "total_incidents": 4,
       "total_laps": 3,
       "points": -20,
@@ -18752,7 +20530,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 34,
+      "best_finish": [
+        "e60907958"
+      ],
+      "best_finish_position": 34,
       "total_incidents": 13,
       "total_laps": 60,
       "points": 17,
@@ -18779,7 +20560,10 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [],
-      "best_finish": 1,
+      "best_finish": [
+        "e61049274"
+      ],
+      "best_finish_position": 1,
       "total_incidents": 7,
       "total_laps": 72,
       "points": 162,
@@ -18804,7 +20588,10 @@
         "e61049274"
       ],
       "dnf": [],
-      "best_finish": 6,
+      "best_finish": [
+        "e61049274"
+      ],
+      "best_finish_position": 6,
       "total_incidents": 3,
       "total_laps": 72,
       "points": 121,
@@ -19207,6 +20994,7 @@
       "id": "e43688371",
       "start_time": "2022-01-05T19:00:25Z",
       "track_id": "t403",
+      "season_id": "s1",
       "results": {
         "d491843": {
           "id": "d491843",
@@ -19624,6 +21412,7 @@
       "id": "e43818425",
       "start_time": "2022-01-12T19:00:34Z",
       "track_id": "t152",
+      "season_id": "s1",
       "results": {
         "d374266": {
           "id": "d374266",
@@ -20021,6 +21810,7 @@
       "id": "e43947086",
       "start_time": "2022-01-19T19:00:25Z",
       "track_id": "t341",
+      "season_id": "s1",
       "results": {
         "d374266": {
           "id": "d374266",
@@ -20368,6 +22158,7 @@
       "id": "e44083551",
       "start_time": "2022-01-26T19:00:39Z",
       "track_id": "t95",
+      "season_id": "s1",
       "results": {
         "d174507": {
           "id": "d174507",
@@ -20725,6 +22516,7 @@
       "id": "e44209414",
       "start_time": "2022-02-02T19:00:42Z",
       "track_id": "t163",
+      "season_id": "s1",
       "results": {
         "d374266": {
           "id": "d374266",
@@ -21132,6 +22924,7 @@
       "id": "e44337306",
       "start_time": "2022-02-09T19:00:29Z",
       "track_id": "t319",
+      "season_id": "s1",
       "results": {
         "d482943": {
           "id": "d482943",
@@ -21479,6 +23272,7 @@
       "id": "e44470912",
       "start_time": "2022-02-16T19:00:30Z",
       "track_id": "t219",
+      "season_id": "s1",
       "results": {
         "d491843": {
           "id": "d491843",
@@ -21886,6 +23680,7 @@
       "id": "e44596633",
       "start_time": "2022-02-23T19:00:37Z",
       "track_id": "t434",
+      "season_id": "s1",
       "results": {
         "d374266": {
           "id": "d374266",
@@ -22283,6 +24078,7 @@
       "id": "e44718269",
       "start_time": "2022-03-02T19:00:26Z",
       "track_id": "t239",
+      "season_id": "s1",
       "results": {
         "d374266": {
           "id": "d374266",
@@ -22650,6 +24446,7 @@
       "id": "e45043469",
       "start_time": "2022-03-23T19:01:12Z",
       "track_id": "t95",
+      "season_id": "s2",
       "results": {
         "d374266": {
           "id": "d374266",
@@ -23117,6 +24914,7 @@
       "id": "e45166697",
       "start_time": "2022-03-30T18:01:00Z",
       "track_id": "t199",
+      "season_id": "s2",
       "results": {
         "d374266": {
           "id": "d374266",
@@ -23464,6 +25262,7 @@
       "id": "e45289872",
       "start_time": "2022-04-06T18:01:00Z",
       "track_id": "t192",
+      "season_id": "s2",
       "results": {
         "d491843": {
           "id": "d491843",
@@ -23841,6 +25640,7 @@
       "id": "e45412594",
       "start_time": "2022-04-13T18:01:10Z",
       "track_id": "t252",
+      "season_id": "s2",
       "results": {
         "d545588": {
           "id": "d545588",
@@ -24168,6 +25968,7 @@
       "id": "e45537036",
       "start_time": "2022-04-20T18:01:10Z",
       "track_id": "t46",
+      "season_id": "s2",
       "results": {
         "d628359": {
           "id": "d628359",
@@ -24435,6 +26236,7 @@
       "id": "e45661734",
       "start_time": "2022-04-27T18:01:00Z",
       "track_id": "t18",
+      "season_id": "s2",
       "results": {
         "d545588": {
           "id": "d545588",
@@ -24812,6 +26614,7 @@
       "id": "e45783826",
       "start_time": "2022-05-04T18:00:56Z",
       "track_id": "t439",
+      "season_id": "s2",
       "results": {
         "d491843": {
           "id": "d491843",
@@ -25019,6 +26822,7 @@
       "id": "e45904709",
       "start_time": "2022-05-11T18:01:01Z",
       "track_id": "t180",
+      "season_id": "s2",
       "results": {
         "d491843": {
           "id": "d491843",
@@ -25276,6 +27080,7 @@
       "id": "e46025634",
       "start_time": "2022-05-18T18:01:10Z",
       "track_id": "t145",
+      "season_id": "s2",
       "results": {
         "d534726": {
           "id": "d534726",
@@ -25553,6 +27358,7 @@
       "id": "e46152832",
       "start_time": "2022-05-25T18:01:02Z",
       "track_id": "t212",
+      "season_id": "s2",
       "results": {
         "d548402": {
           "id": "d548402",
@@ -25830,6 +27636,7 @@
       "id": "e46276900",
       "start_time": "2022-06-01T18:01:08Z",
       "track_id": "t2",
+      "season_id": "s2",
       "results": {
         "d491843": {
           "id": "d491843",
@@ -26027,6 +27834,7 @@
       "id": "e46612842",
       "start_time": "2022-06-22T18:00:22Z",
       "track_id": "t390",
+      "season_id": "s3",
       "results": {
         "d548402": {
           "id": "d548402",
@@ -26514,6 +28322,7 @@
       "id": "e46743168",
       "start_time": "2022-06-29T18:00:54Z",
       "track_id": "t179",
+      "season_id": "s3",
       "results": {
         "d533283": {
           "id": "d533283",
@@ -26951,6 +28760,7 @@
       "id": "e47616905",
       "start_time": "2022-07-06T18:00:56Z",
       "track_id": "t444",
+      "season_id": "s3",
       "results": {
         "d678818": {
           "id": "d678818",
@@ -27368,6 +29178,7 @@
       "id": "e49726308",
       "start_time": "2022-07-13T18:00:47Z",
       "track_id": "t434",
+      "season_id": "s3",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -27855,6 +29666,7 @@
       "id": "e49855570",
       "start_time": "2022-07-20T18:00:47Z",
       "track_id": "t218",
+      "season_id": "s3",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -28262,6 +30074,7 @@
       "id": "e49999455",
       "start_time": "2022-07-27T18:12:42Z",
       "track_id": "t165",
+      "season_id": "s3",
       "results": {
         "d678818": {
           "id": "d678818",
@@ -28779,6 +30592,7 @@
       "id": "e50119527",
       "start_time": "2022-08-03T18:00:41Z",
       "track_id": "t443",
+      "season_id": "s3",
       "results": {
         "d533283": {
           "id": "d533283",
@@ -29106,6 +30920,7 @@
       "id": "e50312264",
       "start_time": "2022-08-10T18:00:45Z",
       "track_id": "t413",
+      "season_id": "s3",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -29533,6 +31348,7 @@
       "id": "e50492800",
       "start_time": "2022-08-17T18:00:48Z",
       "track_id": "t168",
+      "season_id": "s3",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -29970,6 +31786,7 @@
       "id": "e50622510",
       "start_time": "2022-08-24T18:00:55Z",
       "track_id": "t250",
+      "season_id": "s3",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -30407,6 +32224,7 @@
       "id": "e50745008",
       "start_time": "2022-08-31T18:00:54Z",
       "track_id": "t153",
+      "season_id": "s3",
       "results": {
         "d534726": {
           "id": "d534726",
@@ -30794,6 +32612,7 @@
       "id": "e51124814",
       "start_time": "2022-09-21T17:30:31Z",
       "track_id": "t18",
+      "season_id": "s4",
       "results": {
         "d678818": {
           "id": "d678818",
@@ -31281,6 +33100,7 @@
       "id": "e51282742",
       "start_time": "2022-09-28T17:30:22Z",
       "track_id": "t195",
+      "season_id": "s4",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -31728,6 +33548,7 @@
       "id": "e51402819",
       "start_time": "2022-10-05T17:30:29Z",
       "track_id": "t127",
+      "season_id": "s4",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -32225,6 +34046,7 @@
       "id": "e51521319",
       "start_time": "2022-10-12T17:30:37Z",
       "track_id": "t47",
+      "season_id": "s4",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -32632,6 +34454,7 @@
       "id": "e51667188",
       "start_time": "2022-10-19T17:30:34Z",
       "track_id": "t297",
+      "season_id": "s4",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -32989,6 +34812,7 @@
       "id": "e51798636",
       "start_time": "2022-10-26T17:30:27Z",
       "track_id": "t345",
+      "season_id": "s4",
       "results": {
         "d534726": {
           "id": "d534726",
@@ -33406,6 +35230,7 @@
       "id": "e52079920",
       "start_time": "2022-11-02T18:30:38Z",
       "track_id": "t449",
+      "season_id": "s4",
       "results": {
         "d534726": {
           "id": "d534726",
@@ -33773,6 +35598,7 @@
       "id": "e52202612",
       "start_time": "2022-11-09T18:30:37Z",
       "track_id": "t229",
+      "season_id": "s4",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -34100,6 +35926,7 @@
       "id": "e52328647",
       "start_time": "2022-11-16T18:30:29Z",
       "track_id": "t168",
+      "season_id": "s4",
       "results": {
         "d534726": {
           "id": "d534726",
@@ -34537,6 +36364,7 @@
       "id": "e52457960",
       "start_time": "2022-11-23T18:30:25Z",
       "track_id": "t451",
+      "season_id": "s4",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -34894,6 +36722,7 @@
       "id": "e55362836",
       "start_time": "2022-11-30T18:30:27Z",
       "track_id": "t448",
+      "season_id": "s4",
       "results": {
         "d484677": {
           "id": "d484677",
@@ -35221,6 +37050,7 @@
       "id": "e58735229",
       "start_time": "2023-01-04T18:30:32Z",
       "track_id": "t163",
+      "season_id": "s5",
       "results": {
         "d374266": {
           "id": "d374266",
@@ -35728,6 +37558,7 @@
       "id": "e58943064",
       "start_time": "2023-01-11T18:30:40Z",
       "track_id": "t341",
+      "season_id": "s5",
       "results": {
         "d374266": {
           "id": "d374266",
@@ -36215,6 +38046,7 @@
       "id": "e59079197",
       "start_time": "2023-01-18T18:30:47Z",
       "track_id": "t192",
+      "season_id": "s5",
       "results": {
         "d678818": {
           "id": "d678818",
@@ -36672,6 +38504,7 @@
       "id": "e59359422",
       "start_time": "2023-01-25T18:30:50Z",
       "track_id": "t451",
+      "season_id": "s5",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -37059,6 +38892,7 @@
       "id": "e59600210",
       "start_time": "2023-02-01T18:30:42Z",
       "track_id": "t463",
+      "season_id": "s5",
       "results": {
         "d374266": {
           "id": "d374266",
@@ -37446,6 +39280,7 @@
       "id": "e59793230",
       "start_time": "2023-02-08T18:30:50Z",
       "track_id": "t212",
+      "season_id": "s5",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -37873,6 +39708,7 @@
       "id": "e59920833",
       "start_time": "2023-02-15T18:30:49Z",
       "track_id": "t219",
+      "season_id": "s5",
       "results": {
         "d462976": {
           "id": "d462976",
@@ -38300,6 +40136,7 @@
       "id": "e60047867",
       "start_time": "2023-02-22T18:30:50Z",
       "track_id": "t98",
+      "season_id": "s5",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -38617,6 +40454,7 @@
       "id": "e60174844",
       "start_time": "2023-03-01T18:30:40Z",
       "track_id": "t166",
+      "season_id": "s5",
       "results": {
         "d374266": {
           "id": "d374266",
@@ -38944,6 +40782,7 @@
       "id": "e60520637",
       "start_time": "2023-03-22T18:30:55Z",
       "track_id": "t95",
+      "season_id": "s6",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -39421,6 +41260,7 @@
       "id": "e60648996",
       "start_time": "2023-03-29T17:30:49Z",
       "track_id": "t266",
+      "season_id": "s6",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -39918,6 +41758,7 @@
       "id": "e60777032",
       "start_time": "2023-04-05T17:31:04Z",
       "track_id": "t403",
+      "season_id": "s6",
       "results": {
         "d264953": {
           "id": "d264953",
@@ -40405,6 +42246,7 @@
       "id": "e60907958",
       "start_time": "2023-04-12T17:31:00Z",
       "track_id": "t233",
+      "season_id": "s6",
       "results": {
         "d648477": {
           "id": "d648477",
@@ -40882,6 +42724,7 @@
       "id": "e61049274",
       "start_time": "2023-04-19T17:31:03Z",
       "track_id": "t319",
+      "season_id": "s6",
       "results": {
         "d80118": {
           "id": "d80118",
@@ -41329,6 +43172,7 @@
       "id": "e61178890",
       "start_time": "2023-04-26T17:30:51Z",
       "track_id": "t252",
+      "season_id": "s6",
       "results": {
         "d648477": {
           "id": "d648477",
