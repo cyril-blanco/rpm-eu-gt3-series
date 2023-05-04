@@ -1319,9 +1319,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e44337306"
-          ],
+          "clean_races": [],
           "dnf": [
             "e43688371",
             "e43947086",
@@ -2336,9 +2334,7 @@
             "e46276900"
           ],
           "best_laps": [],
-          "clean_races": [
-            "e45661734"
-          ],
+          "clean_races": [],
           "dnf": [
             "e45412594",
             "e45661734",
@@ -2398,9 +2394,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e45289872"
-          ],
+          "clean_races": [],
           "dnf": [
             "e45289872"
           ],
@@ -2578,9 +2572,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e45289872"
-          ],
+          "clean_races": [],
           "dnf": [
             "e45289872"
           ],
@@ -2706,9 +2698,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e45166697"
-          ],
+          "clean_races": [],
           "dnf": [
             "e45166697",
             "e45412594"
@@ -4635,9 +4625,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e50622510"
-          ],
+          "clean_races": [],
           "dnf": [
             "e46743168",
             "e50312264",
@@ -4779,9 +4767,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e46743168"
-          ],
+          "clean_races": [],
           "dnf": [
             "e46743168",
             "e47616905",
@@ -4949,9 +4935,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e46743168"
-          ],
+          "clean_races": [],
           "dnf": [
             "e46743168",
             "e49726308",
@@ -5195,7 +5179,6 @@
           ],
           "best_laps": [],
           "clean_races": [
-            "e47616905",
             "e50745008"
           ],
           "dnf": [
@@ -5577,9 +5560,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e46612842"
-          ],
+          "clean_races": [],
           "dnf": [
             "e46612842",
             "e46743168"
@@ -5612,9 +5593,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e46612842"
-          ],
+          "clean_races": [],
           "dnf": [
             "e46612842",
             "e46743168",
@@ -6065,9 +6044,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e50312264"
-          ],
+          "clean_races": [],
           "dnf": [
             "e50312264",
             "e50492800",
@@ -6255,9 +6232,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e50492800"
-          ],
+          "clean_races": [],
           "dnf": [
             "e50492800"
           ],
@@ -6764,9 +6739,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e51521319"
-          ],
+          "clean_races": [],
           "dnf": [
             "e51521319",
             "e52328647",
@@ -6917,9 +6890,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e52457960"
-          ],
+          "clean_races": [],
           "dnf": [
             "e51521319",
             "e51667188",
@@ -7525,9 +7496,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e55362836"
-          ],
+          "clean_races": [],
           "dnf": [
             "e51667188",
             "e55362836"
@@ -8390,9 +8359,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e51667188"
-          ],
+          "clean_races": [],
           "dnf": [
             "e51402819",
             "e51667188"
@@ -9172,9 +9139,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e59920833"
-          ],
+          "clean_races": [],
           "dnf": [
             "e59079197",
             "e59920833"
@@ -9879,9 +9844,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e59920833"
-          ],
+          "clean_races": [],
           "dnf": [
             "e59920833"
           ],
@@ -10008,9 +9971,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e59359422"
-          ],
+          "clean_races": [],
           "dnf": [
             "e59359422"
           ],
@@ -10153,9 +10114,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e59600210"
-          ],
+          "clean_races": [],
           "dnf": [
             "e58735229",
             "e59600210"
@@ -10526,9 +10485,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e58735229"
-          ],
+          "clean_races": [],
           "dnf": [
             "e58735229"
           ],
@@ -11142,7 +11099,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "roster": {
         "d264953": {
@@ -11156,32 +11114,35 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [
             "e60520637",
             "e60648996",
-            "e60777032"
+            "e60777032",
+            "e61307599"
           ],
           "podiums": [
             "e60520637",
             "e60648996",
             "e60777032",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "poles": [
             "e60520637",
             "e60777032",
-            "e60907958"
+            "e60907958",
+            "e61307599"
           ],
           "best_laps": [
             "e60520637",
             "e60648996",
-            "e60777032"
+            "e60777032",
+            "e61307599"
           ],
-          "clean_races": [
-            "e60907958"
-          ],
+          "clean_races": [],
           "dnf": [
             "e60907958",
             "e61049274"
@@ -11189,11 +11150,12 @@
           "best_finish": [
             "e60520637",
             "e60648996",
-            "e60777032"
+            "e60777032",
+            "e61307599"
           ],
           "best_finish_position": 1,
-          "total_incidents": 54,
-          "total_laps": 213,
+          "total_incidents": 65,
+          "total_laps": 265,
           "points": 360,
           "pos": 3,
           "car_id": 137
@@ -11209,13 +11171,15 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [
             "e60520637",
             "e60648996",
-            "e60907958"
+            "e60907958",
+            "e61307599"
           ],
           "poles": [
             "e60648996"
@@ -11226,11 +11190,12 @@
             "e61178890"
           ],
           "best_finish": [
-            "e60520637"
+            "e60520637",
+            "e61307599"
           ],
           "best_finish_position": 2,
-          "total_incidents": 55,
-          "total_laps": 275,
+          "total_incidents": 66,
+          "total_laps": 327,
           "points": 284,
           "pos": 5,
           "car_id": 137
@@ -11277,7 +11242,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [
@@ -11297,8 +11263,8 @@
             "e60907958"
           ],
           "best_finish_position": 2,
-          "total_incidents": 51,
-          "total_laps": 283,
+          "total_incidents": 64,
+          "total_laps": 335,
           "points": 365,
           "pos": 2,
           "car_id": 43
@@ -11370,10 +11336,13 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
-          "podiums": [],
+          "podiums": [
+            "e61307599"
+          ],
           "poles": [],
           "best_laps": [],
           "clean_races": [],
@@ -11383,11 +11352,11 @@
             "e61178890"
           ],
           "best_finish": [
-            "e60520637"
+            "e61307599"
           ],
-          "best_finish_position": 7,
-          "total_incidents": 45,
-          "total_laps": 242,
+          "best_finish_position": 3,
+          "total_incidents": 55,
+          "total_laps": 294,
           "points": 123,
           "pos": 29,
           "car_id": 133
@@ -11460,7 +11429,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11477,8 +11447,8 @@
             "e60520637"
           ],
           "best_finish_position": 10,
-          "total_incidents": 37,
-          "total_laps": 273,
+          "total_incidents": 42,
+          "total_laps": 324,
           "points": 212,
           "pos": 11,
           "car_id": 133
@@ -11494,14 +11464,14 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
           "poles": [],
           "best_laps": [],
           "clean_races": [
-            "e61049274",
             "e61178890"
           ],
           "dnf": [
@@ -11513,8 +11483,8 @@
             "e61178890"
           ],
           "best_finish_position": 8,
-          "total_incidents": 35,
-          "total_laps": 174,
+          "total_incidents": 45,
+          "total_laps": 225,
           "points": 198,
           "pos": 14,
           "car_id": 132
@@ -11530,7 +11500,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11542,12 +11513,11 @@
           ],
           "dnf": [],
           "best_finish": [
-            "e60907958",
-            "e61178890"
+            "e61307599"
           ],
-          "best_finish_position": 6,
-          "total_incidents": 28,
-          "total_laps": 290,
+          "best_finish_position": 5,
+          "total_incidents": 34,
+          "total_laps": 342,
           "points": 307,
           "pos": 4,
           "car_id": 73
@@ -11563,7 +11533,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11577,8 +11548,8 @@
             "e60648996"
           ],
           "best_finish_position": 10,
-          "total_incidents": 46,
-          "total_laps": 275,
+          "total_incidents": 53,
+          "total_laps": 326,
           "points": 207,
           "pos": 12,
           "car_id": 144
@@ -11594,7 +11565,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11603,11 +11575,12 @@
           "clean_races": [],
           "dnf": [],
           "best_finish": [
-            "e60907958"
+            "e60907958",
+            "e61307599"
           ],
           "best_finish_position": 4,
-          "total_incidents": 45,
-          "total_laps": 291,
+          "total_incidents": 56,
+          "total_laps": 343,
           "points": 366,
           "pos": 1,
           "car_id": 132
@@ -11622,7 +11595,8 @@
             "e60648996",
             "e60777032",
             "e60907958",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11636,8 +11610,8 @@
             "e60777032"
           ],
           "best_finish_position": 9,
-          "total_incidents": 26,
-          "total_laps": 228,
+          "total_incidents": 33,
+          "total_laps": 280,
           "points": 205,
           "pos": 13,
           "car_id": 73
@@ -11681,7 +11655,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11696,8 +11671,8 @@
             "e60520637"
           ],
           "best_finish_position": 17,
-          "total_incidents": 29,
-          "total_laps": 224,
+          "total_incidents": 37,
+          "total_laps": 275,
           "points": 126,
           "pos": 28,
           "car_id": 144
@@ -11712,7 +11687,8 @@
             "e60648996",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11723,11 +11699,11 @@
             "e61178890"
           ],
           "best_finish": [
-            "e60648996"
+            "e61307599"
           ],
-          "best_finish_position": 14,
-          "total_incidents": 33,
-          "total_laps": 221,
+          "best_finish_position": 6,
+          "total_incidents": 43,
+          "total_laps": 273,
           "points": 140,
           "pos": 26,
           "car_id": 137
@@ -11742,7 +11718,8 @@
             "e60648996",
             "e60777032",
             "e60907958",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11758,8 +11735,8 @@
             "e61178890"
           ],
           "best_finish_position": 17,
-          "total_incidents": 78,
-          "total_laps": 207,
+          "total_incidents": 101,
+          "total_laps": 249,
           "points": 102,
           "pos": 31,
           "car_id": 132
@@ -11775,7 +11752,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11791,8 +11769,8 @@
             "e60777032"
           ],
           "best_finish_position": 8,
-          "total_incidents": 49,
-          "total_laps": 288,
+          "total_incidents": 60,
+          "total_laps": 339,
           "points": 241,
           "pos": 8,
           "car_id": 132
@@ -11808,7 +11786,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11816,14 +11795,15 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "best_finish": [
             "e60777032"
           ],
           "best_finish_position": 11,
           "total_incidents": 61,
-          "total_laps": 281,
+          "total_laps": 287,
           "points": 156,
           "pos": 20,
           "car_id": 133
@@ -11838,7 +11818,8 @@
             "e60648996",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11853,8 +11834,8 @@
             "e61049274"
           ],
           "best_finish_position": 14,
-          "total_incidents": 39,
-          "total_laps": 179,
+          "total_incidents": 55,
+          "total_laps": 229,
           "points": 73,
           "pos": 37,
           "car_id": 132
@@ -11870,7 +11851,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11886,8 +11868,8 @@
             "e61178890"
           ],
           "best_finish_position": 22,
-          "total_incidents": 87,
-          "total_laps": 196,
+          "total_incidents": 112,
+          "total_laps": 241,
           "points": 44,
           "pos": 49,
           "car_id": 137
@@ -11902,7 +11884,8 @@
             "e60648996",
             "e60777032",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11911,11 +11894,11 @@
           "clean_races": [],
           "dnf": [],
           "best_finish": [
-            "e61178890"
+            "e61307599"
           ],
-          "best_finish_position": 20,
-          "total_incidents": 54,
-          "total_laps": 218,
+          "best_finish_position": 15,
+          "total_incidents": 57,
+          "total_laps": 269,
           "points": 137,
           "pos": 27,
           "car_id": 137
@@ -11931,7 +11914,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11940,11 +11924,11 @@
           "clean_races": [],
           "dnf": [],
           "best_finish": [
-            "e60777032"
+            "e61307599"
           ],
-          "best_finish_position": 14,
-          "total_incidents": 68,
-          "total_laps": 287,
+          "best_finish_position": 8,
+          "total_incidents": 79,
+          "total_laps": 339,
           "points": 146,
           "pos": 24,
           "car_id": 132
@@ -11959,7 +11943,8 @@
             "e60648996",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -11972,11 +11957,11 @@
             "e61178890"
           ],
           "best_finish": [
-            "e60520637"
+            "e61307599"
           ],
-          "best_finish_position": 26,
-          "total_incidents": 46,
-          "total_laps": 115,
+          "best_finish_position": 11,
+          "total_incidents": 56,
+          "total_laps": 167,
           "points": 8,
           "pos": 57,
           "car_id": 156
@@ -11991,7 +11976,8 @@
             "e60648996",
             "e60777032",
             "e60907958",
-            "e61049274"
+            "e61049274",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12006,8 +11992,8 @@
             "e61049274"
           ],
           "best_finish_position": 13,
-          "total_incidents": 66,
-          "total_laps": 277,
+          "total_incidents": 76,
+          "total_laps": 328,
           "points": 158,
           "pos": 19,
           "car_id": 73
@@ -12023,7 +12009,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12039,8 +12026,8 @@
             "e61049274"
           ],
           "best_finish_position": 20,
-          "total_incidents": 83,
-          "total_laps": 252,
+          "total_incidents": 97,
+          "total_laps": 303,
           "points": 78,
           "pos": 35,
           "car_id": 144
@@ -12085,7 +12072,8 @@
             "e60520637",
             "e60648996",
             "e60777032",
-            "e60907958"
+            "e60907958",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12096,11 +12084,11 @@
             "e60907958"
           ],
           "best_finish": [
-            "e60777032"
+            "e61307599"
           ],
-          "best_finish_position": 25,
-          "total_incidents": 61,
-          "total_laps": 196,
+          "best_finish_position": 19,
+          "total_incidents": 71,
+          "total_laps": 247,
           "points": 70,
           "pos": 39,
           "car_id": 73
@@ -12177,7 +12165,8 @@
             "e60520637",
             "e60648996",
             "e60777032",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12189,11 +12178,11 @@
             "e61178890"
           ],
           "best_finish": [
-            "e60648996"
+            "e61307599"
           ],
-          "best_finish_position": 32,
-          "total_incidents": 41,
-          "total_laps": 93,
+          "best_finish_position": 18,
+          "total_incidents": 52,
+          "total_laps": 144,
           "points": -2,
           "pos": 73,
           "car_id": 137
@@ -12238,7 +12227,8 @@
             "e60648996",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12250,12 +12240,11 @@
             "e61178890"
           ],
           "best_finish": [
-            "e60907958",
-            "e61049274"
+            "e61307599"
           ],
-          "best_finish_position": 26,
-          "total_incidents": 50,
-          "total_laps": 205,
+          "best_finish_position": 25,
+          "total_incidents": 52,
+          "total_laps": 255,
           "points": 66,
           "pos": 42,
           "car_id": 132
@@ -12392,7 +12381,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12409,8 +12399,8 @@
             "e61178890"
           ],
           "best_finish_position": 21,
-          "total_incidents": 92,
-          "total_laps": 191,
+          "total_incidents": 114,
+          "total_laps": 232,
           "points": 33,
           "pos": 51,
           "car_id": 43
@@ -12574,7 +12564,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12586,11 +12577,12 @@
             "e61178890"
           ],
           "best_finish": [
-            "e61049274"
+            "e61049274",
+            "e61307599"
           ],
           "best_finish_position": 9,
-          "total_incidents": 55,
-          "total_laps": 238,
+          "total_incidents": 60,
+          "total_laps": 290,
           "points": 156,
           "pos": 21,
           "car_id": 73
@@ -12607,9 +12599,7 @@
           "podiums": [],
           "poles": [],
           "best_laps": [],
-          "clean_races": [
-            "e60520637"
-          ],
+          "clean_races": [],
           "dnf": [
             "e60520637"
           ],
@@ -12689,7 +12679,8 @@
             "e60648996",
             "e60777032",
             "e60907958",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12701,8 +12692,8 @@
             "e61178890"
           ],
           "best_finish_position": 11,
-          "total_incidents": 22,
-          "total_laps": 184,
+          "total_incidents": 29,
+          "total_laps": 236,
           "points": 150,
           "pos": 23,
           "car_id": 73
@@ -12745,7 +12736,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12759,8 +12751,8 @@
             "e61178890"
           ],
           "best_finish_position": 16,
-          "total_incidents": 28,
-          "total_laps": 231,
+          "total_incidents": 29,
+          "total_laps": 282,
           "points": 142,
           "pos": 25,
           "car_id": 156
@@ -12773,7 +12765,8 @@
           "events": [
             "e60648996",
             "e60777032",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12787,8 +12780,8 @@
             "e60777032"
           ],
           "best_finish_position": 12,
-          "total_incidents": 43,
-          "total_laps": 119,
+          "total_incidents": 56,
+          "total_laps": 166,
           "points": 56,
           "pos": 44,
           "car_id": 137
@@ -12802,7 +12795,8 @@
             "e60648996",
             "e60777032",
             "e60907958",
-            "e61049274"
+            "e61049274",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12811,11 +12805,11 @@
           "clean_races": [],
           "dnf": [],
           "best_finish": [
-            "e61049274"
+            "e61307599"
           ],
-          "best_finish_position": 24,
-          "total_incidents": 36,
-          "total_laps": 229,
+          "best_finish_position": 14,
+          "total_incidents": 42,
+          "total_laps": 280,
           "points": 56,
           "pos": 43,
           "car_id": 133
@@ -12829,7 +12823,8 @@
             "e60648996",
             "e60777032",
             "e60907958",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12843,8 +12838,8 @@
             "e61178890"
           ],
           "best_finish_position": 18,
-          "total_incidents": 37,
-          "total_laps": 175,
+          "total_incidents": 45,
+          "total_laps": 225,
           "points": 79,
           "pos": 34,
           "car_id": 137
@@ -12890,7 +12885,8 @@
             "e60777032",
             "e60907958",
             "e61049274",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12902,15 +12898,16 @@
           "dnf": [
             "e60648996",
             "e60777032",
-            "e61178890"
+            "e61178890",
+            "e61307599"
           ],
           "best_finish": [
             "e60907958",
             "e61049274"
           ],
           "best_finish_position": 12,
-          "total_incidents": 48,
-          "total_laps": 156,
+          "total_incidents": 61,
+          "total_laps": 184,
           "points": 76,
           "pos": 36,
           "car_id": 73
@@ -12966,7 +12963,8 @@
           "events": [
             "e60777032",
             "e60907958",
-            "e61049274"
+            "e61049274",
+            "e61307599"
           ],
           "wins": [],
           "podiums": [],
@@ -12974,14 +12972,15 @@
           "best_laps": [],
           "clean_races": [],
           "dnf": [
-            "e60777032"
+            "e60777032",
+            "e61307599"
           ],
           "best_finish": [
             "e60907958"
           ],
           "best_finish_position": 10,
-          "total_incidents": 28,
-          "total_laps": 148,
+          "total_incidents": 36,
+          "total_laps": 158,
           "points": 53,
           "pos": 45,
           "car_id": 132
@@ -13142,6 +13141,32 @@
           "pos": 60,
           "car_id": 133
         },
+        "d865713": {
+          "id": "d865713",
+          "seasons": [
+            "s6"
+          ],
+          "events": [
+            "e61307599"
+          ],
+          "wins": [],
+          "podiums": [],
+          "poles": [],
+          "best_laps": [],
+          "clean_races": [],
+          "dnf": [
+            "e61307599"
+          ],
+          "best_finish": [
+            "e61307599"
+          ],
+          "best_finish_position": 33,
+          "total_incidents": 28,
+          "total_laps": 26,
+          "points": 0,
+          "pos": 72,
+          "car_id": 133
+        },
         "d373850": {
           "id": "",
           "seasons": [],
@@ -13274,7 +13299,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [
         "e43688371",
@@ -13335,8 +13361,8 @@
         "e46276900"
       ],
       "best_finish_position": 1,
-      "total_incidents": 244,
-      "total_laps": 1524,
+      "total_incidents": 257,
+      "total_laps": 1576,
       "points": 2121,
       "pos": 0,
       "cust_id": 491843,
@@ -13402,7 +13428,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [
         "e44083551"
@@ -13424,8 +13451,7 @@
       "best_laps": [],
       "clean_races": [
         "e44470912",
-        "e46743168",
-        "e51521319"
+        "e46743168"
       ],
       "dnf": [
         "e45043469",
@@ -13440,8 +13466,8 @@
         "e44083551"
       ],
       "best_finish_position": 1,
-      "total_incidents": 396,
-      "total_laps": 2393,
+      "total_incidents": 407,
+      "total_laps": 2445,
       "points": 2491,
       "pos": 0,
       "cust_id": 174507,
@@ -13665,7 +13691,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [
         "e46025634",
@@ -13693,7 +13720,8 @@
         "e60174844",
         "e60520637",
         "e60648996",
-        "e60907958"
+        "e60907958",
+        "e61307599"
       ],
       "poles": [
         "e46025634",
@@ -13723,8 +13751,8 @@
         "e52328647"
       ],
       "best_finish_position": 1,
-      "total_incidents": 504,
-      "total_laps": 2305,
+      "total_incidents": 515,
+      "total_laps": 2357,
       "points": 2522,
       "pos": 0,
       "cust_id": 534726,
@@ -13932,7 +13960,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [
@@ -13971,8 +14000,8 @@
         "e46743168"
       ],
       "best_finish_position": 2,
-      "total_incidents": 331,
-      "total_laps": 2582,
+      "total_incidents": 336,
+      "total_laps": 2634,
       "points": 2477,
       "pos": 0,
       "cust_id": 409289,
@@ -14187,14 +14216,14 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
       "poles": [],
       "best_laps": [],
       "clean_races": [
-        "e59920833",
         "e60520637",
         "e61049274"
       ],
@@ -14217,8 +14246,8 @@
         "e60174844"
       ],
       "best_finish_position": 4,
-      "total_incidents": 510,
-      "total_laps": 2381,
+      "total_incidents": 515,
+      "total_laps": 2432,
       "points": 1870,
       "pos": 0,
       "cust_id": 335711,
@@ -14322,14 +14351,14 @@
         "e60648996",
         "e60777032",
         "e60907958",
-        "e61049274"
+        "e61049274",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
       "poles": [],
       "best_laps": [],
       "clean_races": [
-        "e52457960",
         "e61049274"
       ],
       "dnf": [
@@ -14346,8 +14375,8 @@
         "e45661734"
       ],
       "best_finish_position": 5,
-      "total_incidents": 604,
-      "total_laps": 2400,
+      "total_incidents": 614,
+      "total_laps": 2451,
       "points": 1718,
       "pos": 0,
       "cust_id": 311045,
@@ -14564,7 +14593,8 @@
         "e60174844",
         "e60648996",
         "e60777032",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [
         "e55362836"
@@ -14592,8 +14622,8 @@
         "e55362836"
       ],
       "best_finish_position": 1,
-      "total_incidents": 547,
-      "total_laps": 2581,
+      "total_incidents": 560,
+      "total_laps": 2628,
       "points": 1998,
       "pos": 0,
       "cust_id": 484677,
@@ -14737,9 +14767,7 @@
       "podiums": [],
       "poles": [],
       "best_laps": [],
-      "clean_races": [
-        "e59600210"
-      ],
+      "clean_races": [],
       "dnf": [
         "e45412594",
         "e45661734",
@@ -14955,7 +14983,8 @@
         "e60648996",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -14978,8 +15007,8 @@
         "e46276900"
       ],
       "best_finish_position": 9,
-      "total_incidents": 445,
-      "total_laps": 2589,
+      "total_incidents": 461,
+      "total_laps": 2639,
       "points": 1383,
       "pos": 0,
       "cust_id": 527892,
@@ -15049,14 +15078,14 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
       "poles": [],
       "best_laps": [],
       "clean_races": [
-        "e46612842",
         "e60174844"
       ],
       "dnf": [
@@ -15064,14 +15093,15 @@
         "e44209414",
         "e46612842",
         "e46743168",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "best_finish": [
         "e47616905"
       ],
       "best_finish_position": 7,
       "total_incidents": 485,
-      "total_laps": 2564,
+      "total_laps": 2570,
       "points": 1425,
       "pos": 0,
       "cust_id": 613262,
@@ -15234,9 +15264,7 @@
       "podiums": [],
       "poles": [],
       "best_laps": [],
-      "clean_races": [
-        "e59920833"
-      ],
+      "clean_races": [],
       "dnf": [
         "e43818425",
         "e44083551",
@@ -15625,7 +15653,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -15650,8 +15679,8 @@
         "e59920833"
       ],
       "best_finish_position": 4,
-      "total_incidents": 278,
-      "total_laps": 1710,
+      "total_incidents": 284,
+      "total_laps": 1762,
       "points": 1674,
       "pos": 0,
       "cust_id": 88089,
@@ -15717,9 +15746,7 @@
       "podiums": [],
       "poles": [],
       "best_laps": [],
-      "clean_races": [
-        "e44337306"
-      ],
+      "clean_races": [],
       "dnf": [
         "e43688371",
         "e43947086",
@@ -16012,7 +16039,6 @@
       ],
       "clean_races": [
         "e44337306",
-        "e45661734",
         "e59920833"
       ],
       "dnf": [
@@ -16096,7 +16122,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [
@@ -16107,8 +16134,7 @@
       "clean_races": [
         "e43947086",
         "e44337306",
-        "e45043469",
-        "e50622510"
+        "e45043469"
       ],
       "dnf": [
         "e45537036",
@@ -16128,8 +16154,8 @@
         "e45412594"
       ],
       "best_finish_position": 2,
-      "total_incidents": 264,
-      "total_laps": 1723,
+      "total_incidents": 272,
+      "total_laps": 1774,
       "points": 1156,
       "pos": 0,
       "cust_id": 233357,
@@ -16594,7 +16620,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -16617,8 +16644,8 @@
         "e45412594"
       ],
       "best_finish_position": 7,
-      "total_incidents": 189,
-      "total_laps": 1725,
+      "total_incidents": 196,
+      "total_laps": 1776,
       "points": 1284,
       "pos": 0,
       "cust_id": 402302,
@@ -16639,9 +16666,7 @@
       "podiums": [],
       "poles": [],
       "best_laps": [],
-      "clean_races": [
-        "e45289872"
-      ],
+      "clean_races": [],
       "dnf": [
         "e45289872"
       ],
@@ -16729,7 +16754,8 @@
         "e60648996",
         "e60777032",
         "e60907958",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -16746,8 +16772,8 @@
         "e52457960"
       ],
       "best_finish_position": 9,
-      "total_incidents": 187,
-      "total_laps": 1376,
+      "total_incidents": 195,
+      "total_laps": 1426,
       "points": 820,
       "pos": 0,
       "cust_id": 575225,
@@ -16874,7 +16900,6 @@
       "poles": [],
       "best_laps": [],
       "clean_races": [
-        "e45289872",
         "e51124814"
       ],
       "dnf": [
@@ -16951,9 +16976,7 @@
       "podiums": [],
       "poles": [],
       "best_laps": [],
-      "clean_races": [
-        "e45166697"
-      ],
+      "clean_races": [],
       "dnf": [
         "e45166697",
         "e45412594",
@@ -17459,9 +17482,7 @@
       "podiums": [],
       "poles": [],
       "best_laps": [],
-      "clean_races": [
-        "e55362836"
-      ],
+      "clean_races": [],
       "dnf": [
         "e46612842",
         "e46743168",
@@ -17718,15 +17739,14 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
       "poles": [],
       "best_laps": [],
       "clean_races": [
-        "e46743168",
-        "e59359422",
         "e61049274"
       ],
       "dnf": [
@@ -17741,14 +17761,15 @@
         "e59359422",
         "e60648996",
         "e60777032",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "best_finish": [
         "e60174844"
       ],
       "best_finish_position": 8,
-      "total_incidents": 311,
-      "total_laps": 1062,
+      "total_incidents": 324,
+      "total_laps": 1090,
       "points": 419,
       "pos": 0,
       "cust_id": 674607,
@@ -17781,7 +17802,8 @@
         "e60648996",
         "e60777032",
         "e60907958",
-        "e61049274"
+        "e61049274",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -17790,11 +17812,11 @@
       "clean_races": [],
       "dnf": [],
       "best_finish": [
-        "e50312264"
+        "e61307599"
       ],
-      "best_finish_position": 16,
-      "total_incidents": 145,
-      "total_laps": 1058,
+      "best_finish_position": 14,
+      "total_incidents": 151,
+      "total_laps": 1109,
       "points": 482,
       "pos": 0,
       "cust_id": 448952,
@@ -17823,15 +17845,14 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
       "poles": [],
       "best_laps": [],
-      "clean_races": [
-        "e46743168"
-      ],
+      "clean_races": [],
       "dnf": [
         "e46743168",
         "e49726308",
@@ -17847,8 +17868,8 @@
         "e61178890"
       ],
       "best_finish_position": 22,
-      "total_incidents": 189,
-      "total_laps": 502,
+      "total_incidents": 214,
+      "total_laps": 547,
       "points": 127,
       "pos": 0,
       "cust_id": 759394,
@@ -18146,7 +18167,6 @@
       ],
       "best_laps": [],
       "clean_races": [
-        "e47616905",
         "e50745008"
       ],
       "dnf": [
@@ -18340,9 +18360,7 @@
       "podiums": [],
       "poles": [],
       "best_laps": [],
-      "clean_races": [
-        "e46612842"
-      ],
+      "clean_races": [],
       "dnf": [
         "e46612842",
         "e46743168",
@@ -18521,7 +18539,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [
         "e49726308",
@@ -18540,7 +18559,8 @@
         "e60047867",
         "e60520637",
         "e60648996",
-        "e60777032"
+        "e60777032",
+        "e61307599"
       ],
       "podiums": [
         "e49726308",
@@ -18565,7 +18585,8 @@
         "e60520637",
         "e60648996",
         "e60777032",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "poles": [
         "e49726308",
@@ -18590,7 +18611,8 @@
         "e60047867",
         "e60520637",
         "e60777032",
-        "e60907958"
+        "e60907958",
+        "e61307599"
       ],
       "best_laps": [
         "e49726308",
@@ -18616,12 +18638,12 @@
         "e60047867",
         "e60520637",
         "e60648996",
-        "e60777032"
+        "e60777032",
+        "e61307599"
       ],
       "clean_races": [
         "e49726308",
-        "e49855570",
-        "e60907958"
+        "e49855570"
       ],
       "dnf": [
         "e51124814",
@@ -18648,11 +18670,12 @@
         "e60047867",
         "e60520637",
         "e60648996",
-        "e60777032"
+        "e60777032",
+        "e61307599"
       ],
       "best_finish_position": 1,
-      "total_incidents": 360,
-      "total_laps": 1645,
+      "total_incidents": 371,
+      "total_laps": 1697,
       "points": 2378,
       "pos": 0,
       "cust_id": 264953,
@@ -18698,7 +18721,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -18716,8 +18740,8 @@
         "e60174844"
       ],
       "best_finish_position": 5,
-      "total_incidents": 351,
-      "total_laps": 1643,
+      "total_incidents": 362,
+      "total_laps": 1694,
       "points": 953,
       "pos": 0,
       "cust_id": 732955,
@@ -18818,9 +18842,7 @@
       "podiums": [],
       "poles": [],
       "best_laps": [],
-      "clean_races": [
-        "e50312264"
-      ],
+      "clean_races": [],
       "dnf": [
         "e50312264",
         "e50492800",
@@ -18939,7 +18961,8 @@
         "e60648996",
         "e60777032",
         "e60907958",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -18958,8 +18981,8 @@
         "e61178890"
       ],
       "best_finish_position": 17,
-      "total_incidents": 189,
-      "total_laps": 497,
+      "total_incidents": 212,
+      "total_laps": 539,
       "points": 193,
       "pos": 0,
       "cust_id": 573541,
@@ -19027,9 +19050,7 @@
       "podiums": [],
       "poles": [],
       "best_laps": [],
-      "clean_races": [
-        "e50492800"
-      ],
+      "clean_races": [],
       "dnf": [
         "e50492800"
       ],
@@ -19198,7 +19219,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -19220,8 +19242,8 @@
         "e52328647"
       ],
       "best_finish_position": 19,
-      "total_incidents": 330,
-      "total_laps": 993,
+      "total_incidents": 352,
+      "total_laps": 1034,
       "points": 254,
       "pos": 0,
       "cust_id": 500241,
@@ -19254,13 +19276,15 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [
         "e51402819",
         "e51798636",
-        "e58943064"
+        "e58943064",
+        "e61307599"
       ],
       "poles": [
         "e52079920",
@@ -19281,8 +19305,8 @@
         "e51798636"
       ],
       "best_finish_position": 2,
-      "total_incidents": 176,
-      "total_laps": 852,
+      "total_incidents": 186,
+      "total_laps": 904,
       "points": 744,
       "pos": 0,
       "cust_id": 402389,
@@ -19381,7 +19405,8 @@
         "e60648996",
         "e60777032",
         "e60907958",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -19399,8 +19424,8 @@
         "e58735229"
       ],
       "best_finish_position": 6,
-      "total_incidents": 101,
-      "total_laps": 775,
+      "total_incidents": 108,
+      "total_laps": 827,
       "points": 651,
       "pos": 0,
       "cust_id": 414773,
@@ -19501,9 +19526,7 @@
       "podiums": [],
       "poles": [],
       "best_laps": [],
-      "clean_races": [
-        "e51667188"
-      ],
+      "clean_races": [],
       "dnf": [
         "e51402819",
         "e51667188"
@@ -19683,7 +19706,8 @@
         "e60648996",
         "e60777032",
         "e60907958",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -19695,8 +19719,8 @@
         "e61178890"
       ],
       "best_finish_position": 11,
-      "total_incidents": 30,
-      "total_laps": 230,
+      "total_incidents": 37,
+      "total_laps": 282,
       "points": 178,
       "pos": 0,
       "cust_id": 414284,
@@ -19722,7 +19746,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -19737,8 +19762,8 @@
         "e61178890"
       ],
       "best_finish_position": 16,
-      "total_incidents": 69,
-      "total_laps": 612,
+      "total_incidents": 70,
+      "total_laps": 663,
       "points": 322,
       "pos": 0,
       "cust_id": 202689,
@@ -19762,7 +19787,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -19778,8 +19804,8 @@
         "e59920833"
       ],
       "best_finish_position": 6,
-      "total_incidents": 186,
-      "total_laps": 531,
+      "total_incidents": 200,
+      "total_laps": 582,
       "points": 223,
       "pos": 0,
       "cust_id": 292059,
@@ -19896,9 +19922,7 @@
       "podiums": [],
       "poles": [],
       "best_laps": [],
-      "clean_races": [
-        "e58735229"
-      ],
+      "clean_races": [],
       "dnf": [
         "e58735229"
       ],
@@ -19929,7 +19953,8 @@
         "e60648996",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -19944,11 +19969,11 @@
         "e61178890"
       ],
       "best_finish": [
-        "e59793230"
+        "e61307599"
       ],
-      "best_finish_position": 20,
-      "total_incidents": 112,
-      "total_laps": 302,
+      "best_finish_position": 11,
+      "total_incidents": 122,
+      "total_laps": 354,
       "points": 48,
       "pos": 0,
       "cust_id": 705348,
@@ -20010,7 +20035,8 @@
         "e60648996",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -20023,11 +20049,11 @@
         "e61178890"
       ],
       "best_finish": [
-        "e59600210"
+        "e61307599"
       ],
-      "best_finish_position": 9,
-      "total_incidents": 53,
-      "total_laps": 563,
+      "best_finish_position": 6,
+      "total_incidents": 63,
+      "total_laps": 615,
       "points": 433,
       "pos": 0,
       "cust_id": 314317,
@@ -20047,7 +20073,8 @@
         "e60648996",
         "e60777032",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -20056,11 +20083,11 @@
       "clean_races": [],
       "dnf": [],
       "best_finish": [
-        "e61178890"
+        "e61307599"
       ],
-      "best_finish_position": 20,
-      "total_incidents": 91,
-      "total_laps": 378,
+      "best_finish_position": 15,
+      "total_incidents": 94,
+      "total_laps": 429,
       "points": 156,
       "pos": 0,
       "cust_id": 95310,
@@ -20112,7 +20139,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -20120,7 +20148,6 @@
       "best_laps": [],
       "clean_races": [
         "e59920833",
-        "e61049274",
         "e61178890"
       ],
       "dnf": [
@@ -20132,8 +20159,8 @@
         "e61178890"
       ],
       "best_finish_position": 8,
-      "total_incidents": 59,
-      "total_laps": 440,
+      "total_incidents": 69,
+      "total_laps": 491,
       "points": 362,
       "pos": 0,
       "cust_id": 327329,
@@ -20184,7 +20211,8 @@
         "e60648996",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -20196,12 +20224,11 @@
         "e61178890"
       ],
       "best_finish": [
-        "e60907958",
-        "e61049274"
+        "e61307599"
       ],
-      "best_finish_position": 26,
-      "total_incidents": 66,
-      "total_laps": 319,
+      "best_finish_position": 25,
+      "total_incidents": 68,
+      "total_laps": 369,
       "points": 113,
       "pos": 0,
       "cust_id": 847138,
@@ -20249,7 +20276,8 @@
         "e60777032",
         "e60907958",
         "e61049274",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -20258,11 +20286,11 @@
       "clean_races": [],
       "dnf": [],
       "best_finish": [
-        "e60777032"
+        "e61307599"
       ],
-      "best_finish_position": 14,
-      "total_incidents": 68,
-      "total_laps": 287,
+      "best_finish_position": 8,
+      "total_incidents": 79,
+      "total_laps": 339,
       "points": 146,
       "pos": 0,
       "cust_id": 837246,
@@ -20277,7 +20305,8 @@
         "e60520637",
         "e60648996",
         "e60777032",
-        "e60907958"
+        "e60907958",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -20288,11 +20317,11 @@
         "e60907958"
       ],
       "best_finish": [
-        "e60777032"
+        "e61307599"
       ],
-      "best_finish_position": 25,
-      "total_incidents": 61,
-      "total_laps": 196,
+      "best_finish_position": 19,
+      "total_incidents": 71,
+      "total_laps": 247,
       "points": 70,
       "pos": 0,
       "cust_id": 187808,
@@ -20339,7 +20368,8 @@
         "e60520637",
         "e60648996",
         "e60777032",
-        "e61178890"
+        "e61178890",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -20351,11 +20381,11 @@
         "e61178890"
       ],
       "best_finish": [
-        "e60648996"
+        "e61307599"
       ],
-      "best_finish_position": 32,
-      "total_incidents": 41,
-      "total_laps": 93,
+      "best_finish_position": 18,
+      "total_incidents": 52,
+      "total_laps": 144,
       "points": -2,
       "pos": 0,
       "cust_id": 28944,
@@ -20373,9 +20403,7 @@
       "podiums": [],
       "poles": [],
       "best_laps": [],
-      "clean_races": [
-        "e60520637"
-      ],
+      "clean_races": [],
       "dnf": [
         "e60520637"
       ],
@@ -20468,7 +20496,8 @@
       "events": [
         "e60777032",
         "e60907958",
-        "e61049274"
+        "e61049274",
+        "e61307599"
       ],
       "wins": [],
       "podiums": [],
@@ -20476,14 +20505,15 @@
       "best_laps": [],
       "clean_races": [],
       "dnf": [
-        "e60777032"
+        "e60777032",
+        "e61307599"
       ],
       "best_finish": [
         "e60907958"
       ],
       "best_finish_position": 10,
-      "total_incidents": 28,
-      "total_laps": 148,
+      "total_incidents": 36,
+      "total_laps": 158,
       "points": 53,
       "pos": 0,
       "cust_id": 69608,
@@ -20598,6 +20628,33 @@
       "pos": 0,
       "cust_id": 69997,
       "name": "Ryan G Walker"
+    },
+    "d865713": {
+      "id": "d865713",
+      "seasons": [
+        "s6"
+      ],
+      "events": [
+        "e61307599"
+      ],
+      "wins": [],
+      "podiums": [],
+      "poles": [],
+      "best_laps": [],
+      "clean_races": [],
+      "dnf": [
+        "e61307599"
+      ],
+      "best_finish": [
+        "e61307599"
+      ],
+      "best_finish_position": 33,
+      "total_incidents": 28,
+      "total_laps": 26,
+      "points": 0,
+      "pos": 0,
+      "cust_id": 865713,
+      "name": "Jean Alezi"
     }
   },
   "tracks": {
@@ -20986,6 +21043,15 @@
         "logo": "https://images-static.iracing.com/img/logos/tracks/doningtonparkracingcircuit-logo.png",
         "small": "https://images-static.iracing.com/img/tracks/doningtonparkracingcircuit/doningtonparkracingcircuit-small.jpg",
         "large": "https://images-static.iracing.com/img/tracks/doningtonparkracingcircuit/doningtonparkracingcircuit-large.jpg"
+      }
+    },
+    "t473": {
+      "track_name": "Circuito de Jerez - Ángel Nieto",
+      "config_name": "Grand Prix",
+      "images": {
+        "logo": "https://images-static.iracing.com/img/logos/tracks/circuitodejerezangelnieto-logo.png",
+        "small": "https://images-static.iracing.com/img/tracks/circuitodejerezangelnieto/circuitodejerezangelnieto-small.jpg",
+        "large": "https://images-static.iracing.com/img/tracks/circuitodejerezangelnieto/circuitodejerezangelnieto-large.jpg"
       }
     }
   },
@@ -43603,6 +43669,364 @@
           "incidents": 8,
           "car_id": 137,
           "best_qual_lap_time": -1
+        }
+      }
+    },
+    "e61307599": {
+      "id": "e61307599",
+      "start_time": "2023-05-03T17:30:56Z",
+      "track_id": "t473",
+      "season_id": "s6",
+      "results": {
+        "d264953": {
+          "id": "d264953",
+          "finish_position": 1,
+          "laps_complete": 52,
+          "starting_position": 1,
+          "best_lap_time": 1015716,
+          "incidents": 11,
+          "car_id": 137,
+          "best_qual_lap_time": 1010080
+        },
+        "d534726": {
+          "id": "d534726",
+          "finish_position": 2,
+          "laps_complete": 52,
+          "starting_position": 2,
+          "best_lap_time": 1022866,
+          "incidents": 11,
+          "car_id": 137,
+          "best_qual_lap_time": 1014955
+        },
+        "d402389": {
+          "id": "d402389",
+          "finish_position": 3,
+          "laps_complete": 52,
+          "starting_position": 3,
+          "best_lap_time": 1026513,
+          "incidents": 10,
+          "car_id": 133,
+          "best_qual_lap_time": 1018793
+        },
+        "d174507": {
+          "id": "d174507",
+          "finish_position": 4,
+          "laps_complete": 52,
+          "starting_position": 5,
+          "best_lap_time": 1029643,
+          "incidents": 11,
+          "car_id": 132,
+          "best_qual_lap_time": 1020830
+        },
+        "d88089": {
+          "id": "d88089",
+          "finish_position": 5,
+          "laps_complete": 52,
+          "starting_position": 9,
+          "best_lap_time": 1031887,
+          "incidents": 6,
+          "car_id": 73,
+          "best_qual_lap_time": 1025482
+        },
+        "d314317": {
+          "id": "d314317",
+          "finish_position": 6,
+          "laps_complete": 52,
+          "starting_position": 8,
+          "best_lap_time": 1028085,
+          "incidents": 10,
+          "car_id": 137,
+          "best_qual_lap_time": 1022822
+        },
+        "d491843": {
+          "id": "d491843",
+          "finish_position": 7,
+          "laps_complete": 52,
+          "starting_position": 16,
+          "best_lap_time": 1027290,
+          "incidents": 13,
+          "car_id": 43,
+          "best_qual_lap_time": 1031157
+        },
+        "d837246": {
+          "id": "d837246",
+          "finish_position": 8,
+          "laps_complete": 52,
+          "starting_position": 34,
+          "best_lap_time": 1032680,
+          "incidents": 11,
+          "car_id": 132,
+          "best_qual_lap_time": -1
+        },
+        "d409289": {
+          "id": "d409289",
+          "finish_position": 9,
+          "laps_complete": 52,
+          "starting_position": 10,
+          "best_lap_time": 1036437,
+          "incidents": 5,
+          "car_id": 73,
+          "best_qual_lap_time": 1026257
+        },
+        "d414773": {
+          "id": "d414773",
+          "finish_position": 10,
+          "laps_complete": 52,
+          "starting_position": 14,
+          "best_lap_time": 1039471,
+          "incidents": 7,
+          "car_id": 73,
+          "best_qual_lap_time": 1030184
+        },
+        "d705348": {
+          "id": "d705348",
+          "finish_position": 11,
+          "laps_complete": 52,
+          "starting_position": 18,
+          "best_lap_time": 1037312,
+          "incidents": 10,
+          "car_id": 156,
+          "best_qual_lap_time": 1032171
+        },
+        "d414284": {
+          "id": "d414284",
+          "finish_position": 12,
+          "laps_complete": 52,
+          "starting_position": 20,
+          "best_lap_time": 1039020,
+          "incidents": 7,
+          "car_id": 73,
+          "best_qual_lap_time": 1032775
+        },
+        "d402302": {
+          "id": "d402302",
+          "finish_position": 13,
+          "laps_complete": 51,
+          "starting_position": 15,
+          "best_lap_time": 1033418,
+          "incidents": 7,
+          "car_id": 144,
+          "best_qual_lap_time": 1030754
+        },
+        "d448952": {
+          "id": "d448952",
+          "finish_position": 14,
+          "laps_complete": 51,
+          "starting_position": 17,
+          "best_lap_time": 1036145,
+          "incidents": 6,
+          "car_id": 133,
+          "best_qual_lap_time": 1031872
+        },
+        "d95310": {
+          "id": "d95310",
+          "finish_position": 15,
+          "laps_complete": 51,
+          "starting_position": 27,
+          "best_lap_time": 1035566,
+          "incidents": 3,
+          "car_id": 137,
+          "best_qual_lap_time": 1039398
+        },
+        "d327329": {
+          "id": "d327329",
+          "finish_position": 16,
+          "laps_complete": 51,
+          "starting_position": 11,
+          "best_lap_time": 1034871,
+          "incidents": 10,
+          "car_id": 132,
+          "best_qual_lap_time": 1028058
+        },
+        "d732955": {
+          "id": "d732955",
+          "finish_position": 17,
+          "laps_complete": 51,
+          "starting_position": 24,
+          "best_lap_time": 1036609,
+          "incidents": 11,
+          "car_id": 132,
+          "best_qual_lap_time": 1036830
+        },
+        "d28944": {
+          "id": "d28944",
+          "finish_position": 18,
+          "laps_complete": 51,
+          "starting_position": 13,
+          "best_lap_time": 1034191,
+          "incidents": 11,
+          "car_id": 137,
+          "best_qual_lap_time": 1029678
+        },
+        "d187808": {
+          "id": "d187808",
+          "finish_position": 19,
+          "laps_complete": 51,
+          "starting_position": 25,
+          "best_lap_time": 1039037,
+          "incidents": 10,
+          "car_id": 73,
+          "best_qual_lap_time": 1037666
+        },
+        "d335711": {
+          "id": "d335711",
+          "finish_position": 20,
+          "laps_complete": 51,
+          "starting_position": 7,
+          "best_lap_time": 1030603,
+          "incidents": 5,
+          "car_id": 133,
+          "best_qual_lap_time": 1021609
+        },
+        "d202689": {
+          "id": "d202689",
+          "finish_position": 21,
+          "laps_complete": 51,
+          "starting_position": 30,
+          "best_lap_time": 1042186,
+          "incidents": 1,
+          "car_id": 156,
+          "best_qual_lap_time": 1048950
+        },
+        "d311045": {
+          "id": "d311045",
+          "finish_position": 22,
+          "laps_complete": 51,
+          "starting_position": 35,
+          "best_lap_time": 1031895,
+          "incidents": 10,
+          "car_id": 73,
+          "best_qual_lap_time": -1
+        },
+        "d292059": {
+          "id": "d292059",
+          "finish_position": 23,
+          "laps_complete": 51,
+          "starting_position": 23,
+          "best_lap_time": 1044268,
+          "incidents": 14,
+          "car_id": 144,
+          "best_qual_lap_time": 1035882
+        },
+        "d233357": {
+          "id": "d233357",
+          "finish_position": 24,
+          "laps_complete": 51,
+          "starting_position": 21,
+          "best_lap_time": 1048380,
+          "incidents": 8,
+          "car_id": 144,
+          "best_qual_lap_time": 1035048
+        },
+        "d847138": {
+          "id": "d847138",
+          "finish_position": 25,
+          "laps_complete": 50,
+          "starting_position": 33,
+          "best_lap_time": 1054887,
+          "incidents": 2,
+          "car_id": 132,
+          "best_qual_lap_time": 1057573
+        },
+        "d527892": {
+          "id": "d527892",
+          "finish_position": 26,
+          "laps_complete": 50,
+          "starting_position": 29,
+          "best_lap_time": 1044063,
+          "incidents": 16,
+          "car_id": 132,
+          "best_qual_lap_time": 1043426
+        },
+        "d575225": {
+          "id": "d575225",
+          "finish_position": 27,
+          "laps_complete": 50,
+          "starting_position": 31,
+          "best_lap_time": 1045345,
+          "incidents": 8,
+          "car_id": 137,
+          "best_qual_lap_time": 1049535
+        },
+        "d484677": {
+          "id": "d484677",
+          "finish_position": 28,
+          "laps_complete": 47,
+          "starting_position": 4,
+          "best_lap_time": 1023474,
+          "incidents": 13,
+          "car_id": 137,
+          "best_qual_lap_time": 1019550
+        },
+        "d759394": {
+          "id": "d759394",
+          "finish_position": 29,
+          "laps_complete": 45,
+          "starting_position": 22,
+          "best_lap_time": 1034986,
+          "incidents": 25,
+          "car_id": 137,
+          "best_qual_lap_time": 1035174
+        },
+        "d573541": {
+          "id": "d573541",
+          "finish_position": 30,
+          "laps_complete": 42,
+          "starting_position": 28,
+          "best_lap_time": 1043393,
+          "incidents": 23,
+          "car_id": 132,
+          "best_qual_lap_time": 1039964
+        },
+        "d500241": {
+          "id": "d500241",
+          "finish_position": 31,
+          "laps_complete": 41,
+          "starting_position": 32,
+          "best_lap_time": 1050350,
+          "incidents": 22,
+          "car_id": 43,
+          "best_qual_lap_time": 1056922
+        },
+        "d674607": {
+          "id": "d674607",
+          "finish_position": 32,
+          "laps_complete": 28,
+          "starting_position": 12,
+          "best_lap_time": 1038914,
+          "incidents": 13,
+          "car_id": 73,
+          "best_qual_lap_time": 1029307
+        },
+        "d865713": {
+          "id": "d865713",
+          "finish_position": 33,
+          "laps_complete": 26,
+          "starting_position": 26,
+          "best_lap_time": 1048099,
+          "incidents": 28,
+          "car_id": 133,
+          "best_qual_lap_time": 1038055
+        },
+        "d69608": {
+          "id": "d69608",
+          "finish_position": 34,
+          "laps_complete": 10,
+          "starting_position": 6,
+          "best_lap_time": 1025242,
+          "incidents": 8,
+          "car_id": 132,
+          "best_qual_lap_time": 1021501
+        },
+        "d613262": {
+          "id": "d613262",
+          "finish_position": 35,
+          "laps_complete": 6,
+          "starting_position": 19,
+          "best_lap_time": 1046573,
+          "incidents": 0,
+          "car_id": 133,
+          "best_qual_lap_time": 1032699
         }
       }
     }
