@@ -69,6 +69,7 @@
           "total_laps": 411,
           "points": 568,
           "pos": 3,
+          "cls": "gold",
           "car_id": 43
         },
         "d174507": {
@@ -111,6 +112,7 @@
           "total_laps": 448,
           "points": 600,
           "pos": 2,
+          "cls": "gold",
           "car_id": 132
         },
         "d374266": {
@@ -167,6 +169,7 @@
           "total_laps": 388,
           "points": 655,
           "pos": 1,
+          "cls": "gold",
           "car_id": 73
         },
         "d659230": {
@@ -211,6 +214,7 @@
           "total_laps": 362,
           "points": 445,
           "pos": 6,
+          "cls": "gold",
           "car_id": 137
         },
         "d534726": {
@@ -245,6 +249,7 @@
           "total_laps": 399,
           "points": 438,
           "pos": 7,
+          "cls": "silver",
           "car_id": 72
         },
         "d624852": {
@@ -269,6 +274,7 @@
           "total_laps": 60,
           "points": 65,
           "pos": 41,
+          "cls": "gold",
           "car_id": 133
         },
         "d533283": {
@@ -309,6 +315,7 @@
           "total_laps": 410,
           "points": 452,
           "pos": 4,
+          "cls": "silver",
           "car_id": 133
         },
         "d409289": {
@@ -346,6 +353,7 @@
           "total_laps": 403,
           "points": 415,
           "pos": 8,
+          "cls": "silver",
           "car_id": 73
         },
         "d441250": {
@@ -383,6 +391,7 @@
           "total_laps": 375,
           "points": 398,
           "pos": 9,
+          "cls": "silver",
           "car_id": 133
         },
         "d628359": {
@@ -419,6 +428,7 @@
           "total_laps": 379,
           "points": 445,
           "pos": 5,
+          "cls": "silver",
           "car_id": 73
         },
         "d456247": {
@@ -444,6 +454,7 @@
           "total_laps": 121,
           "points": 115,
           "pos": 34,
+          "cls": "gold",
           "car_id": 132
         },
         "d335711": {
@@ -477,6 +488,7 @@
           "total_laps": 356,
           "points": 268,
           "pos": 16,
+          "cls": "silver",
           "car_id": 137
         },
         "d470452": {
@@ -513,6 +525,7 @@
           "total_laps": 328,
           "points": 270,
           "pos": 15,
+          "cls": "silver",
           "car_id": 132
         },
         "d311045": {
@@ -545,6 +558,7 @@
           "total_laps": 450,
           "points": 370,
           "pos": 10,
+          "cls": "bronze",
           "car_id": 72
         },
         "d512483": {
@@ -576,6 +590,7 @@
           "total_laps": 83,
           "points": 2,
           "pos": 54,
+          "cls": "silver",
           "car_id": 137
         },
         "d603276": {
@@ -608,6 +623,7 @@
           "total_laps": 252,
           "points": 218,
           "pos": 21,
+          "cls": "silver",
           "car_id": 144
         },
         "d288087": {
@@ -641,6 +657,7 @@
           "total_laps": 195,
           "points": 98,
           "pos": 35,
+          "cls": "bronze",
           "car_id": 133
         },
         "d402390": {
@@ -675,6 +692,7 @@
           "total_laps": 340,
           "points": 264,
           "pos": 17,
+          "cls": "silver",
           "car_id": 133
         },
         "d484677": {
@@ -709,6 +727,7 @@
           "total_laps": 417,
           "points": 292,
           "pos": 13,
+          "cls": "silver",
           "car_id": 137
         },
         "d342356": {
@@ -744,6 +763,7 @@
           "total_laps": 271,
           "points": 124,
           "pos": 32,
+          "cls": "bronze",
           "car_id": 137
         },
         "d470310": {
@@ -777,6 +797,7 @@
           "total_laps": 92,
           "points": -10,
           "pos": 60,
+          "cls": "bronze",
           "car_id": 137
         },
         "d258544": {
@@ -809,6 +830,7 @@
           "total_laps": 449,
           "points": 289,
           "pos": 14,
+          "cls": "bronze",
           "car_id": 132
         },
         "d404432": {
@@ -845,6 +867,7 @@
           "total_laps": 424,
           "points": 257,
           "pos": 18,
+          "cls": "bronze",
           "car_id": 132
         },
         "d441904": {
@@ -877,6 +900,7 @@
           "total_laps": 428,
           "points": 198,
           "pos": 24,
+          "cls": "bronze",
           "car_id": 144
         },
         "d527892": {
@@ -912,6 +936,7 @@
           "total_laps": 337,
           "points": 193,
           "pos": 25,
+          "cls": "bronze",
           "car_id": 132
         },
         "d613262": {
@@ -946,6 +971,7 @@
           "total_laps": 323,
           "points": 165,
           "pos": 28,
+          "cls": "bronze",
           "car_id": 72
         },
         "d427645": {
@@ -971,6 +997,7 @@
           "total_laps": 115,
           "points": 46,
           "pos": 46,
+          "cls": "bronze",
           "car_id": 137
         },
         "d583482": {
@@ -1005,6 +1032,7 @@
           "total_laps": 426,
           "points": 210,
           "pos": 22,
+          "cls": "bronze",
           "car_id": 132
         },
         "d513530": {
@@ -1041,6 +1069,7 @@
           "total_laps": 144,
           "points": 28,
           "pos": 49,
+          "cls": "bronze",
           "car_id": 144
         },
         "d549916": {
@@ -1075,6 +1104,7 @@
           "total_laps": 221,
           "points": 97,
           "pos": 36,
+          "cls": "bronze",
           "car_id": 132
         },
         "d675891": {
@@ -1104,6 +1134,7 @@
           "total_laps": 163,
           "points": 78,
           "pos": 39,
+          "cls": "bronze",
           "car_id": 132
         },
         "d481697": {
@@ -1128,6 +1159,7 @@
           "total_laps": 56,
           "points": 19,
           "pos": 51,
+          "cls": "bronze",
           "car_id": 132
         },
         "d189468": {
@@ -1164,6 +1196,7 @@
           "total_laps": 258,
           "points": 145,
           "pos": 29,
+          "cls": "silver",
           "car_id": 59
         },
         "d602481": {
@@ -1197,6 +1230,7 @@
           "total_laps": 252,
           "points": 126,
           "pos": 31,
+          "cls": "bronze",
           "car_id": 144
         },
         "d526849": {
@@ -1230,6 +1264,7 @@
           "total_laps": 213,
           "points": 119,
           "pos": 33,
+          "cls": "bronze",
           "car_id": 73
         },
         "d88089": {
@@ -1265,6 +1300,7 @@
           "total_laps": 377,
           "points": 307,
           "pos": 12,
+          "cls": "bronze",
           "car_id": 137
         },
         "d142112": {
@@ -1300,6 +1336,7 @@
           "total_laps": 295,
           "points": 167,
           "pos": 27,
+          "cls": "bronze",
           "car_id": 144
         },
         "d421463": {
@@ -1335,6 +1372,7 @@
           "total_laps": 97,
           "points": 26,
           "pos": 50,
+          "cls": "bronze",
           "car_id": 137
         },
         "d436151": {
@@ -1368,6 +1406,7 @@
           "total_laps": 175,
           "points": 131,
           "pos": 30,
+          "cls": "bronze",
           "car_id": 43
         },
         "d77037": {
@@ -1394,6 +1433,7 @@
           "total_laps": 12,
           "points": 0,
           "pos": 55,
+          "cls": "silver",
           "car_id": 133
         },
         "d127071": {
@@ -1420,6 +1460,7 @@
           "total_laps": 10,
           "points": 0,
           "pos": 56,
+          "cls": "silver",
           "car_id": 132
         },
         "d563256": {
@@ -1454,6 +1495,7 @@
           "total_laps": 335,
           "points": 255,
           "pos": 19,
+          "cls": "bronze",
           "car_id": 144
         },
         "d345695": {
@@ -1482,6 +1524,7 @@
           "total_laps": 121,
           "points": 57,
           "pos": 43,
+          "cls": "bronze",
           "car_id": 133
         },
         "d260479": {
@@ -1515,6 +1558,7 @@
           "total_laps": 241,
           "points": 183,
           "pos": 26,
+          "cls": "silver",
           "car_id": 132
         },
         "d527397": {
@@ -1554,6 +1598,7 @@
           "total_laps": 312,
           "points": 321,
           "pos": 11,
+          "cls": "silver",
           "car_id": 132
         },
         "d233357": {
@@ -1588,6 +1633,7 @@
           "total_laps": 377,
           "points": 242,
           "pos": 20,
+          "cls": "bronze",
           "car_id": 144
         },
         "d452432": {
@@ -1612,6 +1658,7 @@
           "total_laps": 44,
           "points": 16,
           "pos": 52,
+          "cls": "bronze",
           "car_id": 132
         },
         "d676058": {
@@ -1641,6 +1688,7 @@
           "total_laps": 147,
           "points": 80,
           "pos": 38,
+          "cls": "bronze",
           "car_id": 144
         },
         "d482943": {
@@ -1681,6 +1729,7 @@
           "total_laps": 193,
           "points": 205,
           "pos": 23,
+          "cls": "gold",
           "car_id": 73
         },
         "d552999": {
@@ -1708,6 +1757,7 @@
           "total_laps": 46,
           "points": -40,
           "pos": 61,
+          "cls": "gold",
           "car_id": 133
         },
         "d691015": {
@@ -1734,6 +1784,7 @@
           "total_laps": 28,
           "points": -60,
           "pos": 62,
+          "cls": "bronze",
           "car_id": 144
         },
         "d548402": {
@@ -1759,6 +1810,7 @@
           "total_laps": 111,
           "points": 94,
           "pos": 37,
+          "cls": "silver",
           "car_id": 132
         },
         "d565134": {
@@ -1786,6 +1838,7 @@
           "total_laps": 56,
           "points": 9,
           "pos": 53,
+          "cls": "silver",
           "car_id": 73
         },
         "d516195": {
@@ -1813,6 +1866,7 @@
           "total_laps": 66,
           "points": 0,
           "pos": 59,
+          "cls": "bronze",
           "car_id": 132
         },
         "d556527": {
@@ -1843,6 +1897,7 @@
           "total_laps": 128,
           "points": 74,
           "pos": 40,
+          "cls": "silver",
           "car_id": 144
         },
         "d305702": {
@@ -1868,6 +1923,7 @@
           "total_laps": 89,
           "points": 57,
           "pos": 42,
+          "cls": "bronze",
           "car_id": 132
         },
         "d130889": {
@@ -1898,6 +1954,7 @@
           "total_laps": 31,
           "points": 0,
           "pos": 58,
+          "cls": "gold",
           "car_id": 144
         },
         "d402302": {
@@ -1922,6 +1979,7 @@
           "total_laps": 49,
           "points": 53,
           "pos": 44,
+          "cls": "bronze",
           "car_id": 144
         },
         "d417314": {
@@ -1946,6 +2004,7 @@
           "total_laps": 49,
           "points": 48,
           "pos": 45,
+          "cls": "gold",
           "car_id": 43
         },
         "d420632": {
@@ -1972,6 +2031,7 @@
           "total_laps": 49,
           "points": 44,
           "pos": 47,
+          "cls": "gold",
           "car_id": 144
         },
         "d575225": {
@@ -1996,6 +2056,7 @@
           "total_laps": 49,
           "points": 40,
           "pos": 48,
+          "cls": "bronze",
           "car_id": 137
         }
       },
@@ -2063,6 +2124,7 @@
           "total_laps": 307,
           "points": 226,
           "pos": 25,
+          "cls": "gold",
           "car_id": 133
         },
         "d491843": {
@@ -2124,6 +2186,7 @@
           "total_laps": 519,
           "points": 810,
           "pos": 1,
+          "cls": "gold",
           "car_id": 133
         },
         "d533283": {
@@ -2161,6 +2224,7 @@
           "total_laps": 501,
           "points": 576,
           "pos": 2,
+          "cls": "gold",
           "car_id": 133
         },
         "d343195": {
@@ -2197,6 +2261,7 @@
           "total_laps": 353,
           "points": 330,
           "pos": 14,
+          "cls": "gold",
           "car_id": 73
         },
         "d436151": {
@@ -2228,6 +2293,7 @@
           "total_laps": 197,
           "points": 187,
           "pos": 29,
+          "cls": "bronze",
           "car_id": 73
         },
         "d409289": {
@@ -2269,6 +2335,7 @@
           "total_laps": 494,
           "points": 562,
           "pos": 3,
+          "cls": "silver",
           "car_id": 73
         },
         "d565134": {
@@ -2308,6 +2375,7 @@
           "total_laps": 365,
           "points": 402,
           "pos": 9,
+          "cls": "silver",
           "car_id": 73
         },
         "d527397": {
@@ -2349,6 +2417,7 @@
           "total_laps": 241,
           "points": 231,
           "pos": 24,
+          "cls": "silver",
           "car_id": 73
         },
         "d420632": {
@@ -2379,6 +2448,7 @@
           "total_laps": 145,
           "points": 86,
           "pos": 41,
+          "cls": "gold",
           "car_id": 73
         },
         "d417314": {
@@ -2406,6 +2476,7 @@
           "total_laps": 45,
           "points": 53,
           "pos": 47,
+          "cls": "gold",
           "car_id": 132
         },
         "d628359": {
@@ -2446,6 +2517,7 @@
           "total_laps": 335,
           "points": 367,
           "pos": 13,
+          "cls": "silver",
           "car_id": 73
         },
         "d335711": {
@@ -2485,6 +2557,7 @@
           "total_laps": 462,
           "points": 437,
           "pos": 7,
+          "cls": "silver",
           "car_id": 43
         },
         "d402390": {
@@ -2511,6 +2584,7 @@
           "total_laps": 158,
           "points": 166,
           "pos": 31,
+          "cls": "bronze",
           "car_id": 73
         },
         "d404432": {
@@ -2552,6 +2626,7 @@
           "total_laps": 511,
           "points": 451,
           "pos": 5,
+          "cls": "bronze",
           "car_id": 132
         },
         "d626462": {
@@ -2584,6 +2659,7 @@
           "total_laps": 333,
           "points": 269,
           "pos": 20,
+          "cls": "bronze",
           "car_id": 72
         },
         "d258544": {
@@ -2618,6 +2694,7 @@
           "total_laps": 354,
           "points": 260,
           "pos": 21,
+          "cls": "silver",
           "car_id": 73
         },
         "d603137": {
@@ -2649,6 +2726,7 @@
           "total_laps": 61,
           "points": -2,
           "pos": 58,
+          "cls": "silver",
           "car_id": 132
         },
         "d142112": {
@@ -2679,6 +2757,7 @@
           "total_laps": 202,
           "points": 123,
           "pos": 36,
+          "cls": "bronze",
           "car_id": 73
         },
         "d165203": {
@@ -2711,6 +2790,7 @@
           "total_laps": 205,
           "points": 148,
           "pos": 32,
+          "cls": "bronze",
           "car_id": 137
         },
         "d563256": {
@@ -2740,6 +2820,7 @@
           "total_laps": 52,
           "points": 12,
           "pos": 52,
+          "cls": "bronze",
           "car_id": 144
         },
         "d233357": {
@@ -2779,6 +2860,7 @@
           "total_laps": 467,
           "points": 405,
           "pos": 8,
+          "cls": "bronze",
           "car_id": 144
         },
         "d402302": {
@@ -2812,6 +2894,7 @@
           "total_laps": 324,
           "points": 283,
           "pos": 17,
+          "cls": "bronze",
           "car_id": 144
         },
         "d88089": {
@@ -2846,6 +2929,7 @@
           "total_laps": 193,
           "points": 199,
           "pos": 28,
+          "cls": "bronze",
           "car_id": 137
         },
         "d556527": {
@@ -2875,6 +2959,7 @@
           "total_laps": 159,
           "points": 97,
           "pos": 38,
+          "cls": "silver",
           "car_id": 144
         },
         "d575225": {
@@ -2902,6 +2987,7 @@
           "total_laps": 155,
           "points": 145,
           "pos": 34,
+          "cls": "bronze",
           "car_id": 137
         },
         "d613262": {
@@ -2935,6 +3021,7 @@
           "total_laps": 484,
           "points": 378,
           "pos": 12,
+          "cls": "bronze",
           "car_id": 144
         },
         "d147927": {
@@ -2973,6 +3060,7 @@
           "total_laps": 382,
           "points": 278,
           "pos": 18,
+          "cls": "silver",
           "car_id": 133
         },
         "d583482": {
@@ -3009,6 +3097,7 @@
           "total_laps": 456,
           "points": 381,
           "pos": 11,
+          "cls": "bronze",
           "car_id": 144
         },
         "d256932": {
@@ -3036,6 +3125,7 @@
           "total_laps": 45,
           "points": 22,
           "pos": 51,
+          "cls": "bronze",
           "car_id": 132
         },
         "d527892": {
@@ -3072,6 +3162,7 @@
           "total_laps": 549,
           "points": 394,
           "pos": 10,
+          "cls": "bronze",
           "car_id": 132
         },
         "d342356": {
@@ -3100,6 +3191,7 @@
           "total_laps": 96,
           "points": 82,
           "pos": 42,
+          "cls": "bronze",
           "car_id": 137
         },
         "d181019": {
@@ -3131,6 +3223,7 @@
           "total_laps": 293,
           "points": 128,
           "pos": 35,
+          "cls": "bronze",
           "car_id": 137
         },
         "d513530": {
@@ -3160,6 +3253,7 @@
           "total_laps": 160,
           "points": 92,
           "pos": 39,
+          "cls": "bronze",
           "car_id": 73
         },
         "d441904": {
@@ -3191,6 +3285,7 @@
           "total_laps": 378,
           "points": 291,
           "pos": 16,
+          "cls": "bronze",
           "car_id": 144
         },
         "d481697": {
@@ -3221,6 +3316,7 @@
           "total_laps": 102,
           "points": 48,
           "pos": 49,
+          "cls": "bronze",
           "car_id": 133
         },
         "d602481": {
@@ -3253,6 +3349,7 @@
           "total_laps": 347,
           "points": 172,
           "pos": 30,
+          "cls": "bronze",
           "car_id": 137
         },
         "d514492": {
@@ -3280,6 +3377,7 @@
           "total_laps": 84,
           "points": 65,
           "pos": 44,
+          "cls": "silver",
           "car_id": 133
         },
         "d534726": {
@@ -3321,6 +3419,7 @@
           "total_laps": 251,
           "points": 245,
           "pos": 22,
+          "cls": "silver",
           "car_id": 137
         },
         "d345695": {
@@ -3351,6 +3450,7 @@
           "total_laps": 246,
           "points": 146,
           "pos": 33,
+          "cls": "bronze",
           "car_id": 144
         },
         "d549916": {
@@ -3388,6 +3488,7 @@
           "total_laps": 392,
           "points": 216,
           "pos": 26,
+          "cls": "bronze",
           "car_id": 132
         },
         "d311045": {
@@ -3424,6 +3525,7 @@
           "total_laps": 475,
           "points": 444,
           "pos": 6,
+          "cls": "silver",
           "car_id": 72
         },
         "d548402": {
@@ -3464,6 +3566,7 @@
           "total_laps": 208,
           "points": 275,
           "pos": 19,
+          "cls": "silver",
           "car_id": 132
         },
         "d130889": {
@@ -3493,6 +3596,7 @@
           "total_laps": 94,
           "points": 8,
           "pos": 53,
+          "cls": "gold",
           "car_id": 133
         },
         "d658251": {
@@ -3525,6 +3629,7 @@
           "total_laps": 120,
           "points": 50,
           "pos": 48,
+          "cls": "bronze",
           "car_id": 137
         },
         "d174507": {
@@ -3562,6 +3667,7 @@
           "total_laps": 275,
           "points": 242,
           "pos": 23,
+          "cls": "gold",
           "car_id": 73
         },
         "d482943": {
@@ -3590,6 +3696,7 @@
           "total_laps": 26,
           "points": -20,
           "pos": 59,
+          "cls": "gold",
           "car_id": 43
         },
         "d661327": {
@@ -3616,6 +3723,7 @@
           "total_laps": 61,
           "points": 90,
           "pos": 40,
+          "cls": "silver",
           "car_id": 144
         },
         "d484677": {
@@ -3655,6 +3763,7 @@
           "total_laps": 519,
           "points": 494,
           "pos": 4,
+          "cls": "silver",
           "car_id": 73
         },
         "d288994": {
@@ -3682,6 +3791,7 @@
           "total_laps": 28,
           "points": 65,
           "pos": 45,
+          "cls": "bronze",
           "car_id": 73
         },
         "d545588": {
@@ -3721,6 +3831,7 @@
           "total_laps": 55,
           "points": 200,
           "pos": 27,
+          "cls": "gold",
           "car_id": 132
         },
         "d662233": {
@@ -3757,6 +3868,7 @@
           "total_laps": 407,
           "points": 306,
           "pos": 15,
+          "cls": "bronze",
           "car_id": 132
         },
         "d526849": {
@@ -3783,6 +3895,7 @@
           "total_laps": 4,
           "points": 0,
           "pos": 54,
+          "cls": "bronze",
           "car_id": 73
         },
         "d255581": {
@@ -3813,6 +3926,7 @@
           "total_laps": 150,
           "points": 59,
           "pos": 46,
+          "cls": "silver",
           "car_id": 132
         },
         "d92199": {
@@ -3840,6 +3954,7 @@
           "total_laps": 80,
           "points": 33,
           "pos": 50,
+          "cls": "silver",
           "car_id": 72
         },
         "d562464": {
@@ -3866,6 +3981,7 @@
           "total_laps": 159,
           "points": 114,
           "pos": 37,
+          "cls": "bronze",
           "car_id": 73
         },
         "d391497": {
@@ -3891,6 +4007,7 @@
           "total_laps": 102,
           "points": 69,
           "pos": 43,
+          "cls": "bronze",
           "car_id": 132
         },
         "d189468": {
@@ -3908,7 +4025,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 56
+          "pos": 56,
+          "cls": "bronze"
         }
       },
       "p1": "d533283",
@@ -3973,6 +4091,7 @@
           "total_laps": 398,
           "points": 372,
           "pos": 11,
+          "cls": "gold",
           "car_id": 132
         },
         "d678818": {
@@ -4021,6 +4140,7 @@
           "total_laps": 301,
           "points": 450,
           "pos": 8,
+          "cls": "silver",
           "car_id": 156
         },
         "d534726": {
@@ -4059,6 +4179,7 @@
           "total_laps": 455,
           "points": 548,
           "pos": 7,
+          "cls": "gold",
           "car_id": 137
         },
         "d343195": {
@@ -4102,6 +4223,7 @@
           "total_laps": 597,
           "points": 663,
           "pos": 3,
+          "cls": "gold",
           "car_id": 73
         },
         "d658251": {
@@ -4133,6 +4255,7 @@
           "total_laps": 198,
           "points": 123,
           "pos": 39,
+          "cls": "bronze",
           "car_id": 133
         },
         "d409289": {
@@ -4175,6 +4298,7 @@
           "total_laps": 617,
           "points": 592,
           "pos": 5,
+          "cls": "gold",
           "car_id": 73
         },
         "d626462": {
@@ -4208,6 +4332,7 @@
           "total_laps": 381,
           "points": 335,
           "pos": 14,
+          "cls": "bronze",
           "car_id": 132
         },
         "d174507": {
@@ -4248,6 +4373,7 @@
           "total_laps": 607,
           "points": 613,
           "pos": 4,
+          "cls": "gold",
           "car_id": 132
         },
         "d402390": {
@@ -4283,6 +4409,7 @@
           "total_laps": 473,
           "points": 424,
           "pos": 9,
+          "cls": "bronze",
           "car_id": 156
         },
         "d88089": {
@@ -4317,6 +4444,7 @@
           "total_laps": 536,
           "points": 551,
           "pos": 6,
+          "cls": "bronze",
           "car_id": 156
         },
         "d491843": {
@@ -4348,6 +4476,7 @@
           "total_laps": 311,
           "points": 378,
           "pos": 10,
+          "cls": "gold",
           "car_id": 59
         },
         "d258544": {
@@ -4373,6 +4502,7 @@
           "total_laps": 111,
           "points": 94,
           "pos": 42,
+          "cls": "silver",
           "car_id": 73
         },
         "d335711": {
@@ -4407,6 +4537,7 @@
           "total_laps": 499,
           "points": 274,
           "pos": 18,
+          "cls": "silver",
           "car_id": 156
         },
         "d402302": {
@@ -4439,6 +4570,7 @@
           "total_laps": 336,
           "points": 225,
           "pos": 24,
+          "cls": "bronze",
           "car_id": 144
         },
         "d324933": {
@@ -4475,6 +4607,7 @@
           "total_laps": 334,
           "points": 142,
           "pos": 38,
+          "cls": "bronze",
           "car_id": 156
         },
         "d165203": {
@@ -4508,6 +4641,7 @@
           "total_laps": 366,
           "points": 182,
           "pos": 33,
+          "cls": "bronze",
           "car_id": 137
         },
         "d575225": {
@@ -4543,6 +4677,7 @@
           "total_laps": 402,
           "points": 167,
           "pos": 35,
+          "cls": "bronze",
           "car_id": 137
         },
         "d527892": {
@@ -4579,6 +4714,7 @@
           "total_laps": 597,
           "points": 282,
           "pos": 16,
+          "cls": "bronze",
           "car_id": 132
         },
         "d583482": {
@@ -4603,6 +4739,7 @@
           "total_laps": 55,
           "points": 34,
           "pos": 58,
+          "cls": "bronze",
           "car_id": 144
         },
         "d233357": {
@@ -4640,6 +4777,7 @@
           "total_laps": 265,
           "points": 202,
           "pos": 26,
+          "cls": "silver",
           "car_id": 156
         },
         "d441904": {
@@ -4671,6 +4809,7 @@
           "total_laps": 199,
           "points": 69,
           "pos": 51,
+          "cls": "bronze",
           "car_id": 144
         },
         "d147927": {
@@ -4705,6 +4844,7 @@
           "total_laps": 610,
           "points": 357,
           "pos": 12,
+          "cls": "silver",
           "car_id": 133
         },
         "d305702": {
@@ -4744,6 +4884,7 @@
           "total_laps": 472,
           "points": 155,
           "pos": 36,
+          "cls": "bronze",
           "car_id": 156
         },
         "d674607": {
@@ -4783,6 +4924,7 @@
           "total_laps": 331,
           "points": 94,
           "pos": 43,
+          "cls": "bronze",
           "car_id": 156
         },
         "d181019": {
@@ -4818,6 +4960,7 @@
           "total_laps": 495,
           "points": 189,
           "pos": 29,
+          "cls": "bronze",
           "car_id": 144
         },
         "d448952": {
@@ -4849,6 +4992,7 @@
           "total_laps": 415,
           "points": 228,
           "pos": 22,
+          "cls": "bronze",
           "car_id": 133
         },
         "d602481": {
@@ -4881,6 +5025,7 @@
           "total_laps": 295,
           "points": 183,
           "pos": 32,
+          "cls": "bronze",
           "car_id": 137
         },
         "d404432": {
@@ -4913,6 +5058,7 @@
           "total_laps": 470,
           "points": 223,
           "pos": 25,
+          "cls": "bronze",
           "car_id": 132
         },
         "d759394": {
@@ -4951,6 +5097,7 @@
           "total_laps": 305,
           "points": 83,
           "pos": 47,
+          "cls": "bronze",
           "car_id": 132
         },
         "d642928": {
@@ -4987,6 +5134,7 @@
           "total_laps": 497,
           "points": 231,
           "pos": 20,
+          "cls": "bronze",
           "car_id": 137
         },
         "d462976": {
@@ -5027,6 +5175,7 @@
           "total_laps": 500,
           "points": 288,
           "pos": 15,
+          "cls": "bronze",
           "car_id": 132
         },
         "d311045": {
@@ -5061,6 +5210,7 @@
           "total_laps": 441,
           "points": 341,
           "pos": 13,
+          "cls": "silver",
           "car_id": 156
         },
         "d710369": {
@@ -5087,6 +5237,7 @@
           "total_laps": 42,
           "points": 0,
           "pos": 67,
+          "cls": "bronze",
           "car_id": 132
         },
         "d498753": {
@@ -5121,6 +5272,7 @@
           "total_laps": 360,
           "points": 189,
           "pos": 30,
+          "cls": "bronze",
           "car_id": 132
         },
         "d559149": {
@@ -5153,6 +5305,7 @@
           "total_laps": 247,
           "points": 92,
           "pos": 45,
+          "cls": "bronze",
           "car_id": 133
         },
         "d287921": {
@@ -5196,6 +5349,7 @@
           "total_laps": 369,
           "points": 228,
           "pos": 23,
+          "cls": "silver",
           "car_id": 144
         },
         "d484677": {
@@ -5234,6 +5388,7 @@
           "total_laps": 519,
           "points": 196,
           "pos": 27,
+          "cls": "silver",
           "car_id": 156
         },
         "d592266": {
@@ -5266,6 +5421,7 @@
           "total_laps": 206,
           "points": 35,
           "pos": 57,
+          "cls": "bronze",
           "car_id": 132
         },
         "d562464": {
@@ -5305,6 +5461,7 @@
           "total_laps": 471,
           "points": 110,
           "pos": 41,
+          "cls": "bronze",
           "car_id": 73
         },
         "d527397": {
@@ -5337,6 +5494,7 @@
           "total_laps": 91,
           "points": -40,
           "pos": 74,
+          "cls": "silver",
           "car_id": 156
         },
         "d703119": {
@@ -5373,6 +5531,7 @@
           "total_laps": 276,
           "points": 154,
           "pos": 37,
+          "cls": "gold",
           "car_id": 144
         },
         "d771017": {
@@ -5399,6 +5558,7 @@
           "total_laps": 15,
           "points": 0,
           "pos": 62,
+          "cls": "bronze",
           "car_id": 144
         },
         "d513530": {
@@ -5433,6 +5593,7 @@
           "total_laps": 450,
           "points": 182,
           "pos": 34,
+          "cls": "bronze",
           "car_id": 73
         },
         "d662233": {
@@ -5471,6 +5632,7 @@
           "total_laps": 484,
           "points": 258,
           "pos": 19,
+          "cls": "bronze",
           "car_id": 156
         },
         "d775700": {
@@ -5501,6 +5663,7 @@
           "total_laps": 24,
           "points": -20,
           "pos": 73,
+          "cls": "bronze",
           "car_id": 144
         },
         "d391497": {
@@ -5537,6 +5700,7 @@
           "total_laps": 242,
           "points": 78,
           "pos": 48,
+          "cls": "bronze",
           "car_id": 132
         },
         "d613262": {
@@ -5573,6 +5737,7 @@
           "total_laps": 425,
           "points": 279,
           "pos": 17,
+          "cls": "bronze",
           "car_id": 156
         },
         "d698211": {
@@ -5607,6 +5772,7 @@
           "total_laps": 245,
           "points": 92,
           "pos": 44,
+          "cls": "bronze",
           "car_id": 73
         },
         "d533283": {
@@ -5654,6 +5820,7 @@
           "total_laps": 503,
           "points": 686,
           "pos": 2,
+          "cls": "gold",
           "car_id": 133
         },
         "d587639": {
@@ -5685,6 +5852,7 @@
           "total_laps": 178,
           "points": 63,
           "pos": 53,
+          "cls": "silver",
           "car_id": 137
         },
         "d624646": {
@@ -5720,6 +5888,7 @@
           "total_laps": 539,
           "points": 195,
           "pos": 28,
+          "cls": "bronze",
           "car_id": 144
         },
         "d345695": {
@@ -5748,6 +5917,7 @@
           "total_laps": 246,
           "points": 114,
           "pos": 40,
+          "cls": "bronze",
           "car_id": 156
         },
         "d481697": {
@@ -5782,6 +5952,7 @@
           "total_laps": 288,
           "points": 26,
           "pos": 60,
+          "cls": "bronze",
           "car_id": 156
         },
         "d791046": {
@@ -5816,6 +5987,7 @@
           "total_laps": 298,
           "points": 23,
           "pos": 61,
+          "cls": "bronze",
           "car_id": 156
         },
         "d549916": {
@@ -5850,6 +6022,7 @@
           "total_laps": 245,
           "points": 66,
           "pos": 52,
+          "cls": "bronze",
           "car_id": 132
         },
         "d264953": {
@@ -5918,6 +6091,7 @@
           "total_laps": 438,
           "points": 740,
           "pos": 1,
+          "cls": "gold",
           "car_id": 156
         },
         "d342356": {
@@ -5942,6 +6116,7 @@
           "total_laps": 51,
           "points": 48,
           "pos": 55,
+          "cls": "bronze",
           "car_id": 132
         },
         "d732955": {
@@ -5972,6 +6147,7 @@
           "total_laps": 378,
           "points": 188,
           "pos": 31,
+          "cls": "bronze",
           "car_id": 132
         },
         "d384320": {
@@ -6002,6 +6178,7 @@
           "total_laps": 374,
           "points": 230,
           "pos": 21,
+          "cls": "bronze",
           "car_id": 156
         },
         "d747889": {
@@ -6027,6 +6204,7 @@
           "total_laps": 94,
           "points": 70,
           "pos": 50,
+          "cls": "bronze",
           "car_id": 132
         },
         "d709170": {
@@ -6058,6 +6236,7 @@
           "total_laps": 70,
           "points": 27,
           "pos": 59,
+          "cls": "bronze",
           "car_id": 144
         },
         "d628359": {
@@ -6084,6 +6263,7 @@
           "total_laps": 25,
           "points": 0,
           "pos": 66,
+          "cls": "silver",
           "car_id": 156
         },
         "d702748": {
@@ -6110,6 +6290,7 @@
           "total_laps": 2,
           "points": -20,
           "pos": 72,
+          "cls": "silver",
           "car_id": 144
         },
         "d514492": {
@@ -6136,6 +6317,7 @@
           "total_laps": 1,
           "points": 0,
           "pos": 64,
+          "cls": "silver",
           "car_id": 132
         },
         "d676316": {
@@ -6164,6 +6346,7 @@
           "total_laps": 115,
           "points": 92,
           "pos": 46,
+          "cls": "bronze",
           "car_id": 144
         },
         "d573541": {
@@ -6190,6 +6373,7 @@
           "total_laps": 82,
           "points": 38,
           "pos": 56,
+          "cls": "bronze",
           "car_id": 132
         },
         "d373850": {
@@ -6218,6 +6402,7 @@
           "total_laps": 112,
           "points": 59,
           "pos": 54,
+          "cls": "silver",
           "car_id": 132
         },
         "d229924": {
@@ -6244,6 +6429,7 @@
           "total_laps": 0,
           "points": 0,
           "pos": 0,
+          "cls": "",
           "car_id": 73
         },
         "d641453": {
@@ -6269,6 +6455,7 @@
           "total_laps": 111,
           "points": 76,
           "pos": 49,
+          "cls": "bronze",
           "car_id": 132
         },
         "d92996": {
@@ -6296,6 +6483,7 @@
           "total_laps": 94,
           "points": 0,
           "pos": 71,
+          "cls": "bronze",
           "car_id": 132
         },
         "d526849": {
@@ -6313,7 +6501,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 63
+          "pos": 63,
+          "cls": "bronze"
         },
         "d420632": {
           "id": "",
@@ -6330,7 +6519,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 65
+          "pos": 65,
+          "cls": "gold"
         }
       },
       "p1": "d533283",
@@ -6396,6 +6586,7 @@
           "total_laps": 405,
           "points": 565,
           "pos": 4,
+          "cls": "gold",
           "car_id": 137
         },
         "d374266": {
@@ -6429,6 +6620,7 @@
           "total_laps": 381,
           "points": 370,
           "pos": 12,
+          "cls": "gold",
           "car_id": 156
         },
         "d462976": {
@@ -6468,6 +6660,7 @@
           "total_laps": 342,
           "points": 321,
           "pos": 16,
+          "cls": "silver",
           "car_id": 132
         },
         "d626462": {
@@ -6498,6 +6691,7 @@
           "total_laps": 134,
           "points": 137,
           "pos": 38,
+          "cls": "silver",
           "car_id": 137
         },
         "d527397": {
@@ -6526,6 +6720,7 @@
           "total_laps": 113,
           "points": 51,
           "pos": 46,
+          "cls": "silver",
           "car_id": 132
         },
         "d484677": {
@@ -6565,6 +6760,7 @@
           "total_laps": 617,
           "points": 674,
           "pos": 3,
+          "cls": "silver",
           "car_id": 137
         },
         "d373850": {
@@ -6602,6 +6798,7 @@
           "total_laps": 523,
           "points": 526,
           "pos": 6,
+          "cls": "silver",
           "car_id": 132
         },
         "d343195": {
@@ -6635,6 +6832,7 @@
           "total_laps": 529,
           "points": 417,
           "pos": 11,
+          "cls": "gold",
           "car_id": 73
         },
         "d548402": {
@@ -6666,6 +6864,7 @@
           "total_laps": 192,
           "points": 116,
           "pos": 41,
+          "cls": "gold",
           "car_id": 132
         },
         "d534726": {
@@ -6718,6 +6917,7 @@
           "total_laps": 552,
           "points": 698,
           "pos": 2,
+          "cls": "gold",
           "car_id": 137
         },
         "d174507": {
@@ -6753,6 +6953,7 @@
           "total_laps": 341,
           "points": 241,
           "pos": 25,
+          "cls": "gold",
           "car_id": 156
         },
         "d409289": {
@@ -6790,6 +6991,7 @@
           "total_laps": 508,
           "points": 513,
           "pos": 7,
+          "cls": "gold",
           "car_id": 73
         },
         "d335711": {
@@ -6828,6 +7030,7 @@
           "total_laps": 518,
           "points": 436,
           "pos": 9,
+          "cls": "silver",
           "car_id": 133
         },
         "d324933": {
@@ -6867,6 +7070,7 @@
           "total_laps": 250,
           "points": 68,
           "pos": 42,
+          "cls": "silver",
           "car_id": 137
         },
         "d311045": {
@@ -6904,6 +7108,7 @@
           "total_laps": 394,
           "points": 252,
           "pos": 22,
+          "cls": "silver",
           "car_id": 156
         },
         "d404432": {
@@ -6934,6 +7139,7 @@
           "total_laps": 354,
           "points": 138,
           "pos": 37,
+          "cls": "silver",
           "car_id": 156
         },
         "d602481": {
@@ -6965,6 +7171,7 @@
           "total_laps": 86,
           "points": 38,
           "pos": 51,
+          "cls": "bronze",
           "car_id": 137
         },
         "d703119": {
@@ -6996,6 +7203,7 @@
           "total_laps": 437,
           "points": 430,
           "pos": 10,
+          "cls": "silver",
           "car_id": 137
         },
         "d147927": {
@@ -7033,6 +7241,7 @@
           "total_laps": 521,
           "points": 296,
           "pos": 18,
+          "cls": "gold",
           "car_id": 132
         },
         "d498753": {
@@ -7070,6 +7279,7 @@
           "total_laps": 531,
           "points": 332,
           "pos": 15,
+          "cls": "bronze",
           "car_id": 132
         },
         "d698211": {
@@ -7098,6 +7308,7 @@
           "total_laps": 278,
           "points": 219,
           "pos": 27,
+          "cls": "silver",
           "car_id": 73
         },
         "d613262": {
@@ -7132,6 +7343,7 @@
           "total_laps": 594,
           "points": 242,
           "pos": 24,
+          "cls": "silver",
           "car_id": 132
         },
         "d646693": {
@@ -7165,6 +7377,7 @@
           "total_laps": 286,
           "points": 152,
           "pos": 36,
+          "cls": "silver",
           "car_id": 132
         },
         "d402302": {
@@ -7201,6 +7414,7 @@
           "total_laps": 322,
           "points": 202,
           "pos": 29,
+          "cls": "bronze",
           "car_id": 144
         },
         "d583482": {
@@ -7238,6 +7452,7 @@
           "total_laps": 580,
           "points": 299,
           "pos": 17,
+          "cls": "bronze",
           "car_id": 132
         },
         "d92996": {
@@ -7276,6 +7491,7 @@
           "total_laps": 222,
           "points": 49,
           "pos": 48,
+          "cls": "bronze",
           "car_id": 132
         },
         "d587639": {
@@ -7307,6 +7523,7 @@
           "total_laps": 77,
           "points": 24,
           "pos": 56,
+          "cls": "silver",
           "car_id": 132
         },
         "d233357": {
@@ -7341,6 +7558,7 @@
           "total_laps": 119,
           "points": 31,
           "pos": 53,
+          "cls": "silver",
           "car_id": 144
         },
         "d258544": {
@@ -7377,6 +7595,7 @@
           "total_laps": 457,
           "points": 190,
           "pos": 33,
+          "cls": "silver",
           "car_id": 132
         },
         "d441904": {
@@ -7407,6 +7626,7 @@
           "total_laps": 242,
           "points": 50,
           "pos": 47,
+          "cls": "bronze",
           "car_id": 132
         },
         "d549916": {
@@ -7437,6 +7657,7 @@
           "total_laps": 105,
           "points": 16,
           "pos": 58,
+          "cls": "bronze",
           "car_id": 73
         },
         "d181019": {
@@ -7472,6 +7693,7 @@
           "total_laps": 420,
           "points": 198,
           "pos": 31,
+          "cls": "bronze",
           "car_id": 144
         },
         "d562464": {
@@ -7509,6 +7731,7 @@
           "total_laps": 503,
           "points": 223,
           "pos": 26,
+          "cls": "bronze",
           "car_id": 132
         },
         "d732955": {
@@ -7542,6 +7765,7 @@
           "total_laps": 533,
           "points": 256,
           "pos": 20,
+          "cls": "bronze",
           "car_id": 132
         },
         "d384320": {
@@ -7577,6 +7801,7 @@
           "total_laps": 470,
           "points": 201,
           "pos": 30,
+          "cls": "silver",
           "car_id": 137
         },
         "d391497": {
@@ -7606,6 +7831,7 @@
           "total_laps": 98,
           "points": -20,
           "pos": 87,
+          "cls": "bronze",
           "car_id": 132
         },
         "d674607": {
@@ -7643,6 +7869,7 @@
           "total_laps": 292,
           "points": 127,
           "pos": 40,
+          "cls": "bronze",
           "car_id": 137
         },
         "d500241": {
@@ -7682,6 +7909,7 @@
           "total_laps": 512,
           "points": 173,
           "pos": 34,
+          "cls": "bronze",
           "car_id": 132
         },
         "d676316": {
@@ -7714,6 +7942,7 @@
           "total_laps": 500,
           "points": 359,
           "pos": 13,
+          "cls": "bronze",
           "car_id": 133
         },
         "d264953": {
@@ -7789,6 +8018,7 @@
           "total_laps": 602,
           "points": 816,
           "pos": 1,
+          "cls": "gold",
           "car_id": 137
         },
         "d573541": {
@@ -7822,6 +8052,7 @@
           "total_laps": 208,
           "points": 53,
           "pos": 45,
+          "cls": "bronze",
           "car_id": 132
         },
         "d527892": {
@@ -7857,6 +8088,7 @@
           "total_laps": 508,
           "points": 192,
           "pos": 32,
+          "cls": "bronze",
           "car_id": 132
         },
         "d642928": {
@@ -7895,6 +8127,7 @@
           "total_laps": 593,
           "points": 351,
           "pos": 14,
+          "cls": "bronze",
           "car_id": 73
         },
         "d441250": {
@@ -7928,6 +8161,7 @@
           "total_laps": 268,
           "points": 247,
           "pos": 23,
+          "cls": "silver",
           "car_id": 137
         },
         "d533283": {
@@ -7967,6 +8201,7 @@
           "total_laps": 516,
           "points": 541,
           "pos": 5,
+          "cls": "gold",
           "car_id": 133
         },
         "d287921": {
@@ -7997,6 +8232,7 @@
           "total_laps": 14,
           "points": 0,
           "pos": 61,
+          "cls": "silver",
           "car_id": 156
         },
         "d92199": {
@@ -8023,6 +8259,7 @@
           "total_laps": 10,
           "points": 0,
           "pos": 76,
+          "cls": "silver",
           "car_id": 137
         },
         "d791046": {
@@ -8054,6 +8291,7 @@
           "total_laps": 114,
           "points": 6,
           "pos": 59,
+          "cls": "bronze",
           "car_id": 156
         },
         "d402389": {
@@ -8095,6 +8333,7 @@
           "total_laps": 445,
           "points": 487,
           "pos": 8,
+          "cls": "gold",
           "car_id": 132
         },
         "d401519": {
@@ -8123,6 +8362,7 @@
           "total_laps": 278,
           "points": 159,
           "pos": 35,
+          "cls": "silver",
           "car_id": 132
         },
         "d776393": {
@@ -8152,6 +8392,7 @@
           "total_laps": 94,
           "points": 42,
           "pos": 49,
+          "cls": "gold",
           "car_id": 137
         },
         "d414773": {
@@ -8184,6 +8425,7 @@
           "total_laps": 308,
           "points": 253,
           "pos": 21,
+          "cls": "silver",
           "car_id": 73
         },
         "d58944": {
@@ -8211,6 +8453,7 @@
           "total_laps": 92,
           "points": 56,
           "pos": 44,
+          "cls": "gold",
           "car_id": 132
         },
         "d112955": {
@@ -8237,6 +8480,7 @@
           "total_laps": 10,
           "points": 0,
           "pos": 62,
+          "cls": "bronze",
           "car_id": 59
         },
         "d526849": {
@@ -8261,6 +8505,7 @@
           "total_laps": 66,
           "points": 28,
           "pos": 55,
+          "cls": "bronze",
           "car_id": 73
         },
         "d513530": {
@@ -8292,6 +8537,7 @@
           "total_laps": 440,
           "points": 205,
           "pos": 28,
+          "cls": "bronze",
           "car_id": 156
         },
         "d514492": {
@@ -8318,6 +8564,7 @@
           "total_laps": 10,
           "points": 0,
           "pos": 73,
+          "cls": "silver",
           "car_id": 132
         },
         "d401501": {
@@ -8344,6 +8591,7 @@
           "total_laps": 9,
           "points": 0,
           "pos": 77,
+          "cls": "bronze",
           "car_id": 132
         },
         "d387792": {
@@ -8372,6 +8620,7 @@
           "total_laps": 1,
           "points": 0,
           "pos": 71,
+          "cls": "silver",
           "car_id": 137
         },
         "d496896": {
@@ -8399,6 +8648,7 @@
           "total_laps": 102,
           "points": -6,
           "pos": 84,
+          "cls": "bronze",
           "car_id": 156
         },
         "d608661": {
@@ -8425,6 +8675,7 @@
           "total_laps": 16,
           "points": -20,
           "pos": 86,
+          "cls": "silver",
           "car_id": 132
         },
         "d575225": {
@@ -8455,6 +8706,7 @@
           "total_laps": 381,
           "points": 273,
           "pos": 19,
+          "cls": "bronze",
           "car_id": 137
         },
         "d546297": {
@@ -8483,6 +8735,7 @@
           "total_laps": 28,
           "points": -20,
           "pos": 85,
+          "cls": "silver",
           "car_id": 133
         },
         "d300799": {
@@ -8515,6 +8768,7 @@
           "total_laps": 270,
           "points": 130,
           "pos": 39,
+          "cls": "bronze",
           "car_id": 156
         },
         "d345695": {
@@ -8540,6 +8794,7 @@
           "total_laps": 89,
           "points": 39,
           "pos": 50,
+          "cls": "bronze",
           "car_id": 156
         },
         "d342356": {
@@ -8570,6 +8825,7 @@
           "total_laps": 173,
           "points": 32,
           "pos": 52,
+          "cls": "bronze",
           "car_id": 132
         },
         "d559149": {
@@ -8594,6 +8850,7 @@
           "total_laps": 46,
           "points": 59,
           "pos": 43,
+          "cls": "silver",
           "car_id": 132
         },
         "d414284": {
@@ -8618,6 +8875,7 @@
           "total_laps": 46,
           "points": 28,
           "pos": 54,
+          "cls": "silver",
           "car_id": 137
         },
         "d202689": {
@@ -8642,6 +8900,7 @@
           "total_laps": 39,
           "points": 24,
           "pos": 57,
+          "cls": "bronze",
           "car_id": 132
         },
         "d628359": {
@@ -8659,7 +8918,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 60
+          "pos": 60,
+          "cls": "silver"
         },
         "d88089": {
           "id": "",
@@ -8676,7 +8936,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 63
+          "pos": 63,
+          "cls": "silver"
         },
         "d641453": {
           "id": "",
@@ -8693,7 +8954,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 64
+          "pos": 64,
+          "cls": "bronze"
         },
         "d165203": {
           "id": "",
@@ -8710,7 +8972,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 65
+          "pos": 65,
+          "cls": "bronze"
         },
         "d402390": {
           "id": "",
@@ -8727,7 +8990,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 66
+          "pos": 66,
+          "cls": "silver"
         },
         "d481697": {
           "id": "",
@@ -8744,7 +9008,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 67
+          "pos": 67,
+          "cls": "bronze"
         },
         "d709170": {
           "id": "",
@@ -8761,7 +9026,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 68
+          "pos": 68,
+          "cls": "bronze"
         },
         "d759394": {
           "id": "",
@@ -8778,7 +9044,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 69
+          "pos": 69,
+          "cls": "bronze"
         },
         "d448952": {
           "id": "",
@@ -8795,7 +9062,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 72
+          "pos": 72,
+          "cls": "bronze"
         },
         "d545588": {
           "id": "",
@@ -8812,7 +9080,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 78
+          "pos": 78,
+          "cls": "gold"
         }
       },
       "p1": "d534726",
@@ -8879,6 +9148,7 @@
           "total_laps": 368,
           "points": 635,
           "pos": 1,
+          "cls": "gold",
           "car_id": 73
         },
         "d678818": {
@@ -8922,6 +9192,7 @@
           "total_laps": 346,
           "points": 505,
           "pos": 3,
+          "cls": "gold",
           "car_id": 132
         },
         "d703119": {
@@ -8950,6 +9221,7 @@
           "total_laps": 150,
           "points": 184,
           "pos": 25,
+          "cls": "silver",
           "car_id": 144
         },
         "d441250": {
@@ -8988,6 +9260,7 @@
           "total_laps": 391,
           "points": 325,
           "pos": 9,
+          "cls": "silver",
           "car_id": 132
         },
         "d264953": {
@@ -9048,6 +9321,7 @@
           "total_laps": 392,
           "points": 462,
           "pos": 5,
+          "cls": "gold",
           "car_id": 73
         },
         "d414773": {
@@ -9079,6 +9353,7 @@
           "total_laps": 239,
           "points": 193,
           "pos": 24,
+          "cls": "silver",
           "car_id": 73
         },
         "d533283": {
@@ -9119,6 +9394,7 @@
           "total_laps": 418,
           "points": 572,
           "pos": 2,
+          "cls": "gold",
           "car_id": 133
         },
         "d335711": {
@@ -9152,6 +9428,7 @@
           "total_laps": 273,
           "points": 243,
           "pos": 18,
+          "cls": "silver",
           "car_id": 133
         },
         "d534726": {
@@ -9191,6 +9468,7 @@
           "total_laps": 373,
           "points": 309,
           "pos": 12,
+          "cls": "gold",
           "car_id": 73
         },
         "d311045": {
@@ -9225,6 +9503,7 @@
           "total_laps": 363,
           "points": 153,
           "pos": 29,
+          "cls": "silver",
           "car_id": 156
         },
         "d583482": {
@@ -9253,6 +9532,7 @@
           "total_laps": 201,
           "points": 138,
           "pos": 32,
+          "cls": "bronze",
           "car_id": 132
         },
         "d676316": {
@@ -9286,6 +9566,7 @@
           "total_laps": 390,
           "points": 304,
           "pos": 13,
+          "cls": "bronze",
           "car_id": 133
         },
         "d698211": {
@@ -9313,6 +9594,7 @@
           "total_laps": 49,
           "points": 46,
           "pos": 48,
+          "cls": "silver",
           "car_id": 73
         },
         "d527892": {
@@ -9349,6 +9631,7 @@
           "total_laps": 419,
           "points": 249,
           "pos": 17,
+          "cls": "bronze",
           "car_id": 132
         },
         "d498753": {
@@ -9377,6 +9660,7 @@
           "total_laps": 117,
           "points": 36,
           "pos": 51,
+          "cls": "bronze",
           "car_id": 73
         },
         "d401519": {
@@ -9411,6 +9695,7 @@
           "total_laps": 359,
           "points": 171,
           "pos": 26,
+          "cls": "silver",
           "car_id": 133
         },
         "d409289": {
@@ -9447,6 +9732,7 @@
           "total_laps": 322,
           "points": 239,
           "pos": 20,
+          "cls": "gold",
           "car_id": 73
         },
         "d402302": {
@@ -9482,6 +9768,7 @@
           "total_laps": 419,
           "points": 314,
           "pos": 10,
+          "cls": "bronze",
           "car_id": 144
         },
         "d549916": {
@@ -9512,6 +9799,7 @@
           "total_laps": 190,
           "points": 69,
           "pos": 43,
+          "cls": "bronze",
           "car_id": 73
         },
         "d484677": {
@@ -9545,6 +9833,7 @@
           "total_laps": 390,
           "points": 286,
           "pos": 15,
+          "cls": "gold",
           "car_id": 73
         },
         "d292059": {
@@ -9574,6 +9863,7 @@
           "total_laps": 279,
           "points": 145,
           "pos": 31,
+          "cls": "bronze",
           "car_id": 144
         },
         "d174507": {
@@ -9610,6 +9900,7 @@
           "total_laps": 431,
           "points": 429,
           "pos": 6,
+          "cls": "gold",
           "car_id": 132
         },
         "d642928": {
@@ -9637,6 +9928,7 @@
           "total_laps": 198,
           "points": 77,
           "pos": 41,
+          "cls": "silver",
           "car_id": 73
         },
         "d202689": {
@@ -9669,6 +9961,7 @@
           "total_laps": 342,
           "points": 156,
           "pos": 28,
+          "cls": "bronze",
           "car_id": 144
         },
         "d342356": {
@@ -9700,6 +9993,7 @@
           "total_laps": 154,
           "points": 52,
           "pos": 45,
+          "cls": "bronze",
           "car_id": 73
         },
         "d559149": {
@@ -9725,6 +10019,7 @@
           "total_laps": 87,
           "points": 44,
           "pos": 49,
+          "cls": "silver",
           "car_id": 73
         },
         "d147927": {
@@ -9760,6 +10055,7 @@
           "total_laps": 470,
           "points": 237,
           "pos": 21,
+          "cls": "silver",
           "car_id": 73
         },
         "d513047": {
@@ -9792,6 +10088,7 @@
           "total_laps": 330,
           "points": 122,
           "pos": 34,
+          "cls": "silver",
           "car_id": 43
         },
         "d448952": {
@@ -9825,6 +10122,7 @@
           "total_laps": 414,
           "points": 198,
           "pos": 23,
+          "cls": "bronze",
           "car_id": 133
         },
         "d513530": {
@@ -9856,6 +10154,7 @@
           "total_laps": 254,
           "points": 103,
           "pos": 38,
+          "cls": "bronze",
           "car_id": 156
         },
         "d324933": {
@@ -9888,6 +10187,7 @@
           "total_laps": 222,
           "points": 87,
           "pos": 39,
+          "cls": "silver",
           "car_id": 133
         },
         "d789378": {
@@ -9917,6 +10217,7 @@
           "total_laps": 74,
           "points": 0,
           "pos": 67,
+          "cls": "silver",
           "car_id": 133
         },
         "d613262": {
@@ -9951,6 +10252,7 @@
           "total_laps": 457,
           "points": 205,
           "pos": 22,
+          "cls": "bronze",
           "car_id": 133
         },
         "d674607": {
@@ -9983,6 +10285,7 @@
           "total_laps": 283,
           "points": 122,
           "pos": 35,
+          "cls": "bronze",
           "car_id": 73
         },
         "d343195": {
@@ -10019,6 +10322,7 @@
           "total_laps": 470,
           "points": 410,
           "pos": 7,
+          "cls": "gold",
           "car_id": 73
         },
         "d384320": {
@@ -10053,6 +10357,7 @@
           "total_laps": 342,
           "points": 104,
           "pos": 37,
+          "cls": "silver",
           "car_id": 73
         },
         "d462976": {
@@ -10098,6 +10403,7 @@
           "total_laps": 399,
           "points": 468,
           "pos": 4,
+          "cls": "gold",
           "car_id": 132
         },
         "d258544": {
@@ -10127,6 +10433,7 @@
           "total_laps": 64,
           "points": 0,
           "pos": 74,
+          "cls": "silver",
           "car_id": 132
         },
         "d732955": {
@@ -10163,6 +10470,7 @@
           "total_laps": 444,
           "points": 268,
           "pos": 16,
+          "cls": "bronze",
           "car_id": 132
         },
         "d626462": {
@@ -10189,6 +10497,7 @@
           "total_laps": 4,
           "points": 0,
           "pos": 60,
+          "cls": "silver",
           "car_id": 156
         },
         "d233357": {
@@ -10220,6 +10529,7 @@
           "total_laps": 271,
           "points": 150,
           "pos": 30,
+          "cls": "bronze",
           "car_id": 144
         },
         "d481697": {
@@ -10252,6 +10562,7 @@
           "total_laps": 101,
           "points": 2,
           "pos": 58,
+          "cls": "bronze",
           "car_id": 144
         },
         "d300799": {
@@ -10286,6 +10597,7 @@
           "total_laps": 156,
           "points": -5,
           "pos": 80,
+          "cls": "bronze",
           "car_id": 156
         },
         "d88089": {
@@ -10320,6 +10632,7 @@
           "total_laps": 314,
           "points": 310,
           "pos": 11,
+          "cls": "silver",
           "car_id": 144
         },
         "d602481": {
@@ -10353,6 +10666,7 @@
           "total_laps": 200,
           "points": 75,
           "pos": 42,
+          "cls": "bronze",
           "car_id": 137
         },
         "d402389": {
@@ -10386,6 +10700,7 @@
           "total_laps": 165,
           "points": 134,
           "pos": 33,
+          "cls": "gold",
           "car_id": 133
         },
         "d373850": {
@@ -10417,6 +10732,7 @@
           "total_laps": 189,
           "points": 29,
           "pos": 53,
+          "cls": "silver",
           "car_id": 73
         },
         "d466098": {
@@ -10443,6 +10759,7 @@
           "total_laps": 1,
           "points": -20,
           "pos": 81,
+          "cls": "silver",
           "car_id": 144
         },
         "d646693": {
@@ -10471,6 +10788,7 @@
           "total_laps": 39,
           "points": 0,
           "pos": 69,
+          "cls": "silver",
           "car_id": 132
         },
         "d295484": {
@@ -10497,6 +10815,7 @@
           "total_laps": 0,
           "points": 0,
           "pos": 62,
+          "cls": "bronze",
           "car_id": 73
         },
         "d527397": {
@@ -10527,6 +10846,7 @@
           "total_laps": 204,
           "points": 242,
           "pos": 19,
+          "cls": "silver",
           "car_id": 132
         },
         "d546297": {
@@ -10560,6 +10880,7 @@
           "total_laps": 225,
           "points": 64,
           "pos": 44,
+          "cls": "silver",
           "car_id": 133
         },
         "d575225": {
@@ -10588,6 +10909,7 @@
           "total_laps": 214,
           "points": 116,
           "pos": 36,
+          "cls": "bronze",
           "car_id": 137
         },
         "d705348": {
@@ -10619,6 +10941,7 @@
           "total_laps": 187,
           "points": 40,
           "pos": 50,
+          "cls": "bronze",
           "car_id": 144
         },
         "d181019": {
@@ -10643,6 +10966,7 @@
           "total_laps": 44,
           "points": 27,
           "pos": 54,
+          "cls": "bronze",
           "car_id": 144
         },
         "d500241": {
@@ -10675,6 +10999,7 @@
           "total_laps": 290,
           "points": 48,
           "pos": 46,
+          "cls": "bronze",
           "car_id": 73
         },
         "d92996": {
@@ -10706,6 +11031,7 @@
           "total_laps": 212,
           "points": 35,
           "pos": 52,
+          "cls": "bronze",
           "car_id": 73
         },
         "d441904": {
@@ -10732,6 +11058,7 @@
           "total_laps": 29,
           "points": 0,
           "pos": 73,
+          "cls": "bronze",
           "car_id": 132
         },
         "d759394": {
@@ -10758,6 +11085,7 @@
           "total_laps": 1,
           "points": 0,
           "pos": 64,
+          "cls": "bronze",
           "car_id": 137
         },
         "d419116": {
@@ -10788,6 +11116,7 @@
           "total_laps": 393,
           "points": 377,
           "pos": 8,
+          "cls": "silver",
           "car_id": 132
         },
         "d314317": {
@@ -10819,6 +11148,7 @@
           "total_laps": 342,
           "points": 293,
           "pos": 14,
+          "cls": "bronze",
           "car_id": 132
         },
         "d95310": {
@@ -10845,6 +11175,7 @@
           "total_laps": 160,
           "points": 19,
           "pos": 56,
+          "cls": "bronze",
           "car_id": 133
         },
         "d618940": {
@@ -10871,6 +11202,7 @@
           "total_laps": 157,
           "points": 82,
           "pos": 40,
+          "cls": "gold",
           "car_id": 156
         },
         "d327329": {
@@ -10901,6 +11233,7 @@
           "total_laps": 266,
           "points": 164,
           "pos": 27,
+          "cls": "gold",
           "car_id": 144
         },
         "d185925": {
@@ -10929,6 +11262,7 @@
           "total_laps": 154,
           "points": 14,
           "pos": 57,
+          "cls": "bronze",
           "car_id": 133
         },
         "d847138": {
@@ -10954,6 +11288,7 @@
           "total_laps": 114,
           "points": 47,
           "pos": 47,
+          "cls": "bronze",
           "car_id": 132
         },
         "d350669": {
@@ -10981,6 +11316,7 @@
           "total_laps": 85,
           "points": 22,
           "pos": 55,
+          "cls": "silver",
           "car_id": 156
         },
         "d345695": {
@@ -10998,7 +11334,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 63
+          "pos": 63,
+          "cls": "bronze"
         },
         "d514492": {
           "id": "",
@@ -11015,7 +11352,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 65
+          "pos": 65,
+          "cls": "silver"
         },
         "d526849": {
           "id": "",
@@ -11032,7 +11370,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 68
+          "pos": 68,
+          "cls": "bronze"
         },
         "d548402": {
           "id": "",
@@ -11049,7 +11388,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 71
+          "pos": 71,
+          "cls": "gold"
         },
         "d482943": {
           "id": "",
@@ -11066,7 +11406,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 72
+          "pos": 72,
+          "cls": "gold"
         },
         "d573541": {
           "id": "",
@@ -11083,7 +11424,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 75
+          "pos": 75,
+          "cls": "bronze"
         }
       },
       "p1": "d533283",
@@ -11158,6 +11500,7 @@
           "total_laps": 265,
           "points": 360,
           "pos": 3,
+          "cls": "gold",
           "car_id": 137
         },
         "d534726": {
@@ -11198,6 +11541,7 @@
           "total_laps": 327,
           "points": 284,
           "pos": 5,
+          "cls": "gold",
           "car_id": 137
         },
         "d374266": {
@@ -11229,6 +11573,7 @@
           "total_laps": 147,
           "points": 90,
           "pos": 33,
+          "cls": "gold",
           "car_id": 132
         },
         "d491843": {
@@ -11267,6 +11612,7 @@
           "total_laps": 335,
           "points": 365,
           "pos": 2,
+          "cls": "gold",
           "car_id": 43
         },
         "d678818": {
@@ -11291,6 +11637,7 @@
           "total_laps": 45,
           "points": 70,
           "pos": 38,
+          "cls": "gold",
           "car_id": 137
         },
         "d533283": {
@@ -11323,6 +11670,7 @@
           "total_laps": 117,
           "points": 230,
           "pos": 9,
+          "cls": "gold",
           "car_id": 133
         },
         "d402389": {
@@ -11359,6 +11707,7 @@
           "total_laps": 294,
           "points": 123,
           "pos": 29,
+          "cls": "gold",
           "car_id": 133
         },
         "d343195": {
@@ -11388,6 +11737,7 @@
           "total_laps": 285,
           "points": 223,
           "pos": 10,
+          "cls": "gold",
           "car_id": 133
         },
         "d441250": {
@@ -11416,6 +11766,7 @@
           "total_laps": 159,
           "points": 188,
           "pos": 15,
+          "cls": "gold",
           "car_id": 156
         },
         "d335711": {
@@ -11451,6 +11802,7 @@
           "total_laps": 324,
           "points": 212,
           "pos": 11,
+          "cls": "silver",
           "car_id": 133
         },
         "d327329": {
@@ -11487,6 +11839,7 @@
           "total_laps": 225,
           "points": 198,
           "pos": 14,
+          "cls": "silver",
           "car_id": 132
         },
         "d88089": {
@@ -11520,6 +11873,7 @@
           "total_laps": 342,
           "points": 307,
           "pos": 4,
+          "cls": "gold",
           "car_id": 73
         },
         "d402302": {
@@ -11552,6 +11906,7 @@
           "total_laps": 326,
           "points": 207,
           "pos": 12,
+          "cls": "silver",
           "car_id": 144
         },
         "d174507": {
@@ -11583,6 +11938,7 @@
           "total_laps": 343,
           "points": 366,
           "pos": 1,
+          "cls": "gold",
           "car_id": 132
         },
         "d414773": {
@@ -11614,6 +11970,7 @@
           "total_laps": 280,
           "points": 205,
           "pos": 13,
+          "cls": "silver",
           "car_id": 73
         },
         "d324933": {
@@ -11642,6 +11999,7 @@
           "total_laps": 98,
           "points": 41,
           "pos": 50,
+          "cls": "silver",
           "car_id": 144
         },
         "d233357": {
@@ -11675,6 +12033,7 @@
           "total_laps": 275,
           "points": 126,
           "pos": 28,
+          "cls": "bronze",
           "car_id": 144
         },
         "d314317": {
@@ -11706,6 +12065,7 @@
           "total_laps": 273,
           "points": 140,
           "pos": 26,
+          "cls": "silver",
           "car_id": 137
         },
         "d573541": {
@@ -11739,6 +12099,7 @@
           "total_laps": 249,
           "points": 102,
           "pos": 31,
+          "cls": "bronze",
           "car_id": 132
         },
         "d732955": {
@@ -11773,6 +12134,7 @@
           "total_laps": 339,
           "points": 241,
           "pos": 8,
+          "cls": "silver",
           "car_id": 132
         },
         "d613262": {
@@ -11806,6 +12168,7 @@
           "total_laps": 287,
           "points": 156,
           "pos": 20,
+          "cls": "bronze",
           "car_id": 133
         },
         "d527892": {
@@ -11838,6 +12201,7 @@
           "total_laps": 229,
           "points": 73,
           "pos": 37,
+          "cls": "bronze",
           "car_id": 132
         },
         "d759394": {
@@ -11872,6 +12236,7 @@
           "total_laps": 241,
           "points": 44,
           "pos": 49,
+          "cls": "bronze",
           "car_id": 137
         },
         "d95310": {
@@ -11901,6 +12266,7 @@
           "total_laps": 269,
           "points": 137,
           "pos": 27,
+          "cls": "bronze",
           "car_id": 137
         },
         "d837246": {
@@ -11931,6 +12297,7 @@
           "total_laps": 339,
           "points": 146,
           "pos": 24,
+          "cls": "bronze",
           "car_id": 132
         },
         "d705348": {
@@ -11964,6 +12331,7 @@
           "total_laps": 167,
           "points": 8,
           "pos": 57,
+          "cls": "bronze",
           "car_id": 156
         },
         "d311045": {
@@ -11996,6 +12364,7 @@
           "total_laps": 328,
           "points": 158,
           "pos": 19,
+          "cls": "silver",
           "car_id": 73
         },
         "d292059": {
@@ -12030,6 +12399,7 @@
           "total_laps": 303,
           "points": 78,
           "pos": 35,
+          "cls": "bronze",
           "car_id": 144
         },
         "d300799": {
@@ -12061,6 +12431,7 @@
           "total_laps": 249,
           "points": 156,
           "pos": 22,
+          "cls": "bronze",
           "car_id": 132
         },
         "d187808": {
@@ -12091,6 +12462,7 @@
           "total_laps": 247,
           "points": 70,
           "pos": 39,
+          "cls": "silver",
           "car_id": 73
         },
         "d665111": {
@@ -12122,6 +12494,7 @@
           "total_laps": 166,
           "points": 66,
           "pos": 41,
+          "cls": "bronze",
           "car_id": 132
         },
         "d546297": {
@@ -12154,6 +12527,7 @@
           "total_laps": 240,
           "points": 159,
           "pos": 18,
+          "cls": "silver",
           "car_id": 137
         },
         "d28944": {
@@ -12185,6 +12559,7 @@
           "total_laps": 144,
           "points": -2,
           "pos": 73,
+          "cls": "bronze",
           "car_id": 137
         },
         "d481697": {
@@ -12215,6 +12590,7 @@
           "total_laps": 127,
           "points": 17,
           "pos": 54,
+          "cls": "bronze",
           "car_id": 132
         },
         "d847138": {
@@ -12247,6 +12623,7 @@
           "total_laps": 255,
           "points": 66,
           "pos": 42,
+          "cls": "bronze",
           "car_id": 132
         },
         "d583482": {
@@ -12274,6 +12651,7 @@
           "total_laps": 59,
           "points": 15,
           "pos": 55,
+          "cls": "silver",
           "car_id": 144
         },
         "d462976": {
@@ -12307,6 +12685,7 @@
           "total_laps": 249,
           "points": 101,
           "pos": 32,
+          "cls": "gold",
           "car_id": 43
         },
         "d676316": {
@@ -12336,6 +12715,7 @@
           "total_laps": 78,
           "points": 8,
           "pos": 56,
+          "cls": "silver",
           "car_id": 137
         },
         "d602481": {
@@ -12368,6 +12748,7 @@
           "total_laps": 102,
           "points": 0,
           "pos": 69,
+          "cls": "bronze",
           "car_id": 137
         },
         "d500241": {
@@ -12403,6 +12784,7 @@
           "total_laps": 232,
           "points": 33,
           "pos": 51,
+          "cls": "bronze",
           "car_id": 43
         },
         "d513047": {
@@ -12435,6 +12817,7 @@
           "total_laps": 120,
           "points": 70,
           "pos": 40,
+          "cls": "silver",
           "car_id": 43
         },
         "d513530": {
@@ -12466,6 +12849,7 @@
           "total_laps": 212,
           "points": 46,
           "pos": 47,
+          "cls": "bronze",
           "car_id": 156
         },
         "d350669": {
@@ -12492,6 +12876,7 @@
           "total_laps": 9,
           "points": 0,
           "pos": 63,
+          "cls": "silver",
           "car_id": 144
         },
         "d559149": {
@@ -12521,6 +12906,7 @@
           "total_laps": 57,
           "points": -21,
           "pos": 76,
+          "cls": "silver",
           "car_id": 144
         },
         "d419116": {
@@ -12551,6 +12937,7 @@
           "total_laps": 20,
           "points": -20,
           "pos": 74,
+          "cls": "gold",
           "car_id": 137
         },
         "d409289": {
@@ -12585,6 +12972,7 @@
           "total_laps": 290,
           "points": 156,
           "pos": 21,
+          "cls": "gold",
           "car_id": 73
         },
         "d773907": {
@@ -12611,6 +12999,7 @@
           "total_laps": 0,
           "points": 0,
           "pos": 68,
+          "cls": "silver",
           "car_id": 132
         },
         "d527397": {
@@ -12643,6 +13032,7 @@
           "total_laps": 189,
           "points": 275,
           "pos": 7,
+          "cls": "gold",
           "car_id": 132
         },
         "d711160": {
@@ -12668,6 +13058,7 @@
           "total_laps": 111,
           "points": 52,
           "pos": 46,
+          "cls": "silver",
           "car_id": 73
         },
         "d414284": {
@@ -12696,6 +13087,7 @@
           "total_laps": 236,
           "points": 150,
           "pos": 23,
+          "cls": "silver",
           "car_id": 73
         },
         "d147927": {
@@ -12724,6 +13116,7 @@
           "total_laps": 241,
           "points": 180,
           "pos": 16,
+          "cls": "silver",
           "car_id": 144
         },
         "d202689": {
@@ -12755,6 +13148,7 @@
           "total_laps": 282,
           "points": 142,
           "pos": 25,
+          "cls": "bronze",
           "car_id": 156
         },
         "d484677": {
@@ -12784,6 +13178,7 @@
           "total_laps": 166,
           "points": 56,
           "pos": 44,
+          "cls": "gold",
           "car_id": 137
         },
         "d448952": {
@@ -12812,6 +13207,7 @@
           "total_laps": 280,
           "points": 56,
           "pos": 43,
+          "cls": "bronze",
           "car_id": 133
         },
         "d575225": {
@@ -12842,6 +13238,7 @@
           "total_laps": 225,
           "points": 79,
           "pos": 34,
+          "cls": "bronze",
           "car_id": 137
         },
         "d92996": {
@@ -12873,6 +13270,7 @@
           "total_laps": 101,
           "points": 20,
           "pos": 52,
+          "cls": "bronze",
           "car_id": 73
         },
         "d674607": {
@@ -12910,6 +13308,7 @@
           "total_laps": 184,
           "points": 76,
           "pos": 36,
+          "cls": "bronze",
           "car_id": 73
         },
         "d648477": {
@@ -12953,6 +13352,7 @@
           "total_laps": 179,
           "points": 280,
           "pos": 6,
+          "cls": "gold",
           "car_id": 144
         },
         "d69608": {
@@ -12983,6 +13383,7 @@
           "total_laps": 158,
           "points": 53,
           "pos": 45,
+          "cls": "gold",
           "car_id": 132
         },
         "d256498": {
@@ -13009,6 +13410,7 @@
           "total_laps": 3,
           "points": -20,
           "pos": 75,
+          "cls": "gold",
           "car_id": 73
         },
         "d104594": {
@@ -13033,6 +13435,7 @@
           "total_laps": 60,
           "points": 17,
           "pos": 53,
+          "cls": "bronze",
           "car_id": 73
         },
         "d80118": {
@@ -13062,6 +13465,7 @@
           "total_laps": 72,
           "points": 162,
           "pos": 17,
+          "cls": "gold",
           "car_id": 132
         },
         "d69997": {
@@ -13089,6 +13493,7 @@
           "total_laps": 72,
           "points": 121,
           "pos": 30,
+          "cls": "gold",
           "car_id": 132
         },
         "d618940": {
@@ -13113,6 +13518,7 @@
           "total_laps": 11,
           "points": 46,
           "pos": 48,
+          "cls": "gold",
           "car_id": 156
         },
         "d185925": {
@@ -13139,6 +13545,7 @@
           "total_laps": 4,
           "points": 0,
           "pos": 60,
+          "cls": "bronze",
           "car_id": 133
         },
         "d865713": {
@@ -13165,6 +13572,7 @@
           "total_laps": 26,
           "points": 0,
           "pos": 72,
+          "cls": "bronze",
           "car_id": 133
         },
         "d373850": {
@@ -13182,7 +13590,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 59
+          "pos": 59,
+          "cls": "silver"
         },
         "d342356": {
           "id": "",
@@ -13199,7 +13608,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 62
+          "pos": 62,
+          "cls": "bronze"
         },
         "d703119": {
           "id": "",
@@ -13216,7 +13626,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 64
+          "pos": 64,
+          "cls": "silver"
         },
         "d526849": {
           "id": "",
@@ -13233,7 +13644,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 65
+          "pos": 65,
+          "cls": "bronze"
         },
         "d646693": {
           "id": "",
@@ -13250,7 +13662,8 @@
           "total_incidents": 0,
           "total_laps": 0,
           "points": 0,
-          "pos": 67
+          "pos": 67,
+          "cls": "silver"
         }
       },
       "p1": "d491843",
@@ -13365,6 +13778,7 @@
       "total_laps": 1576,
       "points": 2121,
       "pos": 0,
+      "cls": "",
       "cust_id": 491843,
       "name": "Mickaël Buchet"
     },
@@ -13470,6 +13884,7 @@
       "total_laps": 2445,
       "points": 2491,
       "pos": 0,
+      "cls": "",
       "cust_id": 174507,
       "name": "Rob S Taylor"
     },
@@ -13587,6 +14002,7 @@
       "total_laps": 1591,
       "points": 1976,
       "pos": 0,
+      "cls": "",
       "cust_id": 374266,
       "name": "Mat Monestier"
     },
@@ -13632,6 +14048,7 @@
       "total_laps": 362,
       "points": 445,
       "pos": 0,
+      "cls": "",
       "cust_id": 659230,
       "name": "Chris Morgan6"
     },
@@ -13755,6 +14172,7 @@
       "total_laps": 2357,
       "points": 2522,
       "pos": 0,
+      "cls": "",
       "cust_id": 534726,
       "name": "Simon Ball"
     },
@@ -13780,6 +14198,7 @@
       "total_laps": 60,
       "points": 65,
       "pos": 0,
+      "cls": "",
       "cust_id": 624852,
       "name": "Grantas Kareckas"
     },
@@ -13894,6 +14313,7 @@
       "total_laps": 2465,
       "points": 3057,
       "pos": 0,
+      "cls": "",
       "cust_id": 533283,
       "name": "Axel Bijker"
     },
@@ -14004,6 +14424,7 @@
       "total_laps": 2634,
       "points": 2477,
       "pos": 0,
+      "cls": "",
       "cust_id": 409289,
       "name": "Paul Kerry"
     },
@@ -14069,6 +14490,7 @@
       "total_laps": 1193,
       "points": 1158,
       "pos": 0,
+      "cls": "",
       "cust_id": 441250,
       "name": "Jukka A Aho"
     },
@@ -14125,6 +14547,7 @@
       "total_laps": 739,
       "points": 812,
       "pos": 0,
+      "cls": "",
       "cust_id": 628359,
       "name": "Alaphilippe Pierre-Etienne"
     },
@@ -14151,6 +14574,7 @@
       "total_laps": 121,
       "points": 115,
       "pos": 0,
+      "cls": "",
       "cust_id": 456247,
       "name": "Michael Fernando2"
     },
@@ -14250,6 +14674,7 @@
       "total_laps": 2432,
       "points": 1870,
       "pos": 0,
+      "cls": "",
       "cust_id": 335711,
       "name": "Ruud Schoorl"
     },
@@ -14287,6 +14712,7 @@
       "total_laps": 328,
       "points": 270,
       "pos": 0,
+      "cls": "",
       "cust_id": 470452,
       "name": "Niels Dukker"
     },
@@ -14379,6 +14805,7 @@
       "total_laps": 2451,
       "points": 1718,
       "pos": 0,
+      "cls": "",
       "cust_id": 311045,
       "name": "David NARBONNE"
     },
@@ -14411,6 +14838,7 @@
       "total_laps": 83,
       "points": 2,
       "pos": 0,
+      "cls": "",
       "cust_id": 512483,
       "name": "David maggioni"
     },
@@ -14444,6 +14872,7 @@
       "total_laps": 252,
       "points": 218,
       "pos": 0,
+      "cls": "",
       "cust_id": 603276,
       "name": "André Fernandes"
     },
@@ -14478,6 +14907,7 @@
       "total_laps": 195,
       "points": 98,
       "pos": 0,
+      "cls": "",
       "cust_id": 288087,
       "name": "Tom Wilson3"
     },
@@ -14528,6 +14958,7 @@
       "total_laps": 971,
       "points": 854,
       "pos": 0,
+      "cls": "",
       "cust_id": 402390,
       "name": "Zeff Cosemans"
     },
@@ -14626,6 +15057,7 @@
       "total_laps": 2628,
       "points": 1998,
       "pos": 0,
+      "cls": "",
       "cust_id": 484677,
       "name": "Peter Abraham Jonkers"
     },
@@ -14683,6 +15115,7 @@
       "total_laps": 745,
       "points": 338,
       "pos": 0,
+      "cls": "",
       "cust_id": 342356,
       "name": "Mark Royce"
     },
@@ -14717,6 +15150,7 @@
       "total_laps": 92,
       "points": -10,
       "pos": 0,
+      "cls": "",
       "cust_id": 470310,
       "name": "Vincent Vandamme"
     },
@@ -14784,6 +15218,7 @@
       "total_laps": 1435,
       "points": 833,
       "pos": 0,
+      "cls": "",
       "cust_id": 258544,
       "name": "Thierry Raffier"
     },
@@ -14856,6 +15291,7 @@
       "total_laps": 1759,
       "points": 1069,
       "pos": 0,
+      "cls": "",
       "cust_id": 404432,
       "name": "Rudi Jetten"
     },
@@ -14917,6 +15353,7 @@
       "total_laps": 1276,
       "points": 608,
       "pos": 0,
+      "cls": "",
       "cust_id": 441904,
       "name": "Bruno Albino"
     },
@@ -15011,6 +15448,7 @@
       "total_laps": 2639,
       "points": 1383,
       "pos": 0,
+      "cls": "",
       "cust_id": 527892,
       "name": "Jeff Sanders"
     },
@@ -15104,6 +15542,7 @@
       "total_laps": 2570,
       "points": 1425,
       "pos": 0,
+      "cls": "",
       "cust_id": 613262,
       "name": "Zachary Hanke"
     },
@@ -15130,6 +15569,7 @@
       "total_laps": 115,
       "points": 46,
       "pos": 0,
+      "cls": "",
       "cust_id": 427645,
       "name": "Carlos Sanjuán"
     },
@@ -15206,6 +15646,7 @@
       "total_laps": 1777,
       "points": 1077,
       "pos": 0,
+      "cls": "",
       "cust_id": 583482,
       "name": "Franck Courdier"
     },
@@ -15285,6 +15726,7 @@
       "total_laps": 1660,
       "points": 656,
       "pos": 0,
+      "cls": "",
       "cust_id": 513530,
       "name": "Alan Murless"
     },
@@ -15358,6 +15800,7 @@
       "total_laps": 1153,
       "points": 464,
       "pos": 0,
+      "cls": "",
       "cust_id": 549916,
       "name": "Linda Noble"
     },
@@ -15388,6 +15831,7 @@
       "total_laps": 163,
       "points": 78,
       "pos": 0,
+      "cls": "",
       "cust_id": 675891,
       "name": "João Gomes5"
     },
@@ -15448,6 +15892,7 @@
       "total_laps": 674,
       "points": 112,
       "pos": 0,
+      "cls": "",
       "cust_id": 481697,
       "name": "William Nezamis"
     },
@@ -15485,6 +15930,7 @@
       "total_laps": 258,
       "points": 145,
       "pos": 0,
+      "cls": "",
       "cust_id": 189468,
       "name": "Daniel Ott"
     },
@@ -15564,6 +16010,7 @@
       "total_laps": 1282,
       "points": 594,
       "pos": 0,
+      "cls": "",
       "cust_id": 602481,
       "name": "Craig Brickwood"
     },
@@ -15603,6 +16050,7 @@
       "total_laps": 283,
       "points": 147,
       "pos": 0,
+      "cls": "",
       "cust_id": 526849,
       "name": "Ernesto El Mariachi"
     },
@@ -15683,6 +16131,7 @@
       "total_laps": 1762,
       "points": 1674,
       "pos": 0,
+      "cls": "",
       "cust_id": 88089,
       "name": "Dan Babic"
     },
@@ -15726,6 +16175,7 @@
       "total_laps": 497,
       "points": 290,
       "pos": 0,
+      "cls": "",
       "cust_id": 142112,
       "name": "Mika Hakala"
     },
@@ -15762,6 +16212,7 @@
       "total_laps": 97,
       "points": 26,
       "pos": 0,
+      "cls": "",
       "cust_id": 421463,
       "name": "Tibald Bisanzio"
     },
@@ -15804,6 +16255,7 @@
       "total_laps": 372,
       "points": 318,
       "pos": 0,
+      "cls": "",
       "cust_id": 436151,
       "name": "Damien Levange"
     },
@@ -15831,6 +16283,7 @@
       "total_laps": 12,
       "points": 0,
       "pos": 0,
+      "cls": "",
       "cust_id": 77037,
       "name": "Sam Taylor"
     },
@@ -15858,6 +16311,7 @@
       "total_laps": 10,
       "points": 0,
       "pos": 0,
+      "cls": "",
       "cust_id": 127071,
       "name": "Christian Gritsko"
     },
@@ -15899,6 +16353,7 @@
       "total_laps": 387,
       "points": 267,
       "pos": 0,
+      "cls": "",
       "cust_id": 563256,
       "name": "Alberto Casado"
     },
@@ -15944,6 +16399,7 @@
       "total_laps": 702,
       "points": 356,
       "pos": 0,
+      "cls": "",
       "cust_id": 345695,
       "name": "Lucas Ahlberg"
     },
@@ -15978,6 +16434,7 @@
       "total_laps": 241,
       "points": 183,
       "pos": 0,
+      "cls": "",
       "cust_id": 260479,
       "name": "Roman Dubert"
     },
@@ -16064,6 +16521,7 @@
       "total_laps": 1150,
       "points": 1080,
       "pos": 0,
+      "cls": "",
       "cust_id": 527397,
       "name": "Cyril Blanco"
     },
@@ -16158,6 +16616,7 @@
       "total_laps": 1774,
       "points": 1156,
       "pos": 0,
+      "cls": "",
       "cust_id": 233357,
       "name": "Ola Särnkvist"
     },
@@ -16183,6 +16642,7 @@
       "total_laps": 44,
       "points": 16,
       "pos": 0,
+      "cls": "",
       "cust_id": 452432,
       "name": "George Masters"
     },
@@ -16213,6 +16673,7 @@
       "total_laps": 147,
       "points": 80,
       "pos": 0,
+      "cls": "",
       "cust_id": 676058,
       "name": "Carl Warwick"
     },
@@ -16259,6 +16720,7 @@
       "total_laps": 219,
       "points": 185,
       "pos": 0,
+      "cls": "",
       "cust_id": 482943,
       "name": "Mohammad Alhussien"
     },
@@ -16287,6 +16749,7 @@
       "total_laps": 46,
       "points": -40,
       "pos": 0,
+      "cls": "",
       "cust_id": 552999,
       "name": "Alessandro Striani"
     },
@@ -16314,6 +16777,7 @@
       "total_laps": 28,
       "points": -60,
       "pos": 0,
+      "cls": "",
       "cust_id": 691015,
       "name": "Mickael Velho"
     },
@@ -16383,6 +16847,7 @@
       "total_laps": 909,
       "points": 857,
       "pos": 0,
+      "cls": "",
       "cust_id": 548402,
       "name": "Jon Payne"
     },
@@ -16427,6 +16892,7 @@
       "total_laps": 421,
       "points": 411,
       "pos": 0,
+      "cls": "",
       "cust_id": 565134,
       "name": "Kévin Rigs"
     },
@@ -16455,6 +16921,7 @@
       "total_laps": 66,
       "points": 0,
       "pos": 0,
+      "cls": "",
       "cust_id": 516195,
       "name": "Simon Smart"
     },
@@ -16492,6 +16959,7 @@
       "total_laps": 287,
       "points": 171,
       "pos": 0,
+      "cls": "",
       "cust_id": 556527,
       "name": "Nicolas RONCERAY"
     },
@@ -16533,6 +17001,7 @@
       "total_laps": 561,
       "points": 212,
       "pos": 0,
+      "cls": "",
       "cust_id": 305702,
       "name": "Christopher Stewenson"
     },
@@ -16570,6 +17039,7 @@
       "total_laps": 125,
       "points": 8,
       "pos": 0,
+      "cls": "",
       "cust_id": 130889,
       "name": "Marcus Spry"
     },
@@ -16648,6 +17118,7 @@
       "total_laps": 1776,
       "points": 1284,
       "pos": 0,
+      "cls": "",
       "cust_id": 402302,
       "name": "Rasmus Greiner"
     },
@@ -16678,6 +17149,7 @@
       "total_laps": 94,
       "points": 101,
       "pos": 0,
+      "cls": "",
       "cust_id": 417314,
       "name": "Pablo Carracedo"
     },
@@ -16713,6 +17185,7 @@
       "total_laps": 194,
       "points": 130,
       "pos": 0,
+      "cls": "",
       "cust_id": 420632,
       "name": "José A Dominguez"
     },
@@ -16776,6 +17249,7 @@
       "total_laps": 1426,
       "points": 820,
       "pos": 0,
+      "cls": "",
       "cust_id": 575225,
       "name": "Petr Vecerek"
     },
@@ -16863,6 +17337,7 @@
       "total_laps": 2234,
       "points": 2043,
       "pos": 0,
+      "cls": "",
       "cust_id": 343195,
       "name": "Jorn Westeneng"
     },
@@ -16916,6 +17391,7 @@
       "total_laps": 852,
       "points": 741,
       "pos": 0,
+      "cls": "",
       "cust_id": 626462,
       "name": "Tiago Ranito"
     },
@@ -16948,6 +17424,7 @@
       "total_laps": 61,
       "points": -2,
       "pos": 0,
+      "cls": "",
       "cust_id": 603137,
       "name": "Tim Wetzels"
     },
@@ -16991,6 +17468,7 @@
       "total_laps": 571,
       "points": 330,
       "pos": 0,
+      "cls": "",
       "cust_id": 165203,
       "name": "Nicholas Garforth"
     },
@@ -17071,6 +17549,7 @@
       "total_laps": 2224,
       "points": 1348,
       "pos": 0,
+      "cls": "",
       "cust_id": 147927,
       "name": "Patrick Vandenberg"
     },
@@ -17099,6 +17578,7 @@
       "total_laps": 45,
       "points": 22,
       "pos": 0,
+      "cls": "",
       "cust_id": 256932,
       "name": "Jorge Carracedo"
     },
@@ -17157,6 +17637,7 @@
       "total_laps": 1252,
       "points": 542,
       "pos": 0,
+      "cls": "",
       "cust_id": 181019,
       "name": "Barry French"
     },
@@ -17191,6 +17672,7 @@
       "total_laps": 95,
       "points": 65,
       "pos": 0,
+      "cls": "",
       "cust_id": 514492,
       "name": "James Braid"
     },
@@ -17232,6 +17714,7 @@
       "total_laps": 318,
       "points": 173,
       "pos": 0,
+      "cls": "",
       "cust_id": 658251,
       "name": "Banik OP"
     },
@@ -17259,6 +17742,7 @@
       "total_laps": 61,
       "points": 90,
       "pos": 0,
+      "cls": "",
       "cust_id": 661327,
       "name": "Andrew Brunton2"
     },
@@ -17287,6 +17771,7 @@
       "total_laps": 28,
       "points": 65,
       "pos": 0,
+      "cls": "",
       "cust_id": 288994,
       "name": "Oscar Lopez Paez"
     },
@@ -17327,6 +17812,7 @@
       "total_laps": 55,
       "points": 200,
       "pos": 0,
+      "cls": "",
       "cust_id": 545588,
       "name": "Rúben Leitão"
     },
@@ -17379,6 +17865,7 @@
       "total_laps": 891,
       "points": 564,
       "pos": 0,
+      "cls": "",
       "cust_id": 662233,
       "name": "Patrick Nadarzinski"
     },
@@ -17410,6 +17897,7 @@
       "total_laps": 150,
       "points": 59,
       "pos": 0,
+      "cls": "",
       "cust_id": 255581,
       "name": "Guilherme Cravo"
     },
@@ -17441,6 +17929,7 @@
       "total_laps": 90,
       "points": 33,
       "pos": 0,
+      "cls": "",
       "cust_id": 92199,
       "name": "Salah Bouheniche"
     },
@@ -17499,6 +17988,7 @@
       "total_laps": 1133,
       "points": 447,
       "pos": 0,
+      "cls": "",
       "cust_id": 562464,
       "name": "Patrick Bonani"
     },
@@ -17545,6 +18035,7 @@
       "total_laps": 442,
       "points": 127,
       "pos": 0,
+      "cls": "",
       "cust_id": 391497,
       "name": "Tom Vanduffel"
     },
@@ -17633,6 +18124,7 @@
       "total_laps": 1097,
       "points": 1590,
       "pos": 0,
+      "cls": "",
       "cust_id": 678818,
       "name": "Nathaniel Ivanusa"
     },
@@ -17698,6 +18190,7 @@
       "total_laps": 904,
       "points": 338,
       "pos": 0,
+      "cls": "",
       "cust_id": 324933,
       "name": "Stephane Henriques"
     },
@@ -17772,6 +18265,7 @@
       "total_laps": 1090,
       "points": 419,
       "pos": 0,
+      "cls": "",
       "cust_id": 674607,
       "name": "Max Schulz"
     },
@@ -17819,6 +18313,7 @@
       "total_laps": 1109,
       "points": 482,
       "pos": 0,
+      "cls": "",
       "cust_id": 448952,
       "name": "Christian Mittelstädt"
     },
@@ -17872,6 +18367,7 @@
       "total_laps": 547,
       "points": 127,
       "pos": 0,
+      "cls": "",
       "cust_id": 759394,
       "name": "David Denil"
     },
@@ -17929,6 +18425,7 @@
       "total_laps": 1288,
       "points": 659,
       "pos": 0,
+      "cls": "",
       "cust_id": 642928,
       "name": "Sabit Vehabovic"
     },
@@ -18013,6 +18510,7 @@
       "total_laps": 1490,
       "points": 1178,
       "pos": 0,
+      "cls": "",
       "cust_id": 462976,
       "name": "Matevz Bas"
     },
@@ -18040,6 +18538,7 @@
       "total_laps": 42,
       "points": 0,
       "pos": 0,
+      "cls": "",
       "cust_id": 710369,
       "name": "Sebastián Moltó"
     },
@@ -18093,6 +18592,7 @@
       "total_laps": 1008,
       "points": 557,
       "pos": 0,
+      "cls": "",
       "cust_id": 498753,
       "name": "Michael Johnson"
     },
@@ -18136,6 +18636,7 @@
       "total_laps": 437,
       "points": 174,
       "pos": 0,
+      "cls": "",
       "cust_id": 559149,
       "name": "Esmeralda van der Naald"
     },
@@ -18187,6 +18688,7 @@
       "total_laps": 383,
       "points": 228,
       "pos": 0,
+      "cls": "",
       "cust_id": 287921,
       "name": "Richard Symons"
     },
@@ -18220,6 +18722,7 @@
       "total_laps": 206,
       "points": 35,
       "pos": 0,
+      "cls": "",
       "cust_id": 592266,
       "name": "Tobias Trub"
     },
@@ -18272,6 +18775,7 @@
       "total_laps": 863,
       "points": 768,
       "pos": 0,
+      "cls": "",
       "cust_id": 703119,
       "name": "Iestyn Chiapelone"
     },
@@ -18299,6 +18803,7 @@
       "total_laps": 15,
       "points": 0,
       "pos": 0,
+      "cls": "",
       "cust_id": 771017,
       "name": "Tyler Katoe"
     },
@@ -18330,6 +18835,7 @@
       "total_laps": 24,
       "points": -20,
       "pos": 0,
+      "cls": "",
       "cust_id": 775700,
       "name": "Paul Alexander"
     },
@@ -18375,6 +18881,7 @@
       "total_laps": 572,
       "points": 357,
       "pos": 0,
+      "cls": "",
       "cust_id": 698211,
       "name": "Ryan Burgess"
     },
@@ -18415,6 +18922,7 @@
       "total_laps": 255,
       "points": 87,
       "pos": 0,
+      "cls": "",
       "cust_id": 587639,
       "name": "Jeffrey Reinhardt"
     },
@@ -18451,6 +18959,7 @@
       "total_laps": 539,
       "points": 195,
       "pos": 0,
+      "cls": "",
       "cust_id": 624646,
       "name": "Hasan Kasirga"
     },
@@ -18494,6 +19003,7 @@
       "total_laps": 412,
       "points": 29,
       "pos": 0,
+      "cls": "",
       "cust_id": 791046,
       "name": "Wing Chau"
     },
@@ -18678,6 +19188,7 @@
       "total_laps": 1697,
       "points": 2378,
       "pos": 0,
+      "cls": "",
       "cust_id": 264953,
       "name": "Philipp Schwörke"
     },
@@ -18744,6 +19255,7 @@
       "total_laps": 1694,
       "points": 953,
       "pos": 0,
+      "cls": "",
       "cust_id": 732955,
       "name": "Daniel Slater"
     },
@@ -18798,6 +19310,7 @@
       "total_laps": 1186,
       "points": 535,
       "pos": 0,
+      "cls": "",
       "cust_id": 384320,
       "name": "Ryan G Williams"
     },
@@ -18824,6 +19337,7 @@
       "total_laps": 94,
       "points": 70,
       "pos": 0,
+      "cls": "",
       "cust_id": 747889,
       "name": "Jessie Jones"
     },
@@ -18856,6 +19370,7 @@
       "total_laps": 70,
       "points": 27,
       "pos": 0,
+      "cls": "",
       "cust_id": 709170,
       "name": "Augustus Sablinskas"
     },
@@ -18883,6 +19398,7 @@
       "total_laps": 2,
       "points": -20,
       "pos": 0,
+      "cls": "",
       "cust_id": 702748,
       "name": "Frederik Guldborg"
     },
@@ -18938,6 +19454,7 @@
       "total_laps": 1083,
       "points": 763,
       "pos": 0,
+      "cls": "",
       "cust_id": 676316,
       "name": "Max Woyda"
     },
@@ -18985,6 +19502,7 @@
       "total_laps": 539,
       "points": 193,
       "pos": 0,
+      "cls": "",
       "cust_id": 573541,
       "name": "Stuart P Taylor"
     },
@@ -19035,6 +19553,7 @@
       "total_laps": 824,
       "points": 614,
       "pos": 0,
+      "cls": "",
       "cust_id": 373850,
       "name": "Kean van den Berg"
     },
@@ -19062,6 +19581,7 @@
       "total_laps": 0,
       "points": 0,
       "pos": 0,
+      "cls": "",
       "cust_id": 229924,
       "name": "Mod Kijko"
     },
@@ -19088,6 +19608,7 @@
       "total_laps": 111,
       "points": 76,
       "pos": 0,
+      "cls": "",
       "cust_id": 641453,
       "name": "Felipe Feitoza"
     },
@@ -19147,6 +19668,7 @@
       "total_laps": 629,
       "points": 104,
       "pos": 0,
+      "cls": "",
       "cust_id": 92996,
       "name": "Steve Rubino"
     },
@@ -19186,6 +19708,7 @@
       "total_laps": 325,
       "points": 152,
       "pos": 0,
+      "cls": "",
       "cust_id": 646693,
       "name": "Kevin Keene"
     },
@@ -19246,6 +19769,7 @@
       "total_laps": 1034,
       "points": 254,
       "pos": 0,
+      "cls": "",
       "cust_id": 500241,
       "name": "Klaas Hartman"
     },
@@ -19309,6 +19833,7 @@
       "total_laps": 904,
       "points": 744,
       "pos": 0,
+      "cls": "",
       "cust_id": 402389,
       "name": "Stephen Kennedy"
     },
@@ -19349,6 +19874,7 @@
       "total_laps": 637,
       "points": 330,
       "pos": 0,
+      "cls": "",
       "cust_id": 401519,
       "name": "Paul Davy"
     },
@@ -19379,6 +19905,7 @@
       "total_laps": 94,
       "points": 42,
       "pos": 0,
+      "cls": "",
       "cust_id": 776393,
       "name": "Patrik Thomsen"
     },
@@ -19428,6 +19955,7 @@
       "total_laps": 827,
       "points": 651,
       "pos": 0,
+      "cls": "",
       "cust_id": 414773,
       "name": "Daniel Justou"
     },
@@ -19456,6 +19984,7 @@
       "total_laps": 92,
       "points": 56,
       "pos": 0,
+      "cls": "",
       "cust_id": 58944,
       "name": "Daan Schuuring"
     },
@@ -19483,6 +20012,7 @@
       "total_laps": 10,
       "points": 0,
       "pos": 0,
+      "cls": "",
       "cust_id": 112955,
       "name": "Stuart Davies"
     },
@@ -19510,6 +20040,7 @@
       "total_laps": 9,
       "points": 0,
       "pos": 0,
+      "cls": "",
       "cust_id": 401501,
       "name": "Dean E Smith"
     },
@@ -19539,6 +20070,7 @@
       "total_laps": 1,
       "points": 0,
       "pos": 0,
+      "cls": "",
       "cust_id": 387792,
       "name": "Chriss Lindenau"
     },
@@ -19567,6 +20099,7 @@
       "total_laps": 102,
       "points": -6,
       "pos": 0,
+      "cls": "",
       "cust_id": 496896,
       "name": "Eduardo Carrapato"
     },
@@ -19594,6 +20127,7 @@
       "total_laps": 16,
       "points": -20,
       "pos": 0,
+      "cls": "",
       "cust_id": 608661,
       "name": "Bruno Viçoso"
     },
@@ -19641,6 +20175,7 @@
       "total_laps": 493,
       "points": 203,
       "pos": 0,
+      "cls": "",
       "cust_id": 546297,
       "name": "Lia van Stevelen"
     },
@@ -19692,6 +20227,7 @@
       "total_laps": 675,
       "points": 281,
       "pos": 0,
+      "cls": "",
       "cust_id": 300799,
       "name": "Jörn Dobratz"
     },
@@ -19723,6 +20259,7 @@
       "total_laps": 282,
       "points": 178,
       "pos": 0,
+      "cls": "",
       "cust_id": 414284,
       "name": "Marc Mathis"
     },
@@ -19766,6 +20303,7 @@
       "total_laps": 663,
       "points": 322,
       "pos": 0,
+      "cls": "",
       "cust_id": 202689,
       "name": "Yvonne Houffelaar"
     },
@@ -19808,6 +20346,7 @@
       "total_laps": 582,
       "points": 223,
       "pos": 0,
+      "cls": "",
       "cust_id": 292059,
       "name": "Sophie Aeronwen"
     },
@@ -19850,6 +20389,7 @@
       "total_laps": 450,
       "points": 192,
       "pos": 0,
+      "cls": "",
       "cust_id": 513047,
       "name": "Johan Buitenga"
     },
@@ -19880,6 +20420,7 @@
       "total_laps": 74,
       "points": 0,
       "pos": 0,
+      "cls": "",
       "cust_id": 789378,
       "name": "Yannick Verheijen"
     },
@@ -19907,6 +20448,7 @@
       "total_laps": 1,
       "points": -20,
       "pos": 0,
+      "cls": "",
       "cust_id": 466098,
       "name": "Jamie Jakins"
     },
@@ -19934,6 +20476,7 @@
       "total_laps": 0,
       "points": 0,
       "pos": 0,
+      "cls": "",
       "cust_id": 295484,
       "name": "Luis Morga"
     },
@@ -19976,6 +20519,7 @@
       "total_laps": 354,
       "points": 48,
       "pos": 0,
+      "cls": "",
       "cust_id": 705348,
       "name": "Daniel Waghubinger"
     },
@@ -20015,6 +20559,7 @@
       "total_laps": 413,
       "points": 357,
       "pos": 0,
+      "cls": "",
       "cust_id": 419116,
       "name": "Jørgen Grøndal"
     },
@@ -20056,6 +20601,7 @@
       "total_laps": 615,
       "points": 433,
       "pos": 0,
+      "cls": "",
       "cust_id": 314317,
       "name": "Kenneth Maanum"
     },
@@ -20090,6 +20636,7 @@
       "total_laps": 429,
       "points": 156,
       "pos": 0,
+      "cls": "",
       "cust_id": 95310,
       "name": "Kari Fox"
     },
@@ -20119,6 +20666,7 @@
       "total_laps": 168,
       "points": 128,
       "pos": 0,
+      "cls": "",
       "cust_id": 618940,
       "name": "Baptiste Seguy"
     },
@@ -20163,6 +20711,7 @@
       "total_laps": 491,
       "points": 362,
       "pos": 0,
+      "cls": "",
       "cust_id": 327329,
       "name": "Alain Day"
     },
@@ -20195,6 +20744,7 @@
       "total_laps": 158,
       "points": 14,
       "pos": 0,
+      "cls": "",
       "cust_id": 185925,
       "name": "Doyle Rudolph"
     },
@@ -20231,6 +20781,7 @@
       "total_laps": 369,
       "points": 113,
       "pos": 0,
+      "cls": "",
       "cust_id": 847138,
       "name": "Rudy Vermeule"
     },
@@ -20262,6 +20813,7 @@
       "total_laps": 94,
       "points": 22,
       "pos": 0,
+      "cls": "",
       "cust_id": 350669,
       "name": "Jeff Wills"
     },
@@ -20293,6 +20845,7 @@
       "total_laps": 339,
       "points": 146,
       "pos": 0,
+      "cls": "",
       "cust_id": 837246,
       "name": "Robert Stoten"
     },
@@ -20324,6 +20877,7 @@
       "total_laps": 247,
       "points": 70,
       "pos": 0,
+      "cls": "",
       "cust_id": 187808,
       "name": "Damon A Brierley"
     },
@@ -20356,6 +20910,7 @@
       "total_laps": 166,
       "points": 66,
       "pos": 0,
+      "cls": "",
       "cust_id": 665111,
       "name": "Chris G Barnes"
     },
@@ -20388,6 +20943,7 @@
       "total_laps": 144,
       "points": -2,
       "pos": 0,
+      "cls": "",
       "cust_id": 28944,
       "name": "Jason Finch"
     },
@@ -20415,6 +20971,7 @@
       "total_laps": 0,
       "points": 0,
       "pos": 0,
+      "cls": "",
       "cust_id": 773907,
       "name": "Tim De Hondt"
     },
@@ -20441,6 +20998,7 @@
       "total_laps": 111,
       "points": 52,
       "pos": 0,
+      "cls": "",
       "cust_id": 711160,
       "name": "Michael Aparício"
     },
@@ -20485,6 +21043,7 @@
       "total_laps": 179,
       "points": 280,
       "pos": 0,
+      "cls": "",
       "cust_id": 648477,
       "name": "Pedro Lima"
     },
@@ -20516,6 +21075,7 @@
       "total_laps": 158,
       "points": 53,
       "pos": 0,
+      "cls": "",
       "cust_id": 69608,
       "name": "Ben Warren"
     },
@@ -20543,6 +21103,7 @@
       "total_laps": 3,
       "points": -20,
       "pos": 0,
+      "cls": "",
       "cust_id": 256498,
       "name": "David Buitelaar"
     },
@@ -20568,6 +21129,7 @@
       "total_laps": 60,
       "points": 17,
       "pos": 0,
+      "cls": "",
       "cust_id": 104594,
       "name": "James R Williams"
     },
@@ -20598,6 +21160,7 @@
       "total_laps": 72,
       "points": 162,
       "pos": 0,
+      "cls": "",
       "cust_id": 80118,
       "name": "Justin Barrera"
     },
@@ -20626,6 +21189,7 @@
       "total_laps": 72,
       "points": 121,
       "pos": 0,
+      "cls": "",
       "cust_id": 69997,
       "name": "Ryan G Walker"
     },
@@ -20653,6 +21217,7 @@
       "total_laps": 26,
       "points": 0,
       "pos": 0,
+      "cls": "",
       "cust_id": 865713,
       "name": "Jean Alezi"
     }
