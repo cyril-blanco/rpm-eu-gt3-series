@@ -12522,7 +12522,7 @@
           "points_raw": 70,
           "cars": [],
           "car_id": 137,
-          "pos": 45,
+          "pos": 44,
           "cls": "gold",
           "incs_per_race": 13.0,
           "clean": [],
@@ -12602,7 +12602,7 @@
           "points_raw": 203,
           "cars": [],
           "car_id": 133,
-          "pos": 20,
+          "pos": 18,
           "cls": "gold",
           "incs_per_race": 8.0,
           "clean": [],
@@ -12668,7 +12668,7 @@
           "points_raw": 188,
           "cars": [],
           "car_id": 156,
-          "pos": 21,
+          "pos": 20,
           "cls": "gold",
           "incs_per_race": 3.67,
           "clean": [
@@ -12706,7 +12706,7 @@
           "points_raw": 292,
           "cars": [],
           "car_id": 133,
-          "pos": 10,
+          "pos": 9,
           "cls": "silver",
           "incs_per_race": 5.5,
           "clean": [
@@ -12744,11 +12744,11 @@
           "best_finish_position": 8,
           "incs": 53,
           "total_laps": 0,
-          "points": 274,
-          "points_raw": 274,
+          "points": 254,
+          "points_raw": 254,
           "cars": [],
           "car_id": 132,
-          "pos": 8,
+          "pos": 10,
           "cls": "silver",
           "incs_per_race": 6.62,
           "clean": [
@@ -12756,7 +12756,7 @@
           ],
           "clean_pct": 12.5,
           "laps_complete": 268,
-          "pts_per_race": 34.25
+          "pts_per_race": 31.75
         },
         "d88089": {
           "seasons": [
@@ -12899,7 +12899,7 @@
           "points_raw": 292,
           "cars": [],
           "car_id": 73,
-          "pos": 9,
+          "pos": 8,
           "cls": "silver",
           "incs_per_race": 4.86,
           "clean": [],
@@ -12929,17 +12929,17 @@
           "best_finish_position": 16,
           "incs": 24,
           "total_laps": 0,
-          "points": 64,
-          "points_raw": 64,
+          "points": 24,
+          "points_raw": 24,
           "cars": [],
           "car_id": 144,
-          "pos": 49,
+          "pos": 55,
           "cls": "silver",
           "incs_per_race": 6.0,
           "clean": [],
           "clean_pct": 0.0,
           "laps_complete": 141,
-          "pts_per_race": 16.0
+          "pts_per_race": 6.0
         },
         "d233357": {
           "seasons": [
@@ -12971,7 +12971,7 @@
           "points_raw": 177,
           "cars": [],
           "car_id": 144,
-          "pos": 32,
+          "pos": 31,
           "cls": "bronze",
           "incs_per_race": 5.38,
           "clean": [],
@@ -13047,7 +13047,7 @@
           "points_raw": 148,
           "cars": [],
           "car_id": 132,
-          "pos": 33,
+          "pos": 32,
           "cls": "bronze",
           "incs_per_race": 14.57,
           "clean": [
@@ -13203,7 +13203,7 @@
           "points_raw": 44,
           "cars": [],
           "car_id": 137,
-          "pos": 53,
+          "pos": 52,
           "cls": "bronze",
           "incs_per_race": 16.0,
           "clean": [],
@@ -13308,17 +13308,17 @@
           "best_finish_position": 11,
           "incs": 71,
           "total_laps": 0,
-          "points": 75,
-          "points_raw": 75,
+          "points": 55,
+          "points_raw": 55,
           "cars": [],
           "car_id": 156,
-          "pos": 43,
+          "pos": 48,
           "cls": "bronze",
           "incs_per_race": 10.14,
           "clean": [],
           "clean_pct": 0.0,
           "laps_complete": 209,
-          "pts_per_race": 10.71
+          "pts_per_race": 7.86
         },
         "d311045": {
           "seasons": [
@@ -13347,7 +13347,7 @@
           "points_raw": 237,
           "cars": [],
           "car_id": 73,
-          "pos": 18,
+          "pos": 17,
           "cls": "silver",
           "incs_per_race": 11.71,
           "clean": [
@@ -13426,7 +13426,7 @@
           "points_raw": 156,
           "cars": [],
           "car_id": 132,
-          "pos": 31,
+          "pos": 30,
           "cls": "bronze",
           "incs_per_race": 8.71,
           "clean": [],
@@ -13462,7 +13462,7 @@
           "points_raw": 146,
           "cars": [],
           "car_id": 73,
-          "pos": 34,
+          "pos": 33,
           "cls": "silver",
           "incs_per_race": 12.5,
           "clean": [],
@@ -13498,7 +13498,7 @@
           "points_raw": 66,
           "cars": [],
           "car_id": 132,
-          "pos": 48,
+          "pos": 47,
           "cls": "bronze",
           "incs_per_race": 10.4,
           "clean": [],
@@ -13533,17 +13533,17 @@
           "best_finish_position": 6,
           "incs": 92,
           "total_laps": 0,
-          "points": 159,
-          "points_raw": 159,
+          "points": 139,
+          "points_raw": 139,
           "cars": [],
           "car_id": 137,
-          "pos": 30,
+          "pos": 34,
           "cls": "silver",
           "incs_per_race": 13.14,
           "clean": [],
           "clean_pct": 0.0,
           "laps_complete": 250,
-          "pts_per_race": 22.71
+          "pts_per_race": 19.86
         },
         "d28944": {
           "seasons": [
@@ -13573,7 +13573,7 @@
           "points_raw": 14,
           "cars": [],
           "car_id": 137,
-          "pos": 59,
+          "pos": 58,
           "cls": "bronze",
           "incs_per_race": 10.4,
           "clean": [],
@@ -13605,17 +13605,17 @@
           "best_finish_position": 32,
           "incs": 52,
           "total_laps": 0,
-          "points": 33,
-          "points_raw": 33,
+          "points": 13,
+          "points_raw": 13,
           "cars": [],
           "car_id": 132,
-          "pos": 54,
+          "pos": 59,
           "cls": "bronze",
           "incs_per_race": 10.4,
           "clean": [],
           "clean_pct": 0.0,
           "laps_complete": 169,
-          "pts_per_race": 6.6
+          "pts_per_race": 2.6
         },
         "d847138": {
           "seasons": [
@@ -13644,17 +13644,17 @@
           "best_finish_position": 25,
           "incs": 57,
           "total_laps": 0,
-          "points": 92,
-          "points_raw": 92,
+          "points": 72,
+          "points_raw": 72,
           "cars": [],
           "car_id": 132,
-          "pos": 40,
+          "pos": 43,
           "cls": "bronze",
           "incs_per_race": 8.14,
           "clean": [],
           "clean_pct": 0.0,
           "laps_complete": 284,
-          "pts_per_race": 13.14
+          "pts_per_race": 10.29
         },
         "d583482": {
           "seasons": [
@@ -13680,7 +13680,7 @@
           "points_raw": 15,
           "cars": [],
           "car_id": 144,
-          "pos": 58,
+          "pos": 57,
           "cls": "silver",
           "incs_per_race": 13.5,
           "clean": [],
@@ -13754,7 +13754,7 @@
           "points_raw": 29,
           "cars": [],
           "car_id": 137,
-          "pos": 56,
+          "pos": 54,
           "cls": "silver",
           "incs_per_race": 9.25,
           "clean": [],
@@ -13832,7 +13832,7 @@
           "points_raw": 70,
           "cars": [],
           "car_id": 43,
-          "pos": 47,
+          "pos": 46,
           "cls": "bronze",
           "incs_per_race": 15.88,
           "clean": [],
@@ -13869,7 +13869,7 @@
           "points_raw": 70,
           "cars": [],
           "car_id": 43,
-          "pos": 46,
+          "pos": 45,
           "cls": "silver",
           "incs_per_race": 8.6,
           "clean": [
@@ -13909,7 +13909,7 @@
           "points_raw": 46,
           "cars": [],
           "car_id": 156,
-          "pos": 51,
+          "pos": 50,
           "cls": "bronze",
           "incs_per_race": 13.0,
           "clean": [],
@@ -13974,7 +13974,7 @@
           "points_raw": -21,
           "cars": [],
           "car_id": 144,
-          "pos": 80,
+          "pos": 81,
           "cls": "silver",
           "incs_per_race": 10.33,
           "clean": [],
@@ -14009,7 +14009,7 @@
           "points_raw": -20,
           "cars": [],
           "car_id": 137,
-          "pos": 78,
+          "pos": 79,
           "cls": "gold",
           "incs_per_race": 6.33,
           "clean": [],
@@ -14149,7 +14149,7 @@
           "points_raw": 52,
           "cars": [],
           "car_id": 73,
-          "pos": 50,
+          "pos": 49,
           "cls": "silver",
           "incs_per_race": 10.33,
           "clean": [],
@@ -14179,17 +14179,17 @@
           "best_finish_position": 11,
           "incs": 34,
           "total_laps": 0,
-          "points": 218,
-          "points_raw": 218,
+          "points": 198,
+          "points_raw": 198,
           "cars": [],
           "car_id": 73,
-          "pos": 17,
+          "pos": 19,
           "cls": "silver",
           "incs_per_race": 5.67,
           "clean": [],
           "clean_pct": 0.0,
           "laps_complete": 279,
-          "pts_per_race": 36.33
+          "pts_per_race": 33.0
         },
         "d147927": {
           "seasons": [
@@ -14213,17 +14213,17 @@
           "best_finish_position": 10,
           "incs": 44,
           "total_laps": 0,
-          "points": 204,
-          "points_raw": 204,
+          "points": 184,
+          "points_raw": 184,
           "cars": [],
           "car_id": 144,
-          "pos": 19,
+          "pos": 21,
           "cls": "silver",
           "incs_per_race": 7.33,
           "clean": [],
           "clean_pct": 0.0,
           "laps_complete": 284,
-          "pts_per_race": 34.0
+          "pts_per_race": 30.67
         },
         "d202689": {
           "seasons": [
@@ -14288,7 +14288,7 @@
           "points_raw": 79,
           "cars": [],
           "car_id": 137,
-          "pos": 41,
+          "pos": 40,
           "cls": "gold",
           "incs_per_race": 14.0,
           "clean": [],
@@ -14395,7 +14395,7 @@
           "points_raw": 20,
           "cars": [],
           "car_id": 73,
-          "pos": 57,
+          "pos": 56,
           "cls": "bronze",
           "incs_per_race": 9.0,
           "clean": [],
@@ -14434,7 +14434,7 @@
           "points_raw": 76,
           "cars": [],
           "car_id": 73,
-          "pos": 42,
+          "pos": 41,
           "cls": "bronze",
           "incs_per_race": 10.17,
           "clean": [
@@ -14549,7 +14549,7 @@
           "points_raw": -20,
           "cars": [],
           "car_id": 73,
-          "pos": 79,
+          "pos": 80,
           "cls": "gold",
           "incs_per_race": 4.0,
           "clean": [],
@@ -14579,7 +14579,7 @@
           "points_raw": 31,
           "cars": [],
           "car_id": 73,
-          "pos": 55,
+          "pos": 53,
           "cls": "bronze",
           "incs_per_race": 12.5,
           "clean": [],
@@ -14675,7 +14675,7 @@
           "points_raw": 46,
           "cars": [],
           "car_id": 156,
-          "pos": 52,
+          "pos": 51,
           "cls": "gold",
           "incs_per_race": 9.0,
           "clean": [],
@@ -14771,7 +14771,7 @@
           "clean_pct": 0.0,
           "laps_complete": 43,
           "pts_per_race": 75.0,
-          "pos": 44,
+          "pos": 42,
           "cls": "gold"
         },
         "d395972": {
@@ -14906,8 +14906,8 @@
       "best_finish_position": 1,
       "incs": 265,
       "total_laps": 0,
-      "points": 2613,
-      "points_raw": 2760,
+      "points": 3043,
+      "points_raw": 3252,
       "cars": [],
       "driver_id": "d491843",
       "cust_id": 491843,
@@ -14919,7 +14919,7 @@
         "e61049274"
       ],
       "laps_complete": 1619,
-      "pts_per_race": 76.85,
+      "pts_per_race": 89.5,
       "clean_pct": 8.82
     },
     "d174507": {
@@ -15017,8 +15017,8 @@
       "best_finish_position": 1,
       "incs": 407,
       "total_laps": 0,
-      "points": 2969,
-      "points_raw": 3220,
+      "points": 3372,
+      "points_raw": 3720,
       "cars": [],
       "driver_id": "d174507",
       "cust_id": 174507,
@@ -15030,7 +15030,7 @@
         "e61435814"
       ],
       "laps_complete": 2488,
-      "pts_per_race": 57.1,
+      "pts_per_race": 64.85,
       "clean_pct": 5.77
     },
     "d374266": {
@@ -15134,8 +15134,8 @@
       "best_finish_position": 1,
       "incs": 279,
       "total_laps": 0,
-      "points": 2156,
-      "points_raw": 2185,
+      "points": 2336,
+      "points_raw": 2365,
       "cars": [],
       "driver_id": "d374266",
       "cust_id": 374266,
@@ -15143,7 +15143,7 @@
       "incs_per_race": 8.72,
       "clean": [],
       "laps_complete": 1634,
-      "pts_per_race": 67.38,
+      "pts_per_race": 73.0,
       "clean_pct": 0.0
     },
     "d659230": {
@@ -15306,8 +15306,8 @@
       "best_finish_position": 1,
       "incs": 516,
       "total_laps": 0,
-      "points": 3042,
-      "points_raw": 3096,
+      "points": 3472,
+      "points_raw": 3550,
       "cars": [],
       "driver_id": "d534726",
       "cust_id": 534726,
@@ -15317,7 +15317,7 @@
         "e60174844"
       ],
       "laps_complete": 2400,
-      "pts_per_race": 63.38,
+      "pts_per_race": 72.33,
       "clean_pct": 2.08
     },
     "d624852": {
@@ -15448,8 +15448,8 @@
       "best_finish_position": 1,
       "incs": 328,
       "total_laps": 0,
-      "points": 3287,
-      "points_raw": 3402,
+      "points": 3517,
+      "points_raw": 3632,
       "cars": [],
       "driver_id": "d533283",
       "cust_id": 533283,
@@ -15463,7 +15463,7 @@
         "e61178890"
       ],
       "laps_complete": 2465,
-      "pts_per_race": 68.48,
+      "pts_per_race": 73.27,
       "clean_pct": 10.42
     },
     "d409289": {
@@ -15558,8 +15558,8 @@
       "best_finish_position": 2,
       "incs": 340,
       "total_laps": 0,
-      "points": 2772,
-      "points_raw": 2893,
+      "points": 3011,
+      "points_raw": 3132,
       "cars": [],
       "driver_id": "d409289",
       "cust_id": 409289,
@@ -15576,7 +15576,7 @@
         "e60174844"
       ],
       "laps_complete": 2677,
-      "pts_per_race": 50.4,
+      "pts_per_race": 54.75,
       "clean_pct": 14.55
     },
     "d441250": {
@@ -15628,8 +15628,8 @@
       "best_finish_position": 3,
       "incs": 139,
       "total_laps": 0,
-      "points": 1346,
-      "points_raw": 1346,
+      "points": 1534,
+      "points_raw": 1534,
       "cars": [],
       "driver_id": "d441250",
       "cust_id": 441250,
@@ -15645,7 +15645,7 @@
         "e60520637"
       ],
       "laps_complete": 1193,
-      "pts_per_race": 56.08,
+      "pts_per_race": 63.92,
       "clean_pct": 29.17
     },
     "d628359": {
@@ -15824,8 +15824,8 @@
       "best_finish_position": 4,
       "incs": 517,
       "total_laps": 0,
-      "points": 2160,
-      "points_raw": 2194,
+      "points": 2418,
+      "points_raw": 2486,
       "cars": [],
       "driver_id": "d335711",
       "cust_id": 335711,
@@ -15836,7 +15836,7 @@
         "e61049274"
       ],
       "laps_complete": 2475,
-      "pts_per_race": 40.0,
+      "pts_per_race": 44.78,
       "clean_pct": 3.7
     },
     "d470452": {
@@ -15962,8 +15962,8 @@
       "best_finish_position": 5,
       "incs": 620,
       "total_laps": 0,
-      "points": 1960,
-      "points_raw": 2052,
+      "points": 2173,
+      "points_raw": 2289,
       "cars": [],
       "driver_id": "d311045",
       "cust_id": 311045,
@@ -15973,7 +15973,7 @@
         "e61049274"
       ],
       "laps_complete": 2494,
-      "pts_per_race": 36.98,
+      "pts_per_race": 41.0,
       "clean_pct": 1.89
     },
     "d512483": {
@@ -16229,8 +16229,8 @@
       "best_finish_position": 1,
       "incs": 560,
       "total_laps": 0,
-      "points": 2100,
-      "points_raw": 2229,
+      "points": 2179,
+      "points_raw": 2308,
       "cars": [],
       "driver_id": "d484677",
       "cust_id": 484677,
@@ -16238,7 +16238,7 @@
       "incs_per_race": 10.57,
       "clean": [],
       "laps_complete": 2628,
-      "pts_per_race": 39.62,
+      "pts_per_race": 41.11,
       "clean_pct": 0.0
     },
     "d342356": {
@@ -16634,8 +16634,8 @@
       "best_finish_position": 9,
       "incs": 468,
       "total_laps": 0,
-      "points": 1534,
-      "points_raw": 1642,
+      "points": 1660,
+      "points_raw": 1768,
       "cars": [],
       "driver_id": "d527892",
       "cust_id": 527892,
@@ -16647,7 +16647,7 @@
         "e59920833"
       ],
       "laps_complete": 2682,
-      "pts_per_race": 27.89,
+      "pts_per_race": 30.18,
       "clean_pct": 5.45
     },
     "d613262": {
@@ -16734,8 +16734,8 @@
       "best_finish_position": 7,
       "incs": 493,
       "total_laps": 0,
-      "points": 1601,
-      "points_raw": 1703,
+      "points": 1777,
+      "points_raw": 1879,
       "cars": [],
       "driver_id": "d613262",
       "cust_id": 613262,
@@ -16745,7 +16745,7 @@
         "e60174844"
       ],
       "laps_complete": 2612,
-      "pts_per_race": 28.59,
+      "pts_per_race": 31.73,
       "clean_pct": 1.79
     },
     "d427645": {
@@ -16841,8 +16841,8 @@
       "best_finish_position": 11,
       "incs": 279,
       "total_laps": 0,
-      "points": 1092,
-      "points_raw": 1115,
+      "points": 1107,
+      "points_raw": 1130,
       "cars": [],
       "driver_id": "d583482",
       "cust_id": 583482,
@@ -16850,7 +16850,7 @@
       "incs_per_race": 7.54,
       "clean": [],
       "laps_complete": 1777,
-      "pts_per_race": 29.51,
+      "pts_per_race": 29.92,
       "clean_pct": 0.0
     },
     "d513530": {
@@ -16926,8 +16926,8 @@
       "best_finish_position": 15,
       "incs": 367,
       "total_laps": 0,
-      "points": 702,
-      "points_raw": 702,
+      "points": 748,
+      "points_raw": 748,
       "cars": [],
       "driver_id": "d513530",
       "cust_id": 513530,
@@ -16935,7 +16935,7 @@
       "incs_per_race": 9.18,
       "clean": [],
       "laps_complete": 1682,
-      "pts_per_race": 17.55,
+      "pts_per_race": 18.7,
       "clean_pct": 0.0
     },
     "d549916": {
@@ -17102,8 +17102,8 @@
       "best_finish_position": 20,
       "incs": 291,
       "total_laps": 0,
-      "points": 145,
-      "points_raw": 145,
+      "points": 158,
+      "points_raw": 158,
       "cars": [],
       "driver_id": "d481697",
       "cust_id": 481697,
@@ -17111,7 +17111,7 @@
       "incs_per_race": 13.23,
       "clean": [],
       "laps_complete": 716,
-      "pts_per_race": 6.59,
+      "pts_per_race": 7.18,
       "clean_pct": 0.0
     },
     "d189468": {
@@ -17345,8 +17345,8 @@
       "best_finish_position": 4,
       "incs": 284,
       "total_laps": 0,
-      "points": 2087,
-      "points_raw": 2161,
+      "points": 2430,
+      "points_raw": 2538,
       "cars": [],
       "driver_id": "d88089",
       "cust_id": 88089,
@@ -17359,7 +17359,7 @@
         "e61178890"
       ],
       "laps_complete": 1762,
-      "pts_per_race": 53.51,
+      "pts_per_race": 62.31,
       "clean_pct": 10.26
     },
     "d142112": {
@@ -17762,8 +17762,8 @@
       "best_finish_position": 2,
       "incs": 265,
       "total_laps": 0,
-      "points": 1355,
-      "points_raw": 1355,
+      "points": 1630,
+      "points_raw": 1630,
       "cars": [],
       "driver_id": "d527397",
       "cust_id": 527397,
@@ -17774,7 +17774,7 @@
         "e59920833"
       ],
       "laps_complete": 1150,
-      "pts_per_race": 43.71,
+      "pts_per_race": 52.58,
       "clean_pct": 6.45
     },
     "d233357": {
@@ -17859,8 +17859,8 @@
       "best_finish_position": 2,
       "incs": 278,
       "total_laps": 0,
-      "points": 1318,
-      "points_raw": 1360,
+      "points": 1473,
+      "points_raw": 1537,
       "cars": [],
       "driver_id": "d233357",
       "cust_id": 233357,
@@ -17872,7 +17872,7 @@
         "e45043469"
       ],
       "laps_complete": 1817,
-      "pts_per_race": 28.04,
+      "pts_per_race": 31.34,
       "clean_pct": 6.38
     },
     "d452432": {
@@ -18393,8 +18393,8 @@
       "best_finish_position": 7,
       "incs": 200,
       "total_laps": 0,
-      "points": 1538,
-      "points_raw": 1609,
+      "points": 1766,
+      "points_raw": 1872,
       "cars": [],
       "driver_id": "d402302",
       "cust_id": 402302,
@@ -18409,7 +18409,7 @@
         "e60520637"
       ],
       "laps_complete": 1819,
-      "pts_per_race": 39.44,
+      "pts_per_race": 45.28,
       "clean_pct": 15.38
     },
     "d417314": {
@@ -18537,8 +18537,8 @@
       "best_finish_position": 9,
       "incs": 195,
       "total_laps": 0,
-      "points": 965,
-      "points_raw": 965,
+      "points": 1086,
+      "points_raw": 1086,
       "cars": [],
       "driver_id": "d575225",
       "cust_id": 575225,
@@ -18550,7 +18550,7 @@
         "e61435814"
       ],
       "laps_complete": 1468,
-      "pts_per_race": 32.17,
+      "pts_per_race": 36.2,
       "clean_pct": 10.0
     },
     "d343195": {
@@ -18629,8 +18629,8 @@
       "best_finish_position": 2,
       "incs": 233,
       "total_laps": 0,
-      "points": 2293,
-      "points_raw": 2413,
+      "points": 2543,
+      "points_raw": 2689,
       "cars": [],
       "driver_id": "d343195",
       "cust_id": 343195,
@@ -18641,7 +18641,7 @@
         "e60174844"
       ],
       "laps_complete": 2277,
-      "pts_per_race": 52.11,
+      "pts_per_race": 57.8,
       "clean_pct": 4.55
     },
     "d626462": {
@@ -18853,8 +18853,8 @@
       "best_finish_position": 6,
       "incs": 271,
       "total_laps": 0,
-      "points": 1552,
-      "points_raw": 1662,
+      "points": 1736,
+      "points_raw": 1846,
       "cars": [],
       "driver_id": "d147927",
       "cust_id": 147927,
@@ -18866,7 +18866,7 @@
         "e60174844"
       ],
       "laps_complete": 2267,
-      "pts_per_race": 34.49,
+      "pts_per_race": 38.58,
       "clean_pct": 6.67
     },
     "d256932": {
@@ -19464,8 +19464,8 @@
       "best_finish_position": 1,
       "incs": 198,
       "total_laps": 0,
-      "points": 1660,
-      "points_raw": 1660,
+      "points": 1730,
+      "points_raw": 1730,
       "cars": [],
       "driver_id": "d678818",
       "cust_id": 678818,
@@ -19473,7 +19473,7 @@
       "incs_per_race": 8.61,
       "clean": [],
       "laps_complete": 1097,
-      "pts_per_race": 72.17,
+      "pts_per_race": 75.22,
       "clean_pct": 0.0
     },
     "d324933": {
@@ -19531,8 +19531,8 @@
       "best_finish_position": 7,
       "incs": 203,
       "total_laps": 0,
-      "points": 402,
-      "points_raw": 402,
+      "points": 426,
+      "points_raw": 426,
       "cars": [],
       "driver_id": "d324933",
       "cust_id": 324933,
@@ -19543,7 +19543,7 @@
         "e55362836"
       ],
       "laps_complete": 947,
-      "pts_per_race": 16.08,
+      "pts_per_race": 17.04,
       "clean_pct": 8.0
     },
     "d674607": {
@@ -19610,8 +19610,8 @@
       "best_finish_position": 8,
       "incs": 324,
       "total_laps": 0,
-      "points": 495,
-      "points_raw": 495,
+      "points": 571,
+      "points_raw": 571,
       "cars": [],
       "driver_id": "d674607",
       "cust_id": 674607,
@@ -19621,7 +19621,7 @@
         "e61049274"
       ],
       "laps_complete": 1090,
-      "pts_per_race": 15.97,
+      "pts_per_race": 18.42,
       "clean_pct": 3.23
     },
     "d448952": {
@@ -19664,8 +19664,8 @@
       "best_finish_position": 14,
       "incs": 154,
       "total_laps": 0,
-      "points": 645,
-      "points_raw": 665,
+      "points": 764,
+      "points_raw": 784,
       "cars": [],
       "driver_id": "d448952",
       "cust_id": 448952,
@@ -19673,7 +19673,7 @@
       "incs_per_race": 7.0,
       "clean": [],
       "laps_complete": 1151,
-      "pts_per_race": 29.32,
+      "pts_per_race": 34.73,
       "clean_pct": 0.0
     },
     "d759394": {
@@ -19721,8 +19721,8 @@
       "best_finish_position": 22,
       "incs": 214,
       "total_laps": 0,
-      "points": 171,
-      "points_raw": 171,
+      "points": 215,
+      "points_raw": 215,
       "cars": [],
       "driver_id": "d759394",
       "cust_id": 759394,
@@ -19730,7 +19730,7 @@
       "incs_per_race": 12.59,
       "clean": [],
       "laps_complete": 547,
-      "pts_per_race": 10.06,
+      "pts_per_race": 12.65,
       "clean_pct": 0.0
     },
     "d642928": {
@@ -19867,8 +19867,8 @@
       "best_finish_position": 1,
       "incs": 311,
       "total_laps": 0,
-      "points": 1349,
-      "points_raw": 1349,
+      "points": 1520,
+      "points_raw": 1520,
       "cars": [],
       "driver_id": "d462976",
       "cust_id": 462976,
@@ -19880,7 +19880,7 @@
         "e60047867"
       ],
       "laps_complete": 1533,
-      "pts_per_race": 40.88,
+      "pts_per_race": 46.06,
       "clean_pct": 9.09
     },
     "d710369": {
@@ -20002,8 +20002,8 @@
       "best_finish_position": 8,
       "incs": 121,
       "total_laps": 0,
-      "points": 153,
-      "points_raw": 153,
+      "points": 132,
+      "points_raw": 132,
       "cars": [],
       "driver_id": "d559149",
       "cust_id": 559149,
@@ -20011,7 +20011,7 @@
       "incs_per_race": 11.0,
       "clean": [],
       "laps_complete": 437,
-      "pts_per_race": 13.91,
+      "pts_per_race": 12.0,
       "clean_pct": 0.0
     },
     "d287921": {
@@ -20568,8 +20568,8 @@
       "best_finish_position": 1,
       "incs": 383,
       "total_laps": 0,
-      "points": 3038,
-      "points_raw": 3038,
+      "points": 3598,
+      "points_raw": 3598,
       "cars": [],
       "driver_id": "d264953",
       "cust_id": 264953,
@@ -20580,7 +20580,7 @@
         "e49855570"
       ],
       "laps_complete": 1740,
-      "pts_per_race": 84.39,
+      "pts_per_race": 99.94,
       "clean_pct": 5.56
     },
     "d732955": {
@@ -20638,8 +20638,8 @@
       "best_finish_position": 5,
       "incs": 367,
       "total_laps": 0,
-      "points": 1244,
-      "points_raw": 1338,
+      "points": 1497,
+      "points_raw": 1649,
       "cars": [],
       "driver_id": "d732955",
       "cust_id": 732955,
@@ -20650,7 +20650,7 @@
         "e61049274"
       ],
       "laps_complete": 1737,
-      "pts_per_race": 36.59,
+      "pts_per_race": 44.03,
       "clean_pct": 5.88
     },
     "d384320": {
@@ -20856,8 +20856,8 @@
       "best_finish_position": 5,
       "incs": 188,
       "total_laps": 0,
-      "points": 792,
-      "points_raw": 792,
+      "points": 821,
+      "points_raw": 821,
       "cars": [],
       "driver_id": "d676316",
       "cust_id": 676316,
@@ -20865,7 +20865,7 @@
       "incs_per_race": 7.83,
       "clean": [],
       "laps_complete": 1125,
-      "pts_per_race": 33.0,
+      "pts_per_race": 34.21,
       "clean_pct": 0.0
     },
     "d573541": {
@@ -20906,8 +20906,8 @@
       "best_finish_position": 13,
       "incs": 213,
       "total_laps": 0,
-      "points": 341,
-      "points_raw": 341,
+      "points": 489,
+      "points_raw": 489,
       "cars": [],
       "driver_id": "d573541",
       "cust_id": 573541,
@@ -20917,7 +20917,7 @@
         "e60520637"
       ],
       "laps_complete": 582,
-      "pts_per_race": 22.73,
+      "pts_per_race": 32.6,
       "clean_pct": 6.67
     },
     "d373850": {
@@ -21085,8 +21085,8 @@
       "best_finish_position": 20,
       "incs": 184,
       "total_laps": 0,
-      "points": 124,
-      "points_raw": 124,
+      "points": 144,
+      "points_raw": 144,
       "cars": [],
       "driver_id": "d92996",
       "cust_id": 92996,
@@ -21094,7 +21094,7 @@
       "incs_per_race": 9.68,
       "clean": [],
       "laps_complete": 629,
-      "pts_per_race": 6.53,
+      "pts_per_race": 7.58,
       "clean_pct": 0.0
     },
     "d646693": {
@@ -21190,8 +21190,8 @@
       "best_finish_position": 19,
       "incs": 365,
       "total_laps": 0,
-      "points": 346,
-      "points_raw": 346,
+      "points": 416,
+      "points_raw": 416,
       "cars": [],
       "driver_id": "d500241",
       "cust_id": 500241,
@@ -21199,7 +21199,7 @@
       "incs_per_race": 14.6,
       "clean": [],
       "laps_complete": 1070,
-      "pts_per_race": 13.84,
+      "pts_per_race": 16.64,
       "clean_pct": 0.0
     },
     "d402389": {
@@ -21258,8 +21258,8 @@
       "best_finish_position": 2,
       "incs": 195,
       "total_laps": 0,
-      "points": 1027,
-      "points_raw": 1027,
+      "points": 1230,
+      "points_raw": 1230,
       "cars": [],
       "driver_id": "d402389",
       "cust_id": 402389,
@@ -21267,7 +21267,7 @@
       "incs_per_race": 8.86,
       "clean": [],
       "laps_complete": 921,
-      "pts_per_race": 46.68,
+      "pts_per_race": 55.91,
       "clean_pct": 0.0
     },
     "d401519": {
@@ -21386,8 +21386,8 @@
       "best_finish_position": 6,
       "incs": 109,
       "total_laps": 0,
-      "points": 973,
-      "points_raw": 996,
+      "points": 1242,
+      "points_raw": 1288,
       "cars": [],
       "driver_id": "d414773",
       "cust_id": 414773,
@@ -21398,7 +21398,7 @@
         "e60174844"
       ],
       "laps_complete": 870,
-      "pts_per_race": 54.06,
+      "pts_per_race": 69.0,
       "clean_pct": 11.11
     },
     "d58944": {
@@ -21632,8 +21632,8 @@
       "best_finish_position": 6,
       "incs": 205,
       "total_laps": 0,
-      "points": 362,
-      "points_raw": 362,
+      "points": 501,
+      "points_raw": 501,
       "cars": [],
       "driver_id": "d546297",
       "cust_id": 546297,
@@ -21641,7 +21641,7 @@
       "incs_per_race": 13.67,
       "clean": [],
       "laps_complete": 503,
-      "pts_per_race": 24.13,
+      "pts_per_race": 33.4,
       "clean_pct": 0.0
     },
     "d300799": {
@@ -21689,8 +21689,8 @@
       "best_finish_position": 12,
       "incs": 174,
       "total_laps": 0,
-      "points": 437,
-      "points_raw": 437,
+      "points": 593,
+      "points_raw": 593,
       "cars": [],
       "driver_id": "d300799",
       "cust_id": 300799,
@@ -21698,7 +21698,7 @@
       "incs_per_race": 9.16,
       "clean": [],
       "laps_complete": 675,
-      "pts_per_race": 23.0,
+      "pts_per_race": 31.21,
       "clean_pct": 0.0
     },
     "d414284": {
@@ -21725,8 +21725,8 @@
       "best_finish_position": 11,
       "incs": 42,
       "total_laps": 0,
-      "points": 424,
-      "points_raw": 424,
+      "points": 622,
+      "points_raw": 622,
       "cars": [],
       "driver_id": "d414284",
       "cust_id": 414284,
@@ -21734,7 +21734,7 @@
       "incs_per_race": 6.0,
       "clean": [],
       "laps_complete": 325,
-      "pts_per_race": 60.57,
+      "pts_per_race": 88.86,
       "clean_pct": 0.0
     },
     "d202689": {
@@ -21770,8 +21770,8 @@
       "best_finish_position": 16,
       "incs": 74,
       "total_laps": 0,
-      "points": 532,
-      "points_raw": 553,
+      "points": 712,
+      "points_raw": 754,
       "cars": [],
       "driver_id": "d202689",
       "cust_id": 202689,
@@ -21782,7 +21782,7 @@
         "e61178890"
       ],
       "laps_complete": 706,
-      "pts_per_race": 35.47,
+      "pts_per_race": 47.47,
       "clean_pct": 13.33
     },
     "d292059": {
@@ -21819,8 +21819,8 @@
       "best_finish_position": 6,
       "incs": 210,
       "total_laps": 0,
-      "points": 382,
-      "points_raw": 382,
+      "points": 513,
+      "points_raw": 513,
       "cars": [],
       "driver_id": "d292059",
       "cust_id": 292059,
@@ -21828,7 +21828,7 @@
       "incs_per_race": 15.0,
       "clean": [],
       "laps_complete": 625,
-      "pts_per_race": 27.29,
+      "pts_per_race": 36.64,
       "clean_pct": 0.0
     },
     "d513047": {
@@ -21865,8 +21865,8 @@
       "best_finish_position": 15,
       "incs": 116,
       "total_laps": 0,
-      "points": 262,
-      "points_raw": 262,
+      "points": 332,
+      "points_raw": 332,
       "cars": [],
       "driver_id": "d513047",
       "cust_id": 513047,
@@ -21876,7 +21876,7 @@
         "e61178890"
       ],
       "laps_complete": 455,
-      "pts_per_race": 21.83,
+      "pts_per_race": 27.67,
       "clean_pct": 8.33
     },
     "d789378": {
@@ -22009,8 +22009,8 @@
       "best_finish_position": 11,
       "incs": 137,
       "total_laps": 0,
-      "points": 173,
-      "points_raw": 173,
+      "points": 228,
+      "points_raw": 228,
       "cars": [],
       "driver_id": "d705348",
       "cust_id": 705348,
@@ -22018,7 +22018,7 @@
       "incs_per_race": 11.42,
       "clean": [],
       "laps_complete": 396,
-      "pts_per_race": 14.42,
+      "pts_per_race": 19.0,
       "clean_pct": 0.0
     },
     "d419116": {
@@ -22052,8 +22052,8 @@
       "best_finish_position": 5,
       "incs": 45,
       "total_laps": 0,
-      "points": 337,
-      "points_raw": 337,
+      "points": 317,
+      "points_raw": 317,
       "cars": [],
       "driver_id": "d419116",
       "cust_id": 419116,
@@ -22061,7 +22061,7 @@
       "incs_per_race": 4.5,
       "clean": [],
       "laps_complete": 413,
-      "pts_per_race": 33.7,
+      "pts_per_race": 31.7,
       "clean_pct": 0.0
     },
     "d314317": {
@@ -22096,8 +22096,8 @@
       "best_finish_position": 6,
       "incs": 63,
       "total_laps": 0,
-      "points": 741,
-      "points_raw": 741,
+      "points": 984,
+      "points_raw": 984,
       "cars": [],
       "driver_id": "d314317",
       "cust_id": 314317,
@@ -22108,7 +22108,7 @@
         "e61435814"
       ],
       "laps_complete": 658,
-      "pts_per_race": 57.0,
+      "pts_per_race": 75.69,
       "clean_pct": 15.38
     },
     "d95310": {
@@ -22138,8 +22138,8 @@
       "best_finish_position": 15,
       "incs": 105,
       "total_laps": 0,
-      "points": 381,
-      "points_raw": 399,
+      "points": 564,
+      "points_raw": 600,
       "cars": [],
       "driver_id": "d95310",
       "cust_id": 95310,
@@ -22147,7 +22147,7 @@
       "incs_per_race": 10.5,
       "clean": [],
       "laps_complete": 471,
-      "pts_per_race": 38.1,
+      "pts_per_race": 56.4,
       "clean_pct": 0.0
     },
     "d618940": {
@@ -22171,8 +22171,8 @@
       "best_finish_position": 10,
       "incs": 34,
       "total_laps": 0,
-      "points": 174,
-      "points_raw": 174,
+      "points": 220,
+      "points_raw": 220,
       "cars": [],
       "driver_id": "d618940",
       "cust_id": 618940,
@@ -22180,7 +22180,7 @@
       "incs_per_race": 8.5,
       "clean": [],
       "laps_complete": 168,
-      "pts_per_race": 43.5,
+      "pts_per_race": 55.0,
       "clean_pct": 0.0
     },
     "d327329": {
@@ -22216,8 +22216,8 @@
       "best_finish_position": 8,
       "incs": 77,
       "total_laps": 0,
-      "points": 676,
-      "points_raw": 676,
+      "points": 930,
+      "points_raw": 930,
       "cars": [],
       "driver_id": "d327329",
       "cust_id": 327329,
@@ -22228,7 +22228,7 @@
         "e61178890"
       ],
       "laps_complete": 534,
-      "pts_per_race": 52.0,
+      "pts_per_race": 71.54,
       "clean_pct": 15.38
     },
     "d185925": {
@@ -22297,8 +22297,8 @@
       "best_finish_position": 25,
       "incs": 73,
       "total_laps": 0,
-      "points": 231,
-      "points_raw": 231,
+      "points": 303,
+      "points_raw": 303,
       "cars": [],
       "driver_id": "d847138",
       "cust_id": 847138,
@@ -22306,7 +22306,7 @@
       "incs_per_race": 8.11,
       "clean": [],
       "laps_complete": 398,
-      "pts_per_race": 25.67,
+      "pts_per_race": 33.67,
       "clean_pct": 0.0
     },
     "d350669": {
@@ -22368,8 +22368,8 @@
       "best_finish_position": 8,
       "incs": 96,
       "total_laps": 0,
-      "points": 350,
-      "points_raw": 396,
+      "points": 515,
+      "points_raw": 607,
       "cars": [],
       "driver_id": "d837246",
       "cust_id": 837246,
@@ -22377,7 +22377,7 @@
       "incs_per_race": 12.0,
       "clean": [],
       "laps_complete": 382,
-      "pts_per_race": 43.75,
+      "pts_per_race": 64.38,
       "clean_pct": 0.0
     },
     "d187808": {
@@ -22404,8 +22404,8 @@
       "best_finish_position": 15,
       "incs": 75,
       "total_laps": 0,
-      "points": 250,
-      "points_raw": 250,
+      "points": 396,
+      "points_raw": 396,
       "cars": [],
       "driver_id": "d187808",
       "cust_id": 187808,
@@ -22413,7 +22413,7 @@
       "incs_per_race": 12.5,
       "clean": [],
       "laps_complete": 290,
-      "pts_per_race": 41.67,
+      "pts_per_race": 66.0,
       "clean_pct": 0.0
     },
     "d665111": {
@@ -22440,8 +22440,8 @@
       "best_finish_position": 19,
       "incs": 52,
       "total_laps": 0,
-      "points": 132,
-      "points_raw": 132,
+      "points": 198,
+      "points_raw": 198,
       "cars": [],
       "driver_id": "d665111",
       "cust_id": 665111,
@@ -22449,7 +22449,7 @@
       "incs_per_race": 10.4,
       "clean": [],
       "laps_complete": 166,
-      "pts_per_race": 26.4,
+      "pts_per_race": 39.6,
       "clean_pct": 0.0
     },
     "d28944": {
@@ -22476,8 +22476,8 @@
       "best_finish_position": 18,
       "incs": 52,
       "total_laps": 0,
-      "points": 28,
-      "points_raw": 28,
+      "points": 42,
+      "points_raw": 42,
       "cars": [],
       "driver_id": "d28944",
       "cust_id": 28944,
@@ -22485,7 +22485,7 @@
       "incs_per_race": 10.4,
       "clean": [],
       "laps_complete": 144,
-      "pts_per_race": 5.6,
+      "pts_per_race": 8.4,
       "clean_pct": 0.0
     },
     "d773907": {
@@ -22540,8 +22540,8 @@
       "best_finish_position": 9,
       "incs": 31,
       "total_laps": 0,
-      "points": 104,
-      "points_raw": 104,
+      "points": 156,
+      "points_raw": 156,
       "cars": [],
       "driver_id": "d711160",
       "cust_id": 711160,
@@ -22549,7 +22549,7 @@
       "incs_per_race": 10.33,
       "clean": [],
       "laps_complete": 142,
-      "pts_per_race": 34.67,
+      "pts_per_race": 52.0,
       "clean_pct": 0.0
     },
     "d648477": {
@@ -22586,8 +22586,8 @@
       "best_finish_position": 1,
       "incs": 54,
       "total_laps": 0,
-      "points": 560,
-      "points_raw": 560,
+      "points": 840,
+      "points_raw": 840,
       "cars": [],
       "driver_id": "d648477",
       "cust_id": 648477,
@@ -22595,7 +22595,7 @@
       "incs_per_race": 10.8,
       "clean": [],
       "laps_complete": 216,
-      "pts_per_race": 112.0,
+      "pts_per_race": 168.0,
       "clean_pct": 0.0
     },
     "d69608": {
@@ -22622,8 +22622,8 @@
       "best_finish_position": 7,
       "incs": 49,
       "total_laps": 0,
-      "points": 168,
-      "points_raw": 168,
+      "points": 283,
+      "points_raw": 283,
       "cars": [],
       "driver_id": "d69608",
       "cust_id": 69608,
@@ -22631,7 +22631,7 @@
       "incs_per_race": 9.8,
       "clean": [],
       "laps_complete": 201,
-      "pts_per_race": 33.6,
+      "pts_per_race": 56.6,
       "clean_pct": 0.0
     },
     "d256498": {
@@ -22653,8 +22653,8 @@
       "best_finish_position": 45,
       "incs": 4,
       "total_laps": 0,
-      "points": -40,
-      "points_raw": -40,
+      "points": -60,
+      "points_raw": -60,
       "cars": [],
       "driver_id": "d256498",
       "cust_id": 256498,
@@ -22662,7 +22662,7 @@
       "incs_per_race": 4.0,
       "clean": [],
       "laps_complete": 3,
-      "pts_per_race": -40.0,
+      "pts_per_race": -60.0,
       "clean_pct": 0.0
     },
     "d104594": {
@@ -22683,8 +22683,8 @@
       "best_finish_position": 34,
       "incs": 25,
       "total_laps": 0,
-      "points": 48,
-      "points_raw": 48,
+      "points": 79,
+      "points_raw": 79,
       "cars": [],
       "driver_id": "d104594",
       "cust_id": 104594,
@@ -22692,7 +22692,7 @@
       "incs_per_race": 12.5,
       "clean": [],
       "laps_complete": 95,
-      "pts_per_race": 24.0,
+      "pts_per_race": 39.5,
       "clean_pct": 0.0
     },
     "d80118": {
@@ -22717,8 +22717,8 @@
       "best_finish_position": 1,
       "incs": 7,
       "total_laps": 0,
-      "points": 324,
-      "points_raw": 324,
+      "points": 486,
+      "points_raw": 486,
       "cars": [],
       "driver_id": "d80118",
       "cust_id": 80118,
@@ -22726,7 +22726,7 @@
       "incs_per_race": 3.5,
       "clean": [],
       "laps_complete": 72,
-      "pts_per_race": 162.0,
+      "pts_per_race": 243.0,
       "clean_pct": 0.0
     },
     "d69997": {
@@ -22748,8 +22748,8 @@
       "best_finish_position": 6,
       "incs": 10,
       "total_laps": 0,
-      "points": 298,
-      "points_raw": 298,
+      "points": 475,
+      "points_raw": 475,
       "cars": [],
       "driver_id": "d69997",
       "cust_id": 69997,
@@ -22759,7 +22759,7 @@
         "e61049274"
       ],
       "laps_complete": 115,
-      "pts_per_race": 99.33,
+      "pts_per_race": 158.33,
       "clean_pct": 33.33
     },
     "d865713": {
@@ -22810,8 +22810,8 @@
       "best_finish_position": 4,
       "incs": 4,
       "total_laps": 0,
-      "points": 75,
-      "points_raw": 75,
+      "points": 150,
+      "points_raw": 150,
       "cars": [],
       "driver_id": "d586657",
       "cust_id": 586657,
@@ -22819,7 +22819,7 @@
       "incs_per_race": 4.0,
       "clean": [],
       "laps_complete": 43,
-      "pts_per_race": 75.0,
+      "pts_per_race": 150.0,
       "clean_pct": 0.0
     },
     "d395972": {
