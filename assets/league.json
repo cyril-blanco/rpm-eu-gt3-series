@@ -79,7 +79,8 @@
           "laps": 411,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 65.67
+          "pts_per_race": 65.67,
+          "poles_cls": []
         },
         "d174507": {
           "seasons": [
@@ -131,7 +132,8 @@
           "laps": 448,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 72.89
+          "pts_per_race": 72.89,
+          "poles_cls": []
         },
         "d374266": {
           "seasons": [
@@ -193,7 +195,8 @@
           "laps": 388,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 85.5
+          "pts_per_race": 85.5,
+          "poles_cls": []
         },
         "d659230": {
           "seasons": [
@@ -247,7 +250,8 @@
           "laps": 362,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 49.44
+          "pts_per_race": 49.44,
+          "poles_cls": []
         },
         "d534726": {
           "seasons": [
@@ -302,7 +306,8 @@
           "laps": 399,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 58.5
+          "pts_per_race": 58.5,
+          "poles_cls": []
         },
         "d624852": {
           "seasons": [
@@ -336,7 +341,8 @@
           "laps": 60,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 65.0
+          "pts_per_race": 65.0,
+          "poles_cls": []
         },
         "d533283": {
           "seasons": [
@@ -397,7 +403,8 @@
           "laps": 410,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 56.44
+          "pts_per_race": 56.44,
+          "poles_cls": []
         },
         "d409289": {
           "seasons": [
@@ -456,7 +463,8 @@
           "laps": 403,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 54.5
+          "pts_per_race": 54.5,
+          "poles_cls": []
         },
         "d441250": {
           "seasons": [
@@ -509,7 +517,8 @@
           "laps": 375,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 49.75
+          "pts_per_race": 49.75,
+          "poles_cls": []
         },
         "d628359": {
           "seasons": [
@@ -564,7 +573,8 @@
           "laps": 379,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 55.62
+          "pts_per_race": 55.62,
+          "poles_cls": []
         },
         "d456247": {
           "seasons": [
@@ -599,7 +609,8 @@
           "laps": 121,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 57.5
+          "pts_per_race": 57.5,
+          "poles_cls": []
         },
         "d335711": {
           "seasons": [
@@ -645,7 +656,8 @@
           "laps": 356,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 33.5
+          "pts_per_race": 33.5,
+          "poles_cls": []
         },
         "d470452": {
           "seasons": [
@@ -694,7 +706,8 @@
           "laps": 328,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 33.75
+          "pts_per_race": 33.75,
+          "poles_cls": []
         },
         "d311045": {
           "seasons": [
@@ -750,7 +763,8 @@
           "laps": 450,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 48.67
+          "pts_per_race": 48.67,
+          "poles_cls": []
         },
         "d512483": {
           "seasons": [
@@ -794,7 +808,8 @@
           "laps": 83,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 0.5
+          "pts_per_race": 0.5,
+          "poles_cls": []
         },
         "d603276": {
           "seasons": [
@@ -843,7 +858,8 @@
           "laps": 252,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 36.33
+          "pts_per_race": 36.33,
+          "poles_cls": []
         },
         "d288087": {
           "seasons": [
@@ -891,7 +907,8 @@
           "laps": 195,
           "best_finish_pos": 17,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 16.33
+          "pts_per_race": 16.33,
+          "poles_cls": []
         },
         "d402390": {
           "seasons": [
@@ -937,7 +954,8 @@
           "laps": 340,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 33.0
+          "pts_per_race": 33.0,
+          "poles_cls": []
         },
         "d484677": {
           "seasons": [
@@ -986,7 +1004,8 @@
           "laps": 417,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 35.56
+          "pts_per_race": 35.56,
+          "poles_cls": []
         },
         "d342356": {
           "seasons": [
@@ -1037,7 +1056,8 @@
           "laps": 271,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 15.5
+          "pts_per_race": 15.5,
+          "poles_cls": []
         },
         "d470310": {
           "seasons": [
@@ -1083,7 +1103,8 @@
           "laps": 92,
           "best_finish_pos": 21,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": -2.0
+          "pts_per_race": -2.0,
+          "poles_cls": []
         },
         "d258544": {
           "seasons": [
@@ -1138,7 +1159,8 @@
           "laps": 449,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 39.11
+          "pts_per_race": 39.11,
+          "poles_cls": []
         },
         "d404432": {
           "seasons": [
@@ -1191,7 +1213,8 @@
           "laps": 424,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 31.0
+          "pts_per_race": 31.0,
+          "poles_cls": []
         },
         "d441904": {
           "seasons": [
@@ -1236,7 +1259,8 @@
           "laps": 428,
           "best_finish_pos": 16,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 26.56
+          "pts_per_race": 26.56,
+          "poles_cls": []
         },
         "d527892": {
           "seasons": [
@@ -1285,7 +1309,8 @@
           "laps": 337,
           "best_finish_pos": 18,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 27.57
+          "pts_per_race": 27.57,
+          "poles_cls": []
         },
         "d613262": {
           "seasons": [
@@ -1332,7 +1357,8 @@
           "laps": 323,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 20.62
+          "pts_per_race": 20.62,
+          "poles_cls": []
         },
         "d427645": {
           "seasons": [
@@ -1370,7 +1396,8 @@
           "laps": 115,
           "best_finish_pos": 27,
           "best_finish_pos_in_cls": 10,
-          "pts_per_race": 23.0
+          "pts_per_race": 23.0,
+          "poles_cls": []
         },
         "d583482": {
           "seasons": [
@@ -1417,7 +1444,8 @@
           "laps": 426,
           "best_finish_pos": 14,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 25.89
+          "pts_per_race": 25.89,
+          "poles_cls": []
         },
         "d513530": {
           "seasons": [
@@ -1466,7 +1494,8 @@
           "laps": 144,
           "best_finish_pos": 25,
           "best_finish_pos_in_cls": 12,
-          "pts_per_race": 4.0
+          "pts_per_race": 4.0,
+          "poles_cls": []
         },
         "d549916": {
           "seasons": [
@@ -1513,7 +1542,8 @@
           "laps": 221,
           "best_finish_pos": 22,
           "best_finish_pos_in_cls": 9,
-          "pts_per_race": 16.17
+          "pts_per_race": 16.17,
+          "poles_cls": []
         },
         "d675891": {
           "seasons": [
@@ -1555,7 +1585,8 @@
           "laps": 163,
           "best_finish_pos": 21,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 19.5
+          "pts_per_race": 19.5,
+          "poles_cls": []
         },
         "d481697": {
           "seasons": [
@@ -1592,7 +1623,8 @@
           "laps": 56,
           "best_finish_pos": 32,
           "best_finish_pos_in_cls": 15,
-          "pts_per_race": 19.0
+          "pts_per_race": 19.0,
+          "poles_cls": []
         },
         "d189468": {
           "seasons": [
@@ -1643,7 +1675,8 @@
           "laps": 258,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 18.12
+          "pts_per_race": 18.12,
+          "poles_cls": []
         },
         "d602481": {
           "seasons": [
@@ -1689,7 +1722,8 @@
           "laps": 252,
           "best_finish_pos": 22,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 18.0
+          "pts_per_race": 18.0,
+          "poles_cls": []
         },
         "d526849": {
           "seasons": [
@@ -1737,7 +1771,8 @@
           "laps": 213,
           "best_finish_pos": 13,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 19.83
+          "pts_per_race": 19.83,
+          "poles_cls": []
         },
         "d88089": {
           "seasons": [
@@ -1790,7 +1825,8 @@
           "laps": 377,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 34.11
+          "pts_per_race": 34.11,
+          "poles_cls": []
         },
         "d142112": {
           "seasons": [
@@ -1840,7 +1876,8 @@
           "laps": 295,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 20.88
+          "pts_per_race": 20.88,
+          "poles_cls": []
         },
         "d421463": {
           "seasons": [
@@ -1888,7 +1925,8 @@
           "laps": 97,
           "best_finish_pos": 25,
           "best_finish_pos_in_cls": 11,
-          "pts_per_race": 4.33
+          "pts_per_race": 4.33,
+          "poles_cls": []
         },
         "d436151": {
           "seasons": [
@@ -1937,7 +1975,8 @@
           "laps": 175,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 21.83
+          "pts_per_race": 21.83,
+          "poles_cls": []
         },
         "d77037": {
           "seasons": [
@@ -1976,7 +2015,8 @@
           "laps": 12,
           "best_finish_pos": 40,
           "best_finish_pos_in_cls": 13,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d127071": {
           "seasons": [
@@ -2015,7 +2055,8 @@
           "laps": 10,
           "best_finish_pos": 41,
           "best_finish_pos_in_cls": 14,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d563256": {
           "seasons": [
@@ -2066,7 +2107,8 @@
           "laps": 335,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 36.43
+          "pts_per_race": 36.43,
+          "poles_cls": []
         },
         "d345695": {
           "seasons": [
@@ -2107,7 +2149,8 @@
           "laps": 121,
           "best_finish_pos": 22,
           "best_finish_pos_in_cls": 10,
-          "pts_per_race": 19.0
+          "pts_per_race": 19.0,
+          "poles_cls": []
         },
         "d260479": {
           "seasons": [
@@ -2155,7 +2198,8 @@
           "laps": 241,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 30.5
+          "pts_per_race": 30.5,
+          "poles_cls": []
         },
         "d527397": {
           "seasons": [
@@ -2210,7 +2254,10 @@
           "laps": 312,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 40.12
+          "pts_per_race": 40.12,
+          "poles_cls": [
+            "e44596633"
+          ]
         },
         "d233357": {
           "seasons": [
@@ -2261,7 +2308,8 @@
           "laps": 377,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 32.75
+          "pts_per_race": 32.75,
+          "poles_cls": []
         },
         "d452432": {
           "seasons": [
@@ -2298,7 +2346,8 @@
           "laps": 44,
           "best_finish_pos": 18,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 16.0
+          "pts_per_race": 16.0,
+          "poles_cls": []
         },
         "d676058": {
           "seasons": [
@@ -2340,7 +2389,8 @@
           "laps": 147,
           "best_finish_pos": 21,
           "best_finish_pos_in_cls": 10,
-          "pts_per_race": 20.0
+          "pts_per_race": 20.0,
+          "poles_cls": []
         },
         "d482943": {
           "seasons": [
@@ -2390,7 +2440,8 @@
           "laps": 193,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 34.17
+          "pts_per_race": 34.17,
+          "poles_cls": []
         },
         "d552999": {
           "seasons": [
@@ -2427,7 +2478,8 @@
           "laps": 46,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": -20.0
+          "pts_per_race": -20.0,
+          "poles_cls": []
         },
         "d691015": {
           "seasons": [
@@ -2466,7 +2518,8 @@
           "laps": 28,
           "best_finish_pos": 32,
           "best_finish_pos_in_cls": 15,
-          "pts_per_race": -60.0
+          "pts_per_race": -60.0,
+          "poles_cls": []
         },
         "d548402": {
           "seasons": [
@@ -2506,7 +2559,8 @@
           "laps": 111,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 47.0
+          "pts_per_race": 47.0,
+          "poles_cls": []
         },
         "d565134": {
           "seasons": [
@@ -2546,7 +2600,8 @@
           "laps": 56,
           "best_finish_pos": 22,
           "best_finish_pos_in_cls": 9,
-          "pts_per_race": 4.5
+          "pts_per_race": 4.5,
+          "poles_cls": []
         },
         "d516195": {
           "seasons": [
@@ -2586,7 +2641,8 @@
           "laps": 66,
           "best_finish_pos": 24,
           "best_finish_pos_in_cls": 10,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d556527": {
           "seasons": [
@@ -2629,7 +2685,8 @@
           "laps": 128,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 18.5
+          "pts_per_race": 18.5,
+          "poles_cls": []
         },
         "d305702": {
           "seasons": [
@@ -2667,7 +2724,8 @@
           "laps": 89,
           "best_finish_pos": 20,
           "best_finish_pos_in_cls": 10,
-          "pts_per_race": 28.5
+          "pts_per_race": 28.5,
+          "poles_cls": []
         },
         "d130889": {
           "seasons": [
@@ -2707,7 +2765,8 @@
           "laps": 31,
           "best_finish_pos": 32,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d402302": {
           "seasons": [
@@ -2746,7 +2805,8 @@
           "laps": 49,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 53.0
+          "pts_per_race": 53.0,
+          "poles_cls": []
         },
         "d417314": {
           "seasons": [
@@ -2780,7 +2840,8 @@
           "laps": 49,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 48.0
+          "pts_per_race": 48.0,
+          "poles_cls": []
         },
         "d420632": {
           "seasons": [
@@ -2816,7 +2877,8 @@
           "laps": 49,
           "best_finish_pos": 14,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 44.0
+          "pts_per_race": 44.0,
+          "poles_cls": []
         },
         "d575225": {
           "seasons": [
@@ -2853,7 +2915,8 @@
           "laps": 49,
           "best_finish_pos": 16,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 40.0
+          "pts_per_race": 40.0,
+          "poles_cls": []
         }
       },
       "ongoing": false,
@@ -2931,7 +2994,8 @@
           "laps": 307,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 37.67
+          "pts_per_race": 37.67,
+          "poles_cls": []
         },
         "d491843": {
           "seasons": [
@@ -2999,7 +3063,8 @@
           "laps": 519,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 79.27
+          "pts_per_race": 79.27,
+          "poles_cls": []
         },
         "d533283": {
           "seasons": [
@@ -3046,7 +3111,8 @@
           "laps": 501,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 64.0
+          "pts_per_race": 64.0,
+          "poles_cls": []
         },
         "d343195": {
           "seasons": [
@@ -3091,7 +3157,8 @@
           "laps": 353,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 47.14
+          "pts_per_race": 47.14,
+          "poles_cls": []
         },
         "d436151": {
           "seasons": [
@@ -3142,7 +3209,8 @@
           "laps": 197,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 37.4
+          "pts_per_race": 37.4,
+          "poles_cls": []
         },
         "d409289": {
           "seasons": [
@@ -3204,7 +3272,8 @@
           "laps": 494,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 56.2
+          "pts_per_race": 56.2,
+          "poles_cls": []
         },
         "d565134": {
           "seasons": [
@@ -3263,7 +3332,10 @@
           "laps": 365,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 50.25
+          "pts_per_race": 50.25,
+          "poles_cls": [
+            "e45289872"
+          ]
         },
         "d527397": {
           "seasons": [
@@ -3322,7 +3394,8 @@
           "laps": 241,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 33.0
+          "pts_per_race": 33.0,
+          "poles_cls": []
         },
         "d420632": {
           "seasons": [
@@ -3361,7 +3434,8 @@
           "laps": 145,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 21.5
+          "pts_per_race": 21.5,
+          "poles_cls": []
         },
         "d417314": {
           "seasons": [
@@ -3398,7 +3472,8 @@
           "laps": 45,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 26.5
+          "pts_per_race": 26.5,
+          "poles_cls": []
         },
         "d628359": {
           "seasons": [
@@ -3458,7 +3533,8 @@
           "laps": 335,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 52.43
+          "pts_per_race": 52.43,
+          "poles_cls": []
         },
         "d335711": {
           "seasons": [
@@ -3516,7 +3592,8 @@
           "laps": 462,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 39.73
+          "pts_per_race": 39.73,
+          "poles_cls": []
         },
         "d402390": {
           "seasons": [
@@ -3561,7 +3638,8 @@
           "laps": 158,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 55.33
+          "pts_per_race": 55.33,
+          "poles_cls": []
         },
         "d404432": {
           "seasons": [
@@ -3622,7 +3700,8 @@
           "laps": 511,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 43.55
+          "pts_per_race": 43.55,
+          "poles_cls": []
         },
         "d626462": {
           "seasons": [
@@ -3672,7 +3751,8 @@
           "laps": 333,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 38.43
+          "pts_per_race": 38.43,
+          "poles_cls": []
         },
         "d258544": {
           "seasons": [
@@ -3722,7 +3802,8 @@
           "laps": 354,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 32.5
+          "pts_per_race": 32.5,
+          "poles_cls": []
         },
         "d603137": {
           "seasons": [
@@ -3766,7 +3847,8 @@
           "laps": 61,
           "best_finish_pos": 17,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": -0.5
+          "pts_per_race": -0.5,
+          "poles_cls": []
         },
         "d142112": {
           "seasons": [
@@ -3813,7 +3895,8 @@
           "laps": 202,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 24.6
+          "pts_per_race": 24.6,
+          "poles_cls": []
         },
         "d165203": {
           "seasons": [
@@ -3858,7 +3941,8 @@
           "laps": 205,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 24.67
+          "pts_per_race": 24.67,
+          "poles_cls": []
         },
         "d563256": {
           "seasons": [
@@ -3900,7 +3984,8 @@
           "laps": 52,
           "best_finish_pos": 20,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 4.0
+          "pts_per_race": 4.0,
+          "poles_cls": []
         },
         "d233357": {
           "seasons": [
@@ -3961,7 +4046,8 @@
           "laps": 467,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 40.5
+          "pts_per_race": 40.5,
+          "poles_cls": []
         },
         "d402302": {
           "seasons": [
@@ -4011,7 +4097,8 @@
           "laps": 324,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 40.43
+          "pts_per_race": 40.43,
+          "poles_cls": []
         },
         "d88089": {
           "seasons": [
@@ -4063,7 +4150,8 @@
           "laps": 193,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 33.17
+          "pts_per_race": 33.17,
+          "poles_cls": []
         },
         "d556527": {
           "seasons": [
@@ -4105,7 +4193,8 @@
           "laps": 159,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 24.25
+          "pts_per_race": 24.25,
+          "poles_cls": []
         },
         "d575225": {
           "seasons": [
@@ -4145,7 +4234,8 @@
           "laps": 155,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 36.25
+          "pts_per_race": 36.25,
+          "poles_cls": []
         },
         "d613262": {
           "seasons": [
@@ -4194,7 +4284,8 @@
           "laps": 484,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 40.3
+          "pts_per_race": 40.3,
+          "poles_cls": []
         },
         "d147927": {
           "seasons": [
@@ -4246,7 +4337,8 @@
           "laps": 382,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 30.89
+          "pts_per_race": 30.89,
+          "poles_cls": []
         },
         "d583482": {
           "seasons": [
@@ -4297,7 +4389,8 @@
           "laps": 456,
           "best_finish_pos": 11,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 38.1
+          "pts_per_race": 38.1,
+          "poles_cls": []
         },
         "d256932": {
           "seasons": [
@@ -4337,7 +4430,8 @@
           "laps": 45,
           "best_finish_pos": 29,
           "best_finish_pos_in_cls": 14,
-          "pts_per_race": 11.0
+          "pts_per_race": 11.0,
+          "poles_cls": []
         },
         "d527892": {
           "seasons": [
@@ -4388,7 +4482,8 @@
           "laps": 549,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 40.09
+          "pts_per_race": 40.09,
+          "poles_cls": []
         },
         "d342356": {
           "seasons": [
@@ -4431,7 +4526,8 @@
           "laps": 96,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 27.33
+          "pts_per_race": 27.33,
+          "poles_cls": []
         },
         "d181019": {
           "seasons": [
@@ -4475,7 +4571,8 @@
           "laps": 293,
           "best_finish_pos": 16,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 21.33
+          "pts_per_race": 21.33,
+          "poles_cls": []
         },
         "d513530": {
           "seasons": [
@@ -4517,7 +4614,8 @@
           "laps": 160,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 23.0
+          "pts_per_race": 23.0,
+          "poles_cls": []
         },
         "d441904": {
           "seasons": [
@@ -4561,7 +4659,8 @@
           "laps": 378,
           "best_finish_pos": 11,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 36.38
+          "pts_per_race": 36.38,
+          "poles_cls": []
         },
         "d481697": {
           "seasons": [
@@ -4604,7 +4703,8 @@
           "laps": 102,
           "best_finish_pos": 20,
           "best_finish_pos_in_cls": 9,
-          "pts_per_race": 12.0
+          "pts_per_race": 12.0,
+          "poles_cls": []
         },
         "d602481": {
           "seasons": [
@@ -4647,7 +4747,8 @@
           "laps": 347,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 24.57
+          "pts_per_race": 24.57,
+          "poles_cls": []
         },
         "d514492": {
           "seasons": [
@@ -4689,7 +4790,8 @@
           "laps": 84,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 32.5
+          "pts_per_race": 32.5,
+          "poles_cls": []
         },
         "d534726": {
           "seasons": [
@@ -4748,7 +4850,10 @@
           "laps": 251,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 40.83
+          "pts_per_race": 40.83,
+          "poles_cls": [
+            "e46025634"
+          ]
         },
         "d345695": {
           "seasons": [
@@ -4791,7 +4896,8 @@
           "laps": 246,
           "best_finish_pos": 14,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 29.2
+          "pts_per_race": 29.2,
+          "poles_cls": []
         },
         "d549916": {
           "seasons": [
@@ -4845,7 +4951,8 @@
           "laps": 392,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 24.0
+          "pts_per_race": 24.0,
+          "poles_cls": []
         },
         "d311045": {
           "seasons": [
@@ -4896,7 +5003,8 @@
           "laps": 475,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 44.4
+          "pts_per_race": 44.4,
+          "poles_cls": []
         },
         "d548402": {
           "seasons": [
@@ -4956,7 +5064,8 @@
           "laps": 208,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 39.29
+          "pts_per_race": 39.29,
+          "poles_cls": []
         },
         "d130889": {
           "seasons": [
@@ -4995,7 +5104,8 @@
           "laps": 94,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 2.67
+          "pts_per_race": 2.67,
+          "poles_cls": []
         },
         "d658251": {
           "seasons": [
@@ -5040,7 +5150,8 @@
           "laps": 120,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 10.0
+          "pts_per_race": 10.0,
+          "poles_cls": []
         },
         "d174507": {
           "seasons": [
@@ -5086,7 +5197,8 @@
           "laps": 275,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 34.57
+          "pts_per_race": 34.57,
+          "poles_cls": []
         },
         "d482943": {
           "seasons": [
@@ -5124,7 +5236,8 @@
           "laps": 26,
           "best_finish_pos": 30,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": -10.0
+          "pts_per_race": -10.0,
+          "poles_cls": []
         },
         "d661327": {
           "seasons": [
@@ -5167,7 +5280,8 @@
           "laps": 61,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 90.0
+          "pts_per_race": 90.0,
+          "poles_cls": []
         },
         "d484677": {
           "seasons": [
@@ -5223,7 +5337,10 @@
           "laps": 519,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 49.4
+          "pts_per_race": 49.4,
+          "poles_cls": [
+            "e45783826"
+          ]
         },
         "d288994": {
           "seasons": [
@@ -5265,7 +5382,8 @@
           "laps": 28,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 32.5
+          "pts_per_race": 32.5,
+          "poles_cls": []
         },
         "d545588": {
           "seasons": [
@@ -5313,7 +5431,8 @@
           "laps": 55,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 100.0
+          "pts_per_race": 100.0,
+          "poles_cls": []
         },
         "d662233": {
           "seasons": [
@@ -5362,7 +5481,8 @@
           "laps": 407,
           "best_finish_pos": 13,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 38.25
+          "pts_per_race": 38.25,
+          "poles_cls": []
         },
         "d526849": {
           "seasons": [
@@ -5401,7 +5521,8 @@
           "laps": 4,
           "best_finish_pos": 23,
           "best_finish_pos_in_cls": 16,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d255581": {
           "seasons": [
@@ -5444,7 +5565,8 @@
           "laps": 150,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 14.75
+          "pts_per_race": 14.75,
+          "poles_cls": []
         },
         "d92199": {
           "seasons": [
@@ -5484,7 +5606,8 @@
           "laps": 80,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 16.5
+          "pts_per_race": 16.5,
+          "poles_cls": []
         },
         "d562464": {
           "seasons": [
@@ -5523,7 +5646,8 @@
           "laps": 159,
           "best_finish_pos": 11,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 38.0
+          "pts_per_race": 38.0,
+          "poles_cls": []
         },
         "d391497": {
           "seasons": [
@@ -5561,7 +5685,8 @@
           "laps": 102,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 34.5
+          "pts_per_race": 34.5,
+          "poles_cls": []
         }
       },
       "ongoing": false,
@@ -5638,7 +5763,8 @@
           "laps": 398,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 46.5
+          "pts_per_race": 46.5,
+          "poles_cls": []
         },
         "d678818": {
           "seasons": [
@@ -5710,7 +5836,10 @@
           "laps": 301,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 64.29
+          "pts_per_race": 64.29,
+          "poles_cls": [
+            "e47616905"
+          ]
         },
         "d534726": {
           "seasons": [
@@ -5758,7 +5887,8 @@
           "laps": 455,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 68.5
+          "pts_per_race": 68.5,
+          "poles_cls": []
         },
         "d343195": {
           "seasons": [
@@ -5810,7 +5940,8 @@
           "laps": 597,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 62.0
+          "pts_per_race": 62.0,
+          "poles_cls": []
         },
         "d658251": {
           "seasons": [
@@ -5860,7 +5991,8 @@
           "laps": 198,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 24.6
+          "pts_per_race": 24.6,
+          "poles_cls": []
         },
         "d409289": {
           "seasons": [
@@ -5912,7 +6044,8 @@
           "laps": 617,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 62.91
+          "pts_per_race": 62.91,
+          "poles_cls": []
         },
         "d626462": {
           "seasons": [
@@ -5965,7 +6098,8 @@
           "laps": 381,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 41.88
+          "pts_per_race": 41.88,
+          "poles_cls": []
         },
         "d174507": {
           "seasons": [
@@ -6015,7 +6149,8 @@
           "laps": 607,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 62.0
+          "pts_per_race": 62.0,
+          "poles_cls": []
         },
         "d402390": {
           "seasons": [
@@ -6072,7 +6207,8 @@
           "laps": 473,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 47.11
+          "pts_per_race": 47.11,
+          "poles_cls": []
         },
         "d88089": {
           "seasons": [
@@ -6130,7 +6266,8 @@
           "laps": 536,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 59.1
+          "pts_per_race": 59.1,
+          "poles_cls": []
         },
         "d491843": {
           "seasons": [
@@ -6169,7 +6306,8 @@
           "laps": 311,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 63.0
+          "pts_per_race": 63.0,
+          "poles_cls": []
         },
         "d258544": {
           "seasons": [
@@ -6210,7 +6348,8 @@
           "laps": 111,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 47.0
+          "pts_per_race": 47.0,
+          "poles_cls": []
         },
         "d335711": {
           "seasons": [
@@ -6265,7 +6404,8 @@
           "laps": 499,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 30.44
+          "pts_per_race": 30.44,
+          "poles_cls": []
         },
         "d402302": {
           "seasons": [
@@ -6312,7 +6452,8 @@
           "laps": 336,
           "best_finish_pos": 13,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 32.14
+          "pts_per_race": 32.14,
+          "poles_cls": []
         },
         "d324933": {
           "seasons": [
@@ -6360,7 +6501,8 @@
           "laps": 334,
           "best_finish_pos": 14,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 20.29
+          "pts_per_race": 20.29,
+          "poles_cls": []
         },
         "d165203": {
           "seasons": [
@@ -6408,7 +6550,8 @@
           "laps": 366,
           "best_finish_pos": 11,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 26.0
+          "pts_per_race": 26.0,
+          "poles_cls": []
         },
         "d575225": {
           "seasons": [
@@ -6456,7 +6599,8 @@
           "laps": 402,
           "best_finish_pos": 17,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 20.88
+          "pts_per_race": 20.88,
+          "poles_cls": []
         },
         "d527892": {
           "seasons": [
@@ -6505,7 +6649,8 @@
           "laps": 597,
           "best_finish_pos": 11,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 29.36
+          "pts_per_race": 29.36,
+          "poles_cls": []
         },
         "d583482": {
           "seasons": [
@@ -6542,7 +6687,8 @@
           "laps": 55,
           "best_finish_pos": 19,
           "best_finish_pos_in_cls": 10,
-          "pts_per_race": 34.0
+          "pts_per_race": 34.0,
+          "poles_cls": []
         },
         "d233357": {
           "seasons": [
@@ -6596,7 +6742,8 @@
           "laps": 265,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 22.44
+          "pts_per_race": 22.44,
+          "poles_cls": []
         },
         "d441904": {
           "seasons": [
@@ -6640,7 +6787,8 @@
           "laps": 199,
           "best_finish_pos": 17,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 13.8
+          "pts_per_race": 13.8,
+          "poles_cls": []
         },
         "d147927": {
           "seasons": [
@@ -6693,7 +6841,8 @@
           "laps": 610,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 37.64
+          "pts_per_race": 37.64,
+          "poles_cls": []
         },
         "d305702": {
           "seasons": [
@@ -6743,7 +6892,8 @@
           "laps": 472,
           "best_finish_pos": 23,
           "best_finish_pos_in_cls": 12,
-          "pts_per_race": 14.09
+          "pts_per_race": 14.09,
+          "poles_cls": []
         },
         "d674607": {
           "seasons": [
@@ -6795,7 +6945,8 @@
           "laps": 331,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 9.4
+          "pts_per_race": 9.4,
+          "poles_cls": []
         },
         "d181019": {
           "seasons": [
@@ -6843,7 +6994,8 @@
           "laps": 495,
           "best_finish_pos": 18,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 18.9
+          "pts_per_race": 18.9,
+          "poles_cls": []
         },
         "d448952": {
           "seasons": [
@@ -6887,7 +7039,8 @@
           "laps": 415,
           "best_finish_pos": 16,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 28.5
+          "pts_per_race": 28.5,
+          "poles_cls": []
         },
         "d602481": {
           "seasons": [
@@ -6932,7 +7085,8 @@
           "laps": 295,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 26.14
+          "pts_per_race": 26.14,
+          "poles_cls": []
         },
         "d404432": {
           "seasons": [
@@ -6979,7 +7133,8 @@
           "laps": 470,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 24.78
+          "pts_per_race": 24.78,
+          "poles_cls": []
         },
         "d759394": {
           "seasons": [
@@ -7030,7 +7185,8 @@
           "laps": 305,
           "best_finish_pos": 25,
           "best_finish_pos_in_cls": 16,
-          "pts_per_race": 9.22
+          "pts_per_race": 9.22,
+          "poles_cls": []
         },
         "d642928": {
           "seasons": [
@@ -7079,7 +7235,8 @@
           "laps": 497,
           "best_finish_pos": 17,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 23.1
+          "pts_per_race": 23.1,
+          "poles_cls": []
         },
         "d462976": {
           "seasons": [
@@ -7137,7 +7294,8 @@
           "laps": 500,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 28.8
+          "pts_per_race": 28.8,
+          "poles_cls": []
         },
         "d311045": {
           "seasons": [
@@ -7189,7 +7347,8 @@
           "laps": 441,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 37.89
+          "pts_per_race": 37.89,
+          "poles_cls": []
         },
         "d710369": {
           "seasons": [
@@ -7226,7 +7385,8 @@
           "laps": 42,
           "best_finish_pos": 33,
           "best_finish_pos_in_cls": 21,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d498753": {
           "seasons": [
@@ -7271,7 +7431,8 @@
           "laps": 360,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 27.0
+          "pts_per_race": 27.0,
+          "poles_cls": []
         },
         "d559149": {
           "seasons": [
@@ -7319,7 +7480,8 @@
           "laps": 247,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 18.4
+          "pts_per_race": 18.4,
+          "poles_cls": []
         },
         "d287921": {
           "seasons": [
@@ -7384,7 +7546,8 @@
           "laps": 369,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 22.8
+          "pts_per_race": 22.8,
+          "poles_cls": []
         },
         "d484677": {
           "seasons": [
@@ -7443,7 +7606,8 @@
           "laps": 519,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 17.82
+          "pts_per_race": 17.82,
+          "poles_cls": []
         },
         "d592266": {
           "seasons": [
@@ -7488,7 +7652,8 @@
           "laps": 206,
           "best_finish_pos": 22,
           "best_finish_pos_in_cls": 11,
-          "pts_per_race": 7.0
+          "pts_per_race": 7.0,
+          "poles_cls": []
         },
         "d562464": {
           "seasons": [
@@ -7540,7 +7705,8 @@
           "laps": 471,
           "best_finish_pos": 16,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 10.0
+          "pts_per_race": 10.0,
+          "poles_cls": []
         },
         "d527397": {
           "seasons": [
@@ -7585,7 +7751,8 @@
           "laps": 91,
           "best_finish_pos": 35,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": -10.0
+          "pts_per_race": -10.0,
+          "poles_cls": []
         },
         "d703119": {
           "seasons": [
@@ -7631,7 +7798,8 @@
           "laps": 276,
           "best_finish_pos": 13,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 19.25
+          "pts_per_race": 19.25,
+          "poles_cls": []
         },
         "d771017": {
           "seasons": [
@@ -7670,7 +7838,8 @@
           "laps": 15,
           "best_finish_pos": 42,
           "best_finish_pos_in_cls": 26,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d513530": {
           "seasons": [
@@ -7717,7 +7886,8 @@
           "laps": 450,
           "best_finish_pos": 21,
           "best_finish_pos_in_cls": 12,
-          "pts_per_race": 20.22
+          "pts_per_race": 20.22,
+          "poles_cls": []
         },
         "d662233": {
           "seasons": [
@@ -7768,7 +7938,8 @@
           "laps": 484,
           "best_finish_pos": 17,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 25.8
+          "pts_per_race": 25.8,
+          "poles_cls": []
         },
         "d775700": {
           "seasons": [
@@ -7811,7 +7982,8 @@
           "laps": 24,
           "best_finish_pos": 43,
           "best_finish_pos_in_cls": 29,
-          "pts_per_race": -6.67
+          "pts_per_race": -6.67,
+          "poles_cls": []
         },
         "d391497": {
           "seasons": [
@@ -7860,7 +8032,8 @@
           "laps": 242,
           "best_finish_pos": 19,
           "best_finish_pos_in_cls": 9,
-          "pts_per_race": 9.75
+          "pts_per_race": 9.75,
+          "poles_cls": []
         },
         "d613262": {
           "seasons": [
@@ -7912,7 +8085,8 @@
           "laps": 425,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 27.9
+          "pts_per_race": 27.9,
+          "poles_cls": []
         },
         "d698211": {
           "seasons": [
@@ -7962,7 +8136,8 @@
           "laps": 245,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 13.14
+          "pts_per_race": 13.14,
+          "poles_cls": []
         },
         "d533283": {
           "seasons": [
@@ -8018,7 +8193,8 @@
           "laps": 503,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 76.22
+          "pts_per_race": 76.22,
+          "poles_cls": []
         },
         "d587639": {
           "seasons": [
@@ -8064,7 +8240,8 @@
           "laps": 178,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 12.6
+          "pts_per_race": 12.6,
+          "poles_cls": []
         },
         "d624646": {
           "seasons": [
@@ -8112,7 +8289,8 @@
           "laps": 539,
           "best_finish_pos": 17,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 19.5
+          "pts_per_race": 19.5,
+          "poles_cls": []
         },
         "d345695": {
           "seasons": [
@@ -8153,7 +8331,8 @@
           "laps": 246,
           "best_finish_pos": 26,
           "best_finish_pos_in_cls": 15,
-          "pts_per_race": 22.8
+          "pts_per_race": 22.8,
+          "poles_cls": []
         },
         "d481697": {
           "seasons": [
@@ -8200,7 +8379,8 @@
           "laps": 288,
           "best_finish_pos": 26,
           "best_finish_pos_in_cls": 17,
-          "pts_per_race": 3.71
+          "pts_per_race": 3.71,
+          "poles_cls": []
         },
         "d791046": {
           "seasons": [
@@ -8247,7 +8427,8 @@
           "laps": 298,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 3.29
+          "pts_per_race": 3.29,
+          "poles_cls": []
         },
         "d549916": {
           "seasons": [
@@ -8294,7 +8475,8 @@
           "laps": 245,
           "best_finish_pos": 16,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 9.43
+          "pts_per_race": 9.43,
+          "poles_cls": []
         },
         "d264953": {
           "seasons": [
@@ -8368,7 +8550,8 @@
           "laps": 438,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 92.5
+          "pts_per_race": 92.5,
+          "poles_cls": []
         },
         "d342356": {
           "seasons": [
@@ -8407,7 +8590,8 @@
           "laps": 51,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 48.0
+          "pts_per_race": 48.0,
+          "poles_cls": []
         },
         "d732955": {
           "seasons": [
@@ -8450,7 +8634,8 @@
           "laps": 378,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 26.86
+          "pts_per_race": 26.86,
+          "poles_cls": []
         },
         "d384320": {
           "seasons": [
@@ -8498,7 +8683,8 @@
           "laps": 374,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 32.86
+          "pts_per_race": 32.86,
+          "poles_cls": []
         },
         "d747889": {
           "seasons": [
@@ -8536,7 +8722,8 @@
           "laps": 94,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 35.0
+          "pts_per_race": 35.0,
+          "poles_cls": []
         },
         "d709170": {
           "seasons": [
@@ -8580,7 +8767,8 @@
           "laps": 70,
           "best_finish_pos": 24,
           "best_finish_pos_in_cls": 14,
-          "pts_per_race": 6.75
+          "pts_per_race": 6.75,
+          "poles_cls": []
         },
         "d628359": {
           "seasons": [
@@ -8619,7 +8807,8 @@
           "laps": 25,
           "best_finish_pos": 40,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d702748": {
           "seasons": [
@@ -8658,7 +8847,8 @@
           "laps": 2,
           "best_finish_pos": 47,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": -20.0
+          "pts_per_race": -20.0,
+          "poles_cls": []
         },
         "d514492": {
           "seasons": [
@@ -8697,7 +8887,8 @@
           "laps": 1,
           "best_finish_pos": 51,
           "best_finish_pos_in_cls": 10,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d676316": {
           "seasons": [
@@ -8738,7 +8929,8 @@
           "laps": 115,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 30.67
+          "pts_per_race": 30.67,
+          "poles_cls": []
         },
         "d573541": {
           "seasons": [
@@ -8776,7 +8968,8 @@
           "laps": 82,
           "best_finish_pos": 33,
           "best_finish_pos_in_cls": 20,
-          "pts_per_race": 19.0
+          "pts_per_race": 19.0,
+          "poles_cls": []
         },
         "d373850": {
           "seasons": [
@@ -8819,7 +9012,8 @@
           "laps": 112,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 19.67
+          "pts_per_race": 19.67,
+          "poles_cls": []
         },
         "d229924": {
           "seasons": [
@@ -8854,7 +9048,8 @@
           "laps": 0,
           "best_finish_pos": 43,
           "best_finish_pos_in_cls": 0,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d641453": {
           "seasons": [
@@ -8892,7 +9087,8 @@
           "laps": 111,
           "best_finish_pos": 14,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 38.0
+          "pts_per_race": 38.0,
+          "poles_cls": []
         },
         "d92996": {
           "seasons": [
@@ -8932,7 +9128,8 @@
           "laps": 94,
           "best_finish_pos": 26,
           "best_finish_pos_in_cls": 14,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         }
       },
       "ongoing": false,
@@ -9010,7 +9207,8 @@
           "laps": 405,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 70.62
+          "pts_per_race": 70.62,
+          "poles_cls": []
         },
         "d374266": {
           "seasons": [
@@ -9053,7 +9251,8 @@
           "laps": 381,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 52.86
+          "pts_per_race": 52.86,
+          "poles_cls": []
         },
         "d462976": {
           "seasons": [
@@ -9114,7 +9313,8 @@
           "laps": 342,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 40.12
+          "pts_per_race": 40.12,
+          "poles_cls": []
         },
         "d626462": {
           "seasons": [
@@ -9160,7 +9360,8 @@
           "laps": 134,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 45.67
+          "pts_per_race": 45.67,
+          "poles_cls": []
         },
         "d527397": {
           "seasons": [
@@ -9203,7 +9404,8 @@
           "laps": 113,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 17.0
+          "pts_per_race": 17.0,
+          "poles_cls": []
         },
         "d484677": {
           "seasons": [
@@ -9271,7 +9473,8 @@
           "laps": 617,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 70.45
+          "pts_per_race": 70.45,
+          "poles_cls": []
         },
         "d373850": {
           "seasons": [
@@ -9330,7 +9533,8 @@
           "laps": 523,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 52.6
+          "pts_per_race": 52.6,
+          "poles_cls": []
         },
         "d343195": {
           "seasons": [
@@ -9373,7 +9577,8 @@
           "laps": 529,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 43.8
+          "pts_per_race": 43.8,
+          "poles_cls": []
         },
         "d548402": {
           "seasons": [
@@ -9414,7 +9619,8 @@
           "laps": 192,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 29.0
+          "pts_per_race": 29.0,
+          "poles_cls": []
         },
         "d534726": {
           "seasons": [
@@ -9474,7 +9680,8 @@
           "laps": 552,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 69.8
+          "pts_per_race": 69.8,
+          "poles_cls": []
         },
         "d174507": {
           "seasons": [
@@ -9519,7 +9726,8 @@
           "laps": 341,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 30.12
+          "pts_per_race": 30.12,
+          "poles_cls": []
         },
         "d409289": {
           "seasons": [
@@ -9566,7 +9774,8 @@
           "laps": 508,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 51.3
+          "pts_per_race": 51.3,
+          "poles_cls": []
         },
         "d335711": {
           "seasons": [
@@ -9620,7 +9829,8 @@
           "laps": 518,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 39.64
+          "pts_per_race": 39.64,
+          "poles_cls": []
         },
         "d324933": {
           "seasons": [
@@ -9674,7 +9884,8 @@
           "laps": 250,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 8.5
+          "pts_per_race": 8.5,
+          "poles_cls": []
         },
         "d311045": {
           "seasons": [
@@ -9724,7 +9935,8 @@
           "laps": 394,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 25.2
+          "pts_per_race": 25.2,
+          "poles_cls": []
         },
         "d404432": {
           "seasons": [
@@ -9767,7 +9979,8 @@
           "laps": 354,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 19.71
+          "pts_per_race": 19.71,
+          "poles_cls": []
         },
         "d602481": {
           "seasons": [
@@ -9815,7 +10028,8 @@
           "laps": 86,
           "best_finish_pos": 17,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 9.5
+          "pts_per_race": 9.5,
+          "poles_cls": []
         },
         "d703119": {
           "seasons": [
@@ -9865,7 +10079,8 @@
           "laps": 437,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 53.75
+          "pts_per_race": 53.75,
+          "poles_cls": []
         },
         "d147927": {
           "seasons": [
@@ -9912,7 +10127,8 @@
           "laps": 521,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 29.6
+          "pts_per_race": 29.6,
+          "poles_cls": []
         },
         "d498753": {
           "seasons": [
@@ -9965,7 +10181,8 @@
           "laps": 531,
           "best_finish_pos": 11,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 35.2
+          "pts_per_race": 35.2,
+          "poles_cls": []
         },
         "d698211": {
           "seasons": [
@@ -10006,7 +10223,8 @@
           "laps": 278,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 43.8
+          "pts_per_race": 43.8,
+          "poles_cls": []
         },
         "d613262": {
           "seasons": [
@@ -10053,7 +10271,8 @@
           "laps": 594,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 25.82
+          "pts_per_race": 25.82,
+          "poles_cls": []
         },
         "d646693": {
           "seasons": [
@@ -10097,7 +10316,8 @@
           "laps": 286,
           "best_finish_pos": 17,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 25.33
+          "pts_per_race": 25.33,
+          "poles_cls": []
         },
         "d402302": {
           "seasons": [
@@ -10150,7 +10370,8 @@
           "laps": 322,
           "best_finish_pos": 14,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 25.25
+          "pts_per_race": 25.25,
+          "poles_cls": []
         },
         "d583482": {
           "seasons": [
@@ -10205,7 +10426,8 @@
           "laps": 580,
           "best_finish_pos": 11,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 27.18
+          "pts_per_race": 27.18,
+          "poles_cls": []
         },
         "d92996": {
           "seasons": [
@@ -10256,7 +10478,8 @@
           "laps": 222,
           "best_finish_pos": 26,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 6.12
+          "pts_per_race": 6.12,
+          "poles_cls": []
         },
         "d587639": {
           "seasons": [
@@ -10300,7 +10523,8 @@
           "laps": 77,
           "best_finish_pos": 27,
           "best_finish_pos_in_cls": 10,
-          "pts_per_race": 6.0
+          "pts_per_race": 6.0,
+          "poles_cls": []
         },
         "d233357": {
           "seasons": [
@@ -10347,7 +10571,8 @@
           "laps": 119,
           "best_finish_pos": 23,
           "best_finish_pos_in_cls": 9,
-          "pts_per_race": 5.17
+          "pts_per_race": 5.17,
+          "poles_cls": []
         },
         "d258544": {
           "seasons": [
@@ -10396,7 +10621,8 @@
           "laps": 457,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 19.0
+          "pts_per_race": 19.0,
+          "poles_cls": []
         },
         "d441904": {
           "seasons": [
@@ -10439,7 +10665,8 @@
           "laps": 242,
           "best_finish_pos": 24,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 10.0
+          "pts_per_race": 10.0,
+          "poles_cls": []
         },
         "d549916": {
           "seasons": [
@@ -10482,7 +10709,8 @@
           "laps": 105,
           "best_finish_pos": 18,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 4.0
+          "pts_per_race": 4.0,
+          "poles_cls": []
         },
         "d181019": {
           "seasons": [
@@ -10529,7 +10757,8 @@
           "laps": 420,
           "best_finish_pos": 21,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 22.0
+          "pts_per_race": 22.0,
+          "poles_cls": []
         },
         "d562464": {
           "seasons": [
@@ -10579,7 +10808,8 @@
           "laps": 503,
           "best_finish_pos": 21,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 20.27
+          "pts_per_race": 20.27,
+          "poles_cls": []
         },
         "d732955": {
           "seasons": [
@@ -10625,7 +10855,8 @@
           "laps": 533,
           "best_finish_pos": 17,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 27.3
+          "pts_per_race": 27.3,
+          "poles_cls": []
         },
         "d384320": {
           "seasons": [
@@ -10672,7 +10903,8 @@
           "laps": 470,
           "best_finish_pos": 14,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 22.33
+          "pts_per_race": 22.33,
+          "poles_cls": []
         },
         "d391497": {
           "seasons": [
@@ -10714,7 +10946,8 @@
           "laps": 98,
           "best_finish_pos": 34,
           "best_finish_pos_in_cls": 11,
-          "pts_per_race": -6.67
+          "pts_per_race": -6.67,
+          "poles_cls": []
         },
         "d674607": {
           "seasons": [
@@ -10765,7 +10998,8 @@
           "laps": 292,
           "best_finish_pos": 14,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 15.88
+          "pts_per_race": 15.88,
+          "poles_cls": []
         },
         "d500241": {
           "seasons": [
@@ -10816,7 +11050,8 @@
           "laps": 512,
           "best_finish_pos": 19,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 15.73
+          "pts_per_race": 15.73,
+          "poles_cls": []
         },
         "d676316": {
           "seasons": [
@@ -10873,7 +11108,8 @@
           "laps": 500,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 39.89
+          "pts_per_race": 39.89,
+          "poles_cls": []
         },
         "d264953": {
           "seasons": [
@@ -10951,7 +11187,8 @@
           "laps": 602,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 74.18
+          "pts_per_race": 74.18,
+          "poles_cls": []
         },
         "d573541": {
           "seasons": [
@@ -10997,7 +11234,8 @@
           "laps": 208,
           "best_finish_pos": 25,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 8.83
+          "pts_per_race": 8.83,
+          "poles_cls": []
         },
         "d527892": {
           "seasons": [
@@ -11045,7 +11283,8 @@
           "laps": 508,
           "best_finish_pos": 16,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 19.2
+          "pts_per_race": 19.2,
+          "poles_cls": []
         },
         "d642928": {
           "seasons": [
@@ -11113,7 +11352,8 @@
           "laps": 593,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 31.91
+          "pts_per_race": 31.91,
+          "poles_cls": []
         },
         "d441250": {
           "seasons": [
@@ -11163,7 +11403,8 @@
           "laps": 268,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 49.4
+          "pts_per_race": 49.4,
+          "poles_cls": []
         },
         "d533283": {
           "seasons": [
@@ -11212,7 +11453,8 @@
           "laps": 516,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 54.1
+          "pts_per_race": 54.1,
+          "poles_cls": []
         },
         "d287921": {
           "seasons": [
@@ -11255,7 +11497,8 @@
           "laps": 14,
           "best_finish_pos": 39,
           "best_finish_pos_in_cls": 15,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d92199": {
           "seasons": [
@@ -11294,7 +11537,8 @@
           "laps": 10,
           "best_finish_pos": 47,
           "best_finish_pos_in_cls": 20,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d791046": {
           "seasons": [
@@ -11338,7 +11582,8 @@
           "laps": 114,
           "best_finish_pos": 25,
           "best_finish_pos_in_cls": 11,
-          "pts_per_race": 1.5
+          "pts_per_race": 1.5,
+          "poles_cls": []
         },
         "d402389": {
           "seasons": [
@@ -11388,7 +11633,8 @@
           "laps": 445,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 54.11
+          "pts_per_race": 54.11,
+          "poles_cls": []
         },
         "d401519": {
           "seasons": [
@@ -11431,7 +11677,8 @@
           "laps": 278,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 31.8
+          "pts_per_race": 31.8,
+          "poles_cls": []
         },
         "d776393": {
           "seasons": [
@@ -11470,7 +11717,8 @@
           "laps": 94,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 14.0
+          "pts_per_race": 14.0,
+          "poles_cls": []
         },
         "d414773": {
           "seasons": [
@@ -11516,7 +11764,8 @@
           "laps": 308,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 42.17
+          "pts_per_race": 42.17,
+          "poles_cls": []
         },
         "d58944": {
           "seasons": [
@@ -11553,7 +11802,8 @@
           "laps": 92,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 28.0
+          "pts_per_race": 28.0,
+          "poles_cls": []
         },
         "d112955": {
           "seasons": [
@@ -11592,7 +11842,8 @@
           "laps": 10,
           "best_finish_pos": 42,
           "best_finish_pos_in_cls": 15,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d526849": {
           "seasons": [
@@ -11629,7 +11880,8 @@
           "laps": 66,
           "best_finish_pos": 24,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 28.0
+          "pts_per_race": 28.0,
+          "poles_cls": []
         },
         "d513530": {
           "seasons": [
@@ -11673,7 +11925,8 @@
           "laps": 440,
           "best_finish_pos": 21,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 25.62
+          "pts_per_race": 25.62,
+          "poles_cls": []
         },
         "d514492": {
           "seasons": [
@@ -11712,7 +11965,8 @@
           "laps": 10,
           "best_finish_pos": 39,
           "best_finish_pos_in_cls": 14,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d401501": {
           "seasons": [
@@ -11751,7 +12005,8 @@
           "laps": 9,
           "best_finish_pos": 42,
           "best_finish_pos_in_cls": 17,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d387792": {
           "seasons": [
@@ -11792,7 +12047,8 @@
           "laps": 1,
           "best_finish_pos": 35,
           "best_finish_pos_in_cls": 14,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d496896": {
           "seasons": [
@@ -11832,7 +12088,8 @@
           "laps": 102,
           "best_finish_pos": 19,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": -3.0
+          "pts_per_race": -3.0,
+          "poles_cls": []
         },
         "d608661": {
           "seasons": [
@@ -11871,7 +12128,8 @@
           "laps": 16,
           "best_finish_pos": 36,
           "best_finish_pos_in_cls": 12,
-          "pts_per_race": -20.0
+          "pts_per_race": -20.0,
+          "poles_cls": []
         },
         "d575225": {
           "seasons": [
@@ -11918,7 +12176,8 @@
           "laps": 381,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 39.0
+          "pts_per_race": 39.0,
+          "poles_cls": []
         },
         "d546297": {
           "seasons": [
@@ -11959,7 +12218,8 @@
           "laps": 28,
           "best_finish_pos": 31,
           "best_finish_pos_in_cls": 12,
-          "pts_per_race": -10.0
+          "pts_per_race": -10.0,
+          "poles_cls": []
         },
         "d300799": {
           "seasons": [
@@ -12003,7 +12263,8 @@
           "laps": 270,
           "best_finish_pos": 18,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 21.67
+          "pts_per_race": 21.67,
+          "poles_cls": []
         },
         "d345695": {
           "seasons": [
@@ -12041,7 +12302,8 @@
           "laps": 89,
           "best_finish_pos": 31,
           "best_finish_pos_in_cls": 12,
-          "pts_per_race": 19.5
+          "pts_per_race": 19.5,
+          "poles_cls": []
         },
         "d342356": {
           "seasons": [
@@ -12084,7 +12346,8 @@
           "laps": 173,
           "best_finish_pos": 20,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 8.0
+          "pts_per_race": 8.0,
+          "poles_cls": []
         },
         "d559149": {
           "seasons": [
@@ -12121,7 +12384,8 @@
           "laps": 46,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 59.0
+          "pts_per_race": 59.0,
+          "poles_cls": []
         },
         "d414284": {
           "seasons": [
@@ -12158,7 +12422,8 @@
           "laps": 46,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 28.0
+          "pts_per_race": 28.0,
+          "poles_cls": []
         },
         "d202689": {
           "seasons": [
@@ -12195,7 +12460,8 @@
           "laps": 39,
           "best_finish_pos": 28,
           "best_finish_pos_in_cls": 13,
-          "pts_per_race": 24.0
+          "pts_per_race": 24.0,
+          "poles_cls": []
         }
       },
       "ongoing": false,
@@ -12271,7 +12537,8 @@
           "laps": 368,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 90.71
+          "pts_per_race": 90.71,
+          "poles_cls": []
         },
         "d678818": {
           "seasons": [
@@ -12324,7 +12591,8 @@
           "laps": 346,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 72.14
+          "pts_per_race": 72.14,
+          "poles_cls": []
         },
         "d703119": {
           "seasons": [
@@ -12371,7 +12639,8 @@
           "laps": 150,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 61.33
+          "pts_per_race": 61.33,
+          "poles_cls": []
         },
         "d441250": {
           "seasons": [
@@ -12434,7 +12703,8 @@
           "laps": 391,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 40.62
+          "pts_per_race": 40.62,
+          "poles_cls": []
         },
         "d264953": {
           "seasons": [
@@ -12502,7 +12772,8 @@
           "laps": 392,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 51.33
+          "pts_per_race": 51.33,
+          "poles_cls": []
         },
         "d414773": {
           "seasons": [
@@ -12549,7 +12820,8 @@
           "laps": 239,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 38.6
+          "pts_per_race": 38.6,
+          "poles_cls": []
         },
         "d533283": {
           "seasons": [
@@ -12596,7 +12868,8 @@
           "laps": 418,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 78.88
+          "pts_per_race": 78.88,
+          "poles_cls": []
         },
         "d335711": {
           "seasons": [
@@ -12645,7 +12918,8 @@
           "laps": 273,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 34.71
+          "pts_per_race": 34.71,
+          "poles_cls": []
         },
         "d534726": {
           "seasons": [
@@ -12694,7 +12968,8 @@
           "laps": 373,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 38.62
+          "pts_per_race": 38.62,
+          "poles_cls": []
         },
         "d311045": {
           "seasons": [
@@ -12741,7 +13016,8 @@
           "laps": 363,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 19.12
+          "pts_per_race": 19.12,
+          "poles_cls": []
         },
         "d583482": {
           "seasons": [
@@ -12788,7 +13064,8 @@
           "laps": 201,
           "best_finish_pos": 11,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 34.5
+          "pts_per_race": 34.5,
+          "poles_cls": []
         },
         "d676316": {
           "seasons": [
@@ -12843,7 +13120,8 @@
           "laps": 390,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 38.0
+          "pts_per_race": 38.0,
+          "poles_cls": []
         },
         "d698211": {
           "seasons": [
@@ -12883,7 +13161,8 @@
           "laps": 49,
           "best_finish_pos": 13,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 23.0
+          "pts_per_race": 23.0,
+          "poles_cls": []
         },
         "d527892": {
           "seasons": [
@@ -12939,7 +13218,8 @@
           "laps": 419,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 29.89
+          "pts_per_race": 29.89,
+          "poles_cls": []
         },
         "d498753": {
           "seasons": [
@@ -12980,7 +13260,8 @@
           "laps": 117,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 12.0
+          "pts_per_race": 12.0,
+          "poles_cls": []
         },
         "d401519": {
           "seasons": [
@@ -13026,7 +13307,8 @@
           "laps": 359,
           "best_finish_pos": 16,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 21.38
+          "pts_per_race": 21.38,
+          "poles_cls": []
         },
         "d409289": {
           "seasons": [
@@ -13072,7 +13354,8 @@
           "laps": 322,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 29.88
+          "pts_per_race": 29.88,
+          "poles_cls": []
         },
         "d402302": {
           "seasons": [
@@ -13124,7 +13407,8 @@
           "laps": 419,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 43.75
+          "pts_per_race": 43.75,
+          "poles_cls": []
         },
         "d549916": {
           "seasons": [
@@ -13167,7 +13451,8 @@
           "laps": 190,
           "best_finish_pos": 19,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 13.8
+          "pts_per_race": 13.8,
+          "poles_cls": []
         },
         "d484677": {
           "seasons": [
@@ -13210,7 +13495,8 @@
           "laps": 390,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 35.75
+          "pts_per_race": 35.75,
+          "poles_cls": []
         },
         "d292059": {
           "seasons": [
@@ -13256,7 +13542,8 @@
           "laps": 279,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 24.17
+          "pts_per_race": 24.17,
+          "poles_cls": []
         },
         "d174507": {
           "seasons": [
@@ -13302,7 +13589,8 @@
           "laps": 431,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 50.89
+          "pts_per_race": 50.89,
+          "poles_cls": []
         },
         "d642928": {
           "seasons": [
@@ -13345,7 +13633,8 @@
           "laps": 198,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 19.25
+          "pts_per_race": 19.25,
+          "poles_cls": []
         },
         "d202689": {
           "seasons": [
@@ -13390,7 +13679,8 @@
           "laps": 342,
           "best_finish_pos": 19,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 22.29
+          "pts_per_race": 22.29,
+          "poles_cls": []
         },
         "d342356": {
           "seasons": [
@@ -13433,7 +13723,8 @@
           "laps": 154,
           "best_finish_pos": 25,
           "best_finish_pos_in_cls": 9,
-          "pts_per_race": 13.0
+          "pts_per_race": 13.0,
+          "poles_cls": []
         },
         "d559149": {
           "seasons": [
@@ -13471,7 +13762,8 @@
           "laps": 87,
           "best_finish_pos": 26,
           "best_finish_pos_in_cls": 9,
-          "pts_per_race": 22.0
+          "pts_per_race": 22.0,
+          "poles_cls": []
         },
         "d147927": {
           "seasons": [
@@ -13518,7 +13810,8 @@
           "laps": 470,
           "best_finish_pos": 17,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 32.22
+          "pts_per_race": 32.22,
+          "poles_cls": []
         },
         "d513047": {
           "seasons": [
@@ -13563,7 +13856,8 @@
           "laps": 330,
           "best_finish_pos": 22,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 17.43
+          "pts_per_race": 17.43,
+          "poles_cls": []
         },
         "d448952": {
           "seasons": [
@@ -13607,7 +13901,8 @@
           "laps": 414,
           "best_finish_pos": 19,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 27.25
+          "pts_per_race": 27.25,
+          "poles_cls": []
         },
         "d513530": {
           "seasons": [
@@ -13651,7 +13946,8 @@
           "laps": 254,
           "best_finish_pos": 28,
           "best_finish_pos_in_cls": 9,
-          "pts_per_race": 17.17
+          "pts_per_race": 17.17,
+          "poles_cls": []
         },
         "d324933": {
           "seasons": [
@@ -13696,7 +13992,8 @@
           "laps": 222,
           "best_finish_pos": 13,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 14.5
+          "pts_per_race": 14.5,
+          "poles_cls": []
         },
         "d789378": {
           "seasons": [
@@ -13738,7 +14035,8 @@
           "laps": 74,
           "best_finish_pos": 32,
           "best_finish_pos_in_cls": 12,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d613262": {
           "seasons": [
@@ -13785,7 +14083,8 @@
           "laps": 457,
           "best_finish_pos": 17,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 26.67
+          "pts_per_race": 26.67,
+          "poles_cls": []
         },
         "d674607": {
           "seasons": [
@@ -13832,7 +14131,8 @@
           "laps": 283,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 17.43
+          "pts_per_race": 17.43,
+          "poles_cls": []
         },
         "d343195": {
           "seasons": [
@@ -13878,7 +14178,8 @@
           "laps": 470,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 51.56
+          "pts_per_race": 51.56,
+          "poles_cls": []
         },
         "d384320": {
           "seasons": [
@@ -13927,7 +14228,8 @@
           "laps": 342,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 13.0
+          "pts_per_race": 13.0,
+          "poles_cls": []
         },
         "d462976": {
           "seasons": [
@@ -13982,7 +14284,8 @@
           "laps": 399,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 58.5
+          "pts_per_race": 58.5,
+          "poles_cls": []
         },
         "d258544": {
           "seasons": [
@@ -14024,7 +14327,8 @@
           "laps": 64,
           "best_finish_pos": 31,
           "best_finish_pos_in_cls": 10,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d732955": {
           "seasons": [
@@ -14080,7 +14384,8 @@
           "laps": 444,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 31.89
+          "pts_per_race": 31.89,
+          "poles_cls": []
         },
         "d626462": {
           "seasons": [
@@ -14119,7 +14424,8 @@
           "laps": 4,
           "best_finish_pos": 40,
           "best_finish_pos_in_cls": 16,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d233357": {
           "seasons": [
@@ -14165,7 +14471,8 @@
           "laps": 271,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 25.0
+          "pts_per_race": 25.0,
+          "poles_cls": []
         },
         "d481697": {
           "seasons": [
@@ -14210,7 +14517,8 @@
           "laps": 101,
           "best_finish_pos": 32,
           "best_finish_pos_in_cls": 15,
-          "pts_per_race": 0.4
+          "pts_per_race": 0.4,
+          "poles_cls": []
         },
         "d300799": {
           "seasons": [
@@ -14257,7 +14565,8 @@
           "laps": 156,
           "best_finish_pos": 22,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": -0.83
+          "pts_per_race": -0.83,
+          "poles_cls": []
         },
         "d88089": {
           "seasons": [
@@ -14312,7 +14621,8 @@
           "laps": 314,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 44.29
+          "pts_per_race": 44.29,
+          "poles_cls": []
         },
         "d602481": {
           "seasons": [
@@ -14358,7 +14668,8 @@
           "laps": 200,
           "best_finish_pos": 21,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 12.5
+          "pts_per_race": 12.5,
+          "poles_cls": []
         },
         "d402389": {
           "seasons": [
@@ -14401,7 +14712,8 @@
           "laps": 165,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 26.8
+          "pts_per_race": 26.8,
+          "poles_cls": []
         },
         "d373850": {
           "seasons": [
@@ -14444,7 +14756,8 @@
           "laps": 189,
           "best_finish_pos": 13,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 5.8
+          "pts_per_race": 5.8,
+          "poles_cls": []
         },
         "d466098": {
           "seasons": [
@@ -14483,7 +14796,8 @@
           "laps": 1,
           "best_finish_pos": 48,
           "best_finish_pos_in_cls": 19,
-          "pts_per_race": -20.0
+          "pts_per_race": -20.0,
+          "poles_cls": []
         },
         "d646693": {
           "seasons": [
@@ -14523,7 +14837,8 @@
           "laps": 39,
           "best_finish_pos": 37,
           "best_finish_pos_in_cls": 12,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d295484": {
           "seasons": [
@@ -14562,7 +14877,8 @@
           "laps": 0,
           "best_finish_pos": 50,
           "best_finish_pos_in_cls": 19,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d527397": {
           "seasons": [
@@ -14611,7 +14927,8 @@
           "laps": 204,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 60.5
+          "pts_per_race": 60.5,
+          "poles_cls": []
         },
         "d546297": {
           "seasons": [
@@ -14656,7 +14973,8 @@
           "laps": 225,
           "best_finish_pos": 17,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 10.67
+          "pts_per_race": 10.67,
+          "poles_cls": []
         },
         "d575225": {
           "seasons": [
@@ -14696,7 +15014,8 @@
           "laps": 214,
           "best_finish_pos": 18,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 29.0
+          "pts_per_race": 29.0,
+          "poles_cls": []
         },
         "d705348": {
           "seasons": [
@@ -14740,7 +15059,8 @@
           "laps": 187,
           "best_finish_pos": 20,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 8.0
+          "pts_per_race": 8.0,
+          "poles_cls": []
         },
         "d181019": {
           "seasons": [
@@ -14777,7 +15097,8 @@
           "laps": 44,
           "best_finish_pos": 24,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 27.0
+          "pts_per_race": 27.0,
+          "poles_cls": []
         },
         "d500241": {
           "seasons": [
@@ -14821,7 +15142,8 @@
           "laps": 290,
           "best_finish_pos": 26,
           "best_finish_pos_in_cls": 11,
-          "pts_per_race": 8.0
+          "pts_per_race": 8.0,
+          "poles_cls": []
         },
         "d92996": {
           "seasons": [
@@ -14864,7 +15186,8 @@
           "laps": 212,
           "best_finish_pos": 20,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 7.0
+          "pts_per_race": 7.0,
+          "poles_cls": []
         },
         "d441904": {
           "seasons": [
@@ -14903,7 +15226,8 @@
           "laps": 29,
           "best_finish_pos": 46,
           "best_finish_pos_in_cls": 20,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d759394": {
           "seasons": [
@@ -14942,7 +15266,8 @@
           "laps": 1,
           "best_finish_pos": 48,
           "best_finish_pos_in_cls": 22,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d419116": {
           "seasons": [
@@ -14990,7 +15315,8 @@
           "laps": 393,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 53.86
+          "pts_per_race": 53.86,
+          "poles_cls": []
         },
         "d314317": {
           "seasons": [
@@ -15042,7 +15368,8 @@
           "laps": 342,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 48.83
+          "pts_per_race": 48.83,
+          "poles_cls": []
         },
         "d95310": {
           "seasons": [
@@ -15081,7 +15408,8 @@
           "laps": 160,
           "best_finish_pos": 22,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 6.33
+          "pts_per_race": 6.33,
+          "poles_cls": []
         },
         "d618940": {
           "seasons": [
@@ -15117,7 +15445,8 @@
           "laps": 157,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 27.33
+          "pts_per_race": 27.33,
+          "poles_cls": []
         },
         "d327329": {
           "seasons": [
@@ -15157,7 +15486,8 @@
           "laps": 266,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 32.8
+          "pts_per_race": 32.8,
+          "poles_cls": []
         },
         "d185925": {
           "seasons": [
@@ -15198,7 +15528,8 @@
           "laps": 154,
           "best_finish_pos": 21,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 4.67
+          "pts_per_race": 4.67,
+          "poles_cls": []
         },
         "d847138": {
           "seasons": [
@@ -15236,7 +15567,8 @@
           "laps": 114,
           "best_finish_pos": 27,
           "best_finish_pos_in_cls": 9,
-          "pts_per_race": 23.5
+          "pts_per_race": 23.5,
+          "poles_cls": []
         },
         "d350669": {
           "seasons": [
@@ -15276,7 +15608,8 @@
           "laps": 85,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 11.0
+          "pts_per_race": 11.0,
+          "poles_cls": []
         }
       },
       "ongoing": false,
@@ -15366,7 +15699,8 @@
           "laps": 308,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 70.0
+          "pts_per_race": 70.0,
+          "poles_cls": []
         },
         "d534726": {
           "seasons": [
@@ -15417,7 +15751,8 @@
           "laps": 370,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 56.75
+          "pts_per_race": 56.75,
+          "poles_cls": []
         },
         "d374266": {
           "seasons": [
@@ -15460,7 +15795,8 @@
           "laps": 190,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 45.0
+          "pts_per_race": 45.0,
+          "poles_cls": []
         },
         "d491843": {
           "seasons": [
@@ -15508,7 +15844,8 @@
           "laps": 378,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 61.5
+          "pts_per_race": 61.5,
+          "poles_cls": []
         },
         "d678818": {
           "seasons": [
@@ -15542,7 +15879,8 @@
           "laps": 45,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 70.0
+          "pts_per_race": 70.0,
+          "poles_cls": []
         },
         "d533283": {
           "seasons": [
@@ -15584,7 +15922,8 @@
           "laps": 117,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 76.67
+          "pts_per_race": 76.67,
+          "poles_cls": []
         },
         "d402389": {
           "seasons": [
@@ -15632,7 +15971,8 @@
           "laps": 311,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 25.38
+          "pts_per_race": 25.38,
+          "poles_cls": []
         },
         "d343195": {
           "seasons": [
@@ -15672,7 +16012,8 @@
           "laps": 328,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 39.43
+          "pts_per_race": 39.43,
+          "poles_cls": []
         },
         "d441250": {
           "seasons": [
@@ -15710,7 +16051,8 @@
           "laps": 159,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 62.67
+          "pts_per_race": 62.67,
+          "poles_cls": []
         },
         "d335711": {
           "seasons": [
@@ -15764,7 +16106,8 @@
           "laps": 367,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 36.5
+          "pts_per_race": 36.5,
+          "poles_cls": []
         },
         "d327329": {
           "seasons": [
@@ -15820,7 +16163,8 @@
           "laps": 268,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 31.75
+          "pts_per_race": 31.75,
+          "poles_cls": []
         },
         "d88089": {
           "seasons": [
@@ -15863,7 +16207,8 @@
           "laps": 342,
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 53.86
+          "pts_per_race": 53.86,
+          "poles_cls": []
         },
         "d402302": {
           "seasons": [
@@ -15912,7 +16257,8 @@
           "laps": 369,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 32.88
+          "pts_per_race": 32.88,
+          "poles_cls": []
         },
         "d174507": {
           "seasons": [
@@ -15955,7 +16301,8 @@
           "laps": 386,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 62.5
+          "pts_per_race": 62.5,
+          "poles_cls": []
         },
         "d414773": {
           "seasons": [
@@ -16001,7 +16348,8 @@
           "laps": 323,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 41.71
+          "pts_per_race": 41.71,
+          "poles_cls": []
         },
         "d324933": {
           "seasons": [
@@ -16043,7 +16391,8 @@
           "laps": 141,
           "best_finish_pos": 16,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 6.0
+          "pts_per_race": 6.0,
+          "poles_cls": []
         },
         "d233357": {
           "seasons": [
@@ -16096,7 +16445,8 @@
           "laps": 318,
           "best_finish_pos": 14,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 22.12
+          "pts_per_race": 22.12,
+          "poles_cls": []
         },
         "d314317": {
           "seasons": [
@@ -16147,7 +16497,8 @@
           "laps": 316,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 34.71
+          "pts_per_race": 34.71,
+          "poles_cls": []
         },
         "d573541": {
           "seasons": [
@@ -16200,7 +16551,8 @@
           "laps": 292,
           "best_finish_pos": 13,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 21.14
+          "pts_per_race": 21.14,
+          "poles_cls": []
         },
         "d732955": {
           "seasons": [
@@ -16248,7 +16600,8 @@
           "laps": 382,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 38.88
+          "pts_per_race": 38.88,
+          "poles_cls": []
         },
         "d613262": {
           "seasons": [
@@ -16302,7 +16655,8 @@
           "laps": 329,
           "best_finish_pos": 11,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 22.0
+          "pts_per_race": 22.0,
+          "poles_cls": []
         },
         "d527892": {
           "seasons": [
@@ -16350,7 +16704,8 @@
           "laps": 272,
           "best_finish_pos": 14,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 18.0
+          "pts_per_race": 18.0,
+          "poles_cls": []
         },
         "d759394": {
           "seasons": [
@@ -16397,7 +16752,8 @@
           "laps": 241,
           "best_finish_pos": 22,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 6.29
+          "pts_per_race": 6.29,
+          "poles_cls": []
         },
         "d95310": {
           "seasons": [
@@ -16442,7 +16798,8 @@
           "laps": 311,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 28.71
+          "pts_per_race": 28.71,
+          "poles_cls": []
         },
         "d837246": {
           "seasons": [
@@ -16491,7 +16848,8 @@
           "laps": 382,
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 26.38
+          "pts_per_race": 26.38,
+          "poles_cls": []
         },
         "d705348": {
           "seasons": [
@@ -16539,7 +16897,8 @@
           "laps": 209,
           "best_finish_pos": 11,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 7.86
+          "pts_per_race": 7.86,
+          "poles_cls": []
         },
         "d311045": {
           "seasons": [
@@ -16589,7 +16948,8 @@
           "laps": 371,
           "best_finish_pos": 11,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 33.86
+          "pts_per_race": 33.86,
+          "poles_cls": []
         },
         "d292059": {
           "seasons": [
@@ -16636,7 +16996,8 @@
           "laps": 346,
           "best_finish_pos": 20,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 16.38
+          "pts_per_race": 16.38,
+          "poles_cls": []
         },
         "d300799": {
           "seasons": [
@@ -16686,7 +17047,8 @@
           "laps": 249,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 22.29
+          "pts_per_race": 22.29,
+          "poles_cls": []
         },
         "d187808": {
           "seasons": [
@@ -16732,7 +17094,8 @@
           "laps": 290,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 24.33
+          "pts_per_race": 24.33,
+          "poles_cls": []
         },
         "d665111": {
           "seasons": [
@@ -16779,7 +17142,8 @@
           "laps": 166,
           "best_finish_pos": 19,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 13.2
+          "pts_per_race": 13.2,
+          "poles_cls": []
         },
         "d546297": {
           "seasons": [
@@ -16834,7 +17198,8 @@
           "laps": 250,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 19.86
+          "pts_per_race": 19.86,
+          "poles_cls": []
         },
         "d28944": {
           "seasons": [
@@ -16878,7 +17243,8 @@
           "laps": 144,
           "best_finish_pos": 18,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 2.8
+          "pts_per_race": 2.8,
+          "poles_cls": []
         },
         "d481697": {
           "seasons": [
@@ -16922,7 +17288,8 @@
           "laps": 169,
           "best_finish_pos": 32,
           "best_finish_pos_in_cls": 12,
-          "pts_per_race": 2.6
+          "pts_per_race": 2.6,
+          "poles_cls": []
         },
         "d847138": {
           "seasons": [
@@ -16969,7 +17336,8 @@
           "laps": 284,
           "best_finish_pos": 25,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 10.29
+          "pts_per_race": 10.29,
+          "poles_cls": []
         },
         "d583482": {
           "seasons": [
@@ -17009,7 +17377,8 @@
           "laps": 59,
           "best_finish_pos": 36,
           "best_finish_pos_in_cls": 11,
-          "pts_per_race": 7.5
+          "pts_per_race": 7.5,
+          "poles_cls": []
         },
         "d462976": {
           "seasons": [
@@ -17053,7 +17422,8 @@
           "laps": 292,
           "best_finish_pos": 3,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 24.43
+          "pts_per_race": 24.43,
+          "poles_cls": []
         },
         "d676316": {
           "seasons": [
@@ -17096,7 +17466,8 @@
           "laps": 120,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 7.25
+          "pts_per_race": 7.25,
+          "poles_cls": []
         },
         "d602481": {
           "seasons": [
@@ -17141,7 +17512,8 @@
           "laps": 102,
           "best_finish_pos": 38,
           "best_finish_pos_in_cls": 15,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d500241": {
           "seasons": [
@@ -17190,7 +17562,8 @@
           "laps": 268,
           "best_finish_pos": 21,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 8.75
+          "pts_per_race": 8.75,
+          "poles_cls": []
         },
         "d513047": {
           "seasons": [
@@ -17237,7 +17610,8 @@
           "laps": 125,
           "best_finish_pos": 15,
           "best_finish_pos_in_cls": 5,
-          "pts_per_race": 14.0
+          "pts_per_race": 14.0,
+          "poles_cls": []
         },
         "d513530": {
           "seasons": [
@@ -17283,7 +17657,8 @@
           "laps": 234,
           "best_finish_pos": 26,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 7.67
+          "pts_per_race": 7.67,
+          "poles_cls": []
         },
         "d350669": {
           "seasons": [
@@ -17322,7 +17697,8 @@
           "laps": 9,
           "best_finish_pos": 43,
           "best_finish_pos_in_cls": 14,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d559149": {
           "seasons": [
@@ -17364,7 +17740,8 @@
           "laps": 57,
           "best_finish_pos": 33,
           "best_finish_pos_in_cls": 13,
-          "pts_per_race": -7.0
+          "pts_per_race": -7.0,
+          "poles_cls": []
         },
         "d419116": {
           "seasons": [
@@ -17404,7 +17781,8 @@
           "laps": 20,
           "best_finish_pos": 42,
           "best_finish_pos_in_cls": 13,
-          "pts_per_race": -6.67
+          "pts_per_race": -6.67,
+          "poles_cls": []
         },
         "d409289": {
           "seasons": [
@@ -17448,7 +17826,8 @@
           "laps": 333,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 29.88
+          "pts_per_race": 29.88,
+          "poles_cls": []
         },
         "d773907": {
           "seasons": [
@@ -17487,7 +17866,8 @@
           "laps": 0,
           "best_finish_pos": 47,
           "best_finish_pos_in_cls": 16,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d527397": {
           "seasons": [
@@ -17529,7 +17909,8 @@
           "laps": 189,
           "best_finish_pos": 2,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 55.0
+          "pts_per_race": 55.0,
+          "poles_cls": []
         },
         "d711160": {
           "seasons": [
@@ -17572,7 +17953,8 @@
           "laps": 142,
           "best_finish_pos": 9,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 17.33
+          "pts_per_race": 17.33,
+          "poles_cls": []
         },
         "d414284": {
           "seasons": [
@@ -17618,7 +18000,8 @@
           "laps": 279,
           "best_finish_pos": 11,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 33.0
+          "pts_per_race": 33.0,
+          "poles_cls": []
         },
         "d147927": {
           "seasons": [
@@ -17662,7 +18045,8 @@
           "laps": 284,
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 30.67
+          "pts_per_race": 30.67,
+          "poles_cls": []
         },
         "d202689": {
           "seasons": [
@@ -17711,7 +18095,8 @@
           "laps": 325,
           "best_finish_pos": 16,
           "best_finish_pos_in_cls": 2,
-          "pts_per_race": 28.71
+          "pts_per_race": 28.71,
+          "poles_cls": []
         },
         "d484677": {
           "seasons": [
@@ -17750,7 +18135,8 @@
           "laps": 166,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 8,
-          "pts_per_race": 19.75
+          "pts_per_race": 19.75,
+          "poles_cls": []
         },
         "d448952": {
           "seasons": [
@@ -17794,7 +18180,8 @@
           "laps": 322,
           "best_finish_pos": 14,
           "best_finish_pos_in_cls": 3,
-          "pts_per_race": 19.83
+          "pts_per_race": 19.83,
+          "poles_cls": []
         },
         "d575225": {
           "seasons": [
@@ -17839,7 +18226,8 @@
           "laps": 267,
           "best_finish_pos": 18,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 20.17
+          "pts_per_race": 20.17,
+          "poles_cls": []
         },
         "d92996": {
           "seasons": [
@@ -17883,7 +18271,8 @@
           "laps": 101,
           "best_finish_pos": 31,
           "best_finish_pos_in_cls": 10,
-          "pts_per_race": 5.0
+          "pts_per_race": 5.0,
+          "poles_cls": []
         },
         "d674607": {
           "seasons": [
@@ -17938,7 +18327,8 @@
           "laps": 184,
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 12.67
+          "pts_per_race": 12.67,
+          "poles_cls": []
         },
         "d648477": {
           "seasons": [
@@ -17989,7 +18379,8 @@
           "laps": 216,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 56.0
+          "pts_per_race": 56.0,
+          "poles_cls": []
         },
         "d69608": {
           "seasons": [
@@ -18030,7 +18421,8 @@
           "laps": 201,
           "best_finish_pos": 7,
           "best_finish_pos_in_cls": 7,
-          "pts_per_race": 23.0
+          "pts_per_race": 23.0,
+          "poles_cls": []
         },
         "d256498": {
           "seasons": [
@@ -18066,7 +18458,8 @@
           "laps": 3,
           "best_finish_pos": 45,
           "best_finish_pos_in_cls": 14,
-          "pts_per_race": -20.0
+          "pts_per_race": -20.0,
+          "poles_cls": []
         },
         "d104594": {
           "seasons": [
@@ -18104,7 +18497,8 @@
           "laps": 95,
           "best_finish_pos": 34,
           "best_finish_pos_in_cls": 14,
-          "pts_per_race": 15.5
+          "pts_per_race": 15.5,
+          "poles_cls": []
         },
         "d80118": {
           "seasons": [
@@ -18143,7 +18537,8 @@
           "laps": 72,
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
-          "pts_per_race": 81.0
+          "pts_per_race": 81.0,
+          "poles_cls": []
         },
         "d69997": {
           "seasons": [
@@ -18181,7 +18576,8 @@
           "laps": 115,
           "best_finish_pos": 6,
           "best_finish_pos_in_cls": 6,
-          "pts_per_race": 59.0
+          "pts_per_race": 59.0,
+          "poles_cls": []
         },
         "d618940": {
           "seasons": [
@@ -18215,7 +18611,8 @@
           "laps": 11,
           "best_finish_pos": 13,
           "best_finish_pos_in_cls": 9,
-          "pts_per_race": 46.0
+          "pts_per_race": 46.0,
+          "poles_cls": []
         },
         "d185925": {
           "seasons": [
@@ -18254,7 +18651,8 @@
           "laps": 4,
           "best_finish_pos": 35,
           "best_finish_pos_in_cls": 15,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d865713": {
           "seasons": [
@@ -18293,7 +18691,8 @@
           "laps": 26,
           "best_finish_pos": 33,
           "best_finish_pos_in_cls": 16,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         },
         "d586657": {
           "seasons": [
@@ -18327,7 +18726,8 @@
           "laps": 43,
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 4,
-          "pts_per_race": 75.0
+          "pts_per_race": 75.0,
+          "poles_cls": []
         },
         "d395972": {
           "seasons": [
@@ -18366,7 +18766,8 @@
           "laps": 0,
           "best_finish_pos": 46,
           "best_finish_pos_in_cls": 18,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "poles_cls": []
         }
       },
       "ongoing": true,
@@ -18489,7 +18890,8 @@
       "laps": 1619,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 68.62
+      "pts_per_race": 68.62,
+      "poles_cls": []
     },
     "d174507": {
       "seasons": [
@@ -18606,7 +19008,8 @@
       "laps": 2488,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 53.44
+      "pts_per_race": 53.44,
+      "poles_cls": []
     },
     "d374266": {
       "seasons": [
@@ -18725,7 +19128,8 @@
       "laps": 1634,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 65.47
+      "pts_per_race": 65.47,
+      "poles_cls": []
     },
     "d659230": {
       "seasons": [
@@ -18780,7 +19184,8 @@
       "laps": 362,
       "best_finish_pos": 3,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 49.44
+      "pts_per_race": 49.44,
+      "poles_cls": []
     },
     "d534726": {
       "seasons": [
@@ -18922,7 +19327,10 @@
       "laps": 2400,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 56.71
+      "pts_per_race": 56.71,
+      "poles_cls": [
+        "e46025634"
+      ]
     },
     "d624852": {
       "seasons": [
@@ -18957,7 +19365,8 @@
       "laps": 60,
       "best_finish_pos": 6,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": 65.0
+      "pts_per_race": 65.0,
+      "poles_cls": []
     },
     "d533283": {
       "seasons": [
@@ -19088,7 +19497,8 @@
       "laps": 2465,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 66.08
+      "pts_per_race": 66.08,
+      "poles_cls": []
     },
     "d409289": {
       "seasons": [
@@ -19222,7 +19632,8 @@
       "laps": 2677,
       "best_finish_pos": 2,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 48.75
+      "pts_per_race": 48.75,
+      "poles_cls": []
     },
     "d441250": {
       "seasons": [
@@ -19315,7 +19726,8 @@
       "laps": 1193,
       "best_finish_pos": 3,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 48.25
+      "pts_per_race": 48.25,
+      "poles_cls": []
     },
     "d628359": {
       "seasons": [
@@ -19392,7 +19804,8 @@
       "laps": 739,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 50.75
+      "pts_per_race": 50.75,
+      "poles_cls": []
     },
     "d456247": {
       "seasons": [
@@ -19428,7 +19841,8 @@
       "laps": 121,
       "best_finish_pos": 6,
       "best_finish_pos_in_cls": 4,
-      "pts_per_race": 57.5
+      "pts_per_race": 57.5,
+      "poles_cls": []
     },
     "d335711": {
       "seasons": [
@@ -19557,7 +19971,8 @@
       "laps": 2475,
       "best_finish_pos": 4,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 36.11
+      "pts_per_race": 36.11,
+      "poles_cls": []
     },
     "d470452": {
       "seasons": [
@@ -19604,7 +20019,8 @@
       "laps": 328,
       "best_finish_pos": 12,
       "best_finish_pos_in_cls": 6,
-      "pts_per_race": 33.75
+      "pts_per_race": 33.75,
+      "poles_cls": []
     },
     "d311045": {
       "seasons": [
@@ -19726,7 +20142,8 @@
       "laps": 2494,
       "best_finish_pos": 5,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 35.19
+      "pts_per_race": 35.19,
+      "poles_cls": []
     },
     "d512483": {
       "seasons": [
@@ -19768,7 +20185,8 @@
       "laps": 83,
       "best_finish_pos": 15,
       "best_finish_pos_in_cls": 8,
-      "pts_per_race": 0.5
+      "pts_per_race": 0.5,
+      "poles_cls": []
     },
     "d603276": {
       "seasons": [
@@ -19815,7 +20233,8 @@
       "laps": 252,
       "best_finish_pos": 5,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 36.33
+      "pts_per_race": 36.33,
+      "poles_cls": []
     },
     "d288087": {
       "seasons": [
@@ -19861,7 +20280,8 @@
       "laps": 195,
       "best_finish_pos": 17,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 16.33
+      "pts_per_race": 16.33,
+      "poles_cls": []
     },
     "d402390": {
       "seasons": [
@@ -19934,7 +20354,8 @@
       "laps": 971,
       "best_finish_pos": 5,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 42.7
+      "pts_per_race": 42.7,
+      "poles_cls": []
     },
     "d484677": {
       "seasons": [
@@ -20068,7 +20489,10 @@
       "laps": 2628,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 40.57
+      "pts_per_race": 40.57,
+      "poles_cls": [
+        "e45783826"
+      ]
     },
     "d342356": {
       "seasons": [
@@ -20140,7 +20564,8 @@
       "laps": 745,
       "best_finish_pos": 7,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 16.9
+      "pts_per_race": 16.9,
+      "poles_cls": []
     },
     "d470310": {
       "seasons": [
@@ -20184,7 +20609,8 @@
       "laps": 92,
       "best_finish_pos": 21,
       "best_finish_pos_in_cls": 4,
-      "pts_per_race": -2.0
+      "pts_per_race": -2.0,
+      "poles_cls": []
     },
     "d258544": {
       "seasons": [
@@ -20275,7 +20701,8 @@
       "laps": 1435,
       "best_finish_pos": 4,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 28.0
+      "pts_per_race": 28.0,
+      "poles_cls": []
     },
     "d404432": {
       "seasons": [
@@ -20367,7 +20794,8 @@
       "laps": 1759,
       "best_finish_pos": 2,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 31.08
+      "pts_per_race": 31.08,
+      "poles_cls": []
     },
     "d441904": {
       "seasons": [
@@ -20438,7 +20866,8 @@
       "laps": 1276,
       "best_finish_pos": 11,
       "best_finish_pos_in_cls": 6,
-      "pts_per_race": 23.18
+      "pts_per_race": 23.18,
+      "poles_cls": []
     },
     "d527892": {
       "seasons": [
@@ -20554,7 +20983,8 @@
       "laps": 2682,
       "best_finish_pos": 9,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 28.07
+      "pts_per_race": 28.07,
+      "poles_cls": []
     },
     "d613262": {
       "seasons": [
@@ -20669,7 +21099,8 @@
       "laps": 2612,
       "best_finish_pos": 7,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 27.62
+      "pts_per_race": 27.62,
+      "poles_cls": []
     },
     "d427645": {
       "seasons": [
@@ -20705,7 +21136,8 @@
       "laps": 115,
       "best_finish_pos": 27,
       "best_finish_pos_in_cls": 10,
-      "pts_per_race": 23.0
+      "pts_per_race": 23.0,
+      "poles_cls": []
     },
     "d583482": {
       "seasons": [
@@ -20800,7 +21232,8 @@
       "laps": 1777,
       "best_finish_pos": 11,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 29.73
+      "pts_per_race": 29.73,
+      "poles_cls": []
     },
     "d513530": {
       "seasons": [
@@ -20891,7 +21324,8 @@
       "laps": 1682,
       "best_finish_pos": 15,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": 16.4
+      "pts_per_race": 16.4,
+      "poles_cls": []
     },
     "d549916": {
       "seasons": [
@@ -20978,7 +21412,8 @@
       "laps": 1153,
       "best_finish_pos": 10,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 14.97
+      "pts_per_race": 14.97,
+      "poles_cls": []
     },
     "d675891": {
       "seasons": [
@@ -21018,7 +21453,8 @@
       "laps": 163,
       "best_finish_pos": 21,
       "best_finish_pos_in_cls": 8,
-      "pts_per_race": 19.5
+      "pts_per_race": 19.5,
+      "poles_cls": []
     },
     "d481697": {
       "seasons": [
@@ -21089,7 +21525,8 @@
       "laps": 716,
       "best_finish_pos": 20,
       "best_finish_pos_in_cls": 9,
-      "pts_per_race": 4.91
+      "pts_per_race": 4.91,
+      "poles_cls": []
     },
     "d189468": {
       "seasons": [
@@ -21138,7 +21575,8 @@
       "laps": 258,
       "best_finish_pos": 10,
       "best_finish_pos_in_cls": 3,
-      "pts_per_race": 18.12
+      "pts_per_race": 18.12,
+      "poles_cls": []
     },
     "d602481": {
       "seasons": [
@@ -21230,7 +21668,8 @@
       "laps": 1282,
       "best_finish_pos": 10,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 16.97
+      "pts_per_race": 16.97,
+      "poles_cls": []
     },
     "d526849": {
       "seasons": [
@@ -21281,7 +21720,8 @@
       "laps": 283,
       "best_finish_pos": 13,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 18.38
+      "pts_per_race": 18.38,
+      "poles_cls": []
     },
     "d88089": {
       "seasons": [
@@ -21393,7 +21833,8 @@
       "laps": 1762,
       "best_finish_pos": 4,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 45.74
+      "pts_per_race": 45.74,
+      "poles_cls": []
     },
     "d142112": {
       "seasons": [
@@ -21451,7 +21892,8 @@
       "laps": 497,
       "best_finish_pos": 7,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 22.31
+      "pts_per_race": 22.31,
+      "poles_cls": []
     },
     "d421463": {
       "seasons": [
@@ -21497,7 +21939,8 @@
       "laps": 97,
       "best_finish_pos": 25,
       "best_finish_pos_in_cls": 11,
-      "pts_per_race": 4.33
+      "pts_per_race": 4.33,
+      "poles_cls": []
     },
     "d436151": {
       "seasons": [
@@ -21558,7 +22001,8 @@
       "laps": 372,
       "best_finish_pos": 4,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 28.91
+      "pts_per_race": 28.91,
+      "poles_cls": []
     },
     "d77037": {
       "seasons": [
@@ -21595,7 +22039,8 @@
       "laps": 12,
       "best_finish_pos": 40,
       "best_finish_pos_in_cls": 13,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     },
     "d127071": {
       "seasons": [
@@ -21632,7 +22077,8 @@
       "laps": 10,
       "best_finish_pos": 41,
       "best_finish_pos_in_cls": 14,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     },
     "d563256": {
       "seasons": [
@@ -21687,7 +22133,8 @@
       "laps": 387,
       "best_finish_pos": 8,
       "best_finish_pos_in_cls": 3,
-      "pts_per_race": 26.7
+      "pts_per_race": 26.7,
+      "poles_cls": []
     },
     "d345695": {
       "seasons": [
@@ -21742,7 +22189,8 @@
       "laps": 702,
       "best_finish_pos": 14,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": 23.73
+      "pts_per_race": 23.73,
+      "poles_cls": []
     },
     "d260479": {
       "seasons": [
@@ -21788,7 +22236,8 @@
       "laps": 241,
       "best_finish_pos": 3,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 30.5
+      "pts_per_race": 30.5,
+      "poles_cls": []
     },
     "d527397": {
       "seasons": [
@@ -21897,7 +22346,10 @@
       "laps": 1150,
       "best_finish_pos": 2,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 34.84
+      "pts_per_race": 34.84,
+      "poles_cls": [
+        "e44596633"
+      ]
     },
     "d233357": {
       "seasons": [
@@ -22020,7 +22472,8 @@
       "laps": 1817,
       "best_finish_pos": 2,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 26.11
+      "pts_per_race": 26.11,
+      "poles_cls": []
     },
     "d452432": {
       "seasons": [
@@ -22055,7 +22508,8 @@
       "laps": 44,
       "best_finish_pos": 18,
       "best_finish_pos_in_cls": 6,
-      "pts_per_race": 16.0
+      "pts_per_race": 16.0,
+      "poles_cls": []
     },
     "d676058": {
       "seasons": [
@@ -22095,7 +22549,8 @@
       "laps": 147,
       "best_finish_pos": 21,
       "best_finish_pos_in_cls": 10,
-      "pts_per_race": 20.0
+      "pts_per_race": 20.0,
+      "poles_cls": []
     },
     "d482943": {
       "seasons": [
@@ -22151,7 +22606,8 @@
       "laps": 219,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 23.12
+      "pts_per_race": 23.12,
+      "poles_cls": []
     },
     "d552999": {
       "seasons": [
@@ -22189,7 +22645,8 @@
       "laps": 46,
       "best_finish_pos": 10,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": -20.0
+      "pts_per_race": -20.0,
+      "poles_cls": []
     },
     "d691015": {
       "seasons": [
@@ -22226,7 +22683,8 @@
       "laps": 28,
       "best_finish_pos": 32,
       "best_finish_pos_in_cls": 15,
-      "pts_per_race": -60.0
+      "pts_per_race": -60.0,
+      "poles_cls": []
     },
     "d548402": {
       "seasons": [
@@ -22312,7 +22770,8 @@
       "laps": 909,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 40.81
+      "pts_per_race": 40.81,
+      "poles_cls": []
     },
     "d565134": {
       "seasons": [
@@ -22373,7 +22832,10 @@
       "laps": 421,
       "best_finish_pos": 2,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 41.1
+      "pts_per_race": 41.1,
+      "poles_cls": [
+        "e45289872"
+      ]
     },
     "d516195": {
       "seasons": [
@@ -22411,7 +22873,8 @@
       "laps": 66,
       "best_finish_pos": 24,
       "best_finish_pos_in_cls": 10,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     },
     "d556527": {
       "seasons": [
@@ -22458,7 +22921,8 @@
       "laps": 287,
       "best_finish_pos": 9,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": 21.38
+      "pts_per_race": 21.38,
+      "poles_cls": []
     },
     "d305702": {
       "seasons": [
@@ -22509,7 +22973,8 @@
       "laps": 561,
       "best_finish_pos": 20,
       "best_finish_pos_in_cls": 10,
-      "pts_per_race": 16.31
+      "pts_per_race": 16.31,
+      "poles_cls": []
     },
     "d130889": {
       "seasons": [
@@ -22556,7 +23021,8 @@
       "laps": 125,
       "best_finish_pos": 12,
       "best_finish_pos_in_cls": 4,
-      "pts_per_race": 1.33
+      "pts_per_race": 1.33,
+      "poles_cls": []
     },
     "d402302": {
       "seasons": [
@@ -22660,7 +23126,8 @@
       "laps": 1819,
       "best_finish_pos": 7,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 35.28
+      "pts_per_race": 35.28,
+      "poles_cls": []
     },
     "d417314": {
       "seasons": [
@@ -22700,7 +23167,8 @@
       "laps": 94,
       "best_finish_pos": 10,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": 33.67
+      "pts_per_race": 33.67,
+      "poles_cls": []
     },
     "d420632": {
       "seasons": [
@@ -22744,7 +23212,8 @@
       "laps": 194,
       "best_finish_pos": 6,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 26.0
+      "pts_per_race": 26.0,
+      "poles_cls": []
     },
     "d575225": {
       "seasons": [
@@ -22823,7 +23292,8 @@
       "laps": 1468,
       "best_finish_pos": 9,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 28.73
+      "pts_per_race": 28.73,
+      "poles_cls": []
     },
     "d343195": {
       "seasons": [
@@ -22920,7 +23390,8 @@
       "laps": 2277,
       "best_finish_pos": 2,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 49.77
+      "pts_per_race": 49.77,
+      "poles_cls": []
     },
     "d626462": {
       "seasons": [
@@ -22995,7 +23466,8 @@
       "laps": 852,
       "best_finish_pos": 4,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 39.0
+      "pts_per_race": 39.0,
+      "poles_cls": []
     },
     "d603137": {
       "seasons": [
@@ -23037,7 +23509,8 @@
       "laps": 61,
       "best_finish_pos": 17,
       "best_finish_pos_in_cls": 7,
-      "pts_per_race": -0.5
+      "pts_per_race": -0.5,
+      "poles_cls": []
     },
     "d165203": {
       "seasons": [
@@ -23092,7 +23565,8 @@
       "laps": 571,
       "best_finish_pos": 11,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 25.38
+      "pts_per_race": 25.38,
+      "poles_cls": []
     },
     "d147927": {
       "seasons": [
@@ -23191,7 +23665,8 @@
       "laps": 2267,
       "best_finish_pos": 6,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 32.49
+      "pts_per_race": 32.49,
+      "poles_cls": []
     },
     "d256932": {
       "seasons": [
@@ -23229,7 +23704,8 @@
       "laps": 45,
       "best_finish_pos": 29,
       "best_finish_pos_in_cls": 14,
-      "pts_per_race": 11.0
+      "pts_per_race": 11.0,
+      "poles_cls": []
     },
     "d181019": {
       "seasons": [
@@ -23296,7 +23772,8 @@
       "laps": 1252,
       "best_finish_pos": 16,
       "best_finish_pos_in_cls": 6,
-      "pts_per_race": 20.85
+      "pts_per_race": 20.85,
+      "poles_cls": []
     },
     "d514492": {
       "seasons": [
@@ -23342,7 +23819,8 @@
       "laps": 95,
       "best_finish_pos": 6,
       "best_finish_pos_in_cls": 3,
-      "pts_per_race": 16.25
+      "pts_per_race": 16.25,
+      "poles_cls": []
     },
     "d658251": {
       "seasons": [
@@ -23399,7 +23877,8 @@
       "laps": 318,
       "best_finish_pos": 5,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 17.3
+      "pts_per_race": 17.3,
+      "poles_cls": []
     },
     "d661327": {
       "seasons": [
@@ -23440,7 +23919,8 @@
       "laps": 61,
       "best_finish_pos": 2,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 90.0
+      "pts_per_race": 90.0,
+      "poles_cls": []
     },
     "d288994": {
       "seasons": [
@@ -23480,7 +23960,8 @@
       "laps": 28,
       "best_finish_pos": 6,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 32.5
+      "pts_per_race": 32.5,
+      "poles_cls": []
     },
     "d545588": {
       "seasons": [
@@ -23529,7 +24010,8 @@
       "laps": 55,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 100.0
+      "pts_per_race": 100.0,
+      "poles_cls": []
     },
     "d662233": {
       "seasons": [
@@ -23591,7 +24073,8 @@
       "laps": 891,
       "best_finish_pos": 13,
       "best_finish_pos_in_cls": 3,
-      "pts_per_race": 31.33
+      "pts_per_race": 31.33,
+      "poles_cls": []
     },
     "d255581": {
       "seasons": [
@@ -23632,7 +24115,8 @@
       "laps": 150,
       "best_finish_pos": 8,
       "best_finish_pos_in_cls": 4,
-      "pts_per_race": 14.75
+      "pts_per_race": 14.75,
+      "poles_cls": []
     },
     "d92199": {
       "seasons": [
@@ -23673,7 +24157,8 @@
       "laps": 90,
       "best_finish_pos": 10,
       "best_finish_pos_in_cls": 7,
-      "pts_per_race": 11.0
+      "pts_per_race": 11.0,
+      "poles_cls": []
     },
     "d562464": {
       "seasons": [
@@ -23741,7 +24226,8 @@
       "laps": 1133,
       "best_finish_pos": 11,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": 17.88
+      "pts_per_race": 17.88,
+      "poles_cls": []
     },
     "d391497": {
       "seasons": [
@@ -23797,7 +24283,8 @@
       "laps": 442,
       "best_finish_pos": 15,
       "best_finish_pos_in_cls": 8,
-      "pts_per_race": 9.77
+      "pts_per_race": 9.77,
+      "poles_cls": []
     },
     "d678818": {
       "seasons": [
@@ -23904,7 +24391,10 @@
       "laps": 1097,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 69.13
+      "pts_per_race": 69.13,
+      "poles_cls": [
+        "e47616905"
+      ]
     },
     "d324933": {
       "seasons": [
@@ -23982,7 +24472,8 @@
       "laps": 947,
       "best_finish_pos": 7,
       "best_finish_pos_in_cls": 3,
-      "pts_per_race": 12.84
+      "pts_per_race": 12.84,
+      "poles_cls": []
     },
     "d674607": {
       "seasons": [
@@ -24075,7 +24566,8 @@
       "laps": 1090,
       "best_finish_pos": 8,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 13.52
+      "pts_per_race": 13.52,
+      "poles_cls": []
     },
     "d448952": {
       "seasons": [
@@ -24135,7 +24627,8 @@
       "laps": 1151,
       "best_finish_pos": 14,
       "best_finish_pos_in_cls": 3,
-      "pts_per_race": 25.68
+      "pts_per_race": 25.68,
+      "poles_cls": []
     },
     "d759394": {
       "seasons": [
@@ -24198,7 +24691,8 @@
       "laps": 547,
       "best_finish_pos": 22,
       "best_finish_pos_in_cls": 4,
-      "pts_per_race": 7.47
+      "pts_per_race": 7.47,
+      "poles_cls": []
     },
     "d642928": {
       "seasons": [
@@ -24284,7 +24778,8 @@
       "laps": 1288,
       "best_finish_pos": 5,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 26.36
+      "pts_per_race": 26.36,
+      "poles_cls": []
     },
     "d462976": {
       "seasons": [
@@ -24392,7 +24887,8 @@
       "laps": 1533,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 37.82
+      "pts_per_race": 37.82,
+      "poles_cls": []
     },
     "d710369": {
       "seasons": [
@@ -24427,7 +24923,8 @@
       "laps": 42,
       "best_finish_pos": 33,
       "best_finish_pos_in_cls": 21,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     },
     "d498753": {
       "seasons": [
@@ -24493,7 +24990,8 @@
       "laps": 1008,
       "best_finish_pos": 11,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 28.85
+      "pts_per_race": 28.85,
+      "poles_cls": []
     },
     "d559149": {
       "seasons": [
@@ -24550,7 +25048,8 @@
       "laps": 437,
       "best_finish_pos": 8,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 15.82
+      "pts_per_race": 15.82,
+      "poles_cls": []
     },
     "d287921": {
       "seasons": [
@@ -24620,7 +25119,8 @@
       "laps": 383,
       "best_finish_pos": 5,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 17.54
+      "pts_per_race": 17.54,
+      "poles_cls": []
     },
     "d592266": {
       "seasons": [
@@ -24663,7 +25163,8 @@
       "laps": 206,
       "best_finish_pos": 22,
       "best_finish_pos_in_cls": 11,
-      "pts_per_race": 7.0
+      "pts_per_race": 7.0,
+      "poles_cls": []
     },
     "d703119": {
       "seasons": [
@@ -24735,7 +25236,8 @@
       "laps": 863,
       "best_finish_pos": 3,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 40.42
+      "pts_per_race": 40.42,
+      "poles_cls": []
     },
     "d771017": {
       "seasons": [
@@ -24772,7 +25274,8 @@
       "laps": 15,
       "best_finish_pos": 42,
       "best_finish_pos_in_cls": 26,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     },
     "d775700": {
       "seasons": [
@@ -24813,7 +25316,8 @@
       "laps": 24,
       "best_finish_pos": 43,
       "best_finish_pos_in_cls": 29,
-      "pts_per_race": -6.67
+      "pts_per_race": -6.67,
+      "poles_cls": []
     },
     "d698211": {
       "seasons": [
@@ -24871,7 +25375,8 @@
       "laps": 572,
       "best_finish_pos": 8,
       "best_finish_pos_in_cls": 3,
-      "pts_per_race": 25.5
+      "pts_per_race": 25.5,
+      "poles_cls": []
     },
     "d587639": {
       "seasons": [
@@ -24923,7 +25428,8 @@
       "laps": 255,
       "best_finish_pos": 8,
       "best_finish_pos_in_cls": 3,
-      "pts_per_race": 9.67
+      "pts_per_race": 9.67,
+      "poles_cls": []
     },
     "d624646": {
       "seasons": [
@@ -24969,7 +25475,8 @@
       "laps": 539,
       "best_finish_pos": 17,
       "best_finish_pos_in_cls": 8,
-      "pts_per_race": 19.5
+      "pts_per_race": 19.5,
+      "poles_cls": []
     },
     "d791046": {
       "seasons": [
@@ -25022,7 +25529,8 @@
       "laps": 412,
       "best_finish_pos": 10,
       "best_finish_pos_in_cls": 4,
-      "pts_per_race": 2.64
+      "pts_per_race": 2.64,
+      "poles_cls": []
     },
     "d264953": {
       "seasons": [
@@ -25203,7 +25711,8 @@
       "laps": 1740,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 71.61
+      "pts_per_race": 71.61,
+      "poles_cls": []
     },
     "d732955": {
       "seasons": [
@@ -25287,7 +25796,8 @@
       "laps": 1737,
       "best_finish_pos": 5,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 31.15
+      "pts_per_race": 31.15,
+      "poles_cls": []
     },
     "d384320": {
       "seasons": [
@@ -25357,7 +25867,8 @@
       "laps": 1186,
       "best_finish_pos": 8,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 22.29
+      "pts_per_race": 22.29,
+      "poles_cls": []
     },
     "d747889": {
       "seasons": [
@@ -25393,7 +25904,8 @@
       "laps": 94,
       "best_finish_pos": 12,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": 35.0
+      "pts_per_race": 35.0,
+      "poles_cls": []
     },
     "d709170": {
       "seasons": [
@@ -25435,7 +25947,8 @@
       "laps": 70,
       "best_finish_pos": 24,
       "best_finish_pos_in_cls": 14,
-      "pts_per_race": 6.75
+      "pts_per_race": 6.75,
+      "poles_cls": []
     },
     "d702748": {
       "seasons": [
@@ -25472,7 +25985,8 @@
       "laps": 2,
       "best_finish_pos": 47,
       "best_finish_pos_in_cls": 8,
-      "pts_per_race": -20.0
+      "pts_per_race": -20.0,
+      "poles_cls": []
     },
     "d676316": {
       "seasons": [
@@ -25557,7 +26071,8 @@
       "laps": 1125,
       "best_finish_pos": 5,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 32.67
+      "pts_per_race": 32.67,
+      "poles_cls": []
     },
     "d573541": {
       "seasons": [
@@ -25621,7 +26136,8 @@
       "laps": 582,
       "best_finish_pos": 13,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 15.93
+      "pts_per_race": 15.93,
+      "poles_cls": []
     },
     "d373850": {
       "seasons": [
@@ -25691,7 +26207,8 @@
       "laps": 824,
       "best_finish_pos": 3,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 34.11
+      "pts_per_race": 34.11,
+      "poles_cls": []
     },
     "d229924": {
       "seasons": [
@@ -25728,7 +26245,8 @@
       "laps": 0,
       "best_finish_pos": 43,
       "best_finish_pos_in_cls": 0,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     },
     "d641453": {
       "seasons": [
@@ -25764,7 +26282,8 @@
       "laps": 111,
       "best_finish_pos": 14,
       "best_finish_pos_in_cls": 7,
-      "pts_per_race": 38.0
+      "pts_per_race": 38.0,
+      "poles_cls": []
     },
     "d92996": {
       "seasons": [
@@ -25832,7 +26351,8 @@
       "laps": 629,
       "best_finish_pos": 20,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": 5.47
+      "pts_per_race": 5.47,
+      "poles_cls": []
     },
     "d646693": {
       "seasons": [
@@ -25879,7 +26399,8 @@
       "laps": 325,
       "best_finish_pos": 17,
       "best_finish_pos_in_cls": 7,
-      "pts_per_race": 19.0
+      "pts_per_race": 19.0,
+      "poles_cls": []
     },
     "d500241": {
       "seasons": [
@@ -25949,7 +26470,8 @@
       "laps": 1070,
       "best_finish_pos": 19,
       "best_finish_pos_in_cls": 4,
-      "pts_per_race": 11.64
+      "pts_per_race": 11.64,
+      "poles_cls": []
     },
     "d402389": {
       "seasons": [
@@ -26023,7 +26545,8 @@
       "laps": 921,
       "best_finish_pos": 2,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 37.45
+      "pts_per_race": 37.45,
+      "poles_cls": []
     },
     "d401519": {
       "seasons": [
@@ -26075,7 +26598,8 @@
       "laps": 637,
       "best_finish_pos": 5,
       "best_finish_pos_in_cls": 3,
-      "pts_per_race": 25.38
+      "pts_per_race": 25.38,
+      "poles_cls": []
     },
     "d776393": {
       "seasons": [
@@ -26115,7 +26639,8 @@
       "laps": 94,
       "best_finish_pos": 15,
       "best_finish_pos_in_cls": 8,
-      "pts_per_race": 14.0
+      "pts_per_race": 14.0,
+      "poles_cls": []
     },
     "d414773": {
       "seasons": [
@@ -26180,7 +26705,8 @@
       "laps": 870,
       "best_finish_pos": 6,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 41.0
+      "pts_per_race": 41.0,
+      "poles_cls": []
     },
     "d58944": {
       "seasons": [
@@ -26218,7 +26744,8 @@
       "laps": 92,
       "best_finish_pos": 9,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": 28.0
+      "pts_per_race": 28.0,
+      "poles_cls": []
     },
     "d112955": {
       "seasons": [
@@ -26255,7 +26782,8 @@
       "laps": 10,
       "best_finish_pos": 42,
       "best_finish_pos_in_cls": 15,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     },
     "d401501": {
       "seasons": [
@@ -26292,7 +26820,8 @@
       "laps": 9,
       "best_finish_pos": 42,
       "best_finish_pos_in_cls": 17,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     },
     "d387792": {
       "seasons": [
@@ -26331,7 +26860,8 @@
       "laps": 1,
       "best_finish_pos": 35,
       "best_finish_pos_in_cls": 14,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     },
     "d496896": {
       "seasons": [
@@ -26369,7 +26899,8 @@
       "laps": 102,
       "best_finish_pos": 19,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": -3.0
+      "pts_per_race": -3.0,
+      "poles_cls": []
     },
     "d608661": {
       "seasons": [
@@ -26406,7 +26937,8 @@
       "laps": 16,
       "best_finish_pos": 36,
       "best_finish_pos_in_cls": 12,
-      "pts_per_race": -20.0
+      "pts_per_race": -20.0,
+      "poles_cls": []
     },
     "d546297": {
       "seasons": [
@@ -26473,7 +27005,8 @@
       "laps": 503,
       "best_finish_pos": 6,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 12.2
+      "pts_per_race": 12.2,
+      "poles_cls": []
     },
     "d300799": {
       "seasons": [
@@ -26540,7 +27073,8 @@
       "laps": 675,
       "best_finish_pos": 12,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 14.79
+      "pts_per_race": 14.79,
+      "poles_cls": []
     },
     "d414284": {
       "seasons": [
@@ -26586,7 +27120,8 @@
       "laps": 325,
       "best_finish_pos": 11,
       "best_finish_pos_in_cls": 3,
-      "pts_per_race": 32.29
+      "pts_per_race": 32.29,
+      "poles_cls": []
     },
     "d202689": {
       "seasons": [
@@ -26644,7 +27179,8 @@
       "laps": 706,
       "best_finish_pos": 16,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 25.4
+      "pts_per_race": 25.4,
+      "poles_cls": []
     },
     "d292059": {
       "seasons": [
@@ -26700,7 +27236,8 @@
       "laps": 625,
       "best_finish_pos": 6,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 19.71
+      "pts_per_race": 19.71,
+      "poles_cls": []
     },
     "d513047": {
       "seasons": [
@@ -26754,7 +27291,8 @@
       "laps": 455,
       "best_finish_pos": 15,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": 16.0
+      "pts_per_race": 16.0,
+      "poles_cls": []
     },
     "d789378": {
       "seasons": [
@@ -26794,7 +27332,8 @@
       "laps": 74,
       "best_finish_pos": 32,
       "best_finish_pos_in_cls": 12,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     },
     "d466098": {
       "seasons": [
@@ -26831,7 +27370,8 @@
       "laps": 1,
       "best_finish_pos": 48,
       "best_finish_pos_in_cls": 19,
-      "pts_per_race": -20.0
+      "pts_per_race": -20.0,
+      "poles_cls": []
     },
     "d295484": {
       "seasons": [
@@ -26868,7 +27408,8 @@
       "laps": 0,
       "best_finish_pos": 50,
       "best_finish_pos_in_cls": 19,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     },
     "d705348": {
       "seasons": [
@@ -26922,7 +27463,8 @@
       "laps": 396,
       "best_finish_pos": 11,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 7.92
+      "pts_per_race": 7.92,
+      "poles_cls": []
     },
     "d419116": {
       "seasons": [
@@ -26976,7 +27518,8 @@
       "laps": 413,
       "best_finish_pos": 5,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 35.7
+      "pts_per_race": 35.7,
+      "poles_cls": []
     },
     "d314317": {
       "seasons": [
@@ -27039,7 +27582,8 @@
       "laps": 658,
       "best_finish_pos": 6,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 41.23
+      "pts_per_race": 41.23,
+      "poles_cls": []
     },
     "d95310": {
       "seasons": [
@@ -27086,7 +27630,8 @@
       "laps": 471,
       "best_finish_pos": 15,
       "best_finish_pos_in_cls": 3,
-      "pts_per_race": 22.0
+      "pts_per_race": 22.0,
+      "poles_cls": []
     },
     "d618940": {
       "seasons": [
@@ -27125,7 +27670,8 @@
       "laps": 168,
       "best_finish_pos": 10,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": 32.0
+      "pts_per_race": 32.0,
+      "poles_cls": []
     },
     "d327329": {
       "seasons": [
@@ -27186,7 +27732,8 @@
       "laps": 534,
       "best_finish_pos": 8,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 32.15
+      "pts_per_race": 32.15,
+      "poles_cls": []
     },
     "d185925": {
       "seasons": [
@@ -27228,7 +27775,8 @@
       "laps": 158,
       "best_finish_pos": 21,
       "best_finish_pos_in_cls": 6,
-      "pts_per_race": 3.5
+      "pts_per_race": 3.5,
+      "poles_cls": []
     },
     "d847138": {
       "seasons": [
@@ -27276,7 +27824,8 @@
       "laps": 398,
       "best_finish_pos": 25,
       "best_finish_pos_in_cls": 7,
-      "pts_per_race": 13.22
+      "pts_per_race": 13.22,
+      "poles_cls": []
     },
     "d350669": {
       "seasons": [
@@ -27317,7 +27866,8 @@
       "laps": 94,
       "best_finish_pos": 15,
       "best_finish_pos_in_cls": 4,
-      "pts_per_race": 7.33
+      "pts_per_race": 7.33,
+      "poles_cls": []
     },
     "d837246": {
       "seasons": [
@@ -27364,7 +27914,8 @@
       "laps": 382,
       "best_finish_pos": 8,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 26.38
+      "pts_per_race": 26.38,
+      "poles_cls": []
     },
     "d187808": {
       "seasons": [
@@ -27408,7 +27959,8 @@
       "laps": 290,
       "best_finish_pos": 15,
       "best_finish_pos_in_cls": 3,
-      "pts_per_race": 24.33
+      "pts_per_race": 24.33,
+      "poles_cls": []
     },
     "d665111": {
       "seasons": [
@@ -27453,7 +28005,8 @@
       "laps": 166,
       "best_finish_pos": 19,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 13.2
+      "pts_per_race": 13.2,
+      "poles_cls": []
     },
     "d28944": {
       "seasons": [
@@ -27495,7 +28048,8 @@
       "laps": 144,
       "best_finish_pos": 18,
       "best_finish_pos_in_cls": 5,
-      "pts_per_race": 2.8
+      "pts_per_race": 2.8,
+      "poles_cls": []
     },
     "d773907": {
       "seasons": [
@@ -27532,7 +28086,8 @@
       "laps": 0,
       "best_finish_pos": 47,
       "best_finish_pos_in_cls": 16,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     },
     "d711160": {
       "seasons": [
@@ -27573,7 +28128,8 @@
       "laps": 142,
       "best_finish_pos": 9,
       "best_finish_pos_in_cls": 2,
-      "pts_per_race": 17.33
+      "pts_per_race": 17.33,
+      "poles_cls": []
     },
     "d648477": {
       "seasons": [
@@ -27625,7 +28181,8 @@
       "laps": 216,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 56.0
+      "pts_per_race": 56.0,
+      "poles_cls": []
     },
     "d69608": {
       "seasons": [
@@ -27667,7 +28224,8 @@
       "laps": 201,
       "best_finish_pos": 7,
       "best_finish_pos_in_cls": 7,
-      "pts_per_race": 23.0
+      "pts_per_race": 23.0,
+      "poles_cls": []
     },
     "d256498": {
       "seasons": [
@@ -27704,7 +28262,8 @@
       "laps": 3,
       "best_finish_pos": 45,
       "best_finish_pos_in_cls": 14,
-      "pts_per_race": -20.0
+      "pts_per_race": -20.0,
+      "poles_cls": []
     },
     "d104594": {
       "seasons": [
@@ -27740,7 +28299,8 @@
       "laps": 95,
       "best_finish_pos": 34,
       "best_finish_pos_in_cls": 14,
-      "pts_per_race": 15.5
+      "pts_per_race": 15.5,
+      "poles_cls": []
     },
     "d80118": {
       "seasons": [
@@ -27780,7 +28340,8 @@
       "laps": 72,
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
-      "pts_per_race": 81.0
+      "pts_per_race": 81.0,
+      "poles_cls": []
     },
     "d69997": {
       "seasons": [
@@ -27819,7 +28380,8 @@
       "laps": 115,
       "best_finish_pos": 6,
       "best_finish_pos_in_cls": 6,
-      "pts_per_race": 59.0
+      "pts_per_race": 59.0,
+      "poles_cls": []
     },
     "d865713": {
       "seasons": [
@@ -27856,7 +28418,8 @@
       "laps": 26,
       "best_finish_pos": 33,
       "best_finish_pos_in_cls": 16,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     },
     "d586657": {
       "seasons": [
@@ -27891,7 +28454,8 @@
       "laps": 43,
       "best_finish_pos": 4,
       "best_finish_pos_in_cls": 4,
-      "pts_per_race": 75.0
+      "pts_per_race": 75.0,
+      "poles_cls": []
     },
     "d395972": {
       "seasons": [
@@ -27928,7 +28492,8 @@
       "laps": 0,
       "best_finish_pos": 46,
       "best_finish_pos_in_cls": 18,
-      "pts_per_race": 0.0
+      "pts_per_race": 0.0,
+      "poles_cls": []
     }
   },
   "events": {
@@ -57434,5 +57999,5 @@
     "small_logo": "https://members-leagueimages.iracing.com/7826/logoforui.png",
     "large_logo": "https://members-leagueimages.iracing.com/7826/rpmuibanner2.png"
   },
-  "updated_at": "2023-05-16T15:55:32.098566+02:00"
+  "updated_at": "2023-05-16T17:56:35.998173+02:00"
 }
