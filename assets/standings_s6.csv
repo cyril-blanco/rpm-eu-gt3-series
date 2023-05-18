@@ -1,59 +1,63 @@
 Driver,Class,Team,Total Scored,Drop Adjusted
 Philipp Schwörke,Gold,TLR Paulaner,560,560
-Mickaël Buchet,Gold,Hexago,492,430
-Simon Ball,Gold,TLR Pathological Lagers,454,430
-Rob S Taylor,Gold,STR Tech St Oswald's,500,403
-Dan Babic,Gold,Project 88,377,343
+Mickaël Buchet,Gold,Hexago,572,510
+Simon Ball,Gold,TLR Pathological Lagers,529,505
+Rob S Taylor,Gold,STR Tech St Oswald's,562,465
+Dan Babic,Gold,Project 88,413,379
+Ruud Schoorl,Silver,STR Tech Ablestoke,382,348
+Daniel Justou,Silver,Gentlemen-Racers.org,292,292
+Kenneth Maanum,Silver,Uphill Racing,287,287
+Daniel Slater,Silver,Racoon Sim Racing,340,285
 Pedro Lima,Gold,PandaPink eSports Fantasy,280,280
+Mat Monestier,Gold,LSR Paul Ricard,280,280
+Paul Kerry,Gold,STR Tech St Oswald's,277,277
+Jorn Westeneng,Gold,MAD Sim Racing Yellow,276,276
 Cyril Blanco,Gold,LSR Paul Ricard,275,275
-Daniel Justou,Silver,Gentlemen-Racers.org,292,269
-Ruud Schoorl,Silver,STR Tech Ablestoke,292,258
+Rasmus Greiner,Silver,Project 88,309,274
 Alain Day,Silver,SimAbility Racing,254,254
-Daniel Slater,Silver,Racoon Sim Racing,311,253
-Jorn Westeneng,Gold,MAD Sim Racing Yellow,276,250
-Kenneth Maanum,Silver,Uphill Racing,243,243
-Paul Kerry,Gold,STR Tech St Oswald's,239,239
+David Narbonne,Silver,Smurf Racing Team,237,237
 Axel Bijker,Gold,MAD Sim Racing Blue,230,230
-Rasmus Greiner,Silver,Project 88,263,228
-David Narbonne,Silver,Smurf Racing Team,237,213
+Yvonne Houffelaar,Bronze,United Sim Team - VOOM,249,228
+Zachary Hanke,Bronze,MAD Sim Racing Yellow,216,216
+Kari Fox,Bronze,PandaPink eSports,223,205
+Ola Särnkvist,Bronze,STR Tech Ablestoke,227,205
 Stephen Kennedy,Gold,TGC Racing,203,203
+Damon A Brierley,Silver,TLR Paulaner,202,202
 Marc Mathis,Silver,Gentlemen-Racers.org,198,198
+Robert Stoten,Bronze,Project 88 Velocity,211,189
 Jukka A Aho,Gold,goldFinGer,188,188
 Patrick Vandenberg,Silver,United Sim Team,184,184
-Kari Fox,Bronze,PandaPink eSports,201,183
-Yvonne Houffelaar,Bronze,United Sim Team - VOOM,201,180
-Mat Monestier,Gold,LSR Paul Ricard,180,180
 Ryan G Walker,Gold,Privateer,177,177
-Zachary Hanke,Bronze,MAD Sim Racing Yellow,176,176
 Matevz Bas,Gold,TLR Pathological Lagers,171,171
-Robert Stoten,Bronze,Project 88 Velocity,211,165
+Stuart P Taylor,Bronze,TGC Racing,169,169
 Justin Barrera,Gold,Privateer,162,162
+Sophie Aeronwen,Bronze,United Sim Team - VOOM,158,158
 Jörn Dobratz,Bronze,Privateer,156,156
-Ola Särnkvist,Bronze,STR Tech Ablestoke,177,155
-Stuart P Taylor,Bronze,TGC Racing,148,148
-Damon A Brierley,Silver,TLR Paulaner,146,146
+Jeff Sanders,Bronze,Racoon Sim Racing,154,154
+Petr Vecerek,Bronze,goldFinGer,153,153
+Christian Mittelstädt,Bronze,TLR Skuumkoppe,149,149
+Max Schulz,Bronze,TLR Oettinger,141,141
 Lia van Stevelen,Silver,PandaPink eSports,139,139
-Sophie Aeronwen,Bronze,United Sim Team - VOOM,131,131
-Jeff Sanders,Bronze,Racoon Sim Racing,126,126
-Petr Vecerek,Bronze,goldFinGer,121,121
-Christian Mittelstädt,Bronze,TLR Skuumkoppe,119,119
+Peter Abraham Jonkers,Gold,TLR Skuumkoppe,138,138
+Michael Aparício,Silver,Privateer,122,122
+Daniel Waghubinger,Bronze,Project 88 Velocity,117,117
 Ben Warren,Gold,Privateer,115,115
-Peter Abraham Jonkers,Gold,TLR Skuumkoppe,79,79
-Max Schulz,Bronze,TLR Oettinger,76,76
+Max Woyda,Silver,TLR Oettinger,82,82
 Peter Cox,Gold,Privateer,75,75
 Rudy Vermeule,Bronze,SimAbility Racing,72,72
 Nathaniel Ivanusa,Gold,Privateer,70,70
 Johan Buitenga,Silver,Privateer,70,70
 Klaas Hartman,Bronze,Privateer,70,70
 Chris G Barnes,Bronze,Privateer (Former Triple P),66,66
-Daniel Waghubinger,Bronze,Project 88 Velocity,55,55
-Michael Aparício,Silver,Privateer,52,52
-Alan Murless,Bronze,STR Tech,46,46
+Alan Murless,Bronze,STR Tech,66,66
+James R Williams,Bronze,STR Tech,56,56
 Baptiste Seguy,Gold,Privateer,46,46
 David Denil,Bronze,Privateer,44,44
-James R Williams,Bronze,STR Tech,31,31
-Max Woyda,Silver,TLR Oettinger,29,29
+Rene Rotka,Bronze,Privateer,34,34
+Simon Hartley,Bronze,Privateer,26,26
 Stephane Henriques,Silver,Smurf Racing Team,24,24
+Nigel Stock,Bronze,Privateer,24,24
+Laura Wiseman,Bronze,PandaPink eSports Fantasy,23,23
 Steve Rubino,Bronze,Privateer,20,20
 Franck Courdier,Silver,Privateer,15,15
 Jason Finch,Bronze,Privateer,14,14
@@ -73,11 +77,7 @@ Craig Brickwood,Bronze,Privateer,0,0
 Alejandro Torrealba,Silver,Privateer,0,0
 Byron DeBelleau,Bronze,Privateer,0,0
 Jean Alezi,Bronze,Privateer,0,0
-Nigel Stock,Bronze,Privateer,0,0
-Laura Wiseman,Bronze,PandaPink eSports Fantasy,0,0
-Simon Hartley,Bronze,Privateer,0,0
-Rene Rotka,Bronze,Privateer,0,0
+Linda Noble,Bronze,Privateer,0,0
 Jørgen Grøndal,Gold,Uphill Racing,-20,-20
 David Buitelaar,Gold,Privateer,-20,-20
 Esmeralda van der Naald,Silver,United Sim Team,-21,-21
-Linda Noble,Bronze,Privateer,0,0
