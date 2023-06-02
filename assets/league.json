@@ -15798,7 +15798,7 @@
           "points_raw": 280,
           "cars": [],
           "car_id": 132,
-          "pos": 17,
+          "pos": 16,
           "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
@@ -15929,7 +15929,7 @@
           "points_raw": 230,
           "cars": [],
           "car_id": 133,
-          "pos": 28,
+          "pos": 27,
           "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
@@ -16068,7 +16068,7 @@
           "points_raw": 244,
           "cars": [],
           "car_id": 156,
-          "pos": 26,
+          "pos": 25,
           "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
@@ -16280,14 +16280,14 @@
           "best_finish_position": 0,
           "incs": 88,
           "total_laps": 0,
-          "points": 322,
-          "points_raw": 338,
+          "points": 302,
+          "points_raw": 318,
           "cars": [],
           "car_id": 144,
-          "pos": 13,
+          "pos": 14,
           "cls": "silver",
-          "points_cls": 135,
-          "points_cls_raw": 146,
+          "points_cls": 130,
+          "points_cls_raw": 141,
           "pos_cls": 6,
           "wins_cls": [],
           "podiums_cls": [
@@ -16304,7 +16304,7 @@
           "best_finish_pos": 10,
           "best_finish_pos_in_cls": 3,
           "avg_pos": 21.36,
-          "pts_per_race": 30.73
+          "pts_per_race": 28.91
         },
         "d174507": {
           "seasons": [
@@ -16438,7 +16438,7 @@
           "points_raw": -16,
           "cars": [],
           "car_id": 144,
-          "pos": 79,
+          "pos": 78,
           "cls": "silver",
           "points_cls": 10,
           "points_cls_raw": 10,
@@ -16602,7 +16602,7 @@
           "points_raw": 238,
           "cars": [],
           "car_id": 132,
-          "pos": 27,
+          "pos": 26,
           "cls": "bronze",
           "points_cls": 131,
           "points_cls_raw": 131,
@@ -16824,7 +16824,7 @@
           "points_raw": 44,
           "cars": [],
           "car_id": 137,
-          "pos": 55,
+          "pos": 54,
           "cls": "bronze",
           "points_cls": 36,
           "points_cls_raw": 36,
@@ -16867,14 +16867,14 @@
           "best_finish_position": 0,
           "incs": 99,
           "total_laps": 0,
-          "points": 287,
-          "points_raw": 305,
+          "points": 267,
+          "points_raw": 285,
           "cars": [],
           "car_id": 137,
-          "pos": 16,
+          "pos": 18,
           "cls": "bronze",
-          "points_cls": 146,
-          "points_cls_raw": 152,
+          "points_cls": 141,
+          "points_cls_raw": 147,
           "pos_cls": 3,
           "wins_cls": [
             "e61810019"
@@ -16891,7 +16891,7 @@
           "best_finish_pos": 12,
           "best_finish_pos_in_cls": 1,
           "avg_pos": 22.4,
-          "pts_per_race": 30.5
+          "pts_per_race": 28.5
         },
         "d837246": {
           "seasons": [
@@ -16926,7 +16926,7 @@
           "points_raw": 151,
           "cars": [],
           "car_id": 132,
-          "pos": 41,
+          "pos": 40,
           "cls": "bronze",
           "points_cls": 105,
           "points_cls_raw": 105,
@@ -17024,14 +17024,14 @@
           "best_finish_position": 0,
           "incs": 127,
           "total_laps": 0,
-          "points": 344,
-          "points_raw": 344,
+          "points": 339,
+          "points_raw": 339,
           "cars": [],
           "car_id": 73,
           "pos": 12,
           "cls": "silver",
-          "points_cls": 142,
-          "points_cls_raw": 142,
+          "points_cls": 141,
+          "points_cls_raw": 141,
           "pos_cls": 3,
           "wins_cls": [
             "e61435814"
@@ -17051,7 +17051,7 @@
           "best_finish_pos": 8,
           "best_finish_pos_in_cls": 1,
           "avg_pos": 17.7,
-          "pts_per_race": 34.4
+          "pts_per_race": 33.9
         },
         "d292059": {
           "seasons": [
@@ -17136,7 +17136,7 @@
           "points_raw": 158,
           "cars": [],
           "car_id": 132,
-          "pos": 40,
+          "pos": 39,
           "cls": "bronze",
           "points_cls": 89,
           "points_cls_raw": 89,
@@ -17289,7 +17289,7 @@
           "points_raw": 247,
           "cars": [],
           "car_id": 137,
-          "pos": 25,
+          "pos": 24,
           "cls": "silver",
           "points_cls": 107,
           "points_cls_raw": 107,
@@ -17398,7 +17398,7 @@
           "cls": "bronze",
           "points_cls": 15,
           "points_cls_raw": 15,
-          "pos_cls": 22,
+          "pos_cls": 21,
           "wins_cls": [],
           "podiums_cls": [],
           "incs_per_race": 10.4,
@@ -17533,7 +17533,7 @@
           "points_raw": 171,
           "cars": [],
           "car_id": 43,
-          "pos": 36,
+          "pos": 35,
           "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
@@ -17627,7 +17627,7 @@
           "cls": "bronze",
           "points_cls": 0,
           "points_cls_raw": 0,
-          "pos_cls": 28,
+          "pos_cls": 27,
           "wins_cls": [],
           "podiums_cls": [],
           "incs_per_race": 16.25,
@@ -17725,7 +17725,7 @@
           "points_raw": 132,
           "cars": [],
           "car_id": 43,
-          "pos": 43,
+          "pos": 42,
           "cls": "silver",
           "points_cls": 52,
           "points_cls_raw": 52,
@@ -17860,7 +17860,7 @@
           "points_raw": -21,
           "cars": [],
           "car_id": 144,
-          "pos": 82,
+          "pos": 81,
           "cls": "silver",
           "points_cls": -2,
           "points_cls_raw": -2,
@@ -17904,7 +17904,7 @@
           "points_raw": -20,
           "cars": [],
           "car_id": 137,
-          "pos": 80,
+          "pos": 79,
           "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
@@ -17953,7 +17953,7 @@
           "points_raw": 305,
           "cars": [],
           "car_id": 73,
-          "pos": 14,
+          "pos": 13,
           "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
@@ -18036,7 +18036,7 @@
           "points_raw": 275,
           "cars": [],
           "car_id": 132,
-          "pos": 19,
+          "pos": 17,
           "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
@@ -18124,14 +18124,14 @@
           "best_finish_position": 0,
           "incs": 45,
           "total_laps": 0,
-          "points": 279,
-          "points_raw": 279,
+          "points": 259,
+          "points_raw": 259,
           "cars": [],
           "car_id": 73,
-          "pos": 18,
+          "pos": 20,
           "cls": "silver",
-          "points_cls": 115,
-          "points_cls_raw": 115,
+          "points_cls": 110,
+          "points_cls_raw": 110,
           "pos_cls": 7,
           "wins_cls": [],
           "podiums_cls": [
@@ -18147,7 +18147,7 @@
           "best_finish_pos": 11,
           "best_finish_pos_in_cls": 3,
           "avg_pos": 14.5,
-          "pts_per_race": 34.88
+          "pts_per_race": 32.38
         },
         "d147927": {
           "seasons": [
@@ -18329,7 +18329,7 @@
           "points_raw": 164,
           "cars": [],
           "car_id": 133,
-          "pos": 38,
+          "pos": 37,
           "cls": "bronze",
           "points_cls": 101,
           "points_cls_raw": 101,
@@ -18372,14 +18372,14 @@
           "best_finish_position": 0,
           "incs": 66,
           "total_laps": 0,
-          "points": 180,
-          "points_raw": 180,
+          "points": 160,
+          "points_raw": 160,
           "cars": [],
           "car_id": 137,
-          "pos": 35,
+          "pos": 38,
           "cls": "bronze",
-          "points_cls": 95,
-          "points_cls_raw": 95,
+          "points_cls": 90,
+          "points_cls_raw": 90,
           "pos_cls": 10,
           "wins_cls": [],
           "podiums_cls": [],
@@ -18394,7 +18394,7 @@
           "best_finish_pos": 18,
           "best_finish_pos_in_cls": 4,
           "avg_pos": 26.62,
-          "pts_per_race": 22.5
+          "pts_per_race": 20.0
         },
         "d92996": {
           "seasons": [
@@ -18479,7 +18479,7 @@
           "points_raw": 141,
           "cars": [],
           "car_id": 73,
-          "pos": 42,
+          "pos": 41,
           "cls": "bronze",
           "points_cls": 70,
           "points_cls_raw": 70,
@@ -18551,7 +18551,7 @@
           "points_raw": 260,
           "cars": [],
           "car_id": 144,
-          "pos": 20,
+          "pos": 19,
           "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
@@ -18594,7 +18594,7 @@
           "points_raw": 165,
           "cars": [],
           "car_id": 132,
-          "pos": 37,
+          "pos": 36,
           "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
@@ -18631,7 +18631,7 @@
           "points_raw": -20,
           "cars": [],
           "car_id": 73,
-          "pos": 81,
+          "pos": 80,
           "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
@@ -18667,15 +18667,15 @@
           "best_finish_position": 0,
           "incs": 51,
           "total_laps": 0,
-          "points": 36,
-          "points_raw": 36,
+          "points": 16,
+          "points_raw": 16,
           "cars": [],
           "car_id": 73,
-          "pos": 56,
+          "pos": 59,
           "cls": "bronze",
-          "points_cls": 18,
-          "points_cls_raw": 18,
-          "pos_cls": 21,
+          "points_cls": 13,
+          "points_cls_raw": 13,
+          "pos_cls": 23,
           "wins_cls": [],
           "podiums_cls": [],
           "incs_per_race": 12.75,
@@ -18686,7 +18686,7 @@
           "best_finish_pos": 26,
           "best_finish_pos_in_cls": 12,
           "avg_pos": 33.75,
-          "pts_per_race": 9.0
+          "pts_per_race": 4.0
         },
         "d80118": {
           "seasons": [
@@ -18713,11 +18713,11 @@
           "best_finish_position": 0,
           "incs": 11,
           "total_laps": 0,
-          "points": 162,
-          "points_raw": 162,
+          "points": 122,
+          "points_raw": 122,
           "cars": [],
           "car_id": 132,
-          "pos": 39,
+          "pos": 43,
           "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
@@ -18729,7 +18729,7 @@
           "best_finish_pos": 1,
           "best_finish_pos_in_cls": 1,
           "avg_pos": 17.33,
-          "pts_per_race": 54.0
+          "pts_per_race": 40.67
         },
         "d69997": {
           "seasons": [
@@ -18756,11 +18756,11 @@
           "best_finish_position": 0,
           "incs": 40,
           "total_laps": 0,
-          "points": 247,
-          "points_raw": 247,
+          "points": 227,
+          "points_raw": 227,
           "cars": [],
           "car_id": 132,
-          "pos": 24,
+          "pos": 28,
           "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
@@ -18774,7 +18774,7 @@
           "best_finish_pos": 5,
           "best_finish_pos_in_cls": 5,
           "avg_pos": 17.5,
-          "pts_per_race": 41.17
+          "pts_per_race": 37.83
         },
         "d618940": {
           "seasons": [
@@ -18797,7 +18797,7 @@
           "points_raw": 46,
           "cars": [],
           "car_id": 156,
-          "pos": 54,
+          "pos": 53,
           "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
@@ -18838,7 +18838,7 @@
           "cls": "bronze",
           "points_cls": 0,
           "points_cls_raw": 0,
-          "pos_cls": 29,
+          "pos_cls": 28,
           "wins_cls": [],
           "podiums_cls": [],
           "incs_per_race": 5.0,
@@ -18882,7 +18882,7 @@
           "cls": "bronze",
           "points_cls": 0,
           "points_cls_raw": 0,
-          "pos_cls": 35,
+          "pos_cls": 34,
           "wins_cls": [],
           "podiums_cls": [],
           "incs_per_race": 17.67,
@@ -18952,14 +18952,14 @@
           "best_finish_position": 0,
           "incs": 42,
           "total_laps": 0,
-          "points": 58,
-          "points_raw": 58,
+          "points": 38,
+          "points_raw": 38,
           "cars": [],
           "car_id": 156,
-          "pos": 53,
+          "pos": 55,
           "cls": "bronze",
-          "points_cls": 30,
-          "points_cls_raw": 30,
+          "points_cls": 25,
+          "points_cls_raw": 25,
           "pos_cls": 20,
           "wins_cls": [],
           "podiums_cls": [],
@@ -18971,7 +18971,7 @@
           "best_finish_pos": 22,
           "best_finish_pos_in_cls": 7,
           "avg_pos": 30.5,
-          "pts_per_race": 14.5
+          "pts_per_race": 9.5
         },
         "d449019": {
           "seasons": [
@@ -18994,11 +18994,11 @@
           "points_raw": 34,
           "cars": [],
           "car_id": 137,
-          "pos": 57,
+          "pos": 56,
           "cls": "bronze",
           "points_cls": 15,
           "points_cls_raw": 15,
-          "pos_cls": 23,
+          "pos_cls": 22,
           "wins_cls": [],
           "podiums_cls": [],
           "incs_per_race": 10.0,
@@ -19035,7 +19035,7 @@
           "points_raw": 26,
           "cars": [],
           "car_id": 132,
-          "pos": 58,
+          "pos": 57,
           "cls": "bronze",
           "points_cls": 10,
           "points_cls_raw": 10,
@@ -19073,7 +19073,7 @@
           "points_raw": 23,
           "cars": [],
           "car_id": 144,
-          "pos": 59,
+          "pos": 58,
           "cls": "bronze",
           "points_cls": 7,
           "points_cls_raw": 7,
@@ -19110,15 +19110,15 @@
           "best_finish_position": 0,
           "incs": 26,
           "total_laps": 0,
-          "points": -2,
-          "points_raw": -2,
+          "points": -22,
+          "points_raw": -22,
           "cars": [],
           "car_id": 73,
-          "pos": 78,
+          "pos": 82,
           "cls": "bronze",
-          "points_cls": 2,
-          "points_cls_raw": 2,
-          "pos_cls": 27,
+          "points_cls": -3,
+          "points_cls_raw": -3,
+          "pos_cls": 35,
           "wins_cls": [],
           "podiums_cls": [],
           "incs_per_race": 13.0,
@@ -19129,7 +19129,7 @@
           "best_finish_pos": 33,
           "best_finish_pos_in_cls": 14,
           "avg_pos": 35.5,
-          "pts_per_race": -1.0
+          "pts_per_race": -11.0
         }
       },
       "ongoing": true,
@@ -20501,8 +20501,8 @@
       "best_finish_position": 0,
       "incs": 665,
       "total_laps": 0,
-      "points": 1904,
-      "points_raw": 1972,
+      "points": 1899,
+      "points_raw": 1967,
       "cars": [],
       "driver_id": "d311045",
       "cust_id": 311045,
@@ -20541,7 +20541,7 @@
       "best_finish_pos": 5,
       "best_finish_pos_in_cls": 1,
       "avg_pos": 17.25,
-      "pts_per_race": 35.21
+      "pts_per_race": 35.12
     },
     "d512483": {
       "seasons": [
@@ -21804,8 +21804,8 @@
       "best_finish_position": 0,
       "incs": 331,
       "total_laps": 0,
-      "points": 462,
-      "points_raw": 462,
+      "points": 442,
+      "points_raw": 442,
       "cars": [],
       "driver_id": "d549916",
       "cust_id": 549916,
@@ -21828,7 +21828,7 @@
       "best_finish_pos": 10,
       "best_finish_pos_in_cls": 1,
       "avg_pos": 27.67,
-      "pts_per_race": 14.0
+      "pts_per_race": 13.39
     },
     "d675891": {
       "seasons": [
@@ -23510,8 +23510,8 @@
       "best_finish_position": 0,
       "incs": 231,
       "total_laps": 0,
-      "points": 1399,
-      "points_raw": 1451,
+      "points": 1379,
+      "points_raw": 1431,
       "cars": [],
       "driver_id": "d402302",
       "cust_id": 402302,
@@ -23549,7 +23549,7 @@
       "best_finish_pos": 7,
       "best_finish_pos_in_cls": 2,
       "avg_pos": 19.19,
-      "pts_per_race": 34.55
+      "pts_per_race": 34.07
     },
     "d417314": {
       "seasons": [
@@ -23692,8 +23692,8 @@
       "best_finish_position": 0,
       "incs": 216,
       "total_laps": 0,
-      "points": 921,
-      "points_raw": 921,
+      "points": 901,
+      "points_raw": 901,
       "cars": [],
       "driver_id": "d575225",
       "cust_id": 575225,
@@ -23717,7 +23717,7 @@
       "best_finish_pos": 9,
       "best_finish_pos_in_cls": 2,
       "avg_pos": 22.5,
-      "pts_per_race": 28.78
+      "pts_per_race": 28.16
     },
     "d343195": {
       "seasons": [
@@ -27591,8 +27591,8 @@
       "best_finish_position": 0,
       "incs": 53,
       "total_laps": 0,
-      "points": 307,
-      "points_raw": 307,
+      "points": 287,
+      "points_raw": 287,
       "cars": [],
       "driver_id": "d414284",
       "cust_id": 414284,
@@ -27612,7 +27612,7 @@
       "best_finish_pos": 11,
       "best_finish_pos_in_cls": 3,
       "avg_pos": 14.22,
-      "pts_per_race": 34.11
+      "pts_per_race": 31.89
     },
     "d202689": {
       "seasons": [
@@ -28120,8 +28120,8 @@
       "best_finish_position": 0,
       "incs": 136,
       "total_laps": 0,
-      "points": 306,
-      "points_raw": 324,
+      "points": 286,
+      "points_raw": 304,
       "cars": [],
       "driver_id": "d95310",
       "cust_id": 95310,
@@ -28142,7 +28142,7 @@
       "best_finish_pos": 12,
       "best_finish_pos_in_cls": 1,
       "avg_pos": 22.92,
-      "pts_per_race": 24.92
+      "pts_per_race": 23.38
     },
     "d618940": {
       "seasons": [
@@ -28828,8 +28828,8 @@
       "best_finish_position": 0,
       "incs": 51,
       "total_laps": 0,
-      "points": 36,
-      "points_raw": 36,
+      "points": 16,
+      "points_raw": 16,
       "cars": [],
       "driver_id": "d104594",
       "cust_id": 104594,
@@ -28845,7 +28845,7 @@
       "best_finish_pos": 26,
       "best_finish_pos_in_cls": 12,
       "avg_pos": 33.75,
-      "pts_per_race": 9.0
+      "pts_per_race": 4.0
     },
     "d80118": {
       "seasons": [
@@ -28872,8 +28872,8 @@
       "best_finish_position": 0,
       "incs": 11,
       "total_laps": 0,
-      "points": 162,
-      "points_raw": 162,
+      "points": 122,
+      "points_raw": 122,
       "cars": [],
       "driver_id": "d80118",
       "cust_id": 80118,
@@ -28889,7 +28889,7 @@
       "best_finish_pos": 1,
       "best_finish_pos_in_cls": 1,
       "avg_pos": 17.33,
-      "pts_per_race": 54.0
+      "pts_per_race": 40.67
     },
     "d69997": {
       "seasons": [
@@ -28916,8 +28916,8 @@
       "best_finish_position": 0,
       "incs": 40,
       "total_laps": 0,
-      "points": 247,
-      "points_raw": 247,
+      "points": 227,
+      "points_raw": 227,
       "cars": [],
       "driver_id": "d69997",
       "cust_id": 69997,
@@ -28935,7 +28935,7 @@
       "best_finish_pos": 5,
       "best_finish_pos_in_cls": 5,
       "avg_pos": 17.5,
-      "pts_per_race": 41.17
+      "pts_per_race": 37.83
     },
     "d865713": {
       "seasons": [
@@ -29037,8 +29037,8 @@
       "best_finish_position": 0,
       "incs": 42,
       "total_laps": 0,
-      "points": 58,
-      "points_raw": 58,
+      "points": 38,
+      "points_raw": 38,
       "cars": [],
       "driver_id": "d395972",
       "cust_id": 395972,
@@ -29054,7 +29054,7 @@
       "best_finish_pos": 22,
       "best_finish_pos_in_cls": 7,
       "avg_pos": 30.5,
-      "pts_per_race": 14.5
+      "pts_per_race": 9.5
     },
     "d449019": {
       "seasons": [
@@ -82849,5 +82849,5 @@
     "small_logo": "https://members-leagueimages.iracing.com/7826/logoforui.png",
     "large_logo": "https://members-leagueimages.iracing.com/7826/rpmuibanner2.png"
   },
-  "updated_at": "2023-06-02T18:18:55.018868+02:00"
+  "updated_at": "2023-06-02T23:59:54.157536+02:00"
 }
