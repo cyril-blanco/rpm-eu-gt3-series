@@ -19132,10 +19132,10 @@
           "pts_per_race": -11.0
         }
       },
-      "ongoing": true,
-      "p1": null,
-      "p2": null,
-      "p3": null
+      "ongoing": false,
+      "p1": "d264953",
+      "p2": "d491843",
+      "p3": "d534726"
     }
   },
   "roster": {
@@ -82849,5 +82849,5 @@
     "small_logo": "https://members-leagueimages.iracing.com/7826/logoforui.png",
     "large_logo": "https://members-leagueimages.iracing.com/7826/rpmuibanner2.png"
   },
-  "updated_at": "2023-06-02T23:59:54.157536+02:00"
+  "updated_at": "2023-06-03T00:01:50.916549+02:00"
 }
