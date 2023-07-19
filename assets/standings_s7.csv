@@ -1,60 +1,63 @@
 Driver,Class,Team,Total Scored,Drop Adjusted
-Philipp Schwörke,Gold,TLR Paramedic's Pet,330,330
+Philipp Schwörke,Gold,TLR Paramedic's Pet,420,420
 Mat Monestier,Gold,Live-SimRacing Blue,280,280
 Mickaël Buchet,Gold,Live-SimRacing Green,270,270
-David Narbonne,Silver,Smurf Racing Team,156,156
+Jorn Westeneng,Gold,MAD Sim Racing Yellow,219,219
+Matevz Bas,Gold,TLR Torpedo,202,202
+David Narbonne,Silver,Smurf Racing Team,198,198
+Ruud Schoorl,Gold,United Sim Team Orange,183,183
+Peter Cox,Gold,UKSimRacing,180,180
+Paul Kerry,Silver,PandaPink Fury,168,168
+Daniel Slater,Silver,Racoon Sim Racing,164,164
+Jorge Reyes,Silver,W2W Racing Blue,155,155
 Max Schulz,Bronze,TLR Paramedic's Pet,153,153
+Patrick Vandenberg,Silver,United Sim Team Red,150,150
 Ben Warren,Gold,SimAbility Racing Team B,145,145
-Jorn Westeneng,Gold,MAD Sim Racing Yellow,144,144
+Yvonne Houffelaar,Silver,United Sim Team - VOOM,145,145
 Rob S Taylor,Gold,United Sim Team Orange,142,142
-Matevz Bas,Gold,TLR Torpedo,132,132
-Ruud Schoorl,Gold,United Sim Team Orange,124,124
-Patrick Vandenberg,Silver,United Sim Team Red,121,121
-Daniel Slater,Silver,Racoon Sim Racing,120,120
-Yvonne Houffelaar,Silver,United Sim Team - VOOM,120,120
+Markus Bulheller,Bronze,W2W Racing Red,132,132
+Darren Sharples,Silver,UKSimRacing,129,129
+Christian Mittelstädt,Bronze,TLR Meatball,126,126
+Benjamin Sanderson,Silver,W2W Racing Blue,122,122
 Kari Fox,Bronze,PandaPink Fury,117,117
+Rudy Vermeule,Bronze,SimAbility Racing Team A,117,117
+Daniel Justou,Silver,Gentlemen-Racers.org,117,117
+Jeff Sanders,Bronze,Racoon Sim Racing,116,116
+Robert Stoten,Bronze,Project 88,116,116
 Kenneth Maanum,Silver,Uphill Racing,112,112
-Paul Kerry,Silver,PandaPink Fury,112,112
 Stuart P Taylor,Bronze,TGC Racing,105,105
-Markus Bulheller,Bronze,W2W Racing Red,102,102
-Christian Mittelstädt,Bronze,TLR Meatball,98,98
-Rudy Vermeule,Bronze,SimAbility Racing Team A,93,93
-Jeff Sanders,Bronze,Racoon Sim Racing,90,90
+Zachary Hanke,Bronze,MAD Sim Racing Yellow,99,99
+Robbert van Hoorn,Silver,Privateer,92,92
 Anthony Beck,Gold,SimAbility Racing Team B,90,90
-Benjamin Sanderson,Silver,W2W Racing Blue,84,84
+Ola Särnkvist,Bronze,United Sim Team Red,87,87
 Simon Hartley,Bronze,TGC Bottom Split Heroes,81,81
-Peter Cox,Gold,UKSimRacing,80,80
-Jorge Reyes,Silver,W2W Racing Blue,75,75
+Marc Mathis,Silver,Gentlemen-Racers.org,78,78
+Alain Day,Silver,SimAbility Racing Team A,76,76
 Sophie Aeronwen,Bronze,United Sim Team - VOOM,73,73
-Robert Stoten,Bronze,Project 88,68,68
+Jason Finch,Bronze,Privateer,69,69
 Nicholas Snelgrove,Gold,Send it or Bend it,67,67
-Daniel Justou,Silver,Gentlemen-Racers.org,64,64
-Darren Sharples,Silver,UKSimRacing,64,64
 James R Williams,Bronze,Privateer,58,58
 Michael Aparicio,Silver,Privateer,58,58
+Rebwar Fadhil,Silver,Privateer,57,57
+Jacob Quail,Bronze,Privateer,54,54
 Lia van Stevelen,Silver,PandaPink Strike Eagles,52,52
-Zachary Hanke,Bronze,MAD Sim Racing Yellow,49,49
 Daniel Waghubinger,Bronze,Project 88,47,47
-Jason Finch,Bronze,Privateer,46,46
-Marc Mathis,Silver,Gentlemen-Racers.org,44,44
 Damon A Brierley,Silver,TLR Tailgunners,42,42
-Ola Särnkvist,Bronze,United Sim Team Red,41,41
 Linda Noble,Bronze,Driving Ms Daisy,36,36
-Alain Day,Silver,SimAbility Racing Team A,36,36
 Stephen Kennedy,Gold,TGC Racing,35,35
 Cyril Blanco,Gold,Live-SimRacing Green,33,33
 Peter Abraham Jonkers,Gold,TLR Tailgunners,33,33
 Franck Courdier,Silver,Live-SimRacing Blue,32,32
-Robbert van Hoorn,Silver,Privateer,30,30
-Jacob Quail,Bronze,Privateer,27,27
-Rebwar Fadhil,Silver,Privateer,25,25
+Petr Vecerek,Bronze,goldFinGer,25,25
 Paul Coburn,Bronze,TGC Bottom Split Heroes,17,17
+Max Woyda,Silver,TLR Meatball,16,16
 Alan Murless,Bronze,PandaPink Hurricanes,14,14
 William Nezamis,Bronze,MAD Sim Racing Blue,13,13
 Johan Buitenga,Silver,Privateer,12,12
-Petr Vecerek,Bronze,goldFinGer,5,5
 Steve Rubino,Bronze,Privateer,4,4
 Pedro Lima,Gold,PandaPink Strike Eagles,2,2
+Klaas Hartman,Bronze,Driving Ms Daisy,2,2
+David Robson,Bronze,MW Motorsports C Team,1,1
 Simon Ball,Gold,TLR Torpedo,0,0
 Jukka A Aho,Gold,goldFinGer,0,0
 Baptiste Seguy,Gold,MAD Sim Racing Blue,0,0
@@ -81,6 +84,3 @@ Patrik Hermansson,Bronze,Privateer,0,0
 Mika Hakala,Bronze,Privateer,0,0
 Jörn Dobratz,Bronze,Privateer,-10,-10
 Tom  Vanduffel,Bronze,Send it or Bend it,-20,-20
-Klaas Hartman,Bronze,Driving Ms Daisy,-20,-20
-David Robson,Bronze,MW Motorsports C Team,-20,-20
-Max Woyda,Silver,TLR Meatball,-20,-20
