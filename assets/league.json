@@ -6406,12 +6406,12 @@
           "best_finish_position": 0,
           "incs": 57,
           "total_laps": 0,
-          "points": 0,
-          "points_raw": 0,
+          "points": 378,
+          "points_raw": 378,
           "cars": [],
           "awards": {},
           "car_id": 59,
-          "cls": "unknown",
+          "cls": "gold",
           "wins_cls": [],
           "podiums_cls": [],
           "incs_per_race": 9.5,
@@ -6422,7 +6422,8 @@
           "best_finish_pos": 4,
           "best_finish_pos_in_cls": 0,
           "avg_pos": 6.33,
-          "pts_per_race": 0.0
+          "pts_per_race": 0.0,
+          "pos": 10
         },
         "d258544": {
           "seasons": [
